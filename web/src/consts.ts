@@ -13,7 +13,7 @@ export const SITE = {
     'ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU. — tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.',
   url: 'https://itincreditcard.com',
   locale: 'en-US',
-  supportEmail: 'hello@itincreditcard.com',
+  supportEmail: 'bguillow@gmail.com',
 
   // Publisher (legal operating entity) — drives Organization + Article
   // publisher schema and the footer copyright. The /about page is the
