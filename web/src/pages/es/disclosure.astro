@@ -1,0 +1,79 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Aviso para Anunciantes';
+const description =
+  'Cómo gana dinero ITINCreditCard.com: enlaces de afiliados, referencias a emisores de tarjetas y publicidad. Nuestra compensación nunca tiene costo para ti ni cambia nuestra guía editorial.';
+const updated = '5 de junio de 2026';
+---
+<BaseLayout title={title} description={description} path="/es/disclosure">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Legal</span>
+      <h1 style="margin-top:10px">Aviso para Anunciantes</h1>
+      <p class="byline">Última actualización: {updated}</p>
+
+      <p>
+        {SITE.legalName} ("nosotros") es un editor independiente. Para mantener
+        este sitio gratuito, ganamos dinero de algunas maneras transparentes. Esta
+        página explica exactamente cómo, de acuerdo con las directrices de la
+        Comisión Federal de Comercio (FTC) de EE. UU. sobre recomendaciones y avisos.
+      </p>
+
+      <h2>Cómo generamos ingresos</h2>
+      <ul class="lead-list">
+        <li>
+          <strong>Referencias a emisores de tarjetas.</strong> Cuando envías nuestro
+          formulario de conexión y te conectamos con un emisor de tarjetas externo,
+          podemos recibir una tarifa de referencia o un pago cuando completas una
+          solicitud o eres aprobado para una tarjeta.
+        </li>
+        <li>
+          <strong>Enlaces de afiliados.</strong> Algunos enlaces a tarjetas de crédito
+          y productos financieros son enlaces de afiliados (incluso a través de redes
+          como Commission Junction). Si haces clic y eres aprobado o te registras,
+          podemos ganar una comisión.
+        </li>
+        <li>
+          <strong>Publicidad.</strong> Mostramos anuncios, incluso a través de Google
+          AdSense. Nos pagan según las impresiones o los clics en esos anuncios.
+        </li>
+      </ul>
+
+      <h2>Qué significa esto para ti</h2>
+      <ul class="lead-list">
+        <li>
+          <strong>Nunca tiene costo para ti.</strong> La compensación viene de nuestros
+          socios, no de tu bolsillo. No pagas más por usar nuestros enlaces.
+        </li>
+        <li>
+          <strong>Puede afectar la ubicación.</strong> La compensación puede influir en
+          qué productos mostramos y dónde aparecen en una página. No influye en la
+          exactitud de nuestra guía ni en las ventajas y desventajas que revelamos.
+        </li>
+        <li>
+          <strong>No cubrimos todas las opciones.</strong> Este sitio no incluye todos
+          los emisores de tarjetas ni todos los productos de tarjetas de crédito
+          disponibles en el mercado.
+        </li>
+      </ul>
+
+      <h2>Nuestra promesa editorial</h2>
+      <p>
+        Las opiniones, comparaciones y recomendaciones son nuestras y no son
+        proporcionadas, revisadas ni aprobadas por ningún anunciante o socio. Buscamos
+        darte información precisa y útil para que tomes tu propia decisión. Si alguna
+        vez nos equivocamos, <a href="/es/contact">dínoslo</a> y lo corregiremos.
+      </p>
+
+      <h2>No es asesoría financiera</h2>
+      <p>
+        Nada en este sitio es asesoría financiera, legal ni fiscal, y no somos un
+        banco ni un emisor de tarjetas. Confirma siempre los términos, las tasas y la
+        elegibilidad de la tarjeta directamente con el emisor antes de solicitarla.
+        Consulta nuestros <a href="/es/terms">Términos de Uso</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,123 @@
+---
+import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: '¿Cuándo puedo calificar para una tarjeta de crédito sin garantía con un ITIN?',
+    a: 'La mayoría de las personas con ITIN califican para su primera tarjeta sin garantía después de 12 a 18 meses de pagos puntuales en una tarjeta con garantía u otra cuenta que reporta. Un puntaje FICO de 630 o más mejora considerablemente tus probabilidades. Algunas tarjetas de inicio sin garantía están disponibles alrededor del rango de 620 a 630.',
+  },
+  {
+    q: '¿Cuál es la diferencia entre una tarjeta de crédito con garantía y una sin garantía?',
+    a: 'Una tarjeta con garantía requiere un depósito en efectivo reembolsable que se convierte en tu límite de crédito. Una tarjeta sin garantía otorga crédito sin depósito — el emisor confía en tu solvencia según tu historial e ingresos. Las tarjetas sin garantía suelen ofrecer límites más altos y mejores recompensas.',
+  },
+  {
+    q: '¿Hay tarjetas de crédito sin garantía para personas con ITIN con crédito limitado?',
+    a: 'Sí. Varios emisores y fintech ofrecen tarjetas de inicio o "constructoras de crédito" sin garantía para personas con historial crediticio escaso. Estas suelen tener límites más bajos y pueden tener cuotas anuales, pero no requieren depósito y ayudan a construir crédito cuando se usan con responsabilidad.',
+  },
+  {
+    q: '¿Qué puntaje de crédito necesito para una tarjeta de crédito sin garantía con ITIN?',
+    a: 'La mayoría de las tarjetas sin garantía de nivel inicial requieren un puntaje de crédito de aproximadamente 620 a 650. Las tarjetas de recompensas suelen requerir 670+. Las tarjetas premium o de recompensas de viaje normalmente requieren 700+. Tus ingresos y tu relación deuda-ingreso también influyen en la decisión del emisor.',
+  },
+  {
+    q: '¿Puedo obtener reembolso en efectivo o recompensas en una tarjeta sin garantía con ITIN?',
+    a: 'Sí. Una vez que tengas un puntaje de crédito regular o bueno (670+), muchas tarjetas sin garantía ofrecen del 1% al 2% de reembolso en todas las compras o del 3% al 5% en bonos por categoría (súper, gasolina, restaurantes). Algunos emisores diseñados para clientes con historial escaso o inmigrantes también ofrecen recompensas modestas en sus productos de inicio sin garantía.',
+  },
+];
+
+const quickAnswer =
+  'Las tarjetas de crédito sin garantía no requieren depósito y están disponibles para personas con ITIN que han construido 12+ meses de historial crediticio positivo — normalmente un puntaje FICO superior a 620 o 630. Existen tarjetas de inicio sin garantía para solicitantes con historial escaso. A medida que tu puntaje supera los 670, se vuelven disponibles tarjetas de recompensas con reembolso en efectivo y beneficios de viaje.';
+---
+<MoneyPageLayout
+  title="Tarjetas de Crédito sin Garantía con un ITIN (Guía 2026)"
+  h1="Tarjetas de Crédito sin Garantía con un ITIN"
+  description="Cuándo y cómo las personas con ITIN pueden calificar para tarjetas de crédito sin garantía — sin depósito, opciones de inicio, tarjetas de recompensas y cómo pasar de una tarjeta con garantía a una sin garantía."
+  path="/es/unsecured-credit-cards"
+  eyebrow="Tarjetas sin garantía"
+  lede="Una vez que hayas construido algo de historial crediticio, puedes pasar a una tarjeta sin garantía — sin depósito, límites más altos y recompensas reales. Aquí te decimos cuándo estás listo y qué solicitar."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-cards.webp"
+  heroAlt="Una tarjeta de crédito sin garantía sostenida en la mano"
+>
+  <h2>¿Qué es una tarjeta de crédito sin garantía?</h2>
+  <p>
+    Una tarjeta de crédito sin garantía otorga una línea de crédito sin requerir un depósito en efectivo. El
+    emisor decide cuánto crédito ofrecer según tus ingresos, tu historial crediticio y tu solvencia. Como no
+    hay un depósito que actúe como garantía, las tarjetas sin garantía son más difíciles de obtener cuando tu
+    historial crediticio es nuevo o escaso.
+  </p>
+  <p>
+    Para las personas con ITIN, el camino normalmente empieza con una tarjeta con garantía, construye un
+    historial crediticio durante 12 a 18 meses y luego abre la puerta a productos sin garantía — primero
+    tarjetas de inicio, luego tarjetas de recompensas y, con el tiempo, productos premium con beneficios de
+    viaje, protección de compras y grandes bonos de bienvenida.
+  </p>
+
+  <h2>Con garantía vs. sin garantía — la comparación completa</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Característica</th>
+        <th>Tarjeta con garantía</th>
+        <th>Tarjeta sin garantía</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Depósito</td><td>Requerido (reembolsable)</td><td>No requerido</td></tr>
+      <tr><td>Límite de crédito</td><td>Igual a tu depósito</td><td>Según la solvencia y los ingresos</td></tr>
+      <tr><td>Puntaje típico para aprobación por primera vez</td><td>No se necesita puntaje</td><td>620–650+</td></tr>
+      <tr><td>Recompensas / reembolso</td><td>Raro; algunas ofrecen 1% de reembolso</td><td>1–5% de reembolso; puntos de viaje en niveles más altos</td></tr>
+      <tr><td>Cuota anual</td><td>$0–$35 típico</td><td>$0 (inicio) a $550+ (recompensas premium)</td></tr>
+      <tr><td>Poder para construir crédito</td><td>Excelente (igual que sin garantía)</td><td>Excelente</td></tr>
+      <tr><td>Mejor para</td><td>Sin historial crediticio en EE. UU. o escaso</td><td>12+ meses de historial crediticio positivo</td></tr>
+    </tbody>
+  </table>
+
+  <h2>¿Cuándo estás listo para una tarjeta sin garantía?</h2>
+  <p>
+    Estás listo para solicitar una tarjeta sin garantía cuando tienes un puntaje FICO verificable — que aparece
+    después de seis meses de actividad en una cuenta que reporta — y ese puntaje está en el rango de 620 o más.
+    Un año de pagos puntuales en una tarjeta con garantía normalmente produce un puntaje en el rango de 640 a
+    680 para personas con ITIN que empiezan desde cero, lo que abre varias opciones sin garantía.
+  </p>
+  <p>
+    Señales de que estás listo: tu emisor de la tarjeta con garantía te ha ofrecido una actualización; no
+    tienes pagos atrasados en los últimos 12 meses; tu utilización se ha mantenido constantemente por debajo
+    del 30%; y tus ingresos pueden soportar un límite de crédito más alto. Si las cuatro son ciertas, solicita.
+  </p>
+
+  <h2>¿Qué tipos de tarjetas sin garantía están disponibles con un ITIN?</h2>
+  <p>
+    El mercado de tarjetas sin garantía para personas con ITIN abarca varios niveles, alineados aproximadamente
+    con los rangos de puntaje de crédito:
+  </p>
+  <ul class="lead-list">
+    <li>
+      <strong>Tarjetas de inicio sin garantía (puntaje 620–649).</strong> Diseñadas para personas con historial crediticio limitado. Normalmente con límites de $300 a $1,000, recompensas modestas o nulas y cuotas anuales de $0 a $39. Algunos emisores fintech las han creado específicamente para poblaciones con ITIN e inmigrantes.
+    </li>
+    <li>
+      <strong>Tarjetas de reembolso en efectivo (puntaje 650–699).</strong> Reembolso de tasa fija del 1% al 2% en todas las compras, o del 3% en una categoría. Sin depósito. Cuotas anuales de $0 a $95. Disponibles en bancos nacionales, cooperativas de crédito y empresas fintech que aceptan ITIN.
+    </li>
+    <li>
+      <strong>Tarjetas de recompensas de viaje (puntaje 700+).</strong> Puntos o millas en viajes y restaurantes, bonos de bienvenida, créditos de viaje. Cuotas anuales más altas ($95–$550). Disponibles una vez que tu perfil crediticio esté bien establecido — normalmente de 2 a 3 años después de tu primera tarjeta en EE. UU.
+    </li>
+  </ul>
+
+  <h2>Cómo dar el paso de una tarjeta con garantía a una sin garantía</h2>
+  <p>
+    El camino más fácil es la actualización a través de tu emisor actual — ya conocen tu historial de pagos y
+    pueden actualizarte sin una nueva consulta dura. Si eso no ocurre después de 12 meses, esta es la
+    estrategia:
+  </p>
+  <ol class="lead-list">
+    <li><strong>Solicita una actualización a tu emisor de la tarjeta con garantía.</strong> Llama o envía un mensaje por la aplicación y pregunta si calificas para una actualización sin garantía. Algunos emisores lo hacen automáticamente; otros necesitan un empujón.</li>
+    <li><strong>Revisa tu puntaje primero.</strong> Usa las herramientas gratuitas de puntaje de crédito que ofrece tu emisor o un servicio gratuito. Confirma que estás por encima de 620 antes de solicitar en cualquier lugar nuevo.</li>
+    <li><strong>Investiga emisores sin garantía que aceptan ITIN.</strong> Las mismas instituciones que aceptaron tu ITIN para una tarjeta con garantía a menudo también tienen opciones sin garantía. Las cooperativas de crédito de las que ya eres miembro son el mejor punto de partida.</li>
+    <li><strong>Mantén abierta la tarjeta con garantía.</strong> Después de abrir una tarjeta sin garantía, no cierres la de garantía — perderías la antigüedad de la cuenta y el crédito disponible, lo que perjudica temporalmente tu utilización y tu puntaje.</li>
+  </ol>
+  <p>
+    Relacionado: <a href="/es/secured-credit-cards">tarjetas con garantía para personas con ITIN</a> &middot;
+    <a href="/es/build-credit-with-itin">cómo construir crédito con un ITIN</a> &middot;
+    <a href="/es/itin-credit-cards-guide">guía completa de tarjetas de crédito con ITIN</a>.
+  </p>
+</MoneyPageLayout>

@@ -1,0 +1,91 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import QuickAnswer from '../components/QuickAnswer.astro';
+import FAQ from '../components/FAQ.astro';
+import Disclosure from '../components/Disclosure.astro';
+import InlineCTA from '../components/InlineCTA.astro';
+import LeadForm from '../components/LeadForm.astro';
+import AdSlot from '../components/AdSlot.astro';
+import BreadcrumbSchema from '../components/schema/BreadcrumbSchema.astro';
+import { SITE } from '../consts';
+import { getLangFromUrl, useTranslations, localizedHref } from '../i18n/ui';
+
+// Layout for product cluster / hub pages — the commercial-intent "money"
+// pages (secured cards, unsecured cards, business cards, etc.). Hero with lead
+// form, editorial body slot, conversion CTA, FAQ + FAQPage schema, breadcrumb.
+interface Props {
+  title: string;
+  h1: string;
+  description: string;
+  path: string;
+  eyebrow?: string;
+  lede: string;
+  quickAnswer: string;
+  faqs: { q: string; a: string }[];
+  updated?: string;
+  // Optional hero background photo (path under /img). Adds the dark-overlay
+  // image treatment instead of the flat gradient.
+  heroImage?: string;
+  heroAlt?: string;
+}
+
+const lang = getLangFromUrl(Astro.url);
+const t = useTranslations(lang);
+const isEs = lang === 'es';
+
+const {
+  title,
+  h1,
+  description,
+  path,
+  eyebrow = isEs ? 'Tarjetas con ITIN' : 'ITIN credit cards',
+  lede,
+  quickAnswer,
+  faqs,
+  updated = isEs ? '5 de junio de 2026' : 'June 5, 2026',
+  heroImage,
+  heroAlt = '',
+} = Astro.props;
+
+const fullUrl = `${SITE.url}${path}`;
+const crumbs = [{ name: h1, url: fullUrl }];
+const guideLabel = isEs ? 'Guía de Tarjetas' : 'Credit Card Guide';
+const updatedLabel = isEs ? 'Actualizado' : 'Updated';
+---
+<BaseLayout title={title} description={description} path={path}>
+  <Fragment slot="head">
+    <BreadcrumbSchema crumbs={crumbs} />
+  </Fragment>
+
+  <section class={`hero${heroImage ? ' hero--image' : ''}`}>
+    {heroImage && <img class="hero-bg" src={heroImage} alt={heroAlt} loading="eager" fetchpriority="high" decoding="async" />}
+    <div class="container hero-grid">
+      <div>
+        <p class="crumbs"><a href={localizedHref('/', lang)}>{t('crumb.home')}</a> &rsaquo; <a href={localizedHref('/itin-credit-cards-guide', lang)}>{guideLabel}</a> &rsaquo; <span>{h1}</span></p>
+        <span class="eyebrow">{eyebrow}</span>
+        <h1>{h1}</h1>
+        <p class="lede">{lede}</p>
+        <div class="hero-cta">
+          <a href={localizedHref('/apply', lang)} class="btn btn-primary btn-lg">{t('cta.qualify')}</a>
+        </div>
+        <p class="byline" style="margin-top:16px">{updatedLabel} {updated}</p>
+      </div>
+      <div>
+        <LeadForm heading={isEs ? 'Revisa tus opciones' : 'Check your options'} compact={true} />
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container narrow">
+      <Disclosure />
+      <QuickAnswer text={quickAnswer} />
+      <div class="article-body">
+        <slot />
+      </div>
+      <AdSlot />
+      <InlineCTA />
+      <FAQ faqs={faqs} />
+    </div>
+  </section>
+</BaseLayout>

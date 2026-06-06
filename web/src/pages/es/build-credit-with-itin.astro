@@ -1,0 +1,129 @@
+---
+import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: '¿Cuánto tarda en construirse el crédito con un ITIN?',
+    a: 'Un puntaje FICO aparece por primera vez después de seis meses de actividad reportada en al menos una cuenta. Un puntaje en el rango "regular" (580–669) suele tomar 12 meses. Llegar al rango "bueno" (670–739) normalmente toma de 18 a 24 meses de pagos puntuales constantes y baja utilización. Empezando desde cero, 24 meses de comportamiento disciplinado colocan a la mayoría de las personas en una posición competitiva para pedir prestado.',
+  },
+  {
+    q: '¿Cuál es el factor más importante en mi puntaje FICO?',
+    a: 'El historial de pagos — si pagas a tiempo — es el factor más importante, y representa el 35% de tu puntaje FICO. Un solo pago atrasado puede bajar tu puntaje de 60 a 110 puntos y permanece en tu reporte de crédito por siete años. Configura el pago automático para que nunca falles una fecha de vencimiento.',
+  },
+  {
+    q: '¿Qué es la utilización del crédito y por qué importa?',
+    a: 'La utilización del crédito es el porcentaje de tu límite de crédito disponible que estás usando actualmente. Si tienes un límite de $500 y cargas un saldo de $150, tu utilización es del 30%. FICO pondera la utilización en un 30% de tu puntaje. Mantenerla por debajo del 30% ayuda; mantenerla por debajo del 10% es óptimo.',
+  },
+  {
+    q: '¿Pagar mi renta o servicios ayuda a construir crédito?',
+    a: 'No automáticamente. Los burós de crédito tradicionales no registran los pagos de renta o de servicios a menos que te inscribas en un servicio de reporte de renta (como Experian RentBureau, Rental Kharma o similares). Algunas tarjetas de crédito ofrecen reporte de renta integrado. Pregunta a tu emisor o usa un servicio independiente para obtener crédito por tus pagos puntuales de renta.',
+  },
+  {
+    q: '¿Debería obtener más de una tarjeta de crédito para construir crédito más rápido?',
+    a: 'Agregar una segunda tarjeta después de 12 meses puede ayudar al aumentar tu crédito disponible (bajando la utilización) y diversificar tu mezcla de crédito. Sin embargo, no abras varias tarjetas a la vez — cada solicitud genera una consulta dura que baja temporalmente tu puntaje. Separa las nuevas solicitudes de 6 a 12 meses.',
+  },
+];
+
+const quickAnswer =
+  'Construir crédito en EE. UU. con un ITIN sigue las mismas reglas que cualquier historial crediticio: paga a tiempo (35% del FICO), mantén la utilización por debajo del 30% (30% del FICO), mantén las cuentas abiertas por el beneficio de antigüedad del historial y agrega poco a poco tipos de cuenta. La mayoría de las personas con ITIN construyen un puntaje de crédito competitivo en un plazo de 18 a 24 meses desde la apertura de su primera tarjeta de crédito que reporta.';
+---
+<MoneyPageLayout
+  title="Cómo Construir Crédito con un ITIN (Guía Paso a Paso 2026)"
+  h1="Cómo Construir Crédito con un ITIN"
+  description="Un plan paso a paso para que las personas con ITIN construyan un puntaje de crédito en EE. UU. — factores FICO, pagos puntuales, utilización, mezcla de crédito y cuánto tarda en alcanzarse un buen puntaje."
+  path="/es/build-credit-with-itin"
+  eyebrow="Construir crédito"
+  lede="Construir crédito con un ITIN es sencillo una vez que entiendes cómo funciona el puntaje FICO. Aquí está el plan exacto — desde tu primera tarjeta hasta un perfil crediticio sólido."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="Una gráfica de puntaje de crédito en aumento en un teléfono inteligente"
+>
+  <h2>¿Cómo funciona el modelo de puntaje FICO?</h2>
+  <p>
+    FICO es el modelo de puntaje de crédito más usado en EE. UU. Los puntajes van de 300 a 850; la mayoría de
+    los prestamistas consideran "bueno" 670 o más y "muy bueno" 740+. El modelo pondera cinco factores, y
+    entender sus pesos te dice exactamente dónde poner tu esfuerzo.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Factor</th>
+        <th>Peso</th>
+        <th>Qué mide</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Historial de pagos</td><td>35%</td><td>¿Pagaste a tiempo? Cada cuenta, cada mes.</td></tr>
+      <tr><td>Monto adeudado (utilización)</td><td>30%</td><td>¿Qué % de tu crédito disponible estás usando?</td></tr>
+      <tr><td>Antigüedad del historial crediticio</td><td>15%</td><td>¿Qué tan viejas son tus cuentas en promedio?</td></tr>
+      <tr><td>Mezcla de crédito</td><td>10%</td><td>¿Tienes cuentas tanto revolventes (tarjetas) como a plazos (préstamos)?</td></tr>
+      <tr><td>Crédito nuevo (consultas)</td><td>10%</td><td>¿Cuántas cuentas nuevas o consultas duras en el último año?</td></tr>
+    </tbody>
+  </table>
+  <p>
+    La gran lección: los dos primeros factores — historial de pagos y utilización — controlan el 65% de tu
+    puntaje. Hazlos bien y el resto sigue de forma natural con el tiempo.
+  </p>
+
+  <h2>¿Qué ayuda a tu puntaje de crédito vs. qué lo perjudica?</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Acción</th>
+        <th>Efecto en el puntaje</th>
+        <th>Notas</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Pagar a tiempo cada mes</td><td>Construye (+)</td><td>La acción positiva más poderosa</td></tr>
+      <tr><td>Mantener la utilización por debajo del 10%</td><td>Construye (+)</td><td>Óptimo; por debajo del 30% también es bueno</td></tr>
+      <tr><td>Mantener las cuentas abiertas</td><td>Construye (+)</td><td>Las cuentas más viejas aumentan la antigüedad promedio</td></tr>
+      <tr><td>Abrir una segunda cuenta después de 12 meses</td><td>Construye (+)</td><td>Agrega mezcla de crédito; espacia las consultas</td></tr>
+      <tr><td>Inscribirte en el reporte de renta</td><td>Construye (+)</td><td>Hace que los pagos de renta cuenten en tu historial</td></tr>
+      <tr><td>No realizar un pago</td><td>Perjudica (−)</td><td>Baja el puntaje de 60 a 110 pts; permanece 7 años</td></tr>
+      <tr><td>Llevar una tarjeta al máximo</td><td>Perjudica (−)</td><td>Una utilización del 100% puede bajar el puntaje de 40 a 60 pts</td></tr>
+      <tr><td>Cerrar tarjetas viejas</td><td>Perjudica (−)</td><td>Reduce la antigüedad promedio de las cuentas y el crédito disponible</td></tr>
+      <tr><td>Solicitar muchas tarjetas a la vez</td><td>Perjudica (−)</td><td>Varias consultas duras señalan riesgo</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Tu plan paso a paso para construir crédito con un ITIN</h2>
+  <p>
+    Sigue esta secuencia. Cada fase construye la base para la siguiente.
+  </p>
+  <ol class="lead-list">
+    <li>
+      <strong>Mes 1–2: Abre una tarjeta de crédito con garantía.</strong> Solicita en un emisor que acepta ITIN — idealmente una cooperativa de crédito o una fintech con un programa explícito para ITIN. Deja el depósito mínimo ($200–$300). Consulta <a href="/es/secured-credit-cards">tarjetas con garantía para personas con ITIN</a>.
+    </li>
+    <li>
+      <strong>Mes 1–6: Construye un registro de pagos perfecto.</strong> Carga una compra pequeña cada mes — un café, una suscripción. Paga el saldo total antes de la fecha de vencimiento cada mes. No cargues un saldo.
+    </li>
+    <li>
+      <strong>Mes 6: Revisa tu puntaje de crédito.</strong> Después de seis meses de actividad reportada, debería existir un puntaje FICO. Usa el puntaje gratuito que ofrece tu emisor (muchos lo hacen) o solicita un reporte gratuito en AnnualCreditReport.com.
+    </li>
+    <li>
+      <strong>Mes 12–18: Solicita una actualización o abre una segunda cuenta.</strong> Pregunta a tu emisor de la tarjeta con garantía sobre pasar a una tarjeta sin garantía. Como alternativa, si tu puntaje es 630+, solicita una tarjeta de inicio sin garantía en el mismo emisor u otro que acepte ITIN. Consulta <a href="/es/unsecured-credit-cards">tarjetas sin garantía con un ITIN</a>.
+    </li>
+    <li>
+      <strong>Mes 12–24: Mantén baja la utilización conforme crecen los límites.</strong> A medida que tu límite de crédito aumenta, mantén tus saldos proporcionalmente bajos. Un límite de $1,000 con un saldo de $90 es excelente (9% de utilización).
+    </li>
+    <li>
+      <strong>Mes 24+: Explora tarjetas de recompensas.</strong> Con un puntaje superior a 670, muchos emisores con programas de reembolso en efectivo y recompensas de viaje te aprobarán. Continúa con los mismos hábitos disciplinados. Nunca cargues un saldo solo para parecer activo.
+    </li>
+  </ol>
+
+  <h2>¿Un ITIN limita tus opciones para construir crédito?</h2>
+  <p>
+    Un ITIN es un ID fiscal totalmente funcional para fines de crédito. Los burós de crédito (Equifax, Experian
+    y TransUnion) construyen historiales crediticios usando tu nombre, fecha de nacimiento y domicilio — no tu
+    Seguro Social ni tu ITIN directamente. Lo que un ITIN sí afecta es qué emisores te aprobarán, ya que algunos
+    tienen sistemas que solo aceptan números de Seguro Social. Una vez que estés dentro con un emisor que acepta
+    ITIN, los mecanismos reales para construir crédito son idénticos a los de cualquier residente de EE. UU.
+  </p>
+  <p>
+    Consulta también: <a href="/es/itin-credit-cards-guide">guía completa de tarjetas de crédito con ITIN</a> &middot;
+    <a href="/es/credit-cards-that-accept-itin">qué emisores aceptan un ITIN</a> &middot;
+    <a href="/es/apply">encuentra tu tarjeta ahora</a>.
+  </p>
+</MoneyPageLayout>

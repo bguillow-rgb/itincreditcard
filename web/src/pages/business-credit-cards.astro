@@ -1,0 +1,128 @@
+---
+import MoneyPageLayout from '../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: 'Can I get a business credit card with an ITIN and no SSN?',
+    a: 'Yes. Sole proprietors and some small business owners can apply for a business credit card using an ITIN as their personal tax ID and/or an EIN as the business tax ID. Not every issuer accepts this combination, but many credit unions and several national issuers do. Always confirm before applying.',
+  },
+  {
+    q: 'Do I need a registered business to get a business credit card?',
+    a: 'Not necessarily. Sole proprietors — people running a business as themselves, without a formal LLC or corporation — can typically apply for a business card. You\'ll need to provide your business name (which can be your own name), your ITIN, and your EIN if you have one.',
+  },
+  {
+    q: 'What is an EIN and do I need one?',
+    a: 'An Employer Identification Number (EIN) is a nine-digit business tax ID issued by the IRS. You can get one for free in minutes at IRS.gov, even if you\'re a sole proprietor with no employees. Some business card issuers require an EIN; others accept an ITIN alone. Having an EIN also helps build a separate business credit profile.',
+  },
+  {
+    q: 'Does a business credit card affect my personal credit?',
+    a: 'It depends on the issuer. Some business cards report to personal credit bureaus (which means both your balance and payments affect your personal score); others report only to commercial bureaus like Dun & Bradstreet. Check the issuer\'s reporting policy before applying.',
+  },
+  {
+    q: 'What are the advantages of a business credit card over a personal card?',
+    a: 'Business cards typically offer higher credit limits, rewards tuned to business spending (advertising, office supplies, travel, dining), and cleaner separation between personal and business expenses — which simplifies taxes. They also begin building a business credit history, which is separate from your personal FICO score.',
+  },
+];
+
+const quickAnswer =
+  'ITIN holders who run a business — even as a sole proprietor — can apply for business credit cards. Many issuers accept an ITIN plus an EIN (Employer Identification Number), which you can get free from the IRS in minutes. Business cards offer higher limits, business-focused rewards, and help build a commercial credit profile that operates independently of your personal score.';
+---
+<MoneyPageLayout
+  title="Business Credit Cards for ITIN Holders (2026 Guide)"
+  h1="Business Credit Cards for ITIN Holders"
+  description="How ITIN holders can get a business credit card — EIN vs ITIN, sole proprietor eligibility, how business credit works, and the difference between personal and business cards."
+  path="/business-credit-cards"
+  eyebrow="Business cards"
+  lede="If you run a business with an ITIN, business credit cards are within reach — and they come with higher limits, better rewards, and a separate credit identity for your business."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/business-owner.webp"
+  heroAlt="A small business owner at their shop counter"
+>
+  <h2>Who can get a business credit card with an ITIN?</h2>
+  <p>
+    Business credit cards are not limited to large companies. Sole proprietors — freelancers, gig workers,
+    small business owners operating under their own name — qualify. If you have an ITIN and any self-employment
+    income (whether from a formal business, freelance work, rideshare driving, or a side business), you
+    have the profile for a business card application.
+  </p>
+  <p>
+    The application will ask for your business name (your personal name is fine for a sole prop), your
+    federal tax ID (ITIN or EIN), and basic business information: type of business, annual revenue, and
+    number of employees (zero or one is fine). Many issuers also require a personal guarantee from the owner.
+  </p>
+
+  <h2>ITIN vs. EIN — which do you need for a business card?</h2>
+  <p>
+    Some business card issuers accept an ITIN as the business owner's personal tax ID. Others require
+    an EIN — an Employer Identification Number — as the business's tax ID. Here's a clear breakdown:
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Tax ID</th>
+        <th>What it is</th>
+        <th>How to get it</th>
+        <th>When needed for business cards</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>ITIN</td>
+        <td>Your personal tax ID if you don't have an SSN</td>
+        <td>IRS Form W-7; takes 7–11 weeks</td>
+        <td>Used as owner's personal identifier in the application</td>
+      </tr>
+      <tr>
+        <td>EIN</td>
+        <td>Your business's tax ID, separate from personal</td>
+        <td>Free at IRS.gov; issued instantly online</td>
+        <td>Required by some issuers; also starts a separate business credit file</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    Getting an EIN is quick and free — even if you're a sole proprietor with no employees. Go to IRS.gov
+    and use the EIN online application. You'll receive the EIN immediately. Having one expands your business
+    card options and begins a commercial credit history.
+  </p>
+
+  <h2>Personal credit card vs. business credit card — key differences</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Feature</th>
+        <th>Personal card</th>
+        <th>Business card</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Credit limit</td><td>Based on personal income</td><td>Often higher; based on business revenue</td></tr>
+      <tr><td>Rewards categories</td><td>Groceries, travel, dining</td><td>Office supplies, advertising, shipping, travel</td></tr>
+      <tr><td>Expense tracking</td><td>Mixed with personal spending</td><td>Clean separation for tax purposes</td></tr>
+      <tr><td>Reporting</td><td>Reports to personal bureaus</td><td>May report to commercial bureaus only (Dun & Bradstreet)</td></tr>
+      <tr><td>Credit-builder benefit</td><td>Builds personal FICO score</td><td>Builds both personal (usually) and business credit</td></tr>
+      <tr><td>Consumer protections</td><td>Full CARD Act protections</td><td>Fewer protections — read the terms carefully</td></tr>
+    </tbody>
+  </table>
+
+  <h2>How to build business credit with an ITIN</h2>
+  <p>
+    Business credit is scored separately from personal credit. The major commercial credit bureaus —
+    Dun & Bradstreet (D&B), Experian Business, and Equifax Business — each maintain their own business
+    credit profiles. To build yours:
+  </p>
+  <ol class="lead-list">
+    <li><strong>Get an EIN from the IRS.</strong> Free, instant, done in 10 minutes at IRS.gov. This is your business's tax identity.</li>
+    <li><strong>Open a business bank account using your EIN and ITIN.</strong> Separation of business finances is important for both credit and taxes.</li>
+    <li><strong>Apply for a business credit card</strong> at an ITIN-accepting issuer. Use the card for business expenses and pay it on time.</li>
+    <li><strong>Register with D&B (Dun & Bradstreet).</strong> Claim or create your business's D-U-N-S number for free at dnb.com. This enables commercial credit reporting.</li>
+    <li><strong>Open trade lines with vendors.</strong> Net-30 accounts with vendors who report to commercial bureaus (office supply companies, wholesale distributors) build business credit fastest.</li>
+  </ol>
+  <p>
+    See also: <a href="/itin-credit-cards-guide">complete ITIN credit card guide</a> &middot;
+    <a href="/build-credit-with-itin">building personal credit with an ITIN</a> &middot;
+    <a href="/how-to-get-an-itin">how to get an ITIN</a> &middot;
+    <a href="/apply">find your card now</a>.
+  </p>
+</MoneyPageLayout>

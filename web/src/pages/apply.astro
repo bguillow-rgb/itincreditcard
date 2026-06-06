@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import LeadForm from '../components/LeadForm.astro';
+import Icon from '../components/Icon.astro';
+
+const title = 'Find Your ITIN Credit Card';
+const description =
+  'Get matched with ITIN-friendly credit card issuers — secured cards, unsecured cards, and business cards. No SSN required. Free and no impact to your credit to check.';
+---
+<BaseLayout title={title} description={description} path="/apply">
+  <section class="section">
+    <div class="container hero-grid">
+      <div>
+        <span class="eyebrow">Free &amp; no credit impact</span>
+        <h1>Find your ITIN credit card</h1>
+        <p class="lede">
+          Tell us a little about what you're looking for and we'll match you with
+          card issuers that accept an ITIN. No SSN required, no obligation, and
+          checking your options never affects your credit score.
+        </p>
+        <ul class="lead-list" style="color:var(--muted)">
+          <li><strong style="color:var(--text)">Built for ITIN holders</strong> — issuers here accept an ITIN in place of an SSN.</li>
+          <li><strong style="color:var(--text)">All card types</strong> — secured, unsecured, and business cards.</li>
+          <li><strong style="color:var(--text)">No pressure</strong> — compare options and decide on your own timeline.</li>
+        </ul>
+        <p style="display:inline-flex;align-items:center;gap:8px;color:var(--accent-dark);font-weight:600">
+          <Icon name="shield" size={20} /> Your information is kept private.
+        </p>
+      </div>
+      <div>
+        <LeadForm heading="Get matched with an ITIN-friendly card" />
+      </div>
+    </div>
+  </section>
+</BaseLayout>

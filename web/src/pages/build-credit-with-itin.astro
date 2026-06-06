@@ -1,0 +1,129 @@
+---
+import MoneyPageLayout from '../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: 'How long does it take to build credit with an ITIN?',
+    a: 'A FICO score first appears after six months of reporting activity on at least one account. A score in the "fair" range (580–669) typically takes 12 months. Reaching the "good" range (670–739) usually takes 18–24 months of consistent on-time payments and low utilization. Starting from scratch, 24 months of disciplined behavior puts most people in a competitive borrowing position.',
+  },
+  {
+    q: 'What is the most important factor in my FICO score?',
+    a: 'Payment history — whether you pay on time — is the most important factor, accounting for 35% of your FICO score. A single missed payment can drop your score by 60–110 points and stays on your credit report for seven years. Set up autopay so you never miss a due date.',
+  },
+  {
+    q: 'What is credit utilization and why does it matter?',
+    a: 'Credit utilization is the percentage of your available credit limit that you\'re currently using. If you have a $500 limit and carry a $150 balance, your utilization is 30%. FICO weighs utilization at 30% of your score. Keeping it below 30% helps; keeping it below 10% is optimal.',
+  },
+  {
+    q: 'Does paying my rent or utilities help build credit?',
+    a: 'Not automatically. Traditional credit bureaus don\'t pick up rent or utility payments unless you enroll in a rent-reporting service (such as Experian RentBureau, Rental Kharma, or similar). Some credit cards offer built-in rent reporting. Ask your issuer or use a standalone service to get credit for on-time rent payments.',
+  },
+  {
+    q: 'Should I get more than one credit card to build credit faster?',
+    a: 'Adding a second card after 12 months can help by increasing your available credit (lowering utilization) and diversifying your credit mix. However, don\'t open multiple cards at once — each application triggers a hard inquiry that temporarily lowers your score. Space new applications 6–12 months apart.',
+  },
+];
+
+const quickAnswer =
+  'Building U.S. credit with an ITIN follows the same rules as any credit file: pay on time (35% of FICO), keep utilization below 30% (30% of FICO), keep accounts open for the age-of-history benefit, and slowly add account types. Most ITIN holders build a competitive credit score within 18–24 months of opening their first reporting credit card.';
+---
+<MoneyPageLayout
+  title="How to Build Credit With an ITIN (2026 Step-by-Step Guide)"
+  h1="How to Build Credit With an ITIN"
+  description="A step-by-step plan for ITIN holders to build a U.S. credit score — FICO factors, on-time payments, utilization, credit mix, and how long it takes to reach a good score."
+  path="/build-credit-with-itin"
+  eyebrow="Credit building"
+  lede="Building credit with an ITIN is straightforward once you understand how FICO scoring works. Here's the exact playbook — from your first card to a strong credit profile."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="A rising credit score chart on a smartphone"
+>
+  <h2>How does the FICO scoring model work?</h2>
+  <p>
+    FICO is the most widely used credit scoring model in the U.S. Scores range from 300 to 850; most lenders
+    consider 670 and above "good" and 740+ "very good." The model weighs five factors, and understanding their
+    weights tells you exactly where to put your effort.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Factor</th>
+        <th>Weight</th>
+        <th>What it measures</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Payment history</td><td>35%</td><td>Did you pay on time? Every account, every month.</td></tr>
+      <tr><td>Amounts owed (utilization)</td><td>30%</td><td>What % of your available credit are you using?</td></tr>
+      <tr><td>Length of credit history</td><td>15%</td><td>How old are your accounts on average?</td></tr>
+      <tr><td>Credit mix</td><td>10%</td><td>Do you have both revolving (cards) and installment (loans) accounts?</td></tr>
+      <tr><td>New credit (inquiries)</td><td>10%</td><td>How many new accounts or hard pulls in the past year?</td></tr>
+    </tbody>
+  </table>
+  <p>
+    The big insight: the first two factors — payment history and utilization — control 65% of your score.
+    Get those right, and the rest follows naturally over time.
+  </p>
+
+  <h2>What helps your credit score vs. what hurts it?</h2>
+  <table>
+    <thead>
+      <tr>
+        <th>Action</th>
+        <th>Effect on score</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td>Pay on time every month</td><td>Builds (+)</td><td>Single most powerful positive action</td></tr>
+      <tr><td>Keep utilization below 10%</td><td>Builds (+)</td><td>Optimal; below 30% is also good</td></tr>
+      <tr><td>Keep accounts open</td><td>Builds (+)</td><td>Older accounts increase average account age</td></tr>
+      <tr><td>Open a second account after 12 months</td><td>Builds (+)</td><td>Adds credit mix; spaces out inquiries</td></tr>
+      <tr><td>Enroll in rent reporting</td><td>Builds (+)</td><td>Gets rent payments counted in your file</td></tr>
+      <tr><td>Missing a payment</td><td>Hurts (−)</td><td>Drops score 60–110 pts; stays 7 years</td></tr>
+      <tr><td>Maxing out a card</td><td>Hurts (−)</td><td>100% utilization can drop score 40–60 pts</td></tr>
+      <tr><td>Closing old cards</td><td>Hurts (−)</td><td>Reduces average account age and available credit</td></tr>
+      <tr><td>Applying for many cards at once</td><td>Hurts (−)</td><td>Multiple hard inquiries signal risk</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Your step-by-step credit-building plan with an ITIN</h2>
+  <p>
+    Follow this sequence. Each phase builds the foundation for the next one.
+  </p>
+  <ol class="lead-list">
+    <li>
+      <strong>Month 1–2: Open a secured credit card.</strong> Apply at an ITIN-friendly issuer — ideally a credit union or a fintech with an explicit ITIN program. Put down the minimum deposit ($200–$300). See <a href="/secured-credit-cards">secured credit cards for ITIN holders</a>.
+    </li>
+    <li>
+      <strong>Month 1–6: Build a perfect payment record.</strong> Charge one small purchase each month — a coffee, a subscription. Pay the full balance before the due date every month. Do not carry a balance.
+    </li>
+    <li>
+      <strong>Month 6: Check your credit score.</strong> After six months of reporting activity, a FICO score should exist. Use the free score your issuer provides (many do), or request a free report from AnnualCreditReport.com.
+    </li>
+    <li>
+      <strong>Month 12–18: Request a graduation or open a second account.</strong> Ask your secured card issuer about upgrading to an unsecured card. Alternatively, if your score is 630+, apply for a starter unsecured card at the same or another ITIN-friendly issuer. See <a href="/unsecured-credit-cards">unsecured credit cards with an ITIN</a>.
+    </li>
+    <li>
+      <strong>Month 12–24: Keep utilization low as limits grow.</strong> As your credit limit increases, keep your balances proportionally low. A $1,000 limit with a $90 balance is excellent (9% utilization).
+    </li>
+    <li>
+      <strong>Month 24+: Explore rewards cards.</strong> With a score above 670, many issuers with cash-back and travel rewards programs will approve you. Continue the same disciplined habits. Never carry a balance just to look active.
+    </li>
+  </ol>
+
+  <h2>Does an ITIN limit your credit-building options?</h2>
+  <p>
+    An ITIN is a fully functional tax ID for credit purposes. The credit bureaus (Equifax, Experian, and
+    TransUnion) build credit files using your name, date of birth, and address — not your SSN or ITIN
+    directly. What an ITIN does affect is which issuers will approve you, since some have systems that
+    only accept SSNs. Once you're in the door with an ITIN-friendly issuer, the actual credit-building
+    mechanics are identical to those for any U.S. resident.
+  </p>
+  <p>
+    See also: <a href="/itin-credit-cards-guide">complete ITIN credit card guide</a> &middot;
+    <a href="/credit-cards-that-accept-itin">which issuers accept an ITIN</a> &middot;
+    <a href="/apply">find your card now</a>.
+  </p>
+</MoneyPageLayout>

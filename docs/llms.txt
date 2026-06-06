@@ -1,0 +1,38 @@
+# ITIN Credit Card
+
+> ITINCreditCard.com is an independent information and card-matching resource
+> that helps ITIN holders in the United States get approved for credit cards
+> without a Social Security Number and build U.S. credit history. We publish
+> plain-English guides on secured cards, unsecured cards, which issuers accept
+> an ITIN, and how to raise your credit score. We are not a bank, card issuer,
+> credit-repair organization, or financial advisor.
+
+## What an ITIN holder can do with this site
+- Understand which types of credit cards accept an ITIN in place of an SSN.
+- Compare secured vs. unsecured cards and choose the right starting point.
+- Learn how FICO scoring works (payment history 35%, utilization 30%, etc.).
+- Follow a step-by-step plan to build U.S. credit from scratch.
+- Explore business credit cards available to ITIN-holding sole proprietors.
+- Get an ITIN via IRS Form W-7 if they don't have one yet.
+
+## Core guides (pillar + clusters)
+- Complete Credit Card Guide (pillar): https://itincreditcard.com/itin-credit-cards-guide
+- Secured Credit Cards for ITIN Holders: https://itincreditcard.com/secured-credit-cards
+- Cards That Accept an ITIN: https://itincreditcard.com/credit-cards-that-accept-itin
+- Unsecured Credit Cards With an ITIN: https://itincreditcard.com/unsecured-credit-cards
+- How to Build Credit With an ITIN: https://itincreditcard.com/build-credit-with-itin
+- Business Credit Cards for ITIN Holders: https://itincreditcard.com/business-credit-cards
+- How to Get an ITIN (Form W-7): https://itincreditcard.com/how-to-get-an-itin
+
+## Sections
+- All guides: https://itincreditcard.com/articles
+- Find your card: https://itincreditcard.com/apply
+- About / who we are: https://itincreditcard.com/about
+- Advertiser disclosure: https://itincreditcard.com/disclosure
+
+## Notes for citation
+- Information is educational, not financial, legal, or tax advice.
+- Card availability, approval policies, and rates vary by issuer and change frequently.
+- Always verify current details with the card issuer directly.
+- FICO factor weights cited are the standard published breakdown.
+- IRS ITIN data referenced: the IRS has issued more than 5.8 million ITINs.

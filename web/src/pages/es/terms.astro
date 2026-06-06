@@ -1,0 +1,90 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Términos de Uso';
+const description =
+  'Los términos que rigen tu uso de ITINCreditCard.com, incluyendo nuestro papel como recurso de información independiente, los descargos de responsabilidad y las limitaciones de responsabilidad.';
+const updated = '5 de junio de 2026';
+---
+<BaseLayout title={title} description={description} path="/es/terms">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Legal</span>
+      <h1 style="margin-top:10px">Términos de Uso</h1>
+      <p class="byline">Última actualización: {updated}</p>
+
+      <p>
+        Estos Términos de Uso rigen tu acceso y uso de {SITE.legalName} (el "Sitio").
+        Al usar el Sitio, aceptas estos términos. Si no estás de acuerdo, por favor no
+        uses el Sitio.
+      </p>
+
+      <h2>Nuestro papel</h2>
+      <p>
+        {SITE.name} es un recurso independiente de información y de conexión con
+        tarjetas. <strong>No</strong> somos un banco, emisor de tarjetas de crédito,
+        organización de reparación de crédito, asesor de crédito ni asesor financiero.
+        No tomamos decisiones de crédito, no fijamos las tasas de las tarjetas, no
+        aprobamos solicitudes ni emitimos tarjetas de crédito. Cualquier producto de
+        tarjeta de crédito lo proporcionan emisores externos bajo sus propios términos,
+        criterios de elegibilidad y la ley aplicable.
+      </p>
+
+      <h2>No es asesoría financiera, legal ni fiscal</h2>
+      <p>
+        El contenido de este Sitio tiene fines educativos generales únicamente y no es
+        asesoría financiera, legal, migratoria ni fiscal. La disponibilidad de las
+        tarjetas de crédito, las tasas de interés, las comisiones y los términos de
+        aprobación varían según el emisor y cambian con frecuencia. Verifica siempre los
+        detalles directamente con el emisor y consulta a un profesional calificado antes
+        de tomar decisiones financieras.
+      </p>
+
+      <h2>Conexión con tarjetas y terceros</h2>
+      <p>
+        Cuando envías una solicitud, podemos compartir tu información con emisores de
+        tarjetas o socios externos que pueden contactarte. No controlamos ni somos
+        responsables de esos terceros, sus productos, decisiones, tasas ni de cómo
+        manejan tu información. Los enlaces a sitios de terceros se ofrecen por
+        conveniencia y no constituyen recomendaciones.
+      </p>
+
+      <h2>Exactitud y disponibilidad</h2>
+      <p>
+        Trabajamos para mantener la información precisa y actualizada, pero no
+        garantizamos que sea completa, libre de errores o esté al día. Las políticas de
+        los emisores de tarjetas cambian sin previo aviso. Podemos cambiar o eliminar
+        contenido y suspender o descontinuar el Sitio en cualquier momento.
+      </p>
+
+      <h2>Renuncia de garantías y limitación de responsabilidad</h2>
+      <p>
+        El Sitio se proporciona "tal cual" y "según disponibilidad" sin garantías de
+        ningún tipo, expresas o implícitas. En la máxima medida permitida por la ley,
+        {SITE.legalName} no es responsable de ningún daño indirecto, incidental o
+        consecuente que surja de tu uso del Sitio o de tu confianza en su contenido, ni
+        de cualquier trato con emisores de tarjetas externos.
+      </p>
+
+      <h2>Propiedad intelectual y uso aceptable</h2>
+      <p>
+        El contenido de este Sitio es de nuestra propiedad o tenemos licencia sobre él y
+        no puede copiarse ni republicarse sin permiso. Aceptas no hacer mal uso del
+        Sitio, no intentar interrumpirlo ni usarlo con fines ilegales.
+      </p>
+
+      <h2>Cambios y contacto</h2>
+      <p>
+        Podemos actualizar estos términos de vez en cuando. El uso continuo después de
+        los cambios significa que aceptas los términos actualizados. ¿Preguntas? Escribe
+        a <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>.
+      </p>
+
+      <p class="form-note">
+        Esta plantilla es de uso general y no constituye asesoría legal. Pídele a un
+        abogado calificado que la revise antes de confiar en ella.
+      </p>
+    </div>
+  </section>
+</BaseLayout>

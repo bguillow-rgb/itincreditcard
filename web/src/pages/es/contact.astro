@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Contacto ITIN Credit Card';
+const description =
+  'Ponte en contacto con ITINCreditCard.com. ¿Preguntas sobre tarjetas de crédito con ITIN, correcciones a una guía o propuestas de colaboración? Leemos cada mensaje.';
+---
+<BaseLayout title={title} description={description} path="/es/contact">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Contacto</span>
+      <h1 style="margin-top:10px">Contáctanos</h1>
+      <p class="lede" style="color:var(--muted)">
+        ¿Preguntas sobre tarjetas de crédito con ITIN, una corrección a una guía o
+        una idea de colaboración? Nos encantaría saber de ti.
+      </p>
+
+      <div class="form-card">
+        <h3 class="mt-0">Correo electrónico</h3>
+        <p>
+          La forma más rápida de comunicarte con nosotros es por correo. Normalmente
+          respondemos en un plazo de dos días hábiles.
+        </p>
+        <p>
+          <a class="btn btn-primary btn-lg" href={`mailto:${SITE.supportEmail}`}>
+            {SITE.supportEmail}
+          </a>
+        </p>
+        <p class="form-note">
+          Por favor no envíes datos personales sensibles (tu ITIN completo, números
+          bancarios) por correo. Si quieres conectarte con un emisor de tarjetas, usa
+          mejor nuestro <a href="/es/apply">formulario seguro de conexión</a>.
+        </p>
+      </div>
+
+      <h2>¿Buscas una tarjeta de crédito?</h2>
+      <p>
+        Si quieres conectarte con emisores de tarjetas que aceptan ITIN, el
+        <a href="/es/apply">formulario de conexión</a> es el lugar correcto para
+        empezar — es gratis y no afecta tu puntaje de crédito.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
