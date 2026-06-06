@@ -52,10 +52,11 @@ const fullUrl = `${SITE.url}${path}`;
 const crumbs = [{ name: h1, url: fullUrl }];
 // Per-product CJ deep link for this money page (falls back to global / /apply).
 const affiliateUrl = affiliateUrlFor(path);
+const ogSlug = path.replace(/^\/(es\/)?/, '').replace(/^\//, '') || 'home';
 const guideLabel = isEs ? 'Guía de Tarjetas' : 'Credit Card Guide';
 const updatedLabel = isEs ? 'Actualizado' : 'Updated';
 ---
-<BaseLayout title={title} description={description} path={path}>
+<BaseLayout title={title} description={description} path={path} ogImage={`/og/${ogSlug}.png`}>
   <Fragment slot="head">
     <BreadcrumbSchema crumbs={crumbs} />
   </Fragment>
