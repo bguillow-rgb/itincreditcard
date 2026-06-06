@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import PersonSchema from '../../components/schema/PersonSchema.astro';
 import AboutPageSchema from '../../components/schema/AboutPageSchema.astro';
 import { SITE } from '../../consts';
 
@@ -10,7 +9,6 @@ const description =
 ---
 <BaseLayout title={title} description={description} path="/es/about">
   <Fragment slot="head">
-    <PersonSchema />
     <AboutPageSchema />
   </Fragment>
 
@@ -38,7 +36,7 @@ const description =
         no aceptan ITIN.
       </p>
       <p>
-        Creé ITINCreditCard.com para cambiar eso. Este sitio publica guías claras y
+        Creamos ITINCreditCard.com para cambiar eso. Este sitio publica guías claras y
         precisas sobre cada aspecto de obtener y usar una tarjeta de crédito con un
         ITIN: qué emisores aceptan un ITIN, cómo funcionan las tarjetas con garantía,
         cómo funciona realmente el puntaje FICO, cuánto tarda el camino de construir
@@ -49,13 +47,14 @@ const description =
 
       <h2>Quién maneja este sitio</h2>
       <p>
-        Me llamo {SITE.founder.name} y soy el {SITE.founder.role} de ITINCreditCard.com.
-        Yo investigo y escribo todas las guías de este sitio, trabajando con fuentes
-        primarias — el IRS, la Oficina para la Protección Financiera del Consumidor
-        (CFPB), los principales burós de crédito y los materiales publicados por los
-        propios emisores. Donde la guía es general o cambia con frecuencia (como las
-        políticas específicas de los emisores), lo digo explícitamente. Donde algo
-        depende de tu situación, te remito a un profesional calificado.
+        ITINCreditCard.com es publicado por {SITE.publisher.name} y redactado por el
+        {SITE.editorial.name}. Investigamos y escribimos cada guía de este sitio,
+        trabajando con fuentes primarias — el IRS, la Oficina para la Protección
+        Financiera del Consumidor (CFPB), los principales burós de crédito y los
+        materiales publicados por los propios emisores. Donde la guía es general o
+        cambia con frecuencia (como las políticas específicas de los emisores), lo
+        decimos explícitamente. Donde algo depende de tu situación, te remitimos a un
+        profesional calificado.
       </p>
       <p>
         Cada guía se revisa para verificar su exactitud antes de publicarla y se

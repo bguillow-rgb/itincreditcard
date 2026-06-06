@@ -10,7 +10,7 @@ relatedQueries:
   - "credit card for itin holders"
 quickAnswer: "Yes. Many U.S. banks, credit unions, and fintech companies accept an ITIN in place of an SSN on a credit card application. A secured card — backed by a $200–$500 refundable deposit — is the easiest starting point for ITIN holders with no U.S. credit history. Pay on time and most issuers will upgrade you to an unsecured card in 6–12 months."
 publishedAt: "2026-06-05"
-author: "Bob Guillow"
+author: "ITIN Credit Card Editorial Team"
 category: "Credit Cards"
 faqs:
   - q: "Which field do I fill in with my ITIN on a credit card application?"

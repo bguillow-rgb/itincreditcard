@@ -1,6 +1,5 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PersonSchema from '../components/schema/PersonSchema.astro';
 import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
 import { SITE } from '../consts';
 
@@ -10,7 +9,6 @@ const description =
 ---
 <BaseLayout title={title} description={description} path="/about">
   <Fragment slot="head">
-    <PersonSchema />
     <AboutPageSchema />
   </Fragment>
 
@@ -35,7 +33,7 @@ const description =
         don't accept ITINs.
       </p>
       <p>
-        I started ITINCreditCard.com to fix that. This site publishes clear, accurate guides on every
+        We started ITINCreditCard.com to fix that. This site publishes clear, accurate guides on every
         aspect of getting and using a credit card with an ITIN: which issuers accept an ITIN, how
         secured cards work, how FICO scoring actually works, how long the credit-building journey
         takes, and what to do at each stage. The goal is to give ITIN holders the information they
@@ -44,12 +42,12 @@ const description =
 
       <h2>Who runs this site</h2>
       <p>
-        My name is {SITE.founder.name} and I'm the {SITE.founder.role} of ITINCreditCard.com.
-        I research and write all the guides on this site, working from primary sources — the IRS,
-        the Consumer Financial Protection Bureau (CFPB), the major credit bureaus, and issuers'
-        own published materials. Where guidance is general or changes frequently (like specific
-        issuer policies), I say so explicitly. Where something depends on your situation, I point
-        you to a qualified professional.
+        ITINCreditCard.com is published by {SITE.publisher.name} and written by the
+        {SITE.editorial.name}. We research and write every guide on this site, working from
+        primary sources — the IRS, the Consumer Financial Protection Bureau (CFPB), the major
+        credit bureaus, and issuers' own published materials. Where guidance is general or changes
+        frequently (like specific issuer policies), we say so explicitly. Where something depends
+        on your situation, we point you to a qualified professional.
       </p>
       <p>
         Every guide is reviewed for accuracy before publishing and updated when policies or rules
