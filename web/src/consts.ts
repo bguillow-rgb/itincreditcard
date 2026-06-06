@@ -149,6 +149,14 @@ export const PRODUCTS = [
   },
 ];
 
+// Pillar guide — the top of the hub-and-spoke. RelatedLinks links every
+// cluster + article back up to it.
+export const PILLAR = {
+  slug: 'itin-credit-cards-guide',
+  label: 'ITIN Credit Cards Guide',
+  labelEs: 'Guía de Tarjetas de Crédito ITIN',
+};
+
 export const NAV = [
   { label: 'Home', labelEs: 'Inicio', href: '/' },
   { label: 'Credit Card Guide', labelEs: 'Guía de Tarjetas', href: '/itin-credit-cards-guide' },
