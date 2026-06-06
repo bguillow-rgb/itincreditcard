@@ -39,6 +39,17 @@ export const SITE = {
     // Google AdSense publisher ID, e.g. 'ca-pub-0000000000000000'. Set via
     // PUBLIC_ADSENSE_ID at build time. Empty disables all ad slots.
     adsenseId: import.meta.env.PUBLIC_ADSENSE_ID ?? '',
+    // AdSense ad-unit slot IDs by position. Create each unit in the AdSense
+    // dashboard and paste its numeric slot ID here via env. Empty = that slot
+    // renders nothing. Strategy: AdSense lives on research-intent ARTICLES
+    // (top = above fold, end = after body); MONEY pages get a single unit
+    // below the fold (after the FAQ) so it only catches non-converters and
+    // never cannibalizes lead/affiliate revenue.
+    adSlots: {
+      articleTop: import.meta.env.PUBLIC_ADSENSE_SLOT_ARTICLE_TOP ?? '',
+      articleEnd: import.meta.env.PUBLIC_ADSENSE_SLOT_ARTICLE_END ?? '',
+      moneyFooter: import.meta.env.PUBLIC_ADSENSE_SLOT_MONEY_FOOTER ?? '',
+    },
     // Lead form endpoint. Use a static-friendly handler (Formspree,
     // Web3Forms, Basin). The form POSTs here. Empty shows a mailto fallback.
     // e.g. 'https://formspree.io/f/xxxxxxx'
@@ -46,6 +57,17 @@ export const SITE = {
     // Primary affiliate "apply / get matched" destination used by CTAs that
     // route off-site (Commission Junction deep link). Empty routes to /apply.
     affiliateApplyUrl: import.meta.env.PUBLIC_AFFILIATE_APPLY_URL ?? '',
+    // Per-product CJ advertiser deep links, keyed by money-page slug. A page's
+    // CTA routes to its product-specific advertiser for max relevance/EPC, and
+    // falls back to affiliateApplyUrl (then /apply) when its slot is empty.
+    affiliateUrls: {
+      'secured-credit-cards': import.meta.env.PUBLIC_AFFILIATE_URL_SECURED ?? '',
+      'credit-cards-that-accept-itin': import.meta.env.PUBLIC_AFFILIATE_URL_ACCEPT_ITIN ?? '',
+      'unsecured-credit-cards': import.meta.env.PUBLIC_AFFILIATE_URL_UNSECURED ?? '',
+      'build-credit-with-itin': import.meta.env.PUBLIC_AFFILIATE_URL_BUILD ?? '',
+      'business-credit-cards': import.meta.env.PUBLIC_AFFILIATE_URL_BUSINESS ?? '',
+      'itin-credit-cards-guide': import.meta.env.PUBLIC_AFFILIATE_URL_GUIDE ?? '',
+    } as Record<string, string>,
   },
 
   // Brand — modern, trustworthy fintech. Purple = authority, amber = action.
@@ -125,3 +147,12 @@ export const NAV = [
 ];
 
 export const NAV_CTA = { label: 'Find your card', labelEs: 'Encuentra tu tarjeta', href: '/apply' };
+
+// Resolve the off-site affiliate URL for a given money-page slug. Falls back to
+// the global affiliateApplyUrl, then to '' (callers route to /apply on empty).
+// Pass a path like '/secured-credit-cards' or '/es/secured-credit-cards' — the
+// locale prefix and leading slash are stripped before lookup.
+export function affiliateUrlFor(pathOrSlug?: string): string {
+  const slug = (pathOrSlug ?? '').replace(/^\/(es\/)?/, '').replace(/^\//, '');
+  return SITE.monetize.affiliateUrls[slug] || SITE.monetize.affiliateApplyUrl || '';
+}
