@@ -54,6 +54,9 @@ export const SITE = {
     // Web3Forms, Basin). The form POSTs here. Empty shows a mailto fallback.
     // e.g. 'https://formspree.io/f/xxxxxxx'
     leadFormEndpoint: import.meta.env.PUBLIC_LEAD_ENDPOINT ?? '',
+    // Web3Forms access key (public by design). Injected as the hidden
+    // access_key field; the form only POSTs leads when this is set.
+    web3formsKey: import.meta.env.PUBLIC_WEB3FORMS_KEY ?? '',
     // Primary affiliate "apply / get matched" destination used by CTAs that
     // route off-site (Commission Junction deep link). Empty routes to /apply.
     affiliateApplyUrl: import.meta.env.PUBLIC_AFFILIATE_APPLY_URL ?? '',
