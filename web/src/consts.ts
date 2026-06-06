@@ -167,11 +167,26 @@ export const NAV = [
 
 export const NAV_CTA = { label: 'Find your card', labelEs: 'Encuentra tu tarjeta', href: '/apply' };
 
-// Resolve the off-site affiliate URL for a given money-page slug. Falls back to
-// the global affiliateApplyUrl, then to '' (callers route to /apply on empty).
-// Pass a path like '/secured-credit-cards' or '/es/secured-credit-cards' — the
-// locale prefix and leading slash are stripped before lookup.
+// Affiliate fallback chains by money-page slug. When a slug has no dedicated
+// affiliate link set, resolution walks this chain (then the global apply URL).
+// Unsecured ITIN cards are the hardest to get approved for, so they fall back
+// to broader "accepts ITIN" then secured-card offers.
+export const AFFILIATE_FALLBACKS: Record<string, string[]> = {
+  'unsecured-credit-cards': ['credit-cards-that-accept-itin', 'secured-credit-cards'],
+  'credit-cards-that-accept-itin': ['secured-credit-cards'],
+  'business-credit-cards': ['build-credit-with-itin'],
+};
+
+// Resolve the off-site affiliate URL for a given money-page slug: its own link,
+// then its fallback chain, then the global affiliateApplyUrl, then '' (callers
+// route to /apply on empty). Pass a path like '/secured-credit-cards' or
+// '/es/secured-credit-cards' — the locale prefix and leading slash are stripped.
 export function affiliateUrlFor(pathOrSlug?: string): string {
   const slug = (pathOrSlug ?? '').replace(/^\/(es\/)?/, '').replace(/^\//, '');
-  return SITE.monetize.affiliateUrls[slug] || SITE.monetize.affiliateApplyUrl || '';
+  const urls = SITE.monetize.affiliateUrls;
+  if (urls[slug]) return urls[slug];
+  for (const fb of AFFILIATE_FALLBACKS[slug] ?? []) {
+    if (urls[fb]) return urls[fb];
+  }
+  return SITE.monetize.affiliateApplyUrl || '';
 }
