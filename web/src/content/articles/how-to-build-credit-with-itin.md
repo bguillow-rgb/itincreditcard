@@ -14,6 +14,7 @@ publishedAt: "2026-06-06"
 author: "ITIN Credit Card Editorial Team"
 category: "Credit Score"
 relatedSlugs:
+  - "secured-credit-card-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
 faqs:
   - q: "Does an ITIN give you a credit score automatically?"
