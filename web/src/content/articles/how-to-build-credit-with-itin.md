@@ -13,7 +13,8 @@ quickAnswer: "You can build U.S. credit with an ITIN by opening a secured credit
 publishedAt: "2026-06-06"
 author: "ITIN Credit Card Editorial Team"
 category: "Credit Score"
-relatedSlugs: []
+relatedSlugs:
+  - "can-you-get-a-credit-card-with-an-itin"
 faqs:
   - q: "Does an ITIN give you a credit score automatically?"
     a: "No. Simply having an ITIN does not create a credit file. You must open at least one credit account — such as a secured credit card — that reports your payment activity to Equifax, Experian, or TransUnion. A score is typically generated after 3–6 months of reported activity."
