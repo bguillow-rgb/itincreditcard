@@ -11,7 +11,7 @@ relatedQueries:
   - "how to check credit score with itin"
 quickAnswer: "You can build U.S. credit with an ITIN by opening a secured credit card that reports to all three bureaus, making on-time payments, and keeping utilization below 30%. Most ITIN holders generate their first FICO Score in 3–6 months and reach 'good' credit (670+) within 12–24 months of consistent use."
 publishedAt: "2026-06-06"
-author: "Bob Guillow"
+author: "ITIN Credit Card Editorial Team"
 category: "Credit Score"
 relatedSlugs: []
 faqs:
