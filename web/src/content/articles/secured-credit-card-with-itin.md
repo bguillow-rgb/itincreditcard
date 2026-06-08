@@ -14,6 +14,7 @@ publishedAt: "2026-06-07"
 author: "ITIN Credit Card Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "which-banks-accept-itin-for-credit-cards"
   - "can-you-get-a-credit-card-with-an-itin"
   - "how-to-build-credit-with-itin"
 faqs:

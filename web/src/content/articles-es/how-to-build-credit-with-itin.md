@@ -16,6 +16,7 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
   - "secured-credit-card-with-itin"
+  - "which-banks-accept-itin-for-credit-cards"
 faqs:
   - q: "¿Un ITIN te da un puntaje de crédito automáticamente?"
     a: "No. Tener un ITIN no crea un historial crediticio por sí solo. Debes abrir al menos una cuenta de crédito — como una tarjeta asegurada — que reporte tu actividad de pagos a Equifax, Experian o TransUnion. Por lo general, se genera un puntaje después de 3–6 meses de actividad reportada."
