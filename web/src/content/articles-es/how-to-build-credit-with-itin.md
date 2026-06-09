@@ -16,6 +16,7 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
   - "secured-credit-card-with-itin"
+  - "unsecured-credit-card-itin-holders"
   - "which-banks-accept-itin-for-credit-cards"
 faqs:
   - q: "¿Un ITIN te da un puntaje de crédito automáticamente?"

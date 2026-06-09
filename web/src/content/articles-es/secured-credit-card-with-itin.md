@@ -14,6 +14,7 @@ publishedAt: "2026-06-07"
 author: "ITIN Credit Card Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "unsecured-credit-card-itin-holders"
   - "which-banks-accept-itin-for-credit-cards"
   - "how-to-build-credit-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"

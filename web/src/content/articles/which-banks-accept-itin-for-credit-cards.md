@@ -15,6 +15,7 @@ author: "ITIN Credit Card Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"
+  - "unsecured-credit-card-itin-holders"
   - "can-you-get-a-credit-card-with-an-itin"
   - "how-to-build-credit-with-itin"
 faqs:

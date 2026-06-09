@@ -15,6 +15,7 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-build-credit-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
+  - "unsecured-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
 faqs:
   - q: "¿En qué campo escribo mi ITIN en la solicitud de tarjeta de crédito?"
