@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-credit-card-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
   - "how-to-build-credit-with-itin"
-  - "which-banks-accept-itin-for-credit-cards"
+  - "transfer-itin-credit-history-to-ssn"
 faqs:
   - q: "Can I get an unsecured credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but options are limited if you're starting from zero. Cards like the Zolve Classic and the Current Build Card use alternative underwriting — such as income verification or bank account history — instead of a traditional credit score, so no prior U.S. credit history is required."
