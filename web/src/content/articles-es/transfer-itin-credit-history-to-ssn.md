@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-credit-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
   - "unsecured-credit-card-itin-holders"
-  - "secured-credit-card-with-itin"
+  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "¿Obtener un SSN borra mi historial de crédito del ITIN?"
     a: "No, pero solo si actúas a tiempo. El historial de crédito que construiste con tu ITIN no queda vinculado automáticamente a tu nuevo SSN. Si no haces nada, tu expediente de crédito existente puede quedar desconectado de tu perfil SSN. Enviar solicitudes de transferencia por escrito a las tres agencias preserva cada mes de historial que ya ganaste."

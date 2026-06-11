@@ -16,8 +16,8 @@ category: "Puntaje de crédito"
 relatedSlugs:
   - "how-to-build-credit-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
+  - "how-to-apply-for-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
-  - "unsecured-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo usar AnnualCreditReport.com para revisar mi crédito con un ITIN?"
     a: "El portal en línea de AnnualCreditReport.com está diseñado para personas con SSN y, en general, no procesa solicitudes con ITIN a través de su flujo estándar. Sin embargo, puedes enviar una solicitud por correo postal al Annual Credit Report Request Service (P.O. Box 105281, Atlanta, GA 30348-5281) e incluir tu ITIN junto con una identificación oficial y un comprobante de domicilio. Para un acceso más confiable, contacta directamente a cada buró."
