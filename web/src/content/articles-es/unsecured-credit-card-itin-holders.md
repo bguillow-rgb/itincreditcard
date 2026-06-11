@@ -15,9 +15,9 @@ author: "ITIN Credit Card Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"
+  - "credit-union-credit-card-itin"
   - "how-to-build-credit-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito no asegurada con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, aunque las opciones son limitadas si estás empezando desde cero. Tarjetas como la Zolve Classic y la Current Build Card usan métodos alternativos de evaluación — como verificación de ingresos o historial de cuenta bancaria — en lugar de un puntaje crediticio tradicional, por lo que no se necesita historial previo en EE. UU."
