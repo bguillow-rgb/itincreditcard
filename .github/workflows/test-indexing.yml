@@ -1,0 +1,23 @@
+name: Test Indexing API (temporary)
+
+# One-off manual check that the Indexing API authorizes our service account
+# after adding it as a delegated owner. Pings an existing article URL and prints
+# URL_UPDATED (200) or FAILED <status>. Delete after confirming.
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Ping Indexing API for an existing article
+        env:
+          GOOGLE_INDEXING_SA_KEY: ${{ secrets.GOOGLE_INDEXING_SA_KEY }}
+        run: node scripts/google-index.mjs --article can-you-get-a-credit-card-with-an-itin
