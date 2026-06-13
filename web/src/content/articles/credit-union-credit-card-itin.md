@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
+  - "authorized-user-credit-card-itin"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "which-banks-accept-itin-for-credit-cards"
 faqs:
   - q: "Can I join a credit union with only an ITIN and no SSN?"
     a: "Yes. Many credit unions explicitly accept an ITIN as a primary identifier for membership. You will also need a government-issued photo ID (such as a passport or consular ID), proof of a U.S. address, and an opening deposit — typically $5–$25. Policies vary by institution, so confirm before applying."
