@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"
   - "authorized-user-credit-card-itin"
+  - "business-credit-card-with-itin"
   - "credit-union-credit-card-itin"
-  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "Which bank is easiest to get a credit card with an ITIN?"
     a: "Capital One is widely considered the most accessible major bank for ITIN holders. Their pre-qualification tool lets you check eligibility without a hard inquiry, and several of their cards — including the Quicksilver Secured and Capital One Platinum — explicitly accept ITINs. Fintech options like OpenSky and the Current Build Card are even easier, as neither requires a credit check."

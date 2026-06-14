@@ -15,8 +15,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"
   - "authorized-user-credit-card-itin"
+  - "business-credit-card-with-itin"
   - "credit-union-credit-card-itin"
-  - "how-to-build-credit-with-itin"
 faqs:
   - q: "¿En qué campo escribo mi ITIN en la solicitud de tarjeta de crédito?"
     a: "La mayoría de las solicitudes tienen un campo que dice 'Social Security Number' o 'Tax ID Number'. Escribe ahí tu ITIN de nueve dígitos. Algunos sistemas en línea validan el número y pueden rechazar un ITIN — si eso ocurre, intenta solicitar en una sucursal o por teléfono, donde un agente puede ingresarlo manualmente."
