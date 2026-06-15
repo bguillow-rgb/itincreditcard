@@ -37,6 +37,17 @@ const cardOptions =
   lang === 'es'
     ? ['Tarjeta con garantía', 'Tarjeta sin garantía', 'Tarjeta de negocio', 'Construir / reparar crédito', 'Aún no estoy seguro']
     : ['Secured card', 'Unsecured card', 'Business card', 'Build / repair credit', 'Not sure yet'];
+
+// Light qualifiers (full form only) — score range + ID status sharpen affiliate
+// targeting without adding loan-style friction that would hurt conversion.
+const scoreOptions =
+  lang === 'es'
+    ? ['Menos de 580', '580–620', '620–680', '680+', 'No estoy seguro']
+    : ['Under 580', '580–620', '620–680', '680+', 'Not sure'];
+const itinOptions =
+  lang === 'es'
+    ? ['Solo ITIN', 'ITIN + Seguro Social']
+    : ['ITIN only', 'ITIN + SSN'];
 ---
 <div class="form-card">
   <h3 class="mt-0">{heading}</h3>
@@ -84,9 +95,29 @@ const cardOptions =
     </div>
 
     {!compact && (
-      <div class="field">
-        <label for="notes">{t('form.notes')}</label>
-        <textarea id="notes" name="notes" rows="3"></textarea>
+      <div class="qualify-block">
+        <p class="form-subhead">{t('form.qualify.heading')}</p>
+        <p class="form-note" style="margin:-6px 0 12px">{t('form.qualify.note')}</p>
+        <div class="field-row">
+          <div class="field">
+            <label for="score">{t('form.score')}</label>
+            <select id="score" name="score">
+              <option value="">{t('form.select')}</option>
+              {scoreOptions.map((o) => <option>{o}</option>)}
+            </select>
+          </div>
+          <div class="field">
+            <label for="itin_status">{t('form.itin')}</label>
+            <select id="itin_status" name="itin_status">
+              <option value="">{t('form.select')}</option>
+              {itinOptions.map((o) => <option>{o}</option>)}
+            </select>
+          </div>
+        </div>
+        <div class="field">
+          <label for="notes">{t('form.notes')}</label>
+          <textarea id="notes" name="notes" rows="3"></textarea>
+        </div>
       </div>
     )}
 

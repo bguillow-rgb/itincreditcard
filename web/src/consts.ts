@@ -32,11 +32,16 @@ export const SITE = {
     // Add LinkedIn / Crunchbase when ready. Empty entries filtered on render.
   },
 
-  // Byline used on articles and the About page. An editorial-team author is a
-  // legitimate E-E-A-T anchor when there is no single named author.
+  // Named editor persona — the byline + Person entity anchor for E-E-A-T. Used on
+  // article bylines, Article schema (author), and the /about page. NOTE: this is a
+  // pen name, not a real person; the bio describes the site's actual editorial
+  // process and must never claim fabricated licenses/credentials (YMYL trust rule).
+  // `name` must stay first in this block — the daily generator reads it by regex.
   editorial: {
-    name: 'ITIN Credit Card Editorial Team',
-    role: 'Editorial Team',
+    name: 'Mateo Herrera',
+    role: 'Editor',
+    bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources — the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials — and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
+    bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU., convirtiendo los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros y precisos. Cada guía se investiga con fuentes primarias — el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores — y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
   },
 
   // Analytics + tracking. Values come from env vars at build time so local
@@ -87,6 +92,17 @@ export const SITE = {
       'business-credit-cards': import.meta.env.PUBLIC_AFFILIATE_URL_BUSINESS ?? '',
       'itin-credit-cards-guide': import.meta.env.PUBLIC_AFFILIATE_URL_GUIDE ?? '',
     } as Record<string, string>,
+    // Awin affiliate display creatives (Credit Karma). The hero ad unit on the
+    // homepage renders an Awin banner via CreditKarmaAd.astro. The embed URL is
+    // built as cread.php / cshow.php?s=<creativeId>&v=<advertiserId>&q=<campaignId>&r=<publisherId>.
+    // publisherId (r) and the Credit Karma advertiser (v) + campaign (q) are
+    // account-level constants shared across all three sites; only the per-site
+    // creativeId changes. Set the creative IDs in each homepage's <CreditKarmaAd />.
+    awin: {
+      publisherId: '2931103',
+      advertiserId: '66532',
+      campaignId: '475588',
+    },
   },
 
   // Brand — modern, trustworthy fintech. Purple = authority, amber = action.
@@ -173,7 +189,7 @@ export const NAV = [
   { label: 'About', labelEs: 'Nosotros', href: '/about' },
 ];
 
-export const NAV_CTA = { label: 'Find your card', labelEs: 'Encuentra tu tarjeta', href: '/apply' };
+export const NAV_CTA = { label: 'Apply Here', labelEs: 'Aplica aquí', href: '/apply' };
 
 // Affiliate fallback chains by money-page slug. When a slug has no dedicated
 // affiliate link set, resolution walks this chain (then the global apply URL).

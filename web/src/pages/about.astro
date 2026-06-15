@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AboutPageSchema from '../components/schema/AboutPageSchema.astro';
+import PersonSchema from '../components/schema/PersonSchema.astro';
 import { SITE } from '../consts';
 
 const title = 'About ITIN Credit Card';
@@ -10,6 +11,7 @@ const description =
 <BaseLayout title={title} description={description} path="/about">
   <Fragment slot="head">
     <AboutPageSchema />
+    <PersonSchema />
   </Fragment>
 
   <section class="section">
@@ -42,17 +44,21 @@ const description =
 
       <h2>Who runs this site</h2>
       <p>
-        ITINCreditCard.com is published by {SITE.publisher.name} and written by the
-        {SITE.editorial.name}. We research and write every guide on this site, working from
-        primary sources — the IRS, the Consumer Financial Protection Bureau (CFPB), the major
-        credit bureaus, and issuers' own published materials. Where guidance is general or changes
-        frequently (like specific issuer policies), we say so explicitly. Where something depends
-        on your situation, we point you to a qualified professional.
+        ITINCreditCard.com is published by {SITE.publisher.name}. Its guides are
+        written and edited by <strong>{SITE.editorial.name}</strong>, {SITE.editorial.role.toLowerCase()}.
       </p>
+      <div class="author-card">
+        <p class="author-name">{SITE.editorial.name} <span class="author-role">· {SITE.editorial.role}</span></p>
+        <p>{SITE.editorial.bio}</p>
+      </div>
       <p>
-        Every guide is reviewed for accuracy before publishing and updated when policies or rules
-        change. The "Updated" date at the top of each page reflects a real content revision, not a
-        cosmetic timestamp bump.
+        Every guide is researched from primary sources — the IRS, the Consumer Financial
+        Protection Bureau (CFPB), the major credit bureaus, and issuers' own published
+        materials. Where guidance is general or changes frequently (like specific issuer
+        policies), we say so explicitly. Where something depends on your situation, we point
+        you to a qualified professional. Every guide is reviewed for accuracy before publishing
+        and updated when policies or rules change — the "Updated" date reflects a real content
+        revision, not a cosmetic timestamp bump.
       </p>
 
       <h2>Our editorial standards</h2>

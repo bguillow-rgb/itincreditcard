@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import AboutPageSchema from '../../components/schema/AboutPageSchema.astro';
+import PersonSchema from '../../components/schema/PersonSchema.astro';
 import { SITE } from '../../consts';
 
 const title = 'Acerca de ITIN Credit Card';
@@ -10,6 +11,7 @@ const description =
 <BaseLayout title={title} description={description} path="/es/about">
   <Fragment slot="head">
     <AboutPageSchema />
+    <PersonSchema />
   </Fragment>
 
   <section class="section">
@@ -47,20 +49,23 @@ const description =
 
       <h2>Quién maneja este sitio</h2>
       <p>
-        ITINCreditCard.com es publicado por {SITE.publisher.name} y redactado por el
-        {SITE.editorial.name}. Investigamos y escribimos cada guía de este sitio,
-        trabajando con fuentes primarias — el IRS, la Oficina para la Protección
-        Financiera del Consumidor (CFPB), los principales burós de crédito y los
-        materiales publicados por los propios emisores. Donde la guía es general o
+        ITINCreditCard.com es publicado por {SITE.publisher.name}. Sus guías son
+        escritas y editadas por <strong>{SITE.editorial.name}</strong>, editor.
+      </p>
+      <div class="author-card">
+        <p class="author-name">{SITE.editorial.name} <span class="author-role">· Editor</span></p>
+        <p>{SITE.editorial.bioEs}</p>
+      </div>
+      <p>
+        Cada guía se investiga con fuentes primarias — el IRS, la Oficina para la
+        Protección Financiera del Consumidor (CFPB), los principales burós de crédito y
+        los materiales publicados por los propios emisores. Donde la guía es general o
         cambia con frecuencia (como las políticas específicas de los emisores), lo
         decimos explícitamente. Donde algo depende de tu situación, te remitimos a un
-        profesional calificado.
-      </p>
-      <p>
-        Cada guía se revisa para verificar su exactitud antes de publicarla y se
-        actualiza cuando cambian las políticas o las reglas. La fecha de "Actualizado"
-        en la parte superior de cada página refleja una revisión real del contenido, no
-        un cambio cosmético de fecha.
+        profesional calificado. Cada guía se revisa para verificar su exactitud antes de
+        publicarla y se actualiza cuando cambian las políticas o las reglas — la fecha de
+        "Actualizado" refleja una revisión real del contenido, no un cambio cosmético de
+        fecha.
       </p>
 
       <h2>Nuestros estándares editoriales</h2>

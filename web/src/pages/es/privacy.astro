@@ -5,7 +5,7 @@ import { SITE } from '../../consts';
 const title = 'Política de Privacidad';
 const description =
   'Cómo ITINCreditCard.com recopila, usa y protege tu información, incluyendo los datos del formulario de conexión, las analíticas, las cookies y la publicidad.';
-const updated = '5 de junio de 2026';
+const updated = '15 de junio de 2026';
 ---
 <BaseLayout title={title} description={description} path="/es/privacy">
   <section class="section">
@@ -25,8 +25,9 @@ const updated = '5 de junio de 2026';
         <li>
           <strong>Información que nos das.</strong> Cuando envías nuestros formularios
           de conexión o de contacto, recopilamos datos como tu nombre, correo
-          electrónico, número de teléfono, estado y el tipo de tarjeta de crédito que
-          buscas.
+          electrónico, número de teléfono, estado, el tipo de tarjeta de crédito que
+          buscas y cualquier dato opcional que proporciones (como un rango de puntaje
+          de crédito y si tienes solo un ITIN o un ITIN y un Seguro Social).
         </li>
         <li>
           <strong>Información automática.</strong> Como la mayoría de los sitios web,
@@ -52,11 +53,16 @@ const updated = '5 de junio de 2026';
       <h2>Compartir tu información</h2>
       <p>
         Cuando envías una solicitud de conexión, compartimos los datos que
-        proporcionas con emisores de tarjetas o socios de leads para que puedan
-        contactarte sobre opciones de tarjetas de crédito. También podemos compartir
-        datos con proveedores de servicios (por ejemplo, analítica, alojamiento,
-        correo) que actúan en nuestro nombre. No vendemos tu información personal por
-        dinero. Podemos divulgar información si la ley lo exige.
+        proporcionas con uno o más emisores de tarjetas o socios de contactos para que
+        puedan contactarte sobre opciones de tarjetas de crédito. Podemos recibir una
+        comisión por referencia u otra compensación cuando lo hacemos. Según algunas
+        leyes estatales de privacidad (como la CCPA/CPRA de California), este tipo de
+        intercambio a cambio de compensación puede considerarse una "venta" o
+        "intercambio" de información personal. Puedes cancelar en cualquier momento
+        <a href={`mailto:${SITE.supportEmail}`}>escribiéndonos</a>, y dejaremos de
+        compartir tus datos con socios en el futuro. También podemos compartir datos
+        con proveedores de servicios (por ejemplo, analítica, alojamiento, correo) que
+        actúan en nuestro nombre, y podemos divulgar información si la ley lo exige.
       </p>
 
       <h2>Publicidad y Google AdSense</h2>
