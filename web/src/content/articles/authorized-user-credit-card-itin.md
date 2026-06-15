@@ -15,9 +15,9 @@ author: "ITIN Credit Card Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-union-credit-card-itin"
+  - "rewards-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
   - "unsecured-credit-card-itin-holders"
-  - "which-banks-accept-itin-for-credit-cards"
 faqs:
   - q: "Can I become an authorized user on a credit card if I only have an ITIN?"
     a: "Yes. Most major issuers — including Chase, Capital One, and Bank of America — do not require an SSN to add an authorized user. They typically ask only for a name, date of birth, and mailing address. Providing your ITIN (where accepted) improves the odds the account will appear on your credit report."

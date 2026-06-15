@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-build-credit-with-itin"
   - "can-you-get-a-credit-card-with-an-itin"
   - "credit-union-credit-card-itin"
-  - "transfer-itin-credit-history-to-ssn"
+  - "rewards-credit-card-itin-holders"
 faqs:
   - q: "Can I use AnnualCreditReport.com to check my credit with an ITIN?"
     a: "The AnnualCreditReport.com online portal is designed for SSN holders and generally does not process ITIN requests through its standard flow. However, you can mail a request to the Annual Credit Report Request Service (P.O. Box 105281, Atlanta, GA 30348-5281) and include your ITIN along with a government-issued ID and proof of address. Contact each bureau directly for the most reliable access."

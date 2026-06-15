@@ -17,7 +17,7 @@ relatedSlugs:
   - "how-to-check-credit-score-with-itin"
   - "unsecured-credit-card-itin-holders"
   - "credit-union-credit-card-itin"
-  - "secured-credit-card-with-itin"
+  - "rewards-credit-card-itin-holders"
 faqs:
   - q: "Does an ITIN give you a credit score automatically?"
     a: "No. Simply having an ITIN does not create a credit file. You must open at least one credit account — such as a secured credit card — that reports your payment activity to Equifax, Experian, or TransUnion. A score is typically generated after 3–6 months of reported activity."

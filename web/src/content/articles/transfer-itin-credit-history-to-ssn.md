@@ -15,9 +15,9 @@ author: "ITIN Credit Card Editorial Team"
 category: "Credit"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"
+  - "rewards-credit-card-itin-holders"
   - "how-to-build-credit-with-itin"
   - "secured-credit-card-with-itin"
-  - "authorized-user-credit-card-itin"
 faqs:
   - q: "Does getting an SSN erase my ITIN credit history?"
     a: "No — but only if you act. Your credit history built under an ITIN is not automatically linked to your new SSN. If you do nothing, your existing credit file may appear disconnected from your SSN profile. Submitting written transfer requests to all three bureaus preserves every month of history you've already earned."
