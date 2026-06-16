@@ -8,19 +8,19 @@ export const SITE = {
   tagline: 'Credit Cards & Credit Building for ITIN Holders',
   taglineEs: 'Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN',
   description:
-    'ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history — secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.',
+    'ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.',
   descriptionEs:
-    'ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU. — tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.',
+    'ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.',
   url: 'https://itincreditcard.com',
   locale: 'en-US',
   supportEmail: 'bguillow@gmail.com',
 
-  // Publisher (legal operating entity) — drives Organization + Article
+  // Publisher (legal operating entity), drives Organization + Article
   // publisher schema and the footer copyright. The /about page is the
   // canonical entity anchor.
   publisher: {
     name: 'Timberline Ventures LLC',
-    // Corporate entity site + its Wikidata item — the canonical publisher anchor.
+    // Corporate entity site + its Wikidata item, the canonical publisher anchor.
     url: 'https://timberlineventuresllc.com',
     wikidata: 'https://www.wikidata.org/wiki/Q140082434',
     // Wikidata entities: this site (ITIN Credit Card) + the Timberline parent.
@@ -32,16 +32,16 @@ export const SITE = {
     // Add LinkedIn / Crunchbase when ready. Empty entries filtered on render.
   },
 
-  // Named editor persona — the byline + Person entity anchor for E-E-A-T. Used on
+  // Named editor persona, the byline + Person entity anchor for E-E-A-T. Used on
   // article bylines, Article schema (author), and the /about page. NOTE: this is a
   // pen name, not a real person; the bio describes the site's actual editorial
   // process and must never claim fabricated licenses/credentials (YMYL trust rule).
-  // `name` must stay first in this block — the daily generator reads it by regex.
+  // `name` must stay first in this block, the daily generator reads it by regex.
   editorial: {
     name: 'Mateo Herrera',
     role: 'Editor',
-    bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources — the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials — and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
-    bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU., convirtiendo los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros y precisos. Cada guía se investiga con fuentes primarias — el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores — y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
+    bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources, the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials, and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
+    bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU., convirtiendo los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros y precisos. Cada guía se investiga con fuentes primarias, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
   },
 
   // Analytics + tracking. Values come from env vars at build time so local
@@ -52,7 +52,7 @@ export const SITE = {
     indexNowKey: import.meta.env.PUBLIC_INDEXNOW_KEY ?? '',
   },
 
-  // Monetization. All optional — features no-op until configured.
+  // Monetization. All optional, features no-op until configured.
   monetize: {
     // Google AdSense publisher ID, e.g. 'ca-pub-0000000000000000'. Set via
     // PUBLIC_ADSENSE_ID at build time. Empty disables all ad slots.
@@ -67,7 +67,7 @@ export const SITE = {
       articleTop: import.meta.env.PUBLIC_ADSENSE_SLOT_ARTICLE_TOP ?? '',
       articleEnd: import.meta.env.PUBLIC_ADSENSE_SLOT_ARTICLE_END ?? '',
       moneyFooter: import.meta.env.PUBLIC_ADSENSE_SLOT_MONEY_FOOTER ?? '',
-      // Post-conversion thank-you page — pure ad real estate, no lead/affiliate
+      // Post-conversion thank-you page, pure ad real estate, no lead/affiliate
       // to cannibalize, so it runs display ads at full density.
       thankYou: import.meta.env.PUBLIC_ADSENSE_SLOT_THANKYOU ?? '',
     },
@@ -107,18 +107,18 @@ export const SITE = {
       // on-brand creative: this site leads with credit cards → 'cards'.
       defaultTopic: 'cards',
       // Credit Karma display creatives under the campaign (all 300×250, shared
-      // across all 3 sites — creatives are campaign-level). Keyed by topic so each
+      // across all 3 sites, creatives are campaign-level). Keyed by topic so each
       // page renders the most relevant banner. Add new IDs here as more creatives
       // are pulled from the Awin dashboard to widen relevance granularity.
       creatives: {
-        finance: '3641184', // general "all things finance" — loans, mortgage, income
+        finance: '3641184', // general "all things finance", loans, mortgage, income
         cards: '3641203',   // credit cards
         score: '3597059',   // credit score & credit building
       } as Record<string, string>,
     },
   },
 
-  // Brand — modern, trustworthy fintech. Purple = authority, amber = action.
+  // Brand, modern, trustworthy fintech. Purple = authority, amber = action.
   theme: {
     bg: '#FFFFFF',
     surface: '#F7F5FC',
@@ -133,7 +133,7 @@ export const SITE = {
   },
 };
 
-// Credit card product clusters — the money-page topology. Each links to a
+// Credit card product clusters, the money-page topology. Each links to a
 // cluster hub. Used on the homepage grid and in nav/footer.
 export const PRODUCTS = [
   {
@@ -186,7 +186,7 @@ export const PRODUCTS = [
   },
 ];
 
-// Pillar guide — the top of the hub-and-spoke. RelatedLinks links every
+// Pillar guide, the top of the hub-and-spoke. RelatedLinks links every
 // cluster + article back up to it.
 export const PILLAR = {
   slug: 'itin-credit-cards-guide',
@@ -217,7 +217,7 @@ export const AFFILIATE_FALLBACKS: Record<string, string[]> = {
 // Resolve the off-site affiliate URL for a given money-page slug: its own link,
 // then its fallback chain, then the global affiliateApplyUrl, then '' (callers
 // route to /apply on empty). Pass a path like '/secured-credit-cards' or
-// '/es/secured-credit-cards' — the locale prefix and leading slash are stripped.
+// '/es/secured-credit-cards', the locale prefix and leading slash are stripped.
 export function affiliateUrlFor(pathOrSlug?: string): string {
   const slug = (pathOrSlug ?? '').replace(/^\/(es\/)?/, '').replace(/^\//, '');
   const urls = SITE.monetize.affiliateUrls;
@@ -234,16 +234,16 @@ export function affiliateUrlFor(pathOrSlug?: string): string {
 export type CkTopic = 'finance' | 'cards' | 'score';
 export const CK_AD_COPY: Record<CkTopic, { en: { cta: string; alt: string }; es: { cta: string; alt: string } }> = {
   finance: {
-    en: { cta: 'See how much you qualify for here', alt: 'Credit Karma — all things finance at your fingertips' },
-    es: { cta: 'Mira cuánto puedes calificar aquí', alt: 'Credit Karma — todas tus finanzas al alcance' },
+    en: { cta: 'See how much you qualify for here', alt: 'Credit Karma, all things finance at your fingertips' },
+    es: { cta: 'Mira cuánto puedes calificar aquí', alt: 'Credit Karma, todas tus finanzas al alcance' },
   },
   cards: {
-    en: { cta: 'Compare top credit cards here', alt: 'Credit Karma — find a credit card' },
-    es: { cta: 'Compara las mejores tarjetas aquí', alt: 'Credit Karma — encuentra una tarjeta de crédito' },
+    en: { cta: 'Compare top credit cards here', alt: 'Credit Karma, find a credit card' },
+    es: { cta: 'Compara las mejores tarjetas aquí', alt: 'Credit Karma, encuentra una tarjeta de crédito' },
   },
   score: {
-    en: { cta: 'Check your credit score free here', alt: 'Credit Karma — see your credit score free' },
-    es: { cta: 'Revisa tu puntaje de crédito gratis aquí', alt: 'Credit Karma — mira tu puntaje de crédito gratis' },
+    en: { cta: 'Check your credit score free here', alt: 'Credit Karma, see your credit score free' },
+    es: { cta: 'Revisa tu puntaje de crédito gratis aquí', alt: 'Credit Karma, mira tu puntaje de crédito gratis' },
   },
 };
 

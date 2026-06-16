@@ -38,12 +38,12 @@ const cardOptions =
     ? ['Tarjeta con garantía', 'Tarjeta sin garantía', 'Tarjeta de negocio', 'Construir / reparar crédito', 'Aún no estoy seguro']
     : ['Secured card', 'Unsecured card', 'Business card', 'Build / repair credit', 'Not sure yet'];
 
-// Light qualifiers (full form only) — score range + ID status sharpen affiliate
+// Light qualifiers (full form only), score range + ID status sharpen affiliate
 // targeting without adding loan-style friction that would hurt conversion.
 const scoreOptions =
   lang === 'es'
-    ? ['Menos de 580', '580–620', '620–680', '680+', 'No estoy seguro']
-    : ['Under 580', '580–620', '620–680', '680+', 'Not sure'];
+    ? ['Menos de 580', '580-620', '620-680', '680+', 'No estoy seguro']
+    : ['Under 580', '580-620', '620-680', '680+', 'Not sure'];
 const itinOptions =
   lang === 'es'
     ? ['Solo ITIN', 'ITIN + Seguro Social']
@@ -57,7 +57,7 @@ const itinOptions =
     {web3formsKey && <input type="hidden" name="access_key" value={web3formsKey} />}
     <input type="hidden" name="subject" value="New ITIN credit card lead" />
     <input type="hidden" name="from_name" value={SITE.name} />
-    {/* Honeypot — bots tick this, humans don't (Web3Forms spam filter). */}
+    {/* Honeypot, bots tick this, humans don't (Web3Forms spam filter). */}
     <input type="checkbox" name="botcheck" tabindex="-1" autocomplete="off" style="display:none" aria-hidden="true" />
 
     <div class="field-row">
@@ -126,8 +126,9 @@ const itinOptions =
     </button>
     <p class="form-note">
       {t('form.consent.pre')} {SITE.name} {t('form.consent.post')}
-      <a href={localizedHref('/privacy', lang)}>{t('form.privacy')}</a> {t('form.and')}
-      <a href={localizedHref('/disclosure', lang)}>{t('form.disclosure')}</a>.
+      <a href={localizedHref('/privacy', lang)}>{t('form.privacy')}</a>,
+      <a href={localizedHref('/disclosure', lang)}>{t('form.disclosure')}</a>, {t('form.and')}
+      <a href={localizedHref('/terms', lang)}>{t('form.terms')}</a>.
     </p>
   </form>
 </div>

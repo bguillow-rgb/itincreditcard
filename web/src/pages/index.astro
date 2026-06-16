@@ -7,8 +7,8 @@ import FAQ from '../components/FAQ.astro';
 import { SITE, PRODUCTS } from '../consts';
 
 // Surface the latest guides directly from the homepage (the highest-authority
-// page) so interior article URLs get a strong internal link and get crawled —
-// the fix for "Discovered – currently not indexed".
+// page) so interior article URLs get a strong internal link and get crawled, 
+// the fix for "Discovered - currently not indexed".
 const includeDrafts = import.meta.env.DEV;
 const latestPosts = (
   await getCollection('articles', ({ data }) => (includeDrafts ? true : data.published))
@@ -19,19 +19,19 @@ const latestPosts = (
 const faqs = [
   {
     q: 'Can I get a credit card with an ITIN instead of an SSN?',
-    a: 'Yes. Many U.S. banks, credit unions, and fintech companies accept an Individual Taxpayer Identification Number in place of a Social Security Number. A secured credit card — backed by a refundable deposit — is the easiest entry point for ITIN holders with no prior U.S. credit history.',
+    a: 'Yes. Many U.S. banks, credit unions, and fintech companies accept an Individual Taxpayer Identification Number in place of a Social Security Number. A secured credit card, backed by a refundable deposit, is the easiest entry point for ITIN holders with no prior U.S. credit history.',
   },
   {
     q: 'Will getting a credit card with my ITIN build a credit score?',
-    a: 'Yes, provided the issuer reports to the three major credit bureaus — Equifax, Experian, and TransUnion. Paying on time each month is the single most powerful credit-building action (payment history = 35% of FICO). Most major secured card programs report to all three bureaus.',
+    a: 'Yes, provided the issuer reports to the three major credit bureaus, Equifax, Experian, and TransUnion. Paying on time each month is the single most powerful credit-building action (payment history = 35% of FICO). Most major secured card programs report to all three bureaus.',
   },
   {
     q: 'How much does a secured card deposit cost?',
-    a: 'Most secured cards require a minimum deposit of $200 to $500. The deposit is fully refundable — you get it back when you close the account or are upgraded to an unsecured card. It is not applied to your monthly payments; it simply secures the credit line.',
+    a: 'Most secured cards require a minimum deposit of $200 to $500. The deposit is fully refundable, you get it back when you close the account or are upgraded to an unsecured card. It is not applied to your monthly payments; it simply secures the credit line.',
   },
   {
     q: 'How long does it take to go from zero to a good credit score?',
-    a: 'A FICO score appears after six months of activity on a reporting account. A score in the "fair" range (580–669) typically takes 12 months. Reaching "good" (670+) takes 18–24 months of consistent on-time payments and low utilization. The timeline is predictable and the inputs are within your control.',
+    a: 'A FICO score appears after six months of activity on a reporting account. A score in the "fair" range (580-669) typically takes 12 months. Reaching "good" (670+) takes 18-24 months of consistent on-time payments and low utilization. The timeline is predictable and the inputs are within your control.',
   },
   {
     q: 'Is ITINCreditCard.com a bank or card issuer?',
@@ -46,9 +46,9 @@ const faqs = [
     <div class="container hero-grid">
       <div>
         <span class="eyebrow">No SSN required</span>
-        <h1>Get a credit card with your ITIN — no SSN required</h1>
+        <h1>Get a credit card with your ITIN, no SSN required</h1>
         <p class="lede">
-          Building U.S. credit with an ITIN is possible — and faster than most people expect.
+          Building U.S. credit with an ITIN is possible, and faster than most people expect.
           We help ITIN holders find the right card, understand how approval works, and grow
           their score step by step.
         </p>
@@ -63,7 +63,7 @@ const faqs = [
         </div>
       </div>
       <div>
-        <CreditKarmaAd creativeId="3641203" cta="Shop our partner credit cards here" alt="Credit Karma — everything you need to grow your finances" />
+        <CreditKarmaAd creativeId="3641203" cta="Shop our partner credit cards here" alt="Credit Karma, everything you need to grow your finances" />
       </div>
     </div>
   </section>
@@ -99,7 +99,7 @@ const faqs = [
         <div class="step">
           <div class="num">1</div>
           <h3>Tell us what you need</h3>
-          <p>Answer a few quick questions about the type of card you're after and your state. Takes under a minute — no SSN, no credit pull.</p>
+          <p>Answer a few quick questions about the type of card you're after and your state. Takes under a minute, no SSN, no credit pull.</p>
         </div>
         <div class="step">
           <div class="num">2</div>
@@ -157,7 +157,7 @@ const faqs = [
     <div class="container">
       <div class="cta-band">
         <h2>Your ITIN is enough to start.</h2>
-        <p>Thousands of ITIN holders get approved for credit cards every year. Find out which card fits your situation — it's free and it won't touch your credit score.</p>
+        <p>Thousands of ITIN holders get approved for credit cards every year. Find out which card fits your situation, it's free and it won't touch your credit score.</p>
         <a href="/apply" class="btn btn-primary btn-lg">Find your card</a>
       </div>
     </div>
