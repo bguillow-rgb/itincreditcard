@@ -14,10 +14,10 @@ publishedAt: "2026-06-07"
 author: "ITIN Credit Card Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "store-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
   - "unsecured-credit-card-itin-holders"
   - "credit-limit-increase-itin-credit-card"
-  - "business-credit-card-with-itin"
 faqs:
   - q: "Can I get a secured credit card with only an ITIN and no SSN?"
     a: "Yes. Capital One, Bank of America, Citi, Wells Fargo, OpenSky, and several fintech issuers all accept an ITIN in place of an SSN for secured credit card applications. Your best odds come from starting at a bank where you already have a checking or savings account."
