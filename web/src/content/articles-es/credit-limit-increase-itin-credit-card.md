@@ -14,10 +14,10 @@ publishedAt: "2026-06-16"
 author: "Mateo Herrera"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "credit-card-denied-itin-what-to-do"
   - "how-to-apply-for-credit-card-with-itin"
   - "secured-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
-  - "authorized-user-credit-card-itin"
 faqs:
   - q: "¿Solicitar un aumento de límite de crédito afecta mi puntaje si tengo un ITIN?"
     a: "Depende del emisor. Una consulta suave (soft pull) no afecta tu puntaje para nada. Una consulta dura (hard pull) puede bajar tu puntaje temporalmente unos 5 a 15 puntos. Antes de enviar una solicitud formal, pregúntale a tu emisor qué tipo de consulta utiliza."
