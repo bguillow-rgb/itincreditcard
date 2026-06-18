@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card rejection itin holder next steps"
 quickAnswer: "If your credit card application was denied with an ITIN, read the adverse action notice to find the exact reason, then call the issuer's reconsideration line within 30 days. Common fixable causes include a thin credit file, a frozen credit report, or missing documentation. Switching to a secured card or a no-credit-check issuer is often the fastest fallback."
 publishedAt: "2026-06-17"
-author: "Mateo Herrera"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-limit-increase-itin-credit-card"

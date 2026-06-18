@@ -11,7 +11,7 @@ relatedQueries:
   - "target credit card itin"
 quickAnswer: "Some store and retail credit cards do accept an ITIN in place of an SSN. The Amazon Secured Card (Synchrony), certain co-branded cards from Capital One, and a handful of other retail-linked products have approved ITIN holders. Approval still depends on income, identity documents, and sometimes a security deposit."
 publishedAt: "2026-06-17"
-author: "Mateo Herrera"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito target con ITIN"
 quickAnswer: "Algunas tarjetas de crédito de tiendas y comercios sí aceptan un ITIN en lugar de un SSN. La Amazon Secured Card (Synchrony), ciertas tarjetas co-branded de Capital One y algunos otros productos vinculados a tiendas han aprobado a titulares de ITIN. La aprobación depende de tus ingresos, tus documentos de identidad y, en algunos casos, de un depósito de seguridad."
 publishedAt: "2026-06-17"
-author: "Mateo Herrera"
+author: "Kevin Tran"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"
