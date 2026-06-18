@@ -11,7 +11,7 @@ relatedQueries:
   - "solicitar aumento de línea de crédito siendo titular de ITIN"
 quickAnswer: "Los titulares de ITIN pueden obtener aumentos de límite de crédito de la misma forma que quienes tienen SSN: paga a tiempo durante 6 a 12 meses, mantén tu utilización por debajo del 30% y luego solicita el aumento en línea o por teléfono. Algunos emisores como Capital One y OpenSky también otorgan aumentos automáticos sin una nueva consulta dura al crédito."
 publishedAt: "2026-06-16"
-author: "Mateo Herrera"
+author: "Kevin Tran"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-denied-itin-what-to-do"

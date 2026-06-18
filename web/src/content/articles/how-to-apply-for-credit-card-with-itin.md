@@ -11,7 +11,7 @@ relatedQueries:
   - "itin credit card application process"
 quickAnswer: "To apply for a credit card with an ITIN, gather your ITIN letter, passport, proof of address, and proof of income, then choose an ITIN-accepting issuer like Capital One, Bank of America, or Citi. Apply online or by phone, entering your ITIN where the form asks for an SSN."
 publishedAt: "2026-06-11"
-author: "ITIN Credit Card Editorial Team"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "business-credit-card-with-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "how to join a credit union with an ITIN"
 quickAnswer: "Yes, many credit unions accept an ITIN instead of an SSN for both membership and credit card applications. Because credit unions are nonprofit and mission-driven, they often have more flexible underwriting than big banks, making them one of the strongest options for ITIN holders with thin or no U.S. credit history."
 publishedAt: "2026-06-11"
-author: "ITIN Credit Card Editorial Team"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"

@@ -11,13 +11,13 @@ relatedQueries:
   - "reporte a buró de crédito usuario autorizado con ITIN"
 quickAnswer: "Sí, los titulares de ITIN pueden convertirse en usuarios autorizados en la tarjeta de crédito de otra persona en EE. UU. sin necesitar un SSN. La mayoría de los grandes emisores (Chase, Capital One, Bank of America, Amex) solo piden nombre, fecha de nacimiento y dirección. Una vez que te agregan, el historial de pagos puntuales de la cuenta se reporta a las tres agencias de crédito bajo tu ITIN, ayudándote a construir un historial crediticio en EE. UU. desde cero."
 publishedAt: "2026-06-13"
-author: "ITIN Credit Card Editorial Team"
+author: "Sofía Castillo"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
   - "how-to-apply-for-credit-card-with-itin"
   - "rewards-credit-card-itin-holders"
-  - "how-to-build-credit-with-itin"
+  - "which-banks-accept-itin-for-credit-cards"
 faqs:
   - q: "¿Puedo convertirme en usuario autorizado en una tarjeta de crédito si solo tengo un ITIN?"
     a: "Sí. La mayoría de los grandes emisores, incluyendo Chase, Capital One y Bank of America, no exigen un SSN para agregar a un usuario autorizado. Por lo general, solo piden nombre, fecha de nacimiento y dirección postal. Proporcionar tu ITIN (donde se acepta) aumenta las probabilidades de que la cuenta aparezca en tu reporte de crédito."

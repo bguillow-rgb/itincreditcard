@@ -11,7 +11,7 @@ relatedQueries:
   - "capital one secured card itin"
 quickAnswer: "Yes, you can get a secured credit card with an ITIN instead of an SSN. Several major issuers, including Capital One, Bank of America, Citi, and OpenSky, accept ITIN on secured card applications. You'll need a refundable deposit (usually $200-$500), a valid photo ID, and proof of a U.S. address."
 publishedAt: "2026-06-07"
-author: "ITIN Credit Card Editorial Team"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "store-credit-card-with-itin"

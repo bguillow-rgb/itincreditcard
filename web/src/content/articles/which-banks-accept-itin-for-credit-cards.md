@@ -11,7 +11,7 @@ relatedQueries:
   - "bank of america itin credit card"
 quickAnswer: "Chase, American Express, Capital One, Bank of America, Citi, and Wells Fargo all accept an ITIN in place of an SSN on at least some credit card applications. Fintech issuers like Petal and OpenSky also accept ITINs, often with no credit history required. Acceptance varies by card, always confirm with the issuer before applying."
 publishedAt: "2026-06-08"
-author: "ITIN Credit Card Editorial Team"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"

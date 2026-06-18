@@ -42,6 +42,30 @@ export const SITE = {
     role: 'Editor',
     bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources, the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials, and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
     bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU., convirtiendo los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros y precisos. Cada guía se investiga con fuentes primarias, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
+    // Pen-name byline roster (Mateo leads). Daily/seed generators rotate new
+    // posts across these names so the site doesn't read as written by one hand.
+    // Every bio is honest about the real editorial process; none claims a
+    // fabricated license or credential (YMYL trust rule). Never Bob's real name.
+    team: [
+      {
+        name: 'Mateo Herrera',
+        role: 'Editor',
+        bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
+        bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
+      },
+      {
+        name: 'Sofía Castillo',
+        role: 'Secured & Starter Cards Writer',
+        bio: "Sofía Castillo writes ITIN Credit Card's coverage of secured and starter cards, deposit and credit-limit rules, and which issuers approve applicants with an ITIN. She builds each guide from issuers' own published application requirements and CFPB guidance, and verifies every fee and rate before it runs. Sofía writes in English and Spanish.",
+        bioEs: "Sofía Castillo escribe la cobertura de ITIN Credit Card sobre tarjetas con garantía y para principiantes, las reglas de depósito y límite de crédito, y qué emisores aprueban a solicitantes con un ITIN. Construye cada guía a partir de los requisitos de solicitud publicados por los emisores y las guías del CFPB. Sofía escribe en inglés y español.",
+      },
+      {
+        name: 'Kevin Tran',
+        role: 'Rewards & Approval Odds Writer',
+        bio: "Kevin Tran covers unsecured and business cards, rewards, and approval odds for ITIN holders at ITIN Credit Card. He digs into issuer underwriting signals, annual-fee tradeoffs, and how card use feeds the credit bureaus, checking each claim against issuers' published terms before it runs. Kevin writes in English and Spanish.",
+        bioEs: "Kevin Tran cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN en ITIN Credit Card. Investiga las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Kevin escribe en inglés y español.",
+      },
+    ],
   },
 
   // Analytics + tracking. Values come from env vars at build time so local

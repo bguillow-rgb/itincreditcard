@@ -11,7 +11,7 @@ relatedQueries:
   - "credit line increase request itin holder"
 quickAnswer: "ITIN holders can get credit limit increases the same way SSN holders do: pay on time for 6-12 months, keep utilization below 30%, then request an increase online or by phone. Some issuers like Capital One and OpenSky also grant automatic increases without a new hard inquiry."
 publishedAt: "2026-06-16"
-author: "Mateo Herrera"
+author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"

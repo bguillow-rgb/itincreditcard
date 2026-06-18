@@ -10,7 +10,7 @@ relatedQueries:
   - "tarjeta de crédito para titulares de ITIN"
 quickAnswer: "Sí. Muchos bancos, cooperativas de crédito y empresas fintech en EE. UU. aceptan un ITIN en lugar de un SSN en la solicitud de tarjeta de crédito. Una tarjeta asegurada, respaldada por un depósito reembolsable de $200-$500, es el punto de partida más fácil para titulares de ITIN sin historial crediticio en EE. UU. Paga a tiempo y la mayoría de los emisores te actualizarán a una tarjeta no asegurada en 6-12 meses."
 publishedAt: "2026-06-05"
-author: "ITIN Credit Card Editorial Team"
+author: "Sofía Castillo"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"

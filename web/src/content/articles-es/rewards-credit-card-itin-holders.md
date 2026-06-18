@@ -11,13 +11,13 @@ relatedQueries:
   - "tarjeta de recompensas de viaje sin SSN"
 quickAnswer: "Sí, los titulares de ITIN pueden ganar reembolso en efectivo y recompensas de viaje. Emisores como Capital One, Chase y American Express aceptan un ITIN en lugar de un SSN en tarjetas de recompensas seleccionadas. Tus recompensas funcionan exactamente igual que para cualquier otro titular, el ITIN es simplemente el identificador registrado en la cuenta."
 publishedAt: "2026-06-15"
-author: "Mateo Herrera"
+author: "Sofía Castillo"
 category: "Tarjetas de Crédito"
 relatedSlugs:
-  - "how-to-build-credit-with-itin"
-  - "store-credit-card-with-itin"
   - "credit-union-credit-card-itin"
   - "can-you-get-a-credit-card-with-an-itin"
+  - "secured-credit-card-with-itin"
+  - "unsecured-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo ganar reembolso en efectivo con una tarjeta de crédito si solo tengo un ITIN?"
     a: "Sí. Varios emisores importantes, entre ellos Capital One y Chase, ofrecen tarjetas con reembolso en efectivo que aceptan un ITIN. Ganas y canjeas recompensas exactamente igual que cualquier otro titular. Tu ITIN es simplemente el número de identificación fiscal que se usa para abrir la cuenta."

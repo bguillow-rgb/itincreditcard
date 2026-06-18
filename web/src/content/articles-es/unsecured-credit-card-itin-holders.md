@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito con ITIN sin depósito de seguridad"
 quickAnswer: "Los titulares de ITIN pueden calificar para tarjetas de crédito no aseguradas, es decir, sin depósito de garantía, con emisores como Capital One, Petal y Zolve. La mayoría comienza con una tarjeta asegurada, genera 6 a 12 meses de pagos puntuales y luego hace la transición. Algunas tarjetas fintech eliminan el requisito de depósito desde el primer día."
 publishedAt: "2026-06-09"
-author: "ITIN Credit Card Editorial Team"
+author: "Mateo Herrera"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"

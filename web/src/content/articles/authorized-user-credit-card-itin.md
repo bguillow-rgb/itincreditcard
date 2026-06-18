@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN authorized user credit bureau reporting"
 quickAnswer: "Yes, ITIN holders can become authorized users on another person's U.S. credit card without an SSN. Most major issuers (Chase, Capital One, Bank of America, Amex) only require a name, date of birth, and address. Once added, the account's on-time payment history reports to all three credit bureaus under your ITIN, helping you build a U.S. credit score from scratch."
 publishedAt: "2026-06-13"
-author: "ITIN Credit Card Editorial Team"
+author: "Sofía Castillo"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-union-credit-card-itin"
