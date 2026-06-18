@@ -14,10 +14,10 @@ publishedAt: "2026-06-17"
 author: "Kevin Tran"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "cash-back-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
   - "rewards-credit-card-itin-holders"
   - "unsecured-credit-card-itin-holders"
-  - "credit-union-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito de tienda con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, pero tus opciones se reducen bastante. Las tarjetas aseguradas vinculadas a tiendas, como la Amazon Secured Card emitida por Synchrony, están diseñadas específicamente para solicitantes sin historial crediticio y aceptan ITIN. Las tarjetas co-branded de ciclo abierto (como las emitidas por Capital One) también pueden aceptar ITIN, pero generalmente requieren al menos un historial crediticio mínimo."

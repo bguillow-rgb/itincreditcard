@@ -14,10 +14,10 @@ publishedAt: "2026-06-16"
 author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
+  - "upgrade-secured-to-unsecured-credit-card-itin"
   - "secured-credit-card-with-itin"
+  - "build-credit-with-itin-credit-card"
   - "business-credit-card-with-itin"
-  - "credit-card-denied-itin-what-to-do"
-  - "unsecured-credit-card-itin-holders"
 faqs:
   - q: "Does requesting a credit limit increase hurt my credit score if I have an ITIN?"
     a: "It depends on the issuer. A soft-pull request will not affect your score at all. A hard-pull request may temporarily lower your score by roughly 5-15 points. Ask your issuer which type of inquiry they use before submitting a formal request."

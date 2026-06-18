@@ -14,10 +14,10 @@ publishedAt: "2026-06-15"
 author: "Sofía Castillo"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "cash-back-credit-card-itin-holders"
   - "store-credit-card-with-itin"
-  - "credit-union-credit-card-itin"
-  - "can-you-get-a-credit-card-with-an-itin"
-  - "secured-credit-card-with-itin"
+  - "travel-credit-card-itin-holders"
+  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Puedo ganar reembolso en efectivo con una tarjeta de crédito si solo tengo un ITIN?"
     a: "Sí. Varios emisores importantes, entre ellos Capital One y Chase, ofrecen tarjetas con reembolso en efectivo que aceptan un ITIN. Ganas y canjeas recompensas exactamente igual que cualquier otro titular. Tu ITIN es simplemente el número de identificación fiscal que se usa para abrir la cuenta."

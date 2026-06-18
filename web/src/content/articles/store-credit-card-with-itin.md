@@ -14,10 +14,10 @@ publishedAt: "2026-06-17"
 author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
+  - "cash-back-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
   - "unsecured-credit-card-itin-holders"
-  - "credit-union-credit-card-itin"
-  - "rewards-credit-card-itin-holders"
+  - "credit-card-international-students-itin"
 faqs:
   - q: "Can I get a store credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but your options narrow considerably. Secured retail-linked cards, such as the Amazon Secured Card issued by Synchrony, are specifically designed for applicants with no credit history and accept ITIN. Open-loop retail co-branded cards (like those issued by Capital One) may also accept ITIN, but typically want at least a thin credit file."
