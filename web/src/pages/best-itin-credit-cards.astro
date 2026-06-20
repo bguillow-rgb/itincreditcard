@@ -1,0 +1,155 @@
+---
+import MoneyPageLayout from '../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: 'What is the best type of credit card for an ITIN holder?',
+    a: 'For most ITIN holders with no U.S. credit history, a secured card is the best starting point, approval is nearly automatic because your refundable deposit covers the issuer. If you have 6-12 months of history, a credit-builder fintech card or an unsecured starter card becomes the better pick. The "best" card is the one you can actually get approved for that reports to all three bureaus.',
+  },
+  {
+    q: 'Do the best ITIN credit cards charge an annual fee?',
+    a: 'Not always. The strongest options for building credit charge $0 to $35 per year. Avoid any card with high monthly "maintenance" fees, those quietly eat into your credit limit and provide no benefit. A low or no annual fee plus reporting to all three bureaus matters far more than rewards when your goal is building a credit file.',
+  },
+  {
+    q: 'Can I get a card with rewards using only an ITIN?',
+    a: 'Cash-back and points cards exist for ITIN holders, but most require an established credit file first. Start with a secured or credit-builder card, build 12+ months of on-time history, then graduate to a rewards card. Chasing rewards before you have a score usually ends in a rejection and a wasted hard inquiry.',
+  },
+  {
+    q: 'How many ITIN credit cards should I apply for?',
+    a: 'One at a time. Each application triggers a hard inquiry that can lower your score a few points, and multiple inquiries in a short window look risky to lenders. Open one card, use it responsibly for 6-12 months, then add a second account only if you need to. Two well-managed cards is plenty to build a strong file.',
+  },
+  {
+    q: 'Which is better for an ITIN holder, a credit union or a fintech card?',
+    a: 'Both work, they suit different people. Local credit unions often approve ITIN holders with a foreign passport and tend to charge low fees, but you usually have to apply in person and meet membership requirements. Fintech credit-builder cards let you apply online in minutes and frequently skip the hard pull, but read the fee structure carefully. The best choice is whichever one you can qualify for that reports to all three bureaus.',
+  },
+];
+
+const quickAnswer =
+  'The best ITIN credit card is the one you can get approved for that reports to all three credit bureaus with a low or no annual fee. For a thin or empty credit file, that is almost always a secured card or a credit-builder fintech card. Once you have 6-12 months of on-time history, an unsecured starter or credit-union card becomes the better pick. Match the card to your stage, not to its rewards.';
+---
+<MoneyPageLayout
+  title="Best ITIN Credit Cards in 2026: How to Choose"
+  h1="Best Credit Cards for ITIN Holders"
+  description="How to choose the best credit card with an ITIN: the five card archetypes that accept an ITIN, what to compare, which fits your credit stage, and the fees and bureau reporting that actually matter."
+  path="/best-itin-credit-cards"
+  eyebrow="Best cards"
+  lede="There is no single 'best' ITIN credit card, there is the best card for your stage. This guide compares the five archetypes that accept an ITIN so you apply once and get approved."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="A person comparing credit card options on a phone"
+>
+  <h2>What makes a credit card "best" for an ITIN holder?</h2>
+  <p>
+    When you have a thin or empty U.S. credit file, the flashy rewards and sign-up bonuses that
+    dominate "best credit card" lists are irrelevant, you won't be approved for those cards yet.
+    For an ITIN holder building credit, the best card is defined by three things, in order:
+  </p>
+  <ul class="lead-list">
+    <li><strong>You can actually get approved.</strong> A card with a 750+ FICO requirement isn't "best" if it rejects you, a rejection costs you a hard inquiry and gets you nothing.</li>
+    <li><strong>It reports to all three bureaus</strong> (Equifax, Experian, TransUnion). A card that doesn't report, or reports to only one bureau, won't build a full credit file no matter how perfectly you pay.</li>
+    <li><strong>Low or no fees.</strong> The best building cards charge $0-$35 a year. Monthly "maintenance" fees and high annual fees are the single biggest trap, they reduce your usable credit and provide nothing in return.</li>
+  </ul>
+  <p>
+    Rewards, credit-limit size, and mobile-app polish are tie-breakers, not deciding factors. Get those
+    three fundamentals right and you have the best card for your situation.
+  </p>
+
+  <h2>Which credit card archetypes accept an ITIN?</h2>
+  <p>
+    Five distinct types of card will work with an ITIN. Each suits a different starting point. Find the
+    row that matches where you are and start there, you can always graduate later.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Card archetype</th>
+        <th>Best for</th>
+        <th>Deposit required?</th>
+        <th>Typical annual fee</th>
+        <th>Hard inquiry?</th>
+        <th>Builds credit?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/secured-credit-cards">Secured card</a></td>
+        <td>No / thin credit history, highest approval odds</td>
+        <td>Yes, $200-$500 refundable</td>
+        <td>$0-$35</td>
+        <td>Sometimes</td>
+        <td>Yes, all 3 bureaus</td>
+      </tr>
+      <tr>
+        <td>Credit-builder fintech card</td>
+        <td>Online applicants who want to skip the hard pull</td>
+        <td>Sometimes (varies by app)</td>
+        <td>$0, watch monthly fees</td>
+        <td>Often no</td>
+        <td>Yes, all 3 bureaus</td>
+      </tr>
+      <tr>
+        <td>Credit-union card</td>
+        <td>Those who can apply in person with a passport</td>
+        <td>Secured or unsecured options</td>
+        <td>Usually low</td>
+        <td>Yes</td>
+        <td>Yes, all 3 bureaus</td>
+      </tr>
+      <tr>
+        <td><a href="/unsecured-credit-cards">Unsecured starter card</a></td>
+        <td>6-12+ months of existing on-time history</td>
+        <td>No</td>
+        <td>$0-$99, read carefully</td>
+        <td>Yes</td>
+        <td>Yes, all 3 bureaus</td>
+      </tr>
+      <tr>
+        <td><a href="/business-credit-cards">Business card</a></td>
+        <td>ITIN holders with a registered U.S. business</td>
+        <td>Varies</td>
+        <td>Varies</td>
+        <td>Usually yes</td>
+        <td>Often to business bureaus</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    These are categories, not specific card recommendations, fees and terms change often and vary by
+    issuer. Always confirm the current deposit, fee, and that the issuer
+    <a href="/credit-cards-that-accept-itin">explicitly accepts an ITIN</a> before you apply.
+  </p>
+
+  <h2>Which card is best for your credit stage?</h2>
+  <p>
+    The fastest way to pick is to match the card to your stage, not to a "top 10" list. Be honest about
+    where you are today:
+  </p>
+  <ul class="lead-list">
+    <li><strong>No U.S. credit file at all</strong> &rarr; start with a <a href="/secured-credit-cards">secured card</a> or a credit-builder fintech card. Approval is near-automatic and you'll have a scoreable file in about six months.</li>
+    <li><strong>6-12 months of on-time history</strong> &rarr; you can often add an unsecured starter card or graduate your secured card. Keep the first account open for the age-of-accounts benefit.</li>
+    <li><strong>12+ months and a 670+ score</strong> &rarr; mainstream and rewards cards open up. Now rewards and perks become a fair tie-breaker.</li>
+    <li><strong>You own a registered U.S. business</strong> &rarr; a <a href="/business-credit-cards">business card</a> can build business credit alongside your personal file.</li>
+  </ul>
+
+  <h2>How do you compare two ITIN cards head-to-head?</h2>
+  <p>
+    Once you've narrowed to two cards in the same archetype, compare them on the factors that move your
+    score and protect your wallet, in this priority order:
+  </p>
+  <ol class="lead-list">
+    <li><strong>Bureau reporting</strong>, must be all three. This is non-negotiable; it's the entire point.</li>
+    <li><strong>Total cost of fees</strong>, add the annual fee plus any monthly fee &times; 12. A "$0 annual fee" card with a $9/month fee actually costs $108 a year.</li>
+    <li><strong>ITIN acceptance</strong>, confirmed in writing or by the issuer, not assumed.</li>
+    <li><strong>Upgrade path</strong>, can a secured card graduate to unsecured and refund your deposit?</li>
+    <li><strong>Deposit flexibility</strong>, for secured cards, can you raise your limit later by adding to the deposit?</li>
+    <li><strong>Rewards and perks</strong>, only after the five factors above are equal.</li>
+  </ol>
+  <p>
+    Next: see <a href="/secured-credit-cards">secured cards for ITIN holders</a> &middot;
+    <a href="/unsecured-credit-cards">unsecured cards</a> &middot;
+    <a href="/credit-cards-that-accept-itin">which issuers accept an ITIN</a> &middot;
+    the <a href="/itin-credit-cards-guide">complete ITIN credit card guide</a> &middot;
+    or <a href="/apply">find your card now</a>.
+  </p>
+</MoneyPageLayout>

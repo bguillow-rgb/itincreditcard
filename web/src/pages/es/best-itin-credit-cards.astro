@@ -1,0 +1,159 @@
+---
+import MoneyPageLayout from '../../layouts/MoneyPageLayout.astro';
+
+const faqs = [
+  {
+    q: '¿Cuál es el mejor tipo de tarjeta de crédito para una persona con ITIN?',
+    a: 'Para la mayoría de las personas con ITIN sin historial crediticio en EE. UU., una tarjeta con garantía es el mejor punto de partida, la aprobación es casi automática porque tu depósito reembolsable cubre al emisor. Si ya tienes de 6 a 12 meses de historial, una tarjeta fintech para construir crédito o una tarjeta sin garantía para principiantes es la mejor opción. La "mejor" tarjeta es la que realmente te puedan aprobar y que reporte a los tres burós.',
+  },
+  {
+    q: '¿Las mejores tarjetas de crédito con ITIN cobran cuota anual?',
+    a: 'No siempre. Las mejores opciones para construir crédito cobran de $0 a $35 al año. Evita cualquier tarjeta con altas cuotas mensuales de "mantenimiento", esas reducen silenciosamente tu límite de crédito y no aportan ningún beneficio. Una cuota anual baja o nula y el reporte a los tres burós importan mucho más que las recompensas cuando tu meta es construir un historial crediticio.',
+  },
+  {
+    q: '¿Puedo obtener una tarjeta con recompensas usando solo un ITIN?',
+    a: 'Existen tarjetas de reembolso y de puntos para personas con ITIN, pero la mayoría requieren primero un historial crediticio establecido. Empieza con una tarjeta con garantía o para construir crédito, acumula más de 12 meses de pagos puntuales y luego pasa a una tarjeta de recompensas. Buscar recompensas antes de tener un puntaje suele terminar en un rechazo y una consulta de crédito desperdiciada.',
+  },
+  {
+    q: '¿Para cuántas tarjetas de crédito con ITIN debo solicitar?',
+    a: 'Una a la vez. Cada solicitud genera una consulta dura que puede bajar tu puntaje unos puntos, y varias consultas en poco tiempo se ven riesgosas para los prestamistas. Abre una tarjeta, úsala de forma responsable durante 6 a 12 meses y luego agrega una segunda cuenta solo si la necesitas. Dos tarjetas bien manejadas son suficientes para construir un historial sólido.',
+  },
+  {
+    q: '¿Qué es mejor para una persona con ITIN, una cooperativa de crédito o una tarjeta fintech?',
+    a: 'Ambas funcionan, se adaptan a personas diferentes. Las cooperativas de crédito locales suelen aprobar a personas con ITIN con un pasaporte extranjero y tienden a cobrar cuotas bajas, pero normalmente debes solicitar en persona y cumplir requisitos de membresía. Las tarjetas fintech para construir crédito te permiten solicitar en línea en minutos y a menudo evitan la consulta dura, pero lee bien la estructura de cuotas. La mejor opción es aquella para la que califiques y que reporte a los tres burós.',
+  },
+];
+
+const quickAnswer =
+  'La mejor tarjeta de crédito con ITIN es aquella para la que te puedan aprobar, que reporte a los tres burós de crédito y que tenga cuota anual baja o nula. Para un historial crediticio escaso o vacío, casi siempre es una tarjeta con garantía o una tarjeta fintech para construir crédito. Una vez que tengas de 6 a 12 meses de pagos puntuales, una tarjeta sin garantía para principiantes o de cooperativa de crédito es la mejor opción. Elige la tarjeta según tu etapa, no según sus recompensas.';
+---
+<MoneyPageLayout
+  title="Mejores Tarjetas de Crédito con ITIN en 2026: Cómo Elegir"
+  h1="Mejores Tarjetas de Crédito para Personas con ITIN"
+  description="Cómo elegir la mejor tarjeta de crédito con un ITIN: los cinco tipos de tarjeta que aceptan un ITIN, qué comparar, cuál se adapta a tu etapa de crédito, y las cuotas y el reporte a los burós que realmente importan."
+  path="/es/best-itin-credit-cards"
+  eyebrow="Mejores tarjetas"
+  lede="No existe una sola 'mejor' tarjeta de crédito con ITIN, existe la mejor tarjeta para tu etapa. Esta guía compara los cinco tipos que aceptan un ITIN para que solicites una vez y te aprueben."
+  quickAnswer={quickAnswer}
+  faqs={faqs}
+  heroImage="/img/credit-building.webp"
+  heroAlt="Una persona comparando opciones de tarjetas de crédito en su teléfono"
+>
+  <h2>¿Qué hace que una tarjeta de crédito sea la "mejor" para una persona con ITIN?</h2>
+  <p>
+    Cuando tienes un historial crediticio escaso o vacío en EE. UU., las recompensas llamativas y los
+    bonos de bienvenida que dominan las listas de "mejores tarjetas" son irrelevantes, todavía no te
+    aprobarán para esas tarjetas. Para una persona con ITIN que construye crédito, la mejor tarjeta se
+    define por tres cosas, en este orden:
+  </p>
+  <ul class="lead-list">
+    <li><strong>Que realmente te aprueben.</strong> Una tarjeta que exige un puntaje FICO de 750+ no es la "mejor" si te rechaza, un rechazo te cuesta una consulta dura y no te da nada.</li>
+    <li><strong>Que reporte a los tres burós</strong> (Equifax, Experian, TransUnion). Una tarjeta que no reporta, o que reporta a un solo buró, no construirá un historial crediticio completo por muy puntual que pagues.</li>
+    <li><strong>Cuotas bajas o nulas.</strong> Las mejores tarjetas para construir crédito cobran de $0 a $35 al año. Las cuotas mensuales de "mantenimiento" y las altas cuotas anuales son la mayor trampa, reducen tu crédito disponible y no aportan nada a cambio.</li>
+  </ul>
+  <p>
+    Las recompensas, el tamaño del límite de crédito y lo pulida que sea la app son criterios de
+    desempate, no factores decisivos. Acierta en esos tres fundamentos y tendrás la mejor tarjeta para
+    tu situación.
+  </p>
+
+  <h2>¿Qué tipos de tarjeta aceptan un ITIN?</h2>
+  <p>
+    Cinco tipos distintos de tarjeta funcionan con un ITIN. Cada uno se adapta a un punto de partida
+    diferente. Encuentra la fila que corresponde a tu situación y empieza ahí, siempre puedes avanzar
+    después.
+  </p>
+  <table>
+    <thead>
+      <tr>
+        <th>Tipo de tarjeta</th>
+        <th>Ideal para</th>
+        <th>¿Requiere depósito?</th>
+        <th>Cuota anual típica</th>
+        <th>¿Consulta dura?</th>
+        <th>¿Construye crédito?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/es/secured-credit-cards">Tarjeta con garantía</a></td>
+        <td>Historial escaso o nulo, mayores probabilidades de aprobación</td>
+        <td>Sí, $200-$500 reembolsable</td>
+        <td>$0-$35</td>
+        <td>A veces</td>
+        <td>Sí, los 3 burós</td>
+      </tr>
+      <tr>
+        <td>Tarjeta fintech para construir crédito</td>
+        <td>Quienes solicitan en línea y quieren evitar la consulta dura</td>
+        <td>A veces (varía por app)</td>
+        <td>$0, cuidado con cuotas mensuales</td>
+        <td>A menudo no</td>
+        <td>Sí, los 3 burós</td>
+      </tr>
+      <tr>
+        <td>Tarjeta de cooperativa de crédito</td>
+        <td>Quienes pueden solicitar en persona con pasaporte</td>
+        <td>Opciones con o sin garantía</td>
+        <td>Normalmente baja</td>
+        <td>Sí</td>
+        <td>Sí, los 3 burós</td>
+      </tr>
+      <tr>
+        <td><a href="/es/unsecured-credit-cards">Tarjeta sin garantía para principiantes</a></td>
+        <td>6-12+ meses de historial puntual existente</td>
+        <td>No</td>
+        <td>$0-$99, lee con cuidado</td>
+        <td>Sí</td>
+        <td>Sí, los 3 burós</td>
+      </tr>
+      <tr>
+        <td><a href="/es/business-credit-cards">Tarjeta de negocios</a></td>
+        <td>Personas con ITIN con un negocio registrado en EE. UU.</td>
+        <td>Varía</td>
+        <td>Varía</td>
+        <td>Normalmente sí</td>
+        <td>A menudo a burós de negocios</td>
+      </tr>
+    </tbody>
+  </table>
+  <p>
+    Estas son categorías, no recomendaciones de tarjetas específicas, las cuotas y los términos cambian
+    con frecuencia y varían según el emisor. Confirma siempre el depósito y la cuota actuales, y que el
+    emisor <a href="/es/credit-cards-that-accept-itin">acepte explícitamente un ITIN</a> antes de
+    solicitar.
+  </p>
+
+  <h2>¿Cuál es la mejor tarjeta para tu etapa de crédito?</h2>
+  <p>
+    La forma más rápida de elegir es adaptar la tarjeta a tu etapa, no a una lista de "los 10 mejores".
+    Sé honesto sobre dónde estás hoy:
+  </p>
+  <ul class="lead-list">
+    <li><strong>Sin historial crediticio en EE. UU.</strong> &rarr; empieza con una <a href="/es/secured-credit-cards">tarjeta con garantía</a> o una tarjeta fintech para construir crédito. La aprobación es casi automática y tendrás un historial calificable en unos seis meses.</li>
+    <li><strong>6-12 meses de historial puntual</strong> &rarr; a menudo puedes agregar una tarjeta sin garantía para principiantes o avanzar desde tu tarjeta con garantía. Mantén abierta la primera cuenta por el beneficio de la antigüedad.</li>
+    <li><strong>12+ meses y un puntaje de 670+</strong> &rarr; se abren las tarjetas convencionales y de recompensas. Ahora las recompensas y los beneficios son un criterio de desempate justo.</li>
+    <li><strong>Tienes un negocio registrado en EE. UU.</strong> &rarr; una <a href="/es/business-credit-cards">tarjeta de negocios</a> puede construir crédito comercial junto a tu historial personal.</li>
+  </ul>
+
+  <h2>¿Cómo comparas dos tarjetas con ITIN una contra otra?</h2>
+  <p>
+    Una vez que hayas reducido la elección a dos tarjetas del mismo tipo, compáralas según los factores
+    que mueven tu puntaje y protegen tu bolsillo, en este orden de prioridad:
+  </p>
+  <ol class="lead-list">
+    <li><strong>Reporte a los burós</strong>, debe ser a los tres. Esto no es negociable; es el objetivo principal.</li>
+    <li><strong>Costo total de las cuotas</strong>, suma la cuota anual más cualquier cuota mensual &times; 12. Una tarjeta de "$0 de cuota anual" con una cuota de $9 al mes en realidad cuesta $108 al año.</li>
+    <li><strong>Aceptación del ITIN</strong>, confirmada por escrito o por el emisor, no asumida.</li>
+    <li><strong>Camino de actualización</strong>, ¿puede una tarjeta con garantía pasar a sin garantía y devolver tu depósito?</li>
+    <li><strong>Flexibilidad del depósito</strong>, para tarjetas con garantía, ¿puedes subir tu límite después agregando al depósito?</li>
+    <li><strong>Recompensas y beneficios</strong>, solo después de que los cinco factores anteriores sean iguales.</li>
+  </ol>
+  <p>
+    Siguiente: ve <a href="/es/secured-credit-cards">tarjetas con garantía para personas con ITIN</a> &middot;
+    <a href="/es/unsecured-credit-cards">tarjetas sin garantía</a> &middot;
+    <a href="/es/credit-cards-that-accept-itin">qué emisores aceptan un ITIN</a> &middot;
+    la <a href="/es/itin-credit-cards-guide">guía completa de tarjetas de crédito con ITIN</a> &middot;
+    o <a href="/es/apply">encuentra tu tarjeta ahora</a>.
+  </p>
+</MoneyPageLayout>

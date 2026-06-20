@@ -169,6 +169,14 @@ export const PRODUCTS = [
     icon: 'card',
   },
   {
+    slug: 'best-itin-credit-cards',
+    label: 'Best ITIN Cards',
+    labelEs: 'Mejores Tarjetas ITIN',
+    blurb: 'Compare the card types and pick the best for your stage.',
+    blurbEs: 'Compara los tipos de tarjeta y elige la mejor para tu etapa.',
+    icon: 'star',
+  },
+  {
     slug: 'credit-cards-that-accept-itin',
     label: 'Cards That Accept ITIN',
     labelEs: 'Tarjetas que Aceptan ITIN',
@@ -233,6 +241,7 @@ export const NAV_CTA = { label: 'Apply Here', labelEs: 'Aplica aquí', href: '/a
 // Unsecured ITIN cards are the hardest to get approved for, so they fall back
 // to broader "accepts ITIN" then secured-card offers.
 export const AFFILIATE_FALLBACKS: Record<string, string[]> = {
+  'best-itin-credit-cards': ['credit-cards-that-accept-itin', 'secured-credit-cards'],
   'unsecured-credit-cards': ['credit-cards-that-accept-itin', 'secured-credit-cards'],
   'credit-cards-that-accept-itin': ['secured-credit-cards'],
   'business-credit-cards': ['build-credit-with-itin'],
