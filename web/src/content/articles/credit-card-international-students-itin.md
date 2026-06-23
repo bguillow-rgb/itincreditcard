@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"
   - "travel-credit-card-itin-holders"
+  - "balance-transfer-credit-card-itin"
   - "no-foreign-transaction-fee-credit-card-itin"
-  - "unsecured-credit-card-itin-holders"
 faqs:
   - q: "Can an international student on an F-1 visa get a credit card without an SSN?"
     a: "Yes. F-1 students who cannot get an SSN can apply for a credit card using an ITIN. Capital One, Bank of America, and several fintech issuers like Zolve and Firstcard accept ITINs or even just a passport for student and secured card applications."

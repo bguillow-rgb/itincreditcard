@@ -13,10 +13,10 @@ publishedAt: "2026-06-05"
 author: "Sofía Castillo"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "balance-transfer-credit-card-itin"
   - "credit-card-international-students-itin"
   - "credit-card-prequalification-itin"
   - "how-to-apply-for-credit-card-with-itin"
-  - "travel-credit-card-itin-holders"
 faqs:
   - q: "¿En qué campo escribo mi ITIN en la solicitud de tarjeta de crédito?"
     a: "La mayoría de las solicitudes tienen un campo que dice 'Social Security Number' o 'Tax ID Number'. Escribe ahí tu ITIN de nueve dígitos. Algunos sistemas en línea validan el número y pueden rechazar un ITIN, si eso ocurre, intenta solicitar en una sucursal o por teléfono, donde un agente puede ingresarlo manualmente."

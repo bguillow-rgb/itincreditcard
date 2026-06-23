@@ -17,7 +17,7 @@ relatedSlugs:
   - "rewards-credit-card-itin-holders"
   - "no-foreign-transaction-fee-credit-card-itin"
   - "credit-card-international-students-itin"
-  - "cash-back-credit-card-itin-holders"
+  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "Can I get a travel credit card with only an ITIN and no U.S. credit history?"
     a: "It is very difficult to get a premium travel card with zero U.S. credit history. Most travel rewards cards require at least a fair-to-good credit score. Start with a secured card, build 12 months of on-time payments, then apply for a travel card. Capital One's entry-level travel cards are among the most accessible for ITIN holders with limited history."
