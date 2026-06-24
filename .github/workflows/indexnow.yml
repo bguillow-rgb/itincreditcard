@@ -1,0 +1,40 @@
+name: IndexNow ping
+
+# After new content ships to /docs (GitHub Pages), submit itincreditcard.com URLs to
+# IndexNow so Bing/Yandex/etc. re-crawl quickly. Google ignores IndexNow, but
+# Bing feeds ChatGPT/Copilot, so this matters for answer-engine visibility.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: indexnow
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Ping IndexNow
+        # Key is public by design (served at public/62731beede9e26ca35e66e302b5fc506.txt)
+        env:
+          PUBLIC_INDEXNOW_KEY: 62731beede9e26ca35e66e302b5fc506
+        run: node scripts/indexnow.mjs || true
