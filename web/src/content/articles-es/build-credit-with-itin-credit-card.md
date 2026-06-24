@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Kevin Tran"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "improve-credit-card-approval-odds-itin"
   - "low-apr-credit-card-itin-holders"
   - "travel-credit-card-itin-holders"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Puedo construir un puntaje de crédito en EE. UU. usando solo mi ITIN?"
     a: "Sí. Los tres principales burós de crédito (Equifax, Experian, TransUnion) usan tu ITIN como identificador de archivo de la misma manera en que usan un SSN. Una vez que el emisor de tu tarjeta reporta tu actividad de pagos con tu ITIN, tu historial crediticio se abre y se puede calcular un puntaje. El cálculo del puntaje es idéntico sin importar qué número identifica tu archivo."
