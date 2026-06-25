@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Mateo Herrera"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "credit-card-undocumented-immigrants-itin"
   - "travel-credit-card-itin-holders"
   - "can-you-get-a-credit-card-with-an-itin"
   - "cash-back-credit-card-itin-holders"
-  - "credit-card-prequalification-itin"
 faqs:
   - q: "¿Puede un estudiante internacional con visa F-1 obtener una tarjeta de crédito sin SSN?"
     a: "Sí. Los estudiantes con visa F-1 que no pueden obtener un SSN pueden solicitar una tarjeta de crédito usando un ITIN. Capital One, Bank of America y varias fintechs como Zolve y Firstcard aceptan ITIN, o incluso solo un pasaporte, para solicitudes de tarjetas estudiantiles y aseguradas."

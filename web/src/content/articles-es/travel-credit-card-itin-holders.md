@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-card-international-students-itin"
+  - "credit-card-undocumented-immigrants-itin"
   - "rewards-credit-card-itin-holders"
-  - "can-you-get-a-credit-card-with-an-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito de viaje solo con mi ITIN y sin historial crediticio en EE. UU.?"
     a: "Es muy difícil obtener una tarjeta de viaje premium sin ningún historial crediticio en EE. UU. La mayoría de las tarjetas de recompensas de viaje requieren al menos un puntaje de crédito regular a bueno. Empieza con una tarjeta asegurada, acumula 12 meses de pagos puntuales y luego solicita una tarjeta de viaje. Las tarjetas de entrada de Capital One están entre las más accesibles para titulares de ITIN con historial limitado."
