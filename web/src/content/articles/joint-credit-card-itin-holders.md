@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-denied-itin-what-to-do"
   - "credit-card-prequalification-itin"
   - "how-to-apply-for-credit-card-with-itin"
-  - "authorized-user-credit-card-itin"
+  - "income-requirements-credit-card-itin"
 faqs:
   - q: "Can I apply for a joint credit card with an ITIN instead of an SSN?"
     a: "Yes, but only at a limited number of institutions. Most of the top 10 U.S. card issuers have stopped offering joint credit cards entirely. Your best options are local credit unions and community banks that serve immigrant communities, as many accept ITINs for joint applications."
