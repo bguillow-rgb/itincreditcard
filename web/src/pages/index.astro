@@ -40,38 +40,39 @@ const faqs = [
 ];
 ---
 <BaseLayout title={SITE.name} ogImage="/og/home.png">
-  <!-- Hero -->
-  <section class="hero hero--image">
-    <img class="hero-bg" src="/img/credit-cards.webp" alt="A stack of credit cards on a clean surface" loading="eager" fetchpriority="high" decoding="async" />
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">No SSN required</span>
+  <!-- Spotlight hero (image-led, bold) -->
+  <section class="spotlight">
+    <img class="spotlight-photo" src="/img/credit-cards.webp" alt="A stack of credit cards on a clean surface" loading="eager" fetchpriority="high" decoding="async" />
+    <div class="container spotlight-stage">
+      <div class="spotlight-copy">
+        <span class="spotlight-chip">No SSN required</span>
         <h1>Get a credit card with your ITIN, no SSN required</h1>
         <p class="lede">
           Building U.S. credit with an ITIN is possible, and faster than most people expect.
           We help ITIN holders find the right card, understand how approval works, and grow
           their score step by step.
         </p>
-        <div class="hero-cta">
-          <a href="/apply" class="btn btn-primary btn-lg">Find your card</a>
+        <div class="spotlight-cta">
+          <a href="/apply" class="btn btn-gold btn-lg">Find your card</a>
           <a href="/itin-credit-cards-guide" class="btn btn-secondary btn-lg">How ITIN credit cards work</a>
         </div>
-        <div class="hero-trust">
-          <span><span class="check">&#10003;</span> No SSN needed</span>
-          <span><span class="check">&#10003;</span> No credit impact to check</span>
-          <span><span class="check">&#10003;</span> Secured &amp; unsecured options</span>
+        <div class="spotlight-proof">
+          <span class="proof-pill"><span class="check">&#10003;</span> No SSN needed</span>
+          <span class="proof-pill"><span class="check">&#10003;</span> No credit impact to check</span>
+          <span class="proof-pill"><span class="check">&#10003;</span> Secured &amp; unsecured options</span>
         </div>
       </div>
-      <div>
+      <div class="spotlight-aside">
         <CreditKarmaAd creativeId="3641203" cta="Shop our partner credit cards here" alt="Credit Karma, everything you need to grow your finances" />
       </div>
     </div>
   </section>
 
-  <!-- Products grid -->
+  <!-- Products deck -->
   <section class="section">
     <div class="container">
       <div class="section-head">
+        <span class="section-kicker">Pick your path</span>
         <h2>What do you need today?</h2>
         <p>Whether you're starting from zero or ready to upgrade, pick a path and we'll walk you through it.</p>
       </div>
@@ -92,6 +93,7 @@ const faqs = [
   <section class="section section-surface">
     <div class="container">
       <div class="section-head">
+        <span class="section-kicker">Three quick steps</span>
         <h2>How it works</h2>
         <p>Three steps from "Can I even get a card?" to a real card in your wallet.</p>
       </div>
@@ -132,6 +134,7 @@ const faqs = [
     <section class="section section-surface">
       <div class="container narrow">
         <div class="section-head">
+          <span class="section-kicker">Fresh off the desk</span>
           <h2>Latest ITIN credit card guides</h2>
           <p>Plain-English walkthroughs for getting and using a credit card with an ITIN.</p>
         </div>
@@ -158,6 +161,7 @@ const faqs = [
   <section class="section">
     <div class="container narrow">
       <div class="section-head">
+        <span class="section-kicker">Start here</span>
         <h2>Just getting started with an ITIN credit card?</h2>
         <p>These plain-English walkthroughs answer the questions most first-time applicants ask.</p>
       </div>
@@ -179,7 +183,7 @@ const faqs = [
       <div class="cta-band">
         <h2>Your ITIN is enough to start.</h2>
         <p>Thousands of ITIN holders get approved for credit cards every year. Find out which card fits your situation, it's free and it won't touch your credit score.</p>
-        <a href="/apply" class="btn btn-primary btn-lg">Find your card</a>
+        <a href="/apply" class="btn btn-gold btn-lg">Find your card</a>
       </div>
     </div>
   </section>

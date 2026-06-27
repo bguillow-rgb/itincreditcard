@@ -142,18 +142,26 @@ export const SITE = {
     },
   },
 
-  // Brand, modern, trustworthy fintech. Purple = authority, amber = action.
+  // Brand, energetic modern consumer-card. Purple = authority, warm amber/gold
+  // = action & premium-card energy. Fraunces (expressive serif) for headings,
+  // Outfit (geometric sans) for body — a deliberate departure from the sister
+  // sites' shared system-font stack so this property reads as its own brand.
   theme: {
     bg: '#FFFFFF',
-    surface: '#F7F5FC',
-    surfaceAlt: '#EDE7F9',
-    text: '#1F1633',
+    surface: '#FBF7FF',
+    surfaceAlt: '#F1E9FF',
+    surfaceWarm: '#FFF8EC',
+    text: '#221636',
     muted: '#5C5470',
     primary: '#5B21B6',
     primaryDark: '#4C1D95',
+    // Amber accent: darkened for AA text use; bright gold reserved for fills.
     accent: '#F59E0B',
-    accentDark: '#D97706',
-    border: '#E7E2F2',
+    accentDark: '#B45309',
+    accentText: '#92400E',
+    border: '#EAE2F7',
+    fontHead: '"Fraunces", Georgia, "Times New Roman", serif',
+    fontBody: '"Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
   },
 };
 
