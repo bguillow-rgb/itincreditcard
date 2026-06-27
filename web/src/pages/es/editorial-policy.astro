@@ -1,0 +1,153 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE } from '../../consts';
+
+const title = 'Política Editorial y Cómo Investigamos';
+const description =
+  'Cómo ITINCreditCard.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, los burós de crédito, los emisores de tarjetas), nuestro equipo editorial y nuestra política de correcciones.';
+const updated = '27 de junio de 2026';
+const team = (SITE.editorial as any).team ?? [
+  { name: SITE.editorial.name, role: SITE.editorial.role, bioEs: SITE.editorial.bioEs },
+];
+---
+<BaseLayout title={title} description={description} path="/es/editorial-policy">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Editorial</span>
+      <h1 style="margin-top:10px">Política Editorial y Cómo Investigamos</h1>
+      <p class="byline">Última actualización: {updated}</p>
+
+      <p class="lede" style="color:var(--muted)">
+        La orientación sobre crédito para personas con ITIN es un tema de alto
+        riesgo: si se equivoca, un lector puede gastar dinero en la tarjeta
+        equivocada, perder un depósito de garantía, recibir una consulta dura
+        innecesaria o solicitar a un emisor que no acepta su número de
+        identificación fiscal. Esta página explica exactamente cómo investigamos,
+        escribimos, verificamos y actualizamos todo lo que publicamos, para que
+        puedas decidir si confiar en ello.
+      </p>
+
+      <h2>Quién escribe este sitio</h2>
+      <p>
+        ITINCreditCard.com es publicado por {SITE.publisher.name} y escrito por un
+        pequeño equipo editorial. Los nombres a continuación son
+        <strong>seudónimos</strong>, una firma constante para cada área temática, no
+        afirmaciones sobre una persona específica con licencia. Usamos firmas para
+        que veas quién cubre qué y para que la cobertura sea consistente con el
+        tiempo. Ninguno de nuestros escritores afirma tener una licencia
+        financiera, una designación de contador (CPA) ni una credencial legal o
+        fiscal, porque ninguno ejerce en esos campos. Lo que aportan es un proceso
+        de investigación disciplinado y una redacción en lenguaje sencillo. Cuando
+        una pregunta realmente requiere un profesional con licencia (tu situación
+        fiscal específica, tu estatus migratorio o una disputa legal), lo decimos y
+        te indicamos que consultes a uno.
+      </p>
+      {team.map((m: any) => (
+        <div class="author-card">
+          <p class="author-name">{m.name} <span class="author-role">&middot; {m.role}</span></p>
+          <p>{m.bioEs ?? m.bio}</p>
+        </div>
+      ))}
+
+      <h2>De dónde viene nuestra información</h2>
+      <p>
+        Construimos las guías primero a partir de fuentes primarias, las
+        organizaciones que realmente fijan las reglas, en lugar de otros blogs.
+        Nuestras fuentes recurrentes incluyen:
+      </p>
+      <ul class="lead-list">
+        <li><strong>El IRS</strong>, para todo lo relacionado con el ITIN en sí, el Formulario W-7, los EIN para tarjetas de negocio, la elegibilidad, las renovaciones y la expiración.</li>
+        <li><strong>FICO</strong>, para cómo se calcula el puntaje que los emisores usan para evaluar y el peso documentado de cada factor (historial de pagos 35%, montos adeudados 30%, antigüedad del historial 15%, crédito nuevo 10%, combinación de crédito 10%).</li>
+        <li><strong>La Oficina para la Protección Financiera del Consumidor (CFPB)</strong>, para los derechos del consumidor, las protecciones de la Ley CARD, los procesos de disputa y cómo se regulan los términos y las tarifas de las tarjetas.</li>
+        <li><strong>La Comisión Federal de Comercio (FTC)</strong>, para la Ley de Informe Justo de Crédito, las reglas de divulgación publicitaria y las guías contra estafas de reparación de crédito.</li>
+        <li><strong>Experian, Equifax y TransUnion</strong>, los tres burós nacionales, para su propia documentación sobre la creación de expedientes, la coincidencia con ITIN y qué cuentas reportan.</li>
+        <li><strong>Los materiales publicados por los propios emisores</strong>, para los requisitos de solicitud, si se acepta un ITIN, las reglas de depósito y límite de crédito, las tarifas, las APR y el reporte a los burós.</li>
+      </ul>
+      <p>
+        Cuando damos una cifra, un rango de puntaje, el peso de un factor, una
+        tarifa, un plazo legal, la vinculamos a una de estas fuentes en lugar de
+        afirmarla por nuestra propia autoridad. Los detalles específicos de un
+        producto (montos de depósito, cuotas anuales, a qué burós reporta una
+        tarjeta, la aceptación del ITIN) provienen de los términos publicados por el
+        propio emisor, que cambian, así que te decimos que verifiques los términos
+        actuales con el emisor antes de actuar.
+      </p>
+
+      <h2>Lo que no haremos</h2>
+      <p>
+        No inventamos estadísticas, no fabricamos afirmaciones de "lo probamos" ni
+        presentamos texto de marketing como un hecho. No prometemos probabilidades
+        de aprobación específicas ni aumentos de puntaje en un plazo específico,
+        porque ninguna fuente honesta puede hacerlo. No te decimos que un emisor
+        acepta un ITIN a menos que esa sea la política declarada del emisor, y
+        señalamos claramente cuando la aceptación del ITIN "varía, verifica
+        directamente". Si no podemos respaldar una afirmación, no va en el sitio.
+      </p>
+
+      <h2>Verificación de datos y revisión</h2>
+      <p>
+        Cada guía se revisa para verificar su exactitud antes de publicarse: las
+        afirmaciones se cotejan con las fuentes primarias anteriores, se confirma
+        que los enlaces internos apunten a páginas relevantes y las cifras se
+        verifican dos veces con la documentación. Como este es un tema YMYL (Tu
+        Dinero o Tu Vida), exigimos al contenido financiero un estándar más alto que
+        a un blog de interés general.
+      </p>
+
+      <h2>Con qué frecuencia actualizamos</h2>
+      <p>
+        Las reglas de crédito, los procesos de los burós y los términos de las
+        tarjetas cambian. Revisamos nuestras guías principales de forma recurrente
+        y las actualizamos cada vez que cambia una política que citamos, cambian los
+        términos de un emisor o un lector señala algo. Cuando hacemos un cambio
+        sustantivo, no solo un cambio de fecha, lo reflejamos en la fecha de
+        "actualización" de la página. No cambiamos una fecha sin cambiar el
+        contenido.
+      </p>
+
+      <h2>Política de correcciones</h2>
+      <p>
+        Si algo en este sitio está mal o desactualizado, queremos corregirlo.
+        Escríbenos a <a href={`mailto:${SITE.supportEmail}`}>{SITE.supportEmail}</a>
+        o usa nuestra <a href="/es/contact">página de contacto</a>. Revisamos cada
+        corrección y actualizamos la guía afectada con prontitud cuando el reporte
+        es válido. La exactitud es el propósito de este sitio, así que tratamos las
+        correcciones como una prioridad, no como una molestia.
+      </p>
+
+      <h2>Independencia de la publicidad</h2>
+      <p>
+        Este sitio gana dinero con publicidad y enlaces de afiliados. Ese ingreso
+        financia la investigación pero no compra una recomendación. Nuestras
+        conclusiones editoriales se toman de forma independiente de cualquier
+        acuerdo comercial y serían idénticas si no ganáramos nada. Para el desglose
+        completo de cómo nos pagan y la separación que mantenemos, consulta nuestro
+        <a href="/es/disclosure">Aviso para Anunciantes</a>.
+      </p>
+
+      <h2>Esto es educación, no asesoría</h2>
+      <p>
+        Todo lo que publicamos es información educativa general, no asesoría
+        financiera, legal, fiscal ni migratoria, y no somos un buró de crédito, una
+        organización de reparación de crédito, un banco, un emisor de tarjetas ni un
+        asesor financiero. Para decisiones que dependen de tus circunstancias
+        específicas, consulta a un profesional calificado y verifica los términos
+        actuales directamente con el emisor. Conoce más en nuestra
+        <a href="/es/about">página de información</a>.
+      </p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .author-card {
+    margin: 14px 0;
+    padding: 16px 18px;
+    border: 1px solid var(--border, #e2e6ee);
+    border-radius: 12px;
+    background: var(--surface-2, #f7f9fc);
+  }
+  .author-name { margin: 0 0 6px; font-weight: 700; }
+  .author-role { font-weight: 400; color: var(--muted, #5a6473); }
+  .author-card p:last-child { margin-bottom: 0; font-size: 0.95rem; line-height: 1.55; }
+</style>

@@ -1,0 +1,157 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Política Editorial y Cómo Investigamos | ITIN Credit Card</title><meta name="description" content="Cómo ITINCreditCard.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, los burós de crédito, los emisores de tarjetas), nuestro equipo editorial y nuestra política de correcciones."><link rel="canonical" href="https://itincreditcard.com/es/editorial-policy"><link rel="alternate" hreflang="en" href="https://itincreditcard.com/editorial-policy"><link rel="alternate" hreflang="es" href="https://itincreditcard.com/es/editorial-policy"><link rel="alternate" hreflang="x-default" href="https://itincreditcard.com/editorial-policy"><meta property="og:type" content="website"><meta property="og:title" content="Política Editorial y Cómo Investigamos | ITIN Credit Card"><meta property="og:description" content="Cómo ITINCreditCard.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, los burós de crédito, los emisores de tarjetas), nuestro equipo editorial y nuestra política de correcciones."><meta property="og:url" content="https://itincreditcard.com/es/editorial-policy"><meta property="og:site_name" content="ITIN Credit Card"><meta property="og:image" content="https://itincreditcard.com/og.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Política Editorial y Cómo Investigamos | ITIN Credit Card"><meta name="twitter:description" content="Cómo ITINCreditCard.com investiga, escribe, verifica y actualiza sus guías: fuentes primarias (IRS, CFPB, FTC, los burós de crédito, los emisores de tarjetas), nuestro equipo editorial y nuestra política de correcciones."><meta name="twitter:image" content="https://itincreditcard.com/og.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#5B21B6"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Card | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditcard.com/#organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":"https://itincreditcard.com/icon-512.png","description":"ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.","sameAs":["https://www.wikidata.org/wiki/Q140083128","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Card","url":"https://itincreditcard.com","description":"ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditcard.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-TFJMHQLHMX"></script><script>(function(){const ga4Id = "G-TFJMHQLHMX";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Conversion: the thank-you page is the lead-submit destination. Fire the
+    // conversion here (robust even if the submit handler changes), reading the
+    // product the user picked from ?for=<money-page-slug>.
+    if (location.pathname.indexOf('thank-you') > -1) {
+      var product = new URLSearchParams(location.search).get('for') || '';
+      itrack('thank_you_view', { product: product });
+      itrack('generate_lead', { product: product });
+    }
+
+    // Lead-form engagement: first focus into a lead form, once per page.
+    var leadStarted = false;
+    document.addEventListener('focusin', function (e) {
+      if (leadStarted || !e.target.closest) return;
+      if (e.target.closest('form[data-leadform]')) {
+        leadStarted = true;
+        itrack('lead_form_start', { page_path: location.pathname });
+      }
+    });
+
+    // Outbound affiliate clicks (CJ deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script><style>.author-card[data-astro-cid-cz5nj23c]{margin:14px 0;padding:16px 18px;border:1px solid var(--border, #e2e6ee);border-radius:12px;background:var(--surface-2, #f7f9fc)}.author-name[data-astro-cid-cz5nj23c]{margin:0 0 6px;font-weight:700}.author-role[data-astro-cid-cz5nj23c]{font-weight:400;color:var(--muted, #5a6473)}.author-card[data-astro-cid-cz5nj23c] p[data-astro-cid-cz5nj23c]:last-child{margin-bottom:0;font-size:.95rem;line-height:1.55}
+</style>
+<link rel="stylesheet" href="/_astro/_slug_.Dhf9o655.css"></head> <body> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Card<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/editorial-policy.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>  <section class="section" data-astro-cid-cz5nj23c> <div class="container narrow" data-astro-cid-cz5nj23c> <span class="tag" data-astro-cid-cz5nj23c>Editorial</span> <h1 style="margin-top:10px" data-astro-cid-cz5nj23c>Política Editorial y Cómo Investigamos</h1> <p class="byline" data-astro-cid-cz5nj23c>Última actualización: 27 de junio de 2026</p> <p class="lede" style="color:var(--muted)" data-astro-cid-cz5nj23c>
+La orientación sobre crédito para personas con ITIN es un tema de alto
+        riesgo: si se equivoca, un lector puede gastar dinero en la tarjeta
+        equivocada, perder un depósito de garantía, recibir una consulta dura
+        innecesaria o solicitar a un emisor que no acepta su número de
+        identificación fiscal. Esta página explica exactamente cómo investigamos,
+        escribimos, verificamos y actualizamos todo lo que publicamos, para que
+        puedas decidir si confiar en ello.
+</p> <h2 data-astro-cid-cz5nj23c>Quién escribe este sitio</h2> <p data-astro-cid-cz5nj23c>
+ITINCreditCard.com es publicado por Timberline Ventures LLC y escrito por un
+        pequeño equipo editorial. Los nombres a continuación son
+<strong data-astro-cid-cz5nj23c>seudónimos</strong>, una firma constante para cada área temática, no
+        afirmaciones sobre una persona específica con licencia. Usamos firmas para
+        que veas quién cubre qué y para que la cobertura sea consistente con el
+        tiempo. Ninguno de nuestros escritores afirma tener una licencia
+        financiera, una designación de contador (CPA) ni una credencial legal o
+        fiscal, porque ninguno ejerce en esos campos. Lo que aportan es un proceso
+        de investigación disciplinado y una redacción en lenguaje sencillo. Cuando
+        una pregunta realmente requiere un profesional con licencia (tu situación
+        fiscal específica, tu estatus migratorio o una disputa legal), lo decimos y
+        te indicamos que consultes a uno.
+</p> <div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Mateo Herrera <span class="author-role" data-astro-cid-cz5nj23c>&middot; Editor</span></p> <p data-astro-cid-cz5nj23c>Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.</p> </div><div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Sofía Castillo <span class="author-role" data-astro-cid-cz5nj23c>&middot; Secured &amp; Starter Cards Writer</span></p> <p data-astro-cid-cz5nj23c>Sofía Castillo escribe la cobertura de ITIN Credit Card sobre tarjetas con garantía y para principiantes, las reglas de depósito y límite de crédito, y qué emisores aprueban a solicitantes con un ITIN. Construye cada guía a partir de los requisitos de solicitud publicados por los emisores y las guías del CFPB. Sofía escribe en inglés y español.</p> </div><div class="author-card" data-astro-cid-cz5nj23c> <p class="author-name" data-astro-cid-cz5nj23c>Kevin Tran <span class="author-role" data-astro-cid-cz5nj23c>&middot; Rewards &amp; Approval Odds Writer</span></p> <p data-astro-cid-cz5nj23c>Kevin Tran cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN en ITIN Credit Card. Investiga las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Kevin escribe en inglés y español.</p> </div> <h2 data-astro-cid-cz5nj23c>De dónde viene nuestra información</h2> <p data-astro-cid-cz5nj23c>
+Construimos las guías primero a partir de fuentes primarias, las
+        organizaciones que realmente fijan las reglas, en lugar de otros blogs.
+        Nuestras fuentes recurrentes incluyen:
+</p> <ul class="lead-list" data-astro-cid-cz5nj23c> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>El IRS</strong>, para todo lo relacionado con el ITIN en sí, el Formulario W-7, los EIN para tarjetas de negocio, la elegibilidad, las renovaciones y la expiración.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>FICO</strong>, para cómo se calcula el puntaje que los emisores usan para evaluar y el peso documentado de cada factor (historial de pagos 35%, montos adeudados 30%, antigüedad del historial 15%, crédito nuevo 10%, combinación de crédito 10%).</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>La Oficina para la Protección Financiera del Consumidor (CFPB)</strong>, para los derechos del consumidor, las protecciones de la Ley CARD, los procesos de disputa y cómo se regulan los términos y las tarifas de las tarjetas.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>La Comisión Federal de Comercio (FTC)</strong>, para la Ley de Informe Justo de Crédito, las reglas de divulgación publicitaria y las guías contra estafas de reparación de crédito.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>Experian, Equifax y TransUnion</strong>, los tres burós nacionales, para su propia documentación sobre la creación de expedientes, la coincidencia con ITIN y qué cuentas reportan.</li> <li data-astro-cid-cz5nj23c><strong data-astro-cid-cz5nj23c>Los materiales publicados por los propios emisores</strong>, para los requisitos de solicitud, si se acepta un ITIN, las reglas de depósito y límite de crédito, las tarifas, las APR y el reporte a los burós.</li> </ul> <p data-astro-cid-cz5nj23c>
+Cuando damos una cifra, un rango de puntaje, el peso de un factor, una
+        tarifa, un plazo legal, la vinculamos a una de estas fuentes en lugar de
+        afirmarla por nuestra propia autoridad. Los detalles específicos de un
+        producto (montos de depósito, cuotas anuales, a qué burós reporta una
+        tarjeta, la aceptación del ITIN) provienen de los términos publicados por el
+        propio emisor, que cambian, así que te decimos que verifiques los términos
+        actuales con el emisor antes de actuar.
+</p> <h2 data-astro-cid-cz5nj23c>Lo que no haremos</h2> <p data-astro-cid-cz5nj23c>
+No inventamos estadísticas, no fabricamos afirmaciones de "lo probamos" ni
+        presentamos texto de marketing como un hecho. No prometemos probabilidades
+        de aprobación específicas ni aumentos de puntaje en un plazo específico,
+        porque ninguna fuente honesta puede hacerlo. No te decimos que un emisor
+        acepta un ITIN a menos que esa sea la política declarada del emisor, y
+        señalamos claramente cuando la aceptación del ITIN "varía, verifica
+        directamente". Si no podemos respaldar una afirmación, no va en el sitio.
+</p> <h2 data-astro-cid-cz5nj23c>Verificación de datos y revisión</h2> <p data-astro-cid-cz5nj23c>
+Cada guía se revisa para verificar su exactitud antes de publicarse: las
+        afirmaciones se cotejan con las fuentes primarias anteriores, se confirma
+        que los enlaces internos apunten a páginas relevantes y las cifras se
+        verifican dos veces con la documentación. Como este es un tema YMYL (Tu
+        Dinero o Tu Vida), exigimos al contenido financiero un estándar más alto que
+        a un blog de interés general.
+</p> <h2 data-astro-cid-cz5nj23c>Con qué frecuencia actualizamos</h2> <p data-astro-cid-cz5nj23c>
+Las reglas de crédito, los procesos de los burós y los términos de las
+        tarjetas cambian. Revisamos nuestras guías principales de forma recurrente
+        y las actualizamos cada vez que cambia una política que citamos, cambian los
+        términos de un emisor o un lector señala algo. Cuando hacemos un cambio
+        sustantivo, no solo un cambio de fecha, lo reflejamos en la fecha de
+        "actualización" de la página. No cambiamos una fecha sin cambiar el
+        contenido.
+</p> <h2 data-astro-cid-cz5nj23c>Política de correcciones</h2> <p data-astro-cid-cz5nj23c>
+Si algo en este sitio está mal o desactualizado, queremos corregirlo.
+        Escríbenos a <a href="mailto:bguillow@gmail.com" data-astro-cid-cz5nj23c>bguillow@gmail.com</a>
+o usa nuestra <a href="/es/contact" data-astro-cid-cz5nj23c>página de contacto</a>. Revisamos cada
+        corrección y actualizamos la guía afectada con prontitud cuando el reporte
+        es válido. La exactitud es el propósito de este sitio, así que tratamos las
+        correcciones como una prioridad, no como una molestia.
+</p> <h2 data-astro-cid-cz5nj23c>Independencia de la publicidad</h2> <p data-astro-cid-cz5nj23c>
+Este sitio gana dinero con publicidad y enlaces de afiliados. Ese ingreso
+        financia la investigación pero no compra una recomendación. Nuestras
+        conclusiones editoriales se toman de forma independiente de cualquier
+        acuerdo comercial y serían idénticas si no ganáramos nada. Para el desglose
+        completo de cómo nos pagan y la separación que mantenemos, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-cz5nj23c>Aviso para Anunciantes</a>.
+</p> <h2 data-astro-cid-cz5nj23c>Esto es educación, no asesoría</h2> <p data-astro-cid-cz5nj23c>
+Todo lo que publicamos es información educativa general, no asesoría
+        financiera, legal, fiscal ni migratoria, y no somos un buró de crédito, una
+        organización de reparación de crédito, un banco, un emisor de tarjetas ni un
+        asesor financiero. Para decisiones que dependen de tus circunstancias
+        específicas, consulta a un profesional calificado y verifica los términos
+        actuales directamente con el emisor. Conoce más en nuestra
+<a href="/es/about" data-astro-cid-cz5nj23c>página de información</a>.
+</p> </div> </section>  </main> <footer class="site-footer"> <div class="container"> <div class="footer-grid"> <div> <div class="footer-brand">ITIN Credit Card<span style="color:var(--accent)">.</span></div> <p>Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4>Por qué confiar en nosotros</h4> <ul class="footer-trust"> <li><span class="tick">&#10003;</span> Independientes, no somos emisor de tarjetas ni banco</li> <li><span class="tick">&#10003;</span> Siempre gratis</li> <li><span class="tick">&#10003;</span> Tu información se mantiene privada</li> </ul> <p style="margin-top:14px"><a href="mailto:bguillow@gmail.com">Contact</a></p> </div> <div> <h4>Tarjetas</h4> <ul class="footer-links"> <li><a href="/es/secured-credit-cards">Tarjetas con Garantía</a></li><li><a href="/es/best-itin-credit-cards">Mejores Tarjetas ITIN</a></li><li><a href="/es/credit-cards-that-accept-itin">Tarjetas que Aceptan ITIN</a></li><li><a href="/es/unsecured-credit-cards">Tarjetas sin Garantía</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/business-credit-cards">Tarjetas de Negocio</a></li><li><a href="/es/how-to-get-an-itin">Cómo Obtener un ITIN</a></li> </ul> </div> <div> <h4>Recursos</h4> <ul class="footer-links"> <li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/articles">Todas las Guías</a></li><li><a href="/es/apply">Encuentra tu tarjeta</a></li><li><a href="/es/about">Nosotros</a></li><li><a href="/es/contact">Contacto</a></li> </ul> </div> <div> <h4>Legal</h4> <ul class="footer-links"> <li><a href="/es/editorial-policy">Política Editorial</a></li><li><a href="/es/privacy">Política de Privacidad</a></li><li><a href="/es/terms">Términos de Uso</a></li><li><a href="/es/disclosure">Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-disclaimer"> <p>
+&copy; 2026 ITINCreditCard.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Card es un recurso independiente de información y referencia. No
+          somos un banco, emisor de tarjetas ni organización de reparación de
+          crédito, y no tomamos decisiones de crédito ni emitimos tarjetas. La
+          información de este sitio tiene fines educativos generales y no
+          constituye asesoría financiera, legal ni fiscal. Los productos de
+          tarjetas de crédito y los términos de aprobación los establecen emisores
+          externos y están sujetos a su aprobación y a la ley aplicable. Podemos
+          recibir compensación cuando haces clic en ciertos enlaces o te
+          conectamos con un emisor, consulta nuestro
+<a href="/es/disclosure">Aviso para Anunciantes</a>.
+</p> </div> </div> </footer> </body></html> 
