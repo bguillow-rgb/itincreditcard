@@ -1,0 +1,18 @@
+{
+  "_comment": "Topic hints for daily-post.mjs. Seeded 2026-07-05 from GSC content-gap queries (real search demand where itincreditcard.com ranks pos 53-87). 'flagship' = Monday deep original-data pieces (cluster owners); 'cluster' = Wed/Fri detail posts. Rotated weekly by daily-post.mjs; existingList dedup prevents repeats. Update as GSC reveals new buried-but-real-demand queries.",
+  "flagship": [
+    "The credit cards that actually accept an ITIN in 2026: a verified issuer-by-issuer list with limits, fees, and approval odds",
+    "Secured vs unsecured ITIN credit cards compared across real issuers, with deposits, APRs, and graduation timelines",
+    "Which banks and credit unions let you apply for a credit card with an ITIN (verified, with application details)",
+    "Best starter credit cards for building credit with an ITIN from zero: ranked and tested"
+  ],
+  "cluster": [
+    "credit card with itin",
+    "itin credit card",
+    "best itin credit cards",
+    "credit cards that accept itin",
+    "itin for credit card",
+    "business credit card with itin",
+    "store credit cards that accept itin"
+  ]
+}
