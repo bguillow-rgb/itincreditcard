@@ -15,9 +15,9 @@ author: "Sofía Castillo"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"
+  - "credit-cards-that-accept-itin-verified-issuer-list"
   - "cash-back-credit-card-itin-holders"
   - "store-credit-card-with-itin"
-  - "credit-union-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con un ITIN y absolutamente ningún historial crediticio en EE.UU.?"
     a: "Sí. Las tarjetas de crédito aseguradas y las tarjetas de crédito sin verificación crediticia están diseñadas para personas sin historial en EE.UU. Emisores como Capital One, OpenSky y Citi aceptan ITIN y no exigen historial crediticio previo en EE.UU. para aprobarte."

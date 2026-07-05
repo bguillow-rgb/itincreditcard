@@ -14,10 +14,10 @@ publishedAt: "2026-06-24"
 author: "Mateo Herrera"
 category: "Credit Cards"
 relatedSlugs:
+  - "credit-cards-that-accept-itin-verified-issuer-list"
   - "first-credit-card-itin-no-us-credit-history"
   - "credit-card-denied-itin-what-to-do"
   - "credit-card-prequalification-itin"
-  - "income-requirements-credit-card-itin"
 faqs:
   - q: "Does having an ITIN instead of an SSN automatically hurt my approval odds?"
     a: "No. An ITIN does not lower your approval odds at issuers that explicitly accept it. The deciding factors are your income, credit history (if any), and the specific card you apply for. Applying at an ITIN-friendly issuer puts you on equal footing with SSN applicants for the same card."

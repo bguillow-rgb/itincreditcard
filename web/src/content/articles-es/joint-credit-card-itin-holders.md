@@ -15,9 +15,9 @@ author: "Mateo Herrera"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "business-credit-card-with-itin"
+  - "credit-cards-that-accept-itin-verified-issuer-list"
   - "credit-union-credit-card-itin"
   - "balance-transfer-credit-card-itin"
-  - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito conjunta con un ITIN en lugar de un SSN?"
     a: "Sí, pero solo en un número limitado de instituciones. La mayoría de los 10 principales emisores de tarjetas en EE.UU. han dejado de ofrecer tarjetas de crédito conjuntas por completo. Tu mejor opción son las cooperativas de crédito locales y los bancos comunitarios que atienden a comunidades inmigrantes, ya que muchos aceptan el ITIN para solicitudes conjuntas."
