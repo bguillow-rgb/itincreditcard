@@ -15,9 +15,9 @@ author: "Kevin Tran"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
+  - "itin-credit-card-issuer-comparison-2026"
   - "travel-credit-card-itin-holders"
   - "authorized-user-credit-card-itin"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Mi cuenta de tarjeta de crédito se cierra automáticamente cuando obtengo un SSN?"
     a: "No. Las cuentas de tarjeta de crédito abiertas con un ITIN siguen activas cuando recibes un SSN. La cuenta en sí no está vinculada a un número de identificación específico de una manera que provoque su cierre. Solo necesitas llamar o ingresar al portal de cada emisor y actualizar tu número de identificación, cambiando el ITIN por tu nuevo SSN."

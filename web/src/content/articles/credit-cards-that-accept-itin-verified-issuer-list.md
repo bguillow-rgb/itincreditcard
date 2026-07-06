@@ -14,10 +14,10 @@ publishedAt: "2026-07-05"
 author: "Kevin Tran"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-credit-card-issuer-comparison-2026"
   - "store-credit-card-with-itin"
   - "cash-back-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
-  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "Which credit cards accept an ITIN instead of an SSN?"
     a: "Capital One, Chase, American Express, Bank of America, Wells Fargo, Citi, U.S. Bank (secured cards only), OpenSky, Zolve, and the Tilt Motion Visa (the successor to Petal) all accept an ITIN. Discover is the largest major issuer that still requires a Social Security number."

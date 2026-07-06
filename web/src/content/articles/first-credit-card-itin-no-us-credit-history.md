@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-undocumented-immigrants-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "improve-credit-card-approval-odds-itin"
-  - "secured-credit-card-with-itin"
+  - "itin-credit-card-issuer-comparison-2026"
 faqs:
   - q: "Can I get a credit card with an ITIN and absolutely no U.S. credit history?"
     a: "Yes. Secured credit cards and no-credit-check credit-builder cards are designed for people with no U.S. credit file. Issuers like Capital One, OpenSky, and Citi accept ITINs and do not require existing U.S. credit history to approve you."
