@@ -4,6 +4,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import Icon from '../components/Icon.astro';
 import CreditKarmaAd from '../components/CreditKarmaAd.astro';
 import FAQ from '../components/FAQ.astro';
+import LeadForm from '../components/LeadForm.astro';
+import FhaPromo from '../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../consts';
 
 // Surface the latest guides directly from the homepage (the highest-authority
@@ -53,7 +55,7 @@ const faqs = [
           their score step by step.
         </p>
         <div class="spotlight-cta">
-          <a href="/apply" class="btn btn-gold btn-lg">Find your card</a>
+          <a href="#lead" class="btn btn-gold btn-lg">Find your card</a>
           <a href="/itin-credit-cards-guide" class="btn btn-secondary btn-lg">How ITIN credit cards work</a>
         </div>
         <div class="spotlight-proof">
@@ -62,9 +64,19 @@ const faqs = [
           <span class="proof-pill"><span class="check">&#10003;</span> Secured &amp; unsecured options</span>
         </div>
       </div>
-      <div class="spotlight-aside">
-        <CreditKarmaAd creativeId="3641203" cta="Shop our partner credit cards here" alt="Credit Karma, everything you need to grow your finances" />
+      <div class="spotlight-aside ihero-form" id="lead">
+        <LeadForm compact heading="Find your ITIN card — free" />
       </div>
+    </div>
+  </section>
+
+  <!-- FHA-for-ITIN partner promo (cross-sell home financing). CTA → hero form. -->
+  <FhaPromo href="#lead" />
+
+  <!-- Partner ad relocated below the fold so the homepage leads with the form. -->
+  <section class="section-tight">
+    <div class="container narrow" style="text-align:center">
+      <CreditKarmaAd creativeId="3641203" cta="Shop our partner credit cards here" alt="Credit Karma, everything you need to grow your finances" inline={true} />
     </div>
   </section>
 
