@@ -10,6 +10,7 @@ relatedQueries:
   - "tarjeta de crédito para titulares de ITIN"
 quickAnswer: "Sí. Muchos bancos, cooperativas de crédito y empresas fintech en EE. UU. aceptan un ITIN en lugar de un SSN en la solicitud de tarjeta de crédito. Una tarjeta asegurada, respaldada por un depósito reembolsable de $200-$500, es el punto de partida más fácil para titulares de ITIN sin historial crediticio en EE. UU. Paga a tiempo y la mayoría de los emisores te actualizarán a una tarjeta no asegurada en 6-12 meses."
 publishedAt: "2026-06-05"
+updatedAt: "2026-07-07"
 author: "Sofía Castillo"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -30,6 +31,8 @@ faqs:
     a: "El ITIN no otorga ni implica ningún estatus migratorio. Los emisores que aceptan un ITIN lo hacen como número de identificación fiscal, no como prueba de residencia legal. El proceso de solicitud se enfoca en tus ingresos, el depósito (en el caso de tarjetas aseguradas) y tu solvencia crediticia. Lo que los emisores exigen además del ITIN, tipos de identificación, documentación de domicilio, varía según la institución."
   - q: "¿Qué pasa si no pago a tiempo mi tarjeta de crédito con ITIN?"
     a: "Un pago con 30 o más días de retraso se reporta a las agencias de crédito y puede bajar tu puntaje entre 60 y 110 puntos. La marca negativa permanece en tu reporte de crédito durante siete años. Configura el pago automático por al menos el mínimo para proteger tu historial y luego paga el resto del saldo de forma manual."
+  - q: "¿Ha cambiado algo con las solicitudes de tarjetas de crédito con ITIN a mediados de 2026?"
+    a: "Desde mayo de 2026, una orden ejecutiva federal instruyó al Departamento del Tesoro a emitir lineamientos que podrían tratar el uso del ITIN como un factor que requiere debida diligencia reforzada en algunas instituciones financieras. Los lineamientos de implementación seguían pendientes al momento de escribir esto, las cuentas actuales no se ven afectadas, y la orden no prohíbe que las personas con ITIN soliciten crédito. Si vas a solicitar pronto, vale la pena confirmar la política actual del emisor directamente en lugar de basarte en artículos anteriores, ya que las políticas pueden cambiar sin aviso público."
 published: true
 ---
 

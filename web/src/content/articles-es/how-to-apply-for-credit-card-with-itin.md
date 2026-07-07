@@ -11,6 +11,7 @@ relatedQueries:
   - "proceso para obtener tarjeta de crédito con ITIN"
 quickAnswer: "Para solicitar una tarjeta de crédito con tu ITIN, reúne tu carta de asignación del ITIN, pasaporte, comprobante de domicilio e ingresos, y luego elige un emisor que acepte ITIN, como Capital One, Bank of America o Citi. Puedes aplicar en línea o por teléfono, ingresando tu ITIN donde el formulario te pida el SSN."
 publishedAt: "2026-06-11"
+updatedAt: "2026-07-07"
 author: "Kevin Tran"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -31,6 +32,17 @@ faqs:
     a: "Un ITIN vence si no se ha usado en una declaración de impuestos federal durante tres años consecutivos. Si el tuyo ha caducado, debes renovarlo enviando el Formulario W-7 al IRS antes de solicitar una tarjeta de crédito. Un ITIN vencido será rechazado durante el proceso de verificación de identidad del emisor, lo que resultará en una denegación automática."
   - q: "¿Puedo hacer una precalificación sin afectar mi puntaje de crédito?"
     a: "Sí. Capital One y varios otros emisores que aceptan ITIN ofrecen herramientas de precalificación con consulta suave (soft pull) que te muestran tus probabilidades de aprobación sin generar una consulta dura. Úsalas antes de enviar una solicitud formal para evitar bajas innecesarias en tu puntaje, algo especialmente importante cuando estás comenzando a construir tu historial de crédito en EE. UU."
+howToSteps:
+  - name: "Haz una precalificación"
+    text: "Varios emisores que aceptan ITIN, incluido Capital One, ofrecen herramientas de precalificación con consulta suave que muestran para qué tarjetas podrías calificar sin afectar tu puntaje. Úsala antes de enviar una solicitud formal."
+  - name: "Comienza la solicitud en línea"
+    text: "Cuando llegues al campo \"Social Security Number\", busca un menú o casilla para \"ITIN\" u \"Other Tax Identification Number\". Algunos formularios solo muestran esta opción después de indicar que no tienes SSN."
+  - name: "Llama al emisor si el formulario en línea no acepta tu ITIN"
+    text: "La mayoría de los emisores importantes también reciben solicitudes por teléfono o en sucursal — solicitar con un representante suele dar más flexibilidad para que ingresen tu ITIN manualmente."
+  - name: "Ingresa tu información financiera con precisión"
+    text: "Los ingresos, el costo de vivienda y el empleo se usan para evaluar tu capacidad de pago, no solo tu historial de crédito. Incluye ingresos independientes o de trabajos por cuenta propia — lo que importa es tu ingreso anual total de todas las fuentes."
+  - name: "Envía la solicitud y espera la decisión"
+    text: "Las solicitudes en línea suelen dar una decisión casi instantánea. Si tu solicitud queda pendiente de revisión manual, es normal para solicitantes con ITIN — el emisor puede pedir tu carta de asignación del ITIN o una factura de servicios antes de decidir."
 published: true
 ---
 

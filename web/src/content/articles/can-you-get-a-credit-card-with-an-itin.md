@@ -10,6 +10,7 @@ relatedQueries:
   - "credit card for itin holders"
 quickAnswer: "Yes. Many U.S. banks, credit unions, and fintech companies accept an ITIN in place of an SSN on a credit card application. A secured card, backed by a $200-$500 refundable deposit, is the easiest starting point for ITIN holders with no U.S. credit history. Pay on time and most issuers will upgrade you to an unsecured card in 6-12 months."
 publishedAt: "2026-06-05"
+updatedAt: "2026-07-07"
 author: "Sofía Castillo"
 category: "Credit Cards"
 faqs:
@@ -25,6 +26,8 @@ faqs:
     a: "An ITIN does not confer or imply immigration status. Issuers that accept an ITIN are accepting it as a tax identification number, not as proof of legal residence. The application process focuses on your income, the deposit (for secured cards), and your creditworthiness. What issuers require beyond the ITIN, types of ID, address documentation, varies."
   - q: "What happens if I miss a payment on my ITIN credit card?"
     a: "A payment 30 or more days late is reported to the credit bureaus and can drop your score by 60-110 points. The late mark stays on your credit report for seven years. Set up autopay for at least the minimum payment to protect your record, then manually pay the rest of the balance."
+  - q: "Has anything changed with ITIN credit card applications in mid-2026?"
+    a: "As of May 2026, a federal executive order directed the Treasury Department to issue guidance that may treat ITIN use as a factor requiring enhanced due diligence at some financial institutions. Implementation guidance was still pending as of this writing, current accounts remain unaffected, and the order does not prohibit ITIN holders from applying for credit. If you're applying soon, it's worth confirming an issuer's current ITIN policy directly rather than relying on older articles, since policies can shift without a public announcement."
 relatedSlugs:
   - "secured-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"

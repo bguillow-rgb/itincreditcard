@@ -22,6 +22,10 @@ const articleSchema = z.object({
   category: z.string().default('Guides'),
   relatedSlugs: z.array(z.string()).default([]),
   faqs: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
+  // Optional ordered steps for genuinely step-based articles ("how to apply
+  // for a card with an ITIN", "how to upgrade to unsecured"). When present,
+  // emits HowTo schema alongside Article schema. Leave empty otherwise.
+  howToSteps: z.array(z.object({ name: z.string(), text: z.string() })).default([]),
   published: z.boolean().default(true),
 });
 

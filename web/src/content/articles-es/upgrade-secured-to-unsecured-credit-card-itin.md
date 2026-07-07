@@ -11,6 +11,7 @@ relatedQueries:
   - "mejor tarjeta de crédito no asegurada después de tarjeta asegurada con ITIN"
 quickAnswer: "Los titulares de ITIN pueden pasar de una tarjeta asegurada a una no asegurada después de aproximadamente 6-18 meses de pagos puntuales y un uso bajo del crédito. Emisores como Capital One y Discover revisan las cuentas automáticamente; otros requieren que tú lo solicites directamente. Por lo general, el depósito se devuelve cuando se aprueba el cambio o cuando la cuenta asegurada se cierra al día."
 publishedAt: "2026-06-18"
+updatedAt: "2026-07-07"
 author: "Sofía Castillo"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -31,6 +32,17 @@ faqs:
     a: "Emisores como OpenSky y First Progress pueden no ofrecer un cambio interno directo. En ese caso, mantén la tarjeta asegurada abierta para conservar tu historial crediticio y luego solicita por separado una tarjeta no asegurada compatible con ITIN cuando tu puntaje califique. Consulta nuestra guía de tarjetas de crédito no aseguradas para titulares de ITIN para ver las opciones disponibles."
   - q: "¿Qué puntaje de crédito necesito para cambiar mi tarjeta asegurada a no asegurada con ITIN?"
     a: "La mayoría de los emisores buscan un puntaje FICO de al menos 580-630 para considerar el cambio. Los solicitantes con un puntaje entre 650-700 tienden a recibir límites de crédito más altos en la tarjeta no asegurada. Mantener pagos puntuales y un uso del crédito por debajo del 30% son las dos formas más rápidas de alcanzar esos niveles."
+howToSteps:
+  - name: "Confirma que estás listo — historial de pagos, uso de crédito y puntaje"
+    text: "Cero pagos atrasados o perdidos durante al menos 12 meses, uso del crédito consistentemente por debajo del 30% (idealmente bajo 15%), y un puntaje FICO calificable de al menos 580-630. La mayoría de los emisores no considera el cambio hasta que los tres factores se alinean."
+  - name: "Verifica si tu emisor hace el cambio automáticamente"
+    text: "Capital One y Discover realizan revisiones automáticas desde los 6-7 meses sin consulta dura. Bank of America y Citi generalmente requieren que lo solicites tú mismo."
+  - name: "Llama y solicita el cambio si no es automático"
+    text: "Ten a la mano tu número de cuenta, ITIN, fecha de apertura de la cuenta, límite y saldo actual, e ingresos recientes. Pregunta específicamente qué factor está impidiendo la aprobación si te dicen que aún no calificas."
+  - name: "Maneja tu depósito correctamente"
+    text: "Un cambio interno real conserva tu número de cuenta y devuelve el depósito automáticamente. Si tu emisor cierra la cuenta asegurada y abre una nueva, el depósito se devuelve después de pagar el saldo, normalmente en 1-2 ciclos de facturación."
+  - name: "Si no hay opción de cambio, solicita una tarjeta no asegurada nueva sin cerrar la anterior"
+    text: "Mantén la tarjeta asegurada abierta para conservar tu historial y antigüedad crediticia, y solicita por separado una tarjeta no asegurada compatible con ITIN cuando tu puntaje califique — esto evita el aumento de uso de crédito que ocurre al cerrar una cuenta justo antes de que un nuevo emisor revise tu perfil."
 published: true
 ---
 

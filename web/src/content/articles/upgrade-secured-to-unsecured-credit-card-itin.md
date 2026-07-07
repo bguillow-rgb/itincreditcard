@@ -11,6 +11,7 @@ relatedQueries:
   - "best unsecured credit card after secured card ITIN"
 quickAnswer: "ITIN holders can upgrade from a secured to an unsecured credit card after roughly 6-18 months of on-time payments and low utilization. Issuers like Capital One and Discover review accounts automatically; others require a direct request. Your deposit is typically refunded when the upgrade is approved or the secured account is closed in good standing."
 publishedAt: "2026-06-18"
+updatedAt: "2026-07-07"
 author: "Sofía Castillo"
 category: "Credit Cards"
 relatedSlugs:
@@ -31,6 +32,17 @@ faqs:
     a: "Issuers like OpenSky and First Progress may not offer a direct in-house upgrade. In that case, keep the secured card open to preserve your credit history, then apply separately to a new ITIN-friendly unsecured card once your score qualifies. Check our guide to unsecured credit cards for ITIN holders for options."
   - q: "What credit score do I need to upgrade my secured card to unsecured with an ITIN?"
     a: "Most issuers look for a FICO score of at least 580-630 to consider an upgrade. Stronger applicants in the 650-700 range tend to receive better unsecured credit limits. Consistent on-time payments and utilization below 30% are the two fastest ways to reach those thresholds."
+howToSteps:
+  - name: "Confirm you're ready — payment history, utilization, and score"
+    text: "Zero missed or late payments for at least 12 months, utilization consistently below 30% (ideally under 15%), and a scoreable FICO of at least 580-630. Most issuers won't consider an upgrade until all three line up."
+  - name: "Check whether your issuer upgrades automatically"
+    text: "Capital One and Discover run automatic reviews as early as 6-7 months with no hard inquiry. Bank of America and Citi typically require you to request it manually."
+  - name: "Call and request the upgrade if it's not automatic"
+    text: "Have your account number, ITIN, account-open date, current limit/balance, and recent income figure ready. Ask specifically which metric is holding back approval if you're told you don't qualify yet."
+  - name: "Handle your deposit correctly"
+    text: "A true in-place upgrade keeps your account number and refunds the deposit automatically. If your issuer instead closes the secured account and opens a new one, the deposit returns after the balance is paid, usually within 1-2 billing cycles."
+  - name: "If there's no upgrade path, apply to a new unsecured card without closing the old one"
+    text: "Keep the secured card open to preserve your credit history and account age, then apply separately to an ITIN-friendly unsecured card once your score qualifies — this avoids the utilization spike that comes from closing an account right before a new lender reviews your file."
 published: true
 ---
 
