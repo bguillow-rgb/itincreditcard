@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card approval no credit history ITIN"
 quickAnswer: "Yes, ITIN holders can get credit cards with no credit check. Cards like OpenSky Secured, the Current Build Card, and Firstcard approve applicants without a hard pull on your credit. Most require a refundable security deposit or a linked bank account instead of a credit history review."
 publishedAt: "2026-06-22"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-prequalification-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo unirme a una cooperativa de crédito con ITIN"
 quickAnswer: "Sí, muchas cooperativas de crédito aceptan el ITIN en lugar del SSN tanto para la membresía como para solicitar una tarjeta de crédito. Como son organizaciones sin fines de lucro con una misión comunitaria, suelen tener criterios de aprobación más flexibles que los grandes bancos, lo que las convierte en una de las mejores opciones para titulares de ITIN con historial crediticio limitado o inexistente en EE. UU."
 publishedAt: "2026-06-11"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "balance-transfer-credit-card-itin"

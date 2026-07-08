@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito con ITIN y cónyuge"
 quickAnswer: "Un número reducido de bancos y cooperativas de crédito permiten solicitudes de tarjeta conjunta en las que uno o ambos solicitantes usan un ITIN en lugar de un SSN. La mayoría de los grandes emisores ya no ofrecen tarjetas conjuntas. Las cooperativas de crédito y los bancos comunitarios son tu opción más realista, mientras que convertirte en usuario autorizado es la alternativa práctica que usa la mayoría de los titulares de ITIN."
 publishedAt: "2026-06-20"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "business-credit-card-with-itin"

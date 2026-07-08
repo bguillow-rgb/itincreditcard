@@ -11,7 +11,7 @@ relatedQueries:
   - "check approval odds credit card ITIN"
 quickAnswer: "ITIN holders can pre-qualify for credit cards at Capital One, American Express, and several other major issuers using a soft pull that does not affect your credit. Pre-qualification takes 2-3 minutes online, requires your ITIN in place of an SSN, and shows which cards you are likely to qualify for before you formally apply."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"

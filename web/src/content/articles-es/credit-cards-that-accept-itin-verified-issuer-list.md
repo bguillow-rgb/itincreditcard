@@ -11,7 +11,7 @@ relatedQueries:
   - "probabilidades de aprobación para solicitud de tarjeta con ITIN"
 quickAnswer: "Al menos siete de los diez principales emisores de tarjetas de crédito en EE. UU. aceptan un ITIN en lugar de un SSN, incluyendo Capital One, Chase, American Express, Bank of America, Wells Fargo y Citi. OpenSky, Petal (ahora en transición a Tilt) y Zolve completan la lista para solicitantes sin historial crediticio en EE. UU. Tu mejor opción de inicio depende de si ya tienes crédito establecido en EE. UU."
 publishedAt: "2026-07-05"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "itin-credit-card-issuer-comparison-2026"

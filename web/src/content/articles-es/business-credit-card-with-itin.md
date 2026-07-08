@@ -11,7 +11,7 @@ relatedQueries:
   - "solicitud capital one spark con ITIN"
 quickAnswer: "Sí, los titulares de ITIN pueden solicitar una tarjeta de crédito empresarial sin SSN. Capital One Spark, Chase Ink y algunas tarjetas corporativas de fintech aceptan ITIN. Por lo general necesitarás un EIN, una cuenta bancaria empresarial en EE. UU. y algunos meses de historial bancario para calificar."
 publishedAt: "2026-06-14"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

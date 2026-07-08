@@ -11,7 +11,7 @@ relatedQueries:
   - "capital one spark itin application"
 quickAnswer: "Yes, ITIN holders can apply for a business credit card without an SSN. Capital One Spark, Chase Ink, and select fintech corporate cards all accept an ITIN. You'll typically need an EIN, a U.S. business bank account, and a few months of banking history to qualify."
 publishedAt: "2026-06-14"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

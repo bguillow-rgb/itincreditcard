@@ -11,7 +11,7 @@ relatedQueries:
   - "verificar probabilidad de aprobación tarjeta de crédito con ITIN"
 quickAnswer: "Los titulares de ITIN pueden precalificarse para tarjetas de crédito en Capital One, American Express y varios otros emisores importantes usando una consulta suave que no afecta tu crédito. La precalificación toma entre 2 y 3 minutos en línea, requiere tu ITIN en lugar del SSN, y te muestra qué tarjetas es probable que obtengas antes de solicitar formalmente."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"

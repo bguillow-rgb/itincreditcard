@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta asegurada de Capital One con ITIN"
 quickAnswer: "Sí, puedes obtener una tarjeta de crédito asegurada usando tu ITIN en lugar de un SSN. Varios emisores importantes, entre ellos Capital One, Bank of America, Citi y OpenSky, aceptan el ITIN en las solicitudes de tarjetas aseguradas. Necesitarás un depósito reembolsable (generalmente entre $200 y $500), una identificación con foto vigente y comprobante de domicilio en EE. UU."
 publishedAt: "2026-06-07"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

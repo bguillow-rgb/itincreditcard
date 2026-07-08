@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN to SSN credit file merge"
 quickAnswer: "Your existing credit cards stay open and your credit history does not disappear when you receive an SSN. You must notify each card issuer of your new SSN and write to all three credit bureaus asking them to merge your ITIN file into your new SSN profile, or years of on-time payments could become invisible to lenders."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "balance-transfer-credit-card-itin"

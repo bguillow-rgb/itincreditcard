@@ -11,7 +11,7 @@ relatedQueries:
   - "how to build credit as an undocumented immigrant"
 quickAnswer: "Yes. Undocumented immigrants can get a credit card using an ITIN (Individual Taxpayer Identification Number) in place of a Social Security number. Several major issuers, including Capital One and Citi, accept ITINs. A secured card is the easiest first step because it requires no U.S. credit history."
 publishedAt: "2026-06-25"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-international-students-itin"

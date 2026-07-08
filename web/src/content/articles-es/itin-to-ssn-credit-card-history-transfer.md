@@ -11,7 +11,7 @@ relatedQueries:
   - "fusionar expediente de crédito ITIN con SSN"
 quickAnswer: "Tus tarjetas de crédito actuales siguen abiertas y tu historial crediticio no desaparece cuando recibes un SSN. Debes notificar a cada emisor de tarjetas tu nuevo SSN y escribir a las tres agencias de crédito para pedirles que fusionen tu expediente de ITIN con tu nuevo perfil de SSN. Si no lo haces, años de pagos puntuales podrían volverse invisibles para los prestamistas."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

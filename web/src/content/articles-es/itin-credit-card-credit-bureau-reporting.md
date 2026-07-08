@@ -11,7 +11,7 @@ relatedQueries:
   - "burós de crédito para titulares de ITIN 2026"
 quickAnswer: "Sí. Cuando un emisor de tarjetas acepta tu ITIN, reporta tu historial de pagos a los burós de crédito exactamente igual que con los titulares de SSN. La mayoría de las tarjetas populares que aceptan ITIN, incluidas las tarjetas aseguradas de Capital One, Citi y Bank of America, reportan a los tres burós: Experian, Equifax y TransUnion. Siempre confírmalo antes de aplicar."
 publishedAt: "2026-06-21"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "travel-credit-card-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "mejor forma de construir crédito sin SSN"
 quickAnswer: "Los titulares de ITIN pueden construir crédito en EE. UU. abriendo una tarjeta de crédito asegurada o no asegurada que reporte a los tres burós, pagando el saldo completo a tiempo cada mes y manteniendo el uso del crédito por debajo del 30%. La mayoría de los titulares de ITIN tienen un historial crediticio calificable en 3-6 meses y alcanzan un puntaje de 700+ en 12-18 meses con hábitos constantes."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "improve-credit-card-approval-odds-itin"

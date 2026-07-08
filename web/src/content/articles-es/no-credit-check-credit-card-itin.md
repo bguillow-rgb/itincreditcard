@@ -11,7 +11,7 @@ relatedQueries:
   - "aprobación de tarjeta de crédito sin historial crediticio con ITIN"
 quickAnswer: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito sin verificación de crédito. Tarjetas como la OpenSky Secured, la Current Build Card y la Firstcard aprueban a los solicitantes sin hacer un hard pull a tu crédito. La mayoría requiere un depósito de seguridad reembolsable o una cuenta bancaria vinculada, en lugar de revisar tu historial crediticio."
 publishedAt: "2026-06-22"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"

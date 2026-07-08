@@ -11,7 +11,7 @@ relatedQueries:
 quickAnswer: "Sí. Muchos bancos, cooperativas de crédito y empresas fintech en EE. UU. aceptan un ITIN en lugar de un SSN en la solicitud de tarjeta de crédito. Una tarjeta asegurada, respaldada por un depósito reembolsable de $200-$500, es el punto de partida más fácil para titulares de ITIN sin historial crediticio en EE. UU. Paga a tiempo y la mayoría de los emisores te actualizarán a una tarjeta no asegurada en 6-12 meses."
 publishedAt: "2026-06-05"
 updatedAt: "2026-07-07"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "balance-transfer-credit-card-itin"

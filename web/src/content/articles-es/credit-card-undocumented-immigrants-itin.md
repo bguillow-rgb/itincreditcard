@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo construir crédito siendo inmigrante indocumentado"
 quickAnswer: "Sí. Los inmigrantes indocumentados pueden obtener una tarjeta de crédito usando un ITIN (Número de Identificación Personal del Contribuyente) en lugar de un número de Seguro Social. Varios emisores importantes, entre ellos Capital One y Citi, aceptan ITIN. Una tarjeta asegurada es el primer paso más sencillo, ya que no requiere historial crediticio en EE. UU."
 publishedAt: "2026-06-25"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-international-students-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de puntos sin número de seguro social"
 quickAnswer: "Sí, los titulares de ITIN pueden calificar para tarjetas de crédito de viaje. Emisores como Capital One, Chase y American Express aceptan un ITIN en lugar de un SSN en tarjetas seleccionadas. Tus posibilidades de aprobación dependen de tu historial crediticio en EE. UU. y tus ingresos. Si tienes el ITIN desde hace poco, empieza con una tarjeta asegurada y avanza a una de recompensas de viaje en 12-18 meses."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo pasar de tarjeta asegurada a tarjeta sin garantía con ITIN"
 quickAnswer: "Los titulares de ITIN pueden abrir una tarjeta de crédito asegurada haciendo un depósito reembolsable, generalmente de $49 a $300, que se convierte en tu límite de crédito. El emisor retiene el depósito como garantía, reporta tus pagos a las tres agencias de crédito y te devuelve el dinero cuando pasas a una tarjeta sin garantía o cierras la cuenta al corriente."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "upgrade-secured-to-unsecured-credit-card-itin"

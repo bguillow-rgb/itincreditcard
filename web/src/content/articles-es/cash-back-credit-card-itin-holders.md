@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta con cash back con ITIN sin historial crediticio"
 quickAnswer: "Los titulares de ITIN pueden obtener tarjetas de crédito con cash back en 2026. Capital One, Petal, Chase y Zolve aceptan un ITIN en lugar de un SSN en tarjetas seleccionadas que ganan entre 1% y 5% de cash back. Las tarjetas aseguradas son el punto de entrada más fácil; las tarjetas con cash back sin depósito se abren una vez que tienes seis o más meses de historial crediticio en EE. UU."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"

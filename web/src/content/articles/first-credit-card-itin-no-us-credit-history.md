@@ -11,7 +11,7 @@ relatedQueries:
   - "itin credit card zero credit history approval"
 quickAnswer: "You can get a first U.S. credit card with an ITIN and no American credit history by applying for a secured card or a no-credit-check credit-builder card from ITIN-friendly issuers like Capital One, OpenSky, or Citi. Expect a $200-$500 deposit requirement and approval within days. Your U.S. credit file opens the moment your card is reported to the bureaus."
 publishedAt: "2026-06-18"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-undocumented-immigrants-itin"

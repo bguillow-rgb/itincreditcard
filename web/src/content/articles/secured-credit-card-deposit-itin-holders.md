@@ -11,7 +11,7 @@ relatedQueries:
   - "graduate secured card to unsecured ITIN"
 quickAnswer: "ITIN holders can open a secured credit card by placing a refundable deposit, usually $49-$300, that becomes your credit limit. The issuer holds the deposit as collateral, reports your payments to all three bureaus, and returns your money when you upgrade to an unsecured card or close the account in good standing."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"

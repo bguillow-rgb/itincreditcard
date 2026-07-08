@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card income requirements for immigrants"
 quickAnswer: "Most ITIN-accepting credit cards don't publish a hard income floor, but issuers typically look for $500-$2,000 per month in verifiable income. Acceptable proof includes pay stubs, bank statements, tax returns, or offer letters. A few no-credit-check secured cards skip income verification entirely."
 publishedAt: "2026-06-26"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"

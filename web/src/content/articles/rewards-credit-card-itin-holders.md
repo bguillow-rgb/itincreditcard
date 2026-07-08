@@ -11,7 +11,7 @@ relatedQueries:
   - "travel rewards credit card without ssn"
 quickAnswer: "Yes, ITIN holders can earn cash back and travel rewards. Issuers like Capital One, Chase, and American Express accept an ITIN in place of an SSN on select rewards cards. Your rewards work exactly the same way as they do for SSN holders, the ITIN is just the identifier on file."
 publishedAt: "2026-06-15"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "travel-credit-card-itin-holders"

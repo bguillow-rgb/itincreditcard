@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card reporting bureaus ITIN holders 2026"
 quickAnswer: "Yes. When a credit card issuer accepts your ITIN, it reports your payment history to credit bureaus the same way it does for SSN holders. Most major ITIN-friendly cards, including secured cards from Capital One, Citi, and Bank of America, report to all three bureaus: Experian, Equifax, and TransUnion. Always confirm before you apply."
 publishedAt: "2026-06-21"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "authorized-user-credit-card-itin"

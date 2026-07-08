@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "To apply for a credit card with an ITIN, gather your ITIN letter, passport, proof of address, and proof of income, then choose an ITIN-accepting issuer like Capital One, Bank of America, or Citi. Apply online or by phone, entering your ITIN where the form asks for an SSN."
 publishedAt: "2026-06-11"
 updatedAt: "2026-07-07"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "income-requirements-credit-card-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "comisiones y tasas de interés de tarjetas de crédito con ITIN 2026"
 quickAnswer: "Los titulares de ITIN pueden acceder a tarjetas de crédito con APRs que van desde el 0% (en ciertas tarjetas fintech y aseguradas) hasta más del 29% en tarjetas de inicio tradicionales. La manera más efectiva de evitar intereses por completo es pagar el saldo total de tu estado de cuenta cada mes, sin importar qué tarjeta tengas."
 publishedAt: "2026-06-19"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "travel-credit-card-itin-holders"

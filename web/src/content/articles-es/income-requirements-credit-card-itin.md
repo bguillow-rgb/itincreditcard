@@ -11,7 +11,7 @@ relatedQueries:
   - "requisitos de ingresos para tarjeta de crédito para inmigrantes"
 quickAnswer: "La mayoría de las tarjetas que aceptan ITIN no publican un mínimo de ingresos fijo, pero los emisores suelen buscar entre $500 y $2,000 al mes en ingresos verificables. Como comprobante se aceptan talones de pago, estados de cuenta bancarios, declaraciones de impuestos o cartas de oferta de trabajo. Algunas tarjetas aseguradas sin verificación de crédito omiten por completo la comprobación de ingresos."
 publishedAt: "2026-06-26"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"

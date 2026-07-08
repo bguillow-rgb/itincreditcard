@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "ITIN holders can upgrade from a secured to an unsecured credit card after roughly 6-18 months of on-time payments and low utilization. Issuers like Capital One and Discover review accounts automatically; others require a direct request. Your deposit is typically refunded when the upgrade is approved or the secured account is closed in good standing."
 publishedAt: "2026-06-18"
 updatedAt: "2026-07-07"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"

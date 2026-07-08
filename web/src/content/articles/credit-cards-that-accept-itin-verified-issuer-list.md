@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card application ITIN approval odds"
 quickAnswer: "At least seven of the top ten U.S. credit card issuers accept an ITIN in place of an SSN, including Capital One, Chase, American Express, Bank of America, Wells Fargo, and Citi. OpenSky, Petal (now transitioning to Tilt), and Zolve round out the list for applicants with no U.S. credit history. Your best starting option depends on whether you have existing U.S. credit."
 publishedAt: "2026-07-05"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "itin-credit-card-issuer-comparison-2026"

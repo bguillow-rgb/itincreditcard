@@ -11,7 +11,7 @@ relatedQueries:
   - "build US credit with ITIN outside the US"
 quickAnswer: "Non-residents can get a U.S. credit card using an ITIN in place of an SSN. A handful of issuers, including Capital One, Bank of America, and fintech cards like OpenSky and Firstcard, accept ITIN applicants with no U.S. credit history. You will need a U.S. mailing address for card delivery, but some issuers accept a friend or family member's address."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "authorized-user-credit-card-itin"

@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito con itin sin historial crediticio aprobación"
 quickAnswer: "Puedes obtener tu primera tarjeta de crédito en EE.UU. con un ITIN y sin historial crediticio americano solicitando una tarjeta asegurada o una tarjeta de crédito sin verificación crediticia de emisores que aceptan ITIN, como Capital One, OpenSky o Citi. Espera un requisito de depósito de $200 a $500 y aprobación en pocos días. Tu historial crediticio en EE.UU. se abre en el momento en que tu tarjeta queda registrada en los burós."
 publishedAt: "2026-06-18"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"

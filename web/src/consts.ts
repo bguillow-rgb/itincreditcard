@@ -32,38 +32,39 @@ export const SITE = {
     // Add LinkedIn / Crunchbase when ready. Empty entries filtered on render.
   },
 
-  // Named editor persona, the byline + Person entity anchor for E-E-A-T. Used on
-  // article bylines, Article schema (author), and the /about page. NOTE: this is a
-  // pen name, not a real person; the bio describes the site's actual editorial
-  // process and must never claim fabricated licenses/credentials (YMYL trust rule).
+  // Editorial byline identity. Bylines are NON-PERSONAL ("Editorial Team",
+  // "Editorial Staff", "Research Desk"), never a human name (per Bob's rule,
+  // 2026-07-07). Article schema `author` is the Organization, not a Person, so
+  // there is no fake individual to anchor. Bios describe the real editorial
+  // process and must never claim fabricated licenses/credentials (YMYL trust).
   // `name` must stay first in this block, the daily generator reads it by regex.
   editorial: {
-    name: 'Mateo Herrera',
-    role: 'Editor',
-    bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources, the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials, and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
-    bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU., convirtiendo los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros y precisos. Cada guía se investiga con fuentes primarias, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
-    // Pen-name byline roster (Mateo leads). Daily/seed generators rotate new
-    // posts across these names so the site doesn't read as written by one hand.
-    // Every bio is honest about the real editorial process; none claims a
-    // fabricated license or credential (YMYL trust rule). Never Bob's real name.
+    name: 'Editorial Team',
+    role: 'ITIN Credit Card',
+    bio: "ITIN Credit Card's guides are written and reviewed by our editorial team. We turn issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate, plain-English steps for ITIN holders and foreign nationals in the U.S. Every guide is researched against primary sources, the IRS, the Consumer Financial Protection Bureau, the major credit bureaus, and issuers' own published materials, and reviewed for accuracy before it goes live. We publish in both English and Spanish.",
+    bioEs: "Las guías de ITIN Credit Card las escribe y revisa nuestro equipo editorial. Convertimos los requisitos de los emisores, las reglas del puntaje FICO y las guías del IRS y del CFPB en pasos claros, precisos y en lenguaje sencillo para personas con ITIN y extranjeros en EE. UU. Cada guía se investiga con fuentes primarias, el IRS, la Oficina para la Protección Financiera del Consumidor (CFPB), los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa antes de publicarse. Publicamos en inglés y español.",
+    // Non-personal byline roster. Daily/seed generators rotate new posts across
+    // these labels so the site doesn't read as written by one hand, without ever
+    // attaching a human name. Every bio is honest about the real editorial
+    // process; none claims a fabricated license or credential (YMYL trust rule).
     team: [
       {
-        name: 'Mateo Herrera',
-        role: 'Editor',
-        bio: "Mateo Herrera is the editor of ITIN Credit Card. He writes and edits plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S., turning issuer requirements, FICO scoring rules, and IRS and CFPB guidance into clear, accurate steps. Every guide is researched against primary sources and reviewed for accuracy before it is published. Mateo writes in both English and Spanish.",
-        bioEs: "Mateo Herrera es el editor de ITIN Credit Card. Escribe y edita guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU. Cada guía se investiga con fuentes primarias y se revisa para verificar su exactitud antes de publicarse. Mateo escribe en inglés y español.",
+        name: 'Editorial Team',
+        role: 'Cards & Credit Building',
+        bio: "ITIN Credit Card's editorial team writes and edits our plain-English guides on credit cards and credit-building for ITIN holders and foreign nationals in the U.S. Every guide is built from primary sources, the IRS, the CFPB, the major credit bureaus, and issuers' own published materials, and reviewed for accuracy before it is published. We publish in both English and Spanish.",
+        bioEs: "El equipo editorial de ITIN Credit Card escribe y edita nuestras guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU. Cada guía se construye a partir de fuentes primarias, el IRS, el CFPB, los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa antes de publicarse. Publicamos en inglés y español.",
       },
       {
-        name: 'Sofía Castillo',
-        role: 'Secured & Starter Cards Writer',
-        bio: "Sofía Castillo writes ITIN Credit Card's coverage of secured and starter cards, deposit and credit-limit rules, and which issuers approve applicants with an ITIN. She builds each guide from issuers' own published application requirements and CFPB guidance, and verifies every fee and rate before it runs. Sofía writes in English and Spanish.",
-        bioEs: "Sofía Castillo escribe la cobertura de ITIN Credit Card sobre tarjetas con garantía y para principiantes, las reglas de depósito y límite de crédito, y qué emisores aprueban a solicitantes con un ITIN. Construye cada guía a partir de los requisitos de solicitud publicados por los emisores y las guías del CFPB. Sofía escribe en inglés y español.",
+        name: 'Editorial Staff',
+        role: 'Secured & Starter Cards',
+        bio: "Our editorial staff covers secured and starter cards, deposit and credit-limit rules, and which issuers approve applicants with an ITIN. We build each guide from issuers' own published application requirements and CFPB guidance, and verify every fee and rate before it runs. We publish in English and Spanish.",
+        bioEs: "Nuestro equipo editorial cubre tarjetas con garantía y para principiantes, las reglas de depósito y límite de crédito, y qué emisores aprueban a solicitantes con un ITIN. Construimos cada guía a partir de los requisitos de solicitud publicados por los emisores y las guías del CFPB. Publicamos en inglés y español.",
       },
       {
-        name: 'Kevin Tran',
-        role: 'Rewards & Approval Odds Writer',
-        bio: "Kevin Tran covers unsecured and business cards, rewards, and approval odds for ITIN holders at ITIN Credit Card. He digs into issuer underwriting signals, annual-fee tradeoffs, and how card use feeds the credit bureaus, checking each claim against issuers' published terms before it runs. Kevin writes in English and Spanish.",
-        bioEs: "Kevin Tran cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN en ITIN Credit Card. Investiga las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Kevin escribe en inglés y español.",
+        name: 'Research Desk',
+        role: 'Issuers & Approval',
+        bio: "ITIN Credit Card's research desk covers unsecured and business cards, rewards, and approval odds for ITIN holders. We dig into issuer underwriting signals, annual-fee tradeoffs, and how card use feeds the credit bureaus, checking each claim against issuers' published terms before it runs. We publish in English and Spanish.",
+        bioEs: "El equipo de investigación de ITIN Credit Card cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN. Investigamos las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Publicamos en inglés y español.",
       },
     ],
   },

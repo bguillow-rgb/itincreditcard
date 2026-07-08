@@ -11,7 +11,7 @@ relatedQueries:
   - "points credit card no social security number"
 quickAnswer: "Yes, ITIN holders can qualify for travel credit cards. Issuers including Capital One, Chase, and American Express accept an ITIN in place of an SSN on select cards. Your approval odds depend on your U.S. credit history and income. Newer ITIN holders should start with a secured card and graduate to travel rewards within 12-18 months."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"

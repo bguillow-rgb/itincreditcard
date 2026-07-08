@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN holder credit card use abroad"
 quickAnswer: "Yes, ITIN holders can get credit cards with no foreign transaction fee. Capital One cards (including the Quicksilver Secured), Petal 2, and select fintech cards like Firstcard waive the fee and accept an ITIN instead of an SSN. The savings matter most for immigrants who shop internationally or send payments to foreign merchants online."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "travel-credit-card-itin-holders"

@@ -11,7 +11,7 @@ relatedQueries:
   - "qué hacer después de que rechazan una tarjeta de crédito con itin"
 quickAnswer: "Si te rechazaron una solicitud de tarjeta de crédito con tu ITIN, lee el aviso de acción adversa para conocer el motivo exacto y llama a la línea de reconsideración del emisor dentro de los 30 días siguientes. Las causas más comunes que se pueden resolver incluyen un historial crediticio escaso, un reporte de crédito bloqueado o documentación incompleta. Solicitar una tarjeta asegurada o una tarjeta que no requiere verificación de crédito suele ser la alternativa más rápida."
 publishedAt: "2026-06-17"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"

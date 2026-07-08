@@ -11,7 +11,7 @@ relatedQueries:
   - "free credit card for ITIN holders"
 quickAnswer: "Yes, ITIN holders can qualify for several no-annual-fee credit cards in 2026. Capital One Platinum, Capital One Quicksilver Secured, and the OpenSky Plus Secured Visa all charge $0 in annual fees and accept an ITIN in place of an SSN. Your best option depends on whether you can put down a deposit and how much U.S. credit history you have."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "no-foreign-transaction-fee-credit-card-itin"

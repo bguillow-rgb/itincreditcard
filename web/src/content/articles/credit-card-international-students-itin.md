@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card for students without social security number"
 quickAnswer: "Yes. International students can get a U.S. credit card using an ITIN instead of an SSN. Capital One, Bank of America, and several fintechs accept ITINs on student and secured card applications. Getting an ITIN first, then applying for a secured or student card, is the fastest path to building U.S. credit history from scratch."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"

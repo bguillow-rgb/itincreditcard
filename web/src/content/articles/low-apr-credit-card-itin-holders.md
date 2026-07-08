@@ -11,7 +11,7 @@ relatedQueries:
   - "ITIN credit card fees and interest rates 2026"
 quickAnswer: "ITIN holders can access credit cards with APRs ranging from 0% (on select fintech and secured cards) to 29%+ on traditional starter cards. The single most effective way to avoid interest entirely is to pay your statement balance in full each month, regardless of which card you hold."
 publishedAt: "2026-06-19"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "no-annual-fee-credit-card-itin"

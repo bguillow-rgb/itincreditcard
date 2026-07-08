@@ -11,7 +11,7 @@ relatedQueries:
   - "qué tarjetas de crédito aceptan ITIN para transferencia de saldo"
 quickAnswer: "Sí, los titulares de ITIN pueden hacer transferencias de saldo. Wells Fargo y Citi aceptan el ITIN en las solicitudes y ofrecen tarjetas con APR introductorio del 0% para transferencias de saldo. Necesitas un historial crediticio establecido en EE. UU. y estar al día con tu tarjeta actual para calificar. El proceso funciona exactamente igual que para quienes tienen SSN."
 publishedAt: "2026-06-23"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"

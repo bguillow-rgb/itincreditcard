@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito para estudiantes sin número de seguro social"
 quickAnswer: "Sí. Los estudiantes internacionales pueden obtener una tarjeta de crédito en EE. UU. usando un ITIN en lugar de un SSN. Capital One, Bank of America y varias fintechs aceptan ITIN en solicitudes de tarjetas estudiantiles y aseguradas. El camino más rápido para construir historial crediticio en EE. UU. desde cero es obtener primero el ITIN y luego solicitar una tarjeta asegurada o estudiantil."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-undocumented-immigrants-itin"

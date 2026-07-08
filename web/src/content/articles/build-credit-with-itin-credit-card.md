@@ -11,7 +11,7 @@ relatedQueries:
   - "best way to build credit without SSN"
 quickAnswer: "ITIN holders can build U.S. credit by opening a secured or unsecured credit card that reports to all three bureaus, paying the full balance on time every month, and keeping utilization below 30%. Most ITIN holders see a scoreable credit file within 3-6 months and reach a 700+ score in 12-18 months with consistent habits."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "no-foreign-transaction-fee-credit-card-itin"

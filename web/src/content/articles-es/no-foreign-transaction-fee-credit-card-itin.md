@@ -11,7 +11,7 @@ relatedQueries:
   - "usar tarjeta de crédito con ITIN en el extranjero"
 quickAnswer: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito sin cargo por transacción extranjera. Las tarjetas de Capital One (incluida la Quicksilver Secured), la Petal 2 y algunas tarjetas fintech como Firstcard eliminan ese cargo y aceptan un ITIN en lugar de un SSN. El ahorro es especialmente importante para inmigrantes que compran en tiendas internacionales o realizan pagos a comerciantes extranjeros en línea."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "no-annual-fee-credit-card-itin"

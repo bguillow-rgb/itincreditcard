@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo construir crédito en EE. UU. con ITIN desde fuera del país"
 quickAnswer: "Los no residentes pueden obtener una tarjeta de crédito de EE. UU. usando un ITIN en lugar de un SSN. Algunos emisores, como Capital One, Bank of America y tarjetas fintech como OpenSky y Firstcard, aceptan solicitudes con ITIN aunque no tengas historial crediticio en EE. UU. Necesitarás una dirección postal en EE. UU. para recibir la tarjeta, pero algunos emisores aceptan la dirección de un amigo o familiar."
 publishedAt: "2026-06-18"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-undocumented-immigrants-itin"

@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "Los titulares de ITIN pueden pasar de una tarjeta asegurada a una no asegurada después de aproximadamente 6-18 meses de pagos puntuales y un uso bajo del crédito. Emisores como Capital One y Discover revisan las cuentas automáticamente; otros requieren que tú lo solicites directamente. Por lo general, el depósito se devuelve cuando se aprueba el cambio o cuando la cuenta asegurada se cierra al día."
 publishedAt: "2026-06-18"
 updatedAt: "2026-07-07"
-author: "Sofía Castillo"
+author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "secured-credit-card-deposit-itin-holders"

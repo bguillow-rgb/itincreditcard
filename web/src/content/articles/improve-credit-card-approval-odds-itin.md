@@ -11,7 +11,7 @@ relatedQueries:
   - "how to increase chances of getting a credit card with ITIN"
 quickAnswer: "ITIN holders can improve credit card approval odds by choosing ITIN-friendly issuers, starting with a secured card, using pre-qualification (soft pull) tools, establishing a banking relationship first, and submitting a complete application with accurate income. These five steps cut the risk of a denial sharply."
 publishedAt: "2026-06-24"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"

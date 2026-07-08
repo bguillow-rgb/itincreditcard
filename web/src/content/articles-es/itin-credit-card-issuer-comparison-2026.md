@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito con ITIN sin historial crediticio en EE. UU."
 quickAnswer: "Al menos ocho emisores importantes aceptan el ITIN en lugar del SSN en 2026, entre ellos Capital One, Bank of America, Wells Fargo, Chase, American Express, Citi, OpenSky y Petal. ¿Sin historial crediticio en EE. UU.? Comienza con OpenSky o Capital One Platinum Secured. ¿Ya tienes algo de historial? Petal o Capital One Quicksilver Secured te dan recompensas en efectivo."
 publishedAt: "2026-07-06"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"

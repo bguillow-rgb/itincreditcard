@@ -11,7 +11,7 @@ relatedQueries:
   - "tarjeta de crédito sin anualidad para titulares de ITIN"
 quickAnswer: "Sí, los titulares de ITIN pueden calificar para varias tarjetas de crédito sin cuota anual en 2026. La Capital One Platinum, la Capital One Quicksilver Secured y la OpenSky Plus Secured Visa no cobran cuota anual y aceptan un ITIN en lugar de un SSN. La mejor opción depende de si puedes hacer un depósito y de cuánto historial crediticio en EE. UU. tienes."
 publishedAt: "2026-06-18"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "no-foreign-transaction-fee-credit-card-itin"

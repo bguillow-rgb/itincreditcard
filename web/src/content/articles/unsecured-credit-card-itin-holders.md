@@ -11,7 +11,7 @@ relatedQueries:
   - "itin credit card no security deposit"
 quickAnswer: "ITIN holders can qualify for unsecured credit cards, cards that require no security deposit, through issuers like Capital One, Petal, and Zolve. Most applicants start with a secured card, build 6-12 months of on-time payments, then upgrade. A few fintech cards skip the deposit requirement entirely from day one."
 publishedAt: "2026-06-09"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "upgrade-secured-to-unsecured-credit-card-itin"

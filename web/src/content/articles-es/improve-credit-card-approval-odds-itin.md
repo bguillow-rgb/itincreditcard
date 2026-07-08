@@ -11,7 +11,7 @@ relatedQueries:
   - "cómo aumentar las probabilidades de obtener una tarjeta de crédito con ITIN"
 quickAnswer: "Los titulares de ITIN pueden mejorar sus posibilidades de aprobación de tarjeta de crédito eligiendo emisores que acepten ITIN, comenzando con una tarjeta asegurada, usando herramientas de precalificación (consulta suave), estableciendo una relación bancaria primero y enviando una solicitud completa con ingresos precisos. Estos cinco pasos reducen considerablemente el riesgo de rechazo."
 publishedAt: "2026-06-24"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "itin-credit-card-issuer-comparison-2026"

@@ -11,7 +11,7 @@ relatedQueries:
   - "which credit cards accept ITIN for balance transfer"
 quickAnswer: "Yes, ITIN holders can do balance transfers. Wells Fargo and Citi both accept an ITIN on applications and offer 0% intro APR balance transfer cards. You need an established U.S. credit history and good standing on your existing card to qualify. The process works exactly the same as it does for SSN holders."
 publishedAt: "2026-06-23"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-international-students-itin"

@@ -12,7 +12,7 @@ relatedQueries:
 quickAnswer: "Para solicitar una tarjeta de crédito con tu ITIN, reúne tu carta de asignación del ITIN, pasaporte, comprobante de domicilio e ingresos, y luego elige un emisor que acepte ITIN, como Capital One, Bank of America o Citi. Puedes aplicar en línea o por teléfono, ingresando tu ITIN donde el formulario te pida el SSN."
 publishedAt: "2026-06-11"
 updatedAt: "2026-07-07"
-author: "Kevin Tran"
+author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "income-requirements-credit-card-itin"

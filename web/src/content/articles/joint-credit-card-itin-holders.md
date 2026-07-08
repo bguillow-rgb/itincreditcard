@@ -11,7 +11,7 @@ relatedQueries:
   - "credit card with ITIN and spouse"
 quickAnswer: "A small number of banks and credit unions allow joint credit card applications where one or both applicants use an ITIN instead of an SSN. Most major issuers do not offer joint cards at all. Credit unions and community banks are your most realistic options, while becoming an authorized user is a practical alternative most ITIN holders use instead."
 publishedAt: "2026-06-20"
-author: "Mateo Herrera"
+author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-denied-itin-what-to-do"
