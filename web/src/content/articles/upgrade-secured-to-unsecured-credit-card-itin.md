@@ -33,16 +33,16 @@ faqs:
   - q: "What credit score do I need to upgrade my secured card to unsecured with an ITIN?"
     a: "Most issuers look for a FICO score of at least 580-630 to consider an upgrade. Stronger applicants in the 650-700 range tend to receive better unsecured credit limits. Consistent on-time payments and utilization below 30% are the two fastest ways to reach those thresholds."
 howToSteps:
-  - name: "Confirm you're ready — payment history, utilization, and score"
-    text: "Zero missed or late payments for at least 12 months, utilization consistently below 30% (ideally under 15%), and a scoreable FICO of at least 580-630. Most issuers won't consider an upgrade until all three line up."
+  - name: "Confirm you're ready: payment history, utilization, and score"
+    text: "Zero missed or late payments for at least 12 months, utilization consistently under 30% (under 15% is better), and a scoreable FICO of at least 580-630. Most issuers won't touch an upgrade until all three line up."
   - name: "Check whether your issuer upgrades automatically"
-    text: "Capital One and Discover run automatic reviews as early as 6-7 months with no hard inquiry. Bank of America and Citi typically require you to request it manually."
+    text: "Capital One and Discover run automatic reviews as early as 6-7 months, no hard inquiry involved. Bank of America and Citi usually want you to ask for it yourself."
   - name: "Call and request the upgrade if it's not automatic"
-    text: "Have your account number, ITIN, account-open date, current limit/balance, and recent income figure ready. Ask specifically which metric is holding back approval if you're told you don't qualify yet."
+    text: "Have your account number, ITIN, account-open date, current limit and balance, and a recent income figure ready. If they say you don't qualify yet, ask exactly which metric is holding you back."
   - name: "Handle your deposit correctly"
-    text: "A true in-place upgrade keeps your account number and refunds the deposit automatically. If your issuer instead closes the secured account and opens a new one, the deposit returns after the balance is paid, usually within 1-2 billing cycles."
+    text: "A true in-place upgrade keeps your account number and refunds the deposit on its own. If your issuer closes the secured account and opens a new one instead, the deposit comes back after the balance is paid, usually within 1-2 billing cycles."
   - name: "If there's no upgrade path, apply to a new unsecured card without closing the old one"
-    text: "Keep the secured card open to preserve your credit history and account age, then apply separately to an ITIN-friendly unsecured card once your score qualifies — this avoids the utilization spike that comes from closing an account right before a new lender reviews your file."
+    text: "Keep the secured card open so you don't lose your credit history and account age, then apply separately for an ITIN-friendly unsecured card once your score is there. That way you sidestep the utilization spike that comes from closing an account right before a new lender pulls your file."
 published: true
 ---
 

@@ -34,15 +34,15 @@ faqs:
     a: "Yes. Capital One and several other ITIN-accepting issuers offer soft-pull pre-qualification tools that show you likely approval odds without triggering a hard inquiry. Use these before submitting a formal application to avoid unnecessary credit score dips, especially important when you're just starting to build U.S. credit history."
 howToSteps:
   - name: "Run a pre-qualification check"
-    text: "Several ITIN-accepting issuers, including Capital One, offer soft-pull pre-qualification tools that show which cards you may qualify for without affecting your credit score. Use this before submitting any formal application."
+    text: "Several ITIN-accepting issuers, Capital One among them, offer soft-pull pre-qualification tools that show which cards you might qualify for without touching your credit score. Do this before any formal application."
   - name: "Start the online application"
-    text: "When you reach the field labeled \"Social Security Number,\" look for a dropdown or checkbox for \"ITIN\" or \"Other Tax Identification Number.\" Some forms only reveal this option after you indicate you don't have an SSN."
-  - name: "Call the issuer if the online form won't accept your ITIN"
-    text: "Most major issuers also take applications by phone or in person at a branch — applying with a representative often gives more flexibility to have your ITIN manually entered."
+    text: "When you hit the field labeled \"Social Security Number,\" look for a dropdown or checkbox for \"ITIN\" or \"Other Tax Identification Number.\" Some forms only show this option once you say you don't have an SSN."
+  - name: "Call the issuer if the online form won't take your ITIN"
+    text: "Most major issuers also accept applications by phone or in person at a branch. Working with a representative usually gives you more room to get your ITIN entered manually."
   - name: "Enter your financial information accurately"
-    text: "Income, housing cost, and employment status are used to assess ability to repay, not just credit history. Include self-employed or gig income — total annual income from all sources is what matters."
+    text: "Income, housing cost, and employment status get used to judge whether you can repay, not just your credit history. Include self-employed or gig income too. Total annual income from every source is what matters here."
   - name: "Submit and wait for a decision"
-    text: "Online applications often return a near-instant decision. If your application is pended for manual review, that's normal for ITIN applicants — the issuer may request your ITIN assignment letter or a utility bill before deciding."
+    text: "Online applications often come back near-instantly. If yours gets pended for manual review, that's normal for ITIN applicants. The issuer may just want your ITIN assignment letter or a utility bill before deciding."
 published: true
 ---
 

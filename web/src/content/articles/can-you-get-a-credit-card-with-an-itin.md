@@ -27,7 +27,7 @@ faqs:
   - q: "What happens if I miss a payment on my ITIN credit card?"
     a: "A payment 30 or more days late is reported to the credit bureaus and can drop your score by 60-110 points. The late mark stays on your credit report for seven years. Set up autopay for at least the minimum payment to protect your record, then manually pay the rest of the balance."
   - q: "Has anything changed with ITIN credit card applications in mid-2026?"
-    a: "As of May 2026, a federal executive order directed the Treasury Department to issue guidance that may treat ITIN use as a factor requiring enhanced due diligence at some financial institutions. Implementation guidance was still pending as of this writing, current accounts remain unaffected, and the order does not prohibit ITIN holders from applying for credit. If you're applying soon, it's worth confirming an issuer's current ITIN policy directly rather than relying on older articles, since policies can shift without a public announcement."
+    a: "In May 2026, a federal executive order told the Treasury Department to issue guidance that may treat ITIN use as a factor requiring enhanced due diligence at some financial institutions. That guidance was still pending as of this writing. Current accounts aren't affected, and the order doesn't stop ITIN holders from applying for credit. If you're applying soon, confirm an issuer's current ITIN policy directly instead of trusting older articles. Policies shift without any public announcement."
 relatedSlugs:
   - "secured-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"

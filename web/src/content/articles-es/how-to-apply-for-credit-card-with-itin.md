@@ -34,15 +34,15 @@ faqs:
     a: "Sí. Capital One y varios otros emisores que aceptan ITIN ofrecen herramientas de precalificación con consulta suave (soft pull) que te muestran tus probabilidades de aprobación sin generar una consulta dura. Úsalas antes de enviar una solicitud formal para evitar bajas innecesarias en tu puntaje, algo especialmente importante cuando estás comenzando a construir tu historial de crédito en EE. UU."
 howToSteps:
   - name: "Haz una precalificación"
-    text: "Varios emisores que aceptan ITIN, incluido Capital One, ofrecen herramientas de precalificación con consulta suave que muestran para qué tarjetas podrías calificar sin afectar tu puntaje. Úsala antes de enviar una solicitud formal."
+    text: "Varios emisores que aceptan ITIN, incluido Capital One, ofrecen herramientas de precalificación con consulta suave que muestran para qué tarjetas podrías calificar sin tocar tu puntaje. Hazla antes de enviar cualquier solicitud formal."
   - name: "Comienza la solicitud en línea"
-    text: "Cuando llegues al campo \"Social Security Number\", busca un menú o casilla para \"ITIN\" u \"Other Tax Identification Number\". Algunos formularios solo muestran esta opción después de indicar que no tienes SSN."
+    text: "Cuando llegues al campo \"Social Security Number\", busca un menú o casilla para \"ITIN\" u \"Other Tax Identification Number\". Algunos formularios solo muestran esta opción una vez que dices que no tienes SSN."
   - name: "Llama al emisor si el formulario en línea no acepta tu ITIN"
-    text: "La mayoría de los emisores importantes también reciben solicitudes por teléfono o en sucursal — solicitar con un representante suele dar más flexibilidad para que ingresen tu ITIN manualmente."
+    text: "La mayoría de los emisores importantes también reciben solicitudes por teléfono o en sucursal. Trabajar con un representante suele darte más margen para que ingresen tu ITIN a mano."
   - name: "Ingresa tu información financiera con precisión"
-    text: "Los ingresos, el costo de vivienda y el empleo se usan para evaluar tu capacidad de pago, no solo tu historial de crédito. Incluye ingresos independientes o de trabajos por cuenta propia — lo que importa es tu ingreso anual total de todas las fuentes."
+    text: "Los ingresos, el costo de vivienda y el empleo se usan para evaluar tu capacidad de pago, no solo tu historial de crédito. Incluye ingresos independientes o de trabajos por cuenta propia también. Lo que importa aquí es tu ingreso anual total de todas las fuentes."
   - name: "Envía la solicitud y espera la decisión"
-    text: "Las solicitudes en línea suelen dar una decisión casi instantánea. Si tu solicitud queda pendiente de revisión manual, es normal para solicitantes con ITIN — el emisor puede pedir tu carta de asignación del ITIN o una factura de servicios antes de decidir."
+    text: "Las solicitudes en línea suelen dar una decisión casi al instante. Si la tuya queda pendiente de revisión manual, eso es normal para solicitantes con ITIN. El emisor solo puede querer tu carta de asignación del ITIN o una factura de servicios antes de decidir."
 published: true
 ---
 
