@@ -14,10 +14,10 @@ publishedAt: "2026-07-08"
 author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "expired-itin-credit-card-what-happens"
   - "business-credit-card-with-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "credit-union-credit-card-itin"
-  - "joint-credit-card-itin-holders"
 faqs:
   - q: "¿La orden ejecutiva de 2026 prohíbe las solicitudes de tarjeta de crédito con ITIN?"
     a: "No. La EO 14406 no prohíbe las solicitudes de tarjeta de crédito con ITIN. Instruye a los bancos a marcar el uso del ITIN como un posible detonante de diligencia debida reforzada, especialmente cuando el solicitante no tiene estatus migratorio legal verificado. Cada emisor sigue decidiendo de forma individual si aprueba o rechaza las solicitudes."
