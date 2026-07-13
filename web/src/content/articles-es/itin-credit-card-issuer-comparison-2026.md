@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "improve-credit-card-approval-odds-itin"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "cash-back-credit-card-itin-holders"
-  - "store-credit-card-with-itin"
 faqs:
   - q: "¿Qué bancos aceptan el ITIN para una tarjeta de crédito en 2026?"
     a: "Capital One, Bank of America, Wells Fargo, Chase, American Express, Citi, U.S. Bank (solo tarjetas aseguradas), OpenSky y Petal aceptan el ITIN en lugar del SSN. Las cooperativas de crédito también son una buena opción, sobre todo si ya tienes una cuenta con ellas."

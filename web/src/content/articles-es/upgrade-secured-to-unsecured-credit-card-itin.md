@@ -16,9 +16,9 @@ author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "secured-credit-card-deposit-itin-holders"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "build-credit-with-itin-credit-card"
   - "credit-limit-increase-itin-credit-card"
-  - "credit-card-denied-itin-what-to-do"
 faqs:
   - q: "¿Puedo pasar de una tarjeta asegurada a una no asegurada si solo tengo ITIN y no tengo SSN?"
     a: "Sí. La aceptación del ITIN no cambia una vez que ya eres titular de la tarjeta. Si el emisor aceptó tu ITIN al momento de solicitar la tarjeta, evaluará tu cuenta existente para el cambio con base en tu historial de pagos y tu perfil crediticio, no en si tienes o no un SSN."

@@ -17,8 +17,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"
   - "secured-credit-card-deposit-itin-holders"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "credit-limit-increase-itin-credit-card"
-  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "Can I upgrade from a secured to an unsecured credit card if I only have an ITIN and no SSN?"
     a: "Yes. ITIN acceptance does not change once you are an existing cardholder. If your issuer accepted your ITIN at application, they will review your existing account for an upgrade based on payment history and credit profile, not on whether you have an SSN."

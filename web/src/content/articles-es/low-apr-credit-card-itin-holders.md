@@ -14,10 +14,10 @@ publishedAt: "2026-06-19"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "travel-credit-card-itin-holders"
   - "balance-transfer-credit-card-itin"
   - "build-credit-with-itin-credit-card"
-  - "can-you-get-a-credit-card-with-an-itin"
 faqs:
   - q: "¿Cuál es el APR promedio en una tarjeta de crédito para titulares de ITIN?"
     a: "Los titulares de ITIN que solicitan tarjetas de inicio o aseguradas generalmente ven APRs de entre el 24% y el 29%. Según SoFi, el APR promedio en una tarjeta de crédito asegurada a principios de 2026 es del 26.13%. Algunas tarjetas fintech diseñadas para inmigrantes ofrecen un APR del 0%, lo que elimina por completo el riesgo de intereses para los nuevos tarjetahabientes."
