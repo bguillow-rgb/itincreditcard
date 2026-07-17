@@ -260,7 +260,8 @@ img { max-width: 100%; height: auto; }
   display: grid;
   grid-template-columns: 1.12fr 0.88fr;
   gap: 44px;
-  align-items: center;
+  /* Top-align: the trust rail is tall; centering pushed the copy mid-page. */
+  align-items: start;
 }
 /* Masthead eyebrow: a small-caps label over a short rule, not a pill. */
 .eyebrow {
