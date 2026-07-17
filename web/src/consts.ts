@@ -13,7 +13,7 @@ export const SITE = {
     'ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.',
   url: 'https://itincreditcard.com',
   locale: 'en-US',
-  supportEmail: 'bguillow@gmail.com',
+  supportEmail: 'info@timberlineventuresllc.com',
 
   // Publisher (legal operating entity), drives Organization + Article
   // publisher schema and the footer copyright. The /about page is the
@@ -147,22 +147,25 @@ export const SITE = {
   // = action & premium-card energy. Fraunces (expressive serif) for headings,
   // Outfit (geometric sans) for body — a deliberate departure from the sister
   // sites' shared system-font stack so this property reads as its own brand.
+  // "Civic Record — The Statement" identity (2026-07-17 redesign). Ink-on-
+  // paper documentary system; slate-teal accent (a bank statement is a ruled,
+  // printed document); oxblood reserved for scam warnings only.
   theme: {
-    bg: '#FFFFFF',
-    surface: '#FBF7FF',
-    surfaceAlt: '#F1E9FF',
-    surfaceWarm: '#FFF8EC',
-    text: '#221636',
-    muted: '#5C5470',
-    primary: '#5B21B6',
-    primaryDark: '#4C1D95',
-    // Amber accent: darkened for AA text use; bright gold reserved for fills.
-    accent: '#F59E0B',
-    accentDark: '#B45309',
-    accentText: '#92400E',
-    border: '#EAE2F7',
-    fontHead: '"Fraunces", Georgia, "Times New Roman", serif',
-    fontBody: '"Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+    bg: '#FBFAF7',
+    surface: '#F1EFE9',
+    surfaceAlt: '#F1EFE9',
+    surfaceWarm: '#ECF0EF',
+    text: '#1A1D1A',
+    muted: '#5C6159',
+    primary: '#22505A',
+    primaryDark: '#163B43',
+    accent: '#3A6570',
+    accentDark: '#22505A',
+    accentText: '#22505A',
+    border: '#D8D4CB',
+    flag: '#9A3324',
+    fontHead: "'Spectral', Georgia, 'Times New Roman', serif",
+    fontBody: "'Public Sans Variable', system-ui, -apple-system, sans-serif",
   },
 };
 

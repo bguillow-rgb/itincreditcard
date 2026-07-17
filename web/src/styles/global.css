@@ -1,35 +1,36 @@
-/* ITIN Credit Card — "Energetic / modern consumer-card" design system.
-   Deliberately distinct from the sister ITIN sites: expressive Fraunces serif
-   headings + geometric Outfit body, purple authority paired with a warm
-   amber/gold accent, pill-shaped components, a dense product-comparison card
-   deck, and a tighter, punchier vertical rhythm. Brand tokens mirror
-   consts.ts theme. */
+/* ITIN Credit Card, design system.
+   Identity: "Civic Record — The Statement" (2026-07-17 redesign). A bank
+   statement is a ruled, tabular, printed document: warm ink on soft paper,
+   hairline rules carrying structure, slate-teal as the single accent, oxblood
+   reserved ONLY for scam warnings. Spectral (serif) for headings + prose;
+   Public Sans (the US federal design system face) for UI/labels/data.
+   Hierarchy from scale and spacing. One radius. No gradients, pills, glow. */
 
 :root {
-  --bg: #FFFFFF;
-  --surface: #FBF7FF;
-  --surface-alt: #F1E9FF;
-  --surface-warm: #FFF8EC;
-  --text: #221636;
-  --muted: #5C5470;
-  --primary: #5B21B6;
-  --primary-dark: #4C1D95;
-  /* Bright gold for fills/badges; darkened amber for text to clear WCAG AA. */
-  --accent: #F59E0B;
-  --accent-dark: #B45309;
-  --accent-text: #92400E;
-  --border: #EAE2F7;
-  --shadow: 0 2px 4px rgba(76, 29, 149, 0.05), 0 12px 28px rgba(76, 29, 149, 0.10);
-  --shadow-sm: 0 1px 3px rgba(76, 29, 149, 0.09);
-  --shadow-warm: 0 8px 22px rgba(180, 83, 9, 0.18);
-  /* Pill-first radii: rounder than the sister-site template. */
-  --radius: 20px;
-  --radius-sm: 14px;
-  --radius-pill: 999px;
+  --bg: #FBFAF7;                 /* soft warm paper */
+  --surface: #F1EFE9;            /* sunk panel */
+  --surface-alt: #F1EFE9;
+  --surface-warm: #ECF0EF;       /* cool slate wash (legacy name kept) */
+  --text: #1A1D1A;               /* warm near-black ink */
+  --muted: #5C6159;
+  --primary: #22505A;            /* slate-teal: links, buttons, the accent */
+  --primary-dark: #163B43;
+  --accent: #3A6570;             /* lighter slate for labels/kickers */
+  --accent-dark: #22505A;
+  --accent-text: #22505A;
+  --flag: #9A3324;               /* oxblood — scam warnings ONLY */
+  --border: #D8D4CB;             /* the workhorse hairline rule */
+  --shadow: 0 1px 2px rgba(26, 29, 26, 0.06);
+  --shadow-sm: 0 1px 2px rgba(26, 29, 26, 0.05);
+  --shadow-warm: 0 1px 2px rgba(26, 29, 26, 0.06);
+  /* One radius. Statements have corners. */
+  --radius: 4px;
+  --radius-sm: 3px;
+  --radius-pill: 4px;
   --maxw: 1140px;
-  --font-head: "Fraunces", Georgia, "Times New Roman", serif;
-  --font-body: "Outfit", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    Helvetica, Arial, sans-serif;
+  --font-head: 'Spectral', Georgia, 'Times New Roman', serif;
+  --font-serif: 'Spectral', Georgia, 'Times New Roman', serif;
+  --font-body: 'Public Sans Variable', system-ui, -apple-system, "Segoe UI", sans-serif;
   /* Back-compat alias: any leftover --font references resolve to the body font. */
   --font: var(--font-body);
 }
@@ -53,20 +54,38 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-/* Expressive Fraunces serif on every heading — the single biggest visual
-   signal that this is not the sister-site system-font template. */
+/* Hierarchy from scale and rhythm, not bold-everything: only the H1 carries
+   real weight; H2/H3 differentiate by size, spacing, and the hairline rule. */
 h1, h2, h3, h4 {
   color: var(--text);
   font-family: var(--font-head);
-  font-weight: 700;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.005em;
   margin: 0 0 0.5em;
+  text-wrap: balance;
 }
-h1 { font-size: clamp(2.1rem, 4.8vw, 3.4rem); font-weight: 700; line-height: 1.08; }
-h2 { font-size: clamp(1.55rem, 3vw, 2.2rem); font-weight: 600; margin-top: 1.5em; line-height: 1.2; }
-h3 { font-size: 1.3rem; font-weight: 600; margin-top: 1.2em; line-height: 1.28; }
+h1 { font-size: clamp(2.1rem, 4.8vw, 3.3rem); font-weight: 600; line-height: 1.1; }
+h2 {
+  font-size: clamp(1.5rem, 3vw, 2.05rem);
+  font-weight: 500;
+  margin-top: 1.9em;
+  padding-top: 0.9em;
+  border-top: 1px solid var(--border);
+  line-height: 1.25;
+}
+h3 { font-size: 1.28rem; font-weight: 600; margin-top: 1.3em; line-height: 1.28; }
+/* Headings that open a section or card shouldn't carry the article rule. */
+.section-head h2, .card h3, .cta-band h2, .form-card h3, .step h3,
+.footer-brand, .spotlight h2 {
+  border-top: 0; padding-top: 0;
+}
 
 p { margin: 0 0 1.1em; }
+/* Documentary voice: long-form prose reads in the serif; UI stays Public Sans. */
+.article-body p, .article-body li, .article-body blockquote,
+.lede, .faq-a, .quick-answer p {
+  font-family: var(--font-serif);
+}
+.article-body table, .stat .big { font-variant-numeric: tabular-nums; }
 a { color: var(--primary); text-decoration: none; }
 a:hover { text-decoration: underline; }
 /* WCAG: links inside running text need a non-color cue. Underline links in
@@ -103,7 +122,7 @@ img { max-width: 100%; height: auto; }
   transition: box-shadow 0.2s ease;
 }
 .site-header.scrolled {
-  box-shadow: 0 2px 12px rgba(76, 29, 149, 0.1);
+  box-shadow: 0 1px 4px rgba(26, 29, 26, 0.08);
   border-bottom-color: transparent;
 }
 .nav-inner {
@@ -119,9 +138,10 @@ img { max-width: 100%; height: auto; }
   gap: 9px;
   font-family: var(--font-head);
   font-weight: 700;
-  font-size: 1.32rem;
-  color: var(--primary);
+  font-size: 1.15rem;
+  color: var(--text);
   letter-spacing: -0.02em;
+  white-space: nowrap;
 }
 .brand:hover { text-decoration: none; }
 .brand .dot { color: var(--accent-dark); }
@@ -129,28 +149,33 @@ img { max-width: 100%; height: auto; }
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 24px;
+  gap: 18px;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 .nav-links a {
   color: var(--text);
-  font-weight: 550;
-  font-size: 0.97rem;
+  font-weight: 500;
+  font-size: 0.93rem;
+  white-space: nowrap;
 }
+/* Keep the nav CTA proportionate to the masthead. */
+.nav-right .btn { padding: 9px 16px; font-size: 0.93rem; white-space: nowrap; }
 .nav-links a:hover { color: var(--primary); text-decoration: none; }
 
-/* Language toggle, text pill (EN | ES), not flags. */
+/* Language control: a first-class squared switch, not a pill afterthought. */
 .lang-toggle {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  font-size: 0.86rem;
-  font-weight: 700;
-  color: var(--muted);
-  border: 1px solid var(--border);
-  border-radius: 999px;
+  font-size: 0.84rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text);
+  border: 1px solid var(--text);
+  border-radius: var(--radius-sm);
   padding: 6px 12px;
   white-space: nowrap;
   min-height: 36px;
@@ -186,34 +211,30 @@ img { max-width: 100%; height: auto; }
   font-weight: 600;
   font-size: 1rem;
   padding: 13px 26px;
-  border-radius: var(--radius-pill);
+  border-radius: var(--radius-sm);
   border: 1.5px solid transparent;
   cursor: pointer;
-  transition: transform 0.08s ease, box-shadow 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+  transition: background 0.15s ease, border-color 0.15s ease;
   text-align: center;
 }
 .btn:hover { text-decoration: none; }
 .btn:active { transform: translateY(1px); }
-/* Primary = confident purple; amber/gold energy comes in on hover/focus for an
-   energetic, premium-card feel. Purple-on-white text is WCAG AA-clean. */
+/* Ledger-flat. One calm slate primary; no glow, no urgency. */
 .btn-primary {
   background: var(--primary);
   color: #fff;
-  box-shadow: 0 8px 20px rgba(91, 33, 182, 0.30);
 }
 .btn-primary:hover {
   background: var(--primary-dark);
   color: #fff;
-  box-shadow: 0 10px 26px rgba(180, 83, 9, 0.30);
-  border-color: var(--accent);
 }
-/* Gold action button — bright amber fill with dark amber-brown text (AA). */
+/* Secondary emphasis button: paper fill, slate rule. */
 .btn-gold {
-  background: var(--accent);
-  color: #4a2700;
-  box-shadow: var(--shadow-warm);
+  background: #fff;
+  color: var(--primary);
+  border-color: var(--primary);
 }
-.btn-gold:hover { background: #fbbf24; color: #3a1e00; }
+.btn-gold:hover { background: var(--surface); color: var(--primary-dark); }
 .btn-secondary {
   background: #fff;
   color: var(--primary);
@@ -231,7 +252,7 @@ img { max-width: 100%; height: auto; }
 
 /* ---------- Money/utility hero (compact, restyled template hero) ---------- */
 .hero {
-  background: linear-gradient(165deg, var(--surface-alt) 0%, var(--surface-warm) 100%);
+  background: var(--surface);
   padding: 40px 0 36px;
   border-bottom: 1px solid var(--border);
 }
@@ -241,19 +262,19 @@ img { max-width: 100%; height: auto; }
   gap: 44px;
   align-items: center;
 }
+/* Masthead eyebrow: a small-caps label over a short rule, not a pill. */
 .eyebrow {
-  display: inline-flex;
-  align-items: center;
-  font-size: 0.74rem;
-  font-weight: 700;
-  letter-spacing: 0.09em;
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--accent-text);
-  background: var(--surface-warm);
-  border: 1px solid color-mix(in srgb, var(--accent) 40%, #fff);
-  padding: 5px 14px;
-  border-radius: var(--radius-pill);
-  margin-bottom: 16px;
+  color: var(--accent);
+  padding: 10px 0 0;
+  margin-bottom: 14px;
+  border-top: 2px solid var(--text);
+  max-width: max-content;
 }
 .hero h1 { margin-bottom: 0.34em; }
 .hero .lede {
@@ -281,7 +302,7 @@ img { max-width: 100%; height: auto; }
 .spotlight {
   position: relative;
   isolation: isolate;
-  background: radial-gradient(120% 140% at 80% -10%, #6d28d9 0%, #4c1d95 55%, #2e1065 100%);
+  background: var(--primary-dark);
   color: #fff;
   overflow: hidden;
   padding: 60px 0 64px;
@@ -301,18 +322,7 @@ img { max-width: 100%; height: auto; }
   -webkit-mask-image: linear-gradient(90deg, transparent 0%, transparent 38%, #000 100%);
   pointer-events: none;
 }
-.spotlight::before {
-  /* warm gold glow, lower-left, for energy */
-  content: "";
-  position: absolute;
-  z-index: -1;
-  left: -10%;
-  bottom: -40%;
-  width: 60%;
-  height: 110%;
-  background: radial-gradient(circle, rgba(245, 158, 11, 0.30) 0%, transparent 65%);
-  pointer-events: none;
-}
+.spotlight::before { content: none; }
 .spotlight-stage {
   display: grid;
   grid-template-columns: 1.15fr 0.85fr;
@@ -320,19 +330,17 @@ img { max-width: 100%; height: auto; }
   align-items: center;
 }
 .spotlight-chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: #4a2700;
-  background: var(--accent);
-  padding: 6px 15px;
-  border-radius: var(--radius-pill);
-  margin-bottom: 20px;
-  box-shadow: var(--shadow-warm);
+  color: rgba(255, 255, 255, 0.85);
+  border-top: 2px solid rgba(255, 255, 255, 0.85);
+  padding: 10px 0 0;
+  margin-bottom: 18px;
+  max-width: max-content;
 }
 .spotlight h1 {
   color: #fff;
@@ -360,18 +368,17 @@ img { max-width: 100%; height: auto; }
   font-size: 0.88rem;
   font-weight: 500;
   color: #fff;
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.35);
   padding: 7px 14px;
-  border-radius: var(--radius-pill);
+  border-radius: var(--radius-sm);
 }
-.proof-pill .check { color: var(--accent); }
+.proof-pill .check { color: rgba(255, 255, 255, 0.85); }
 /* Floating offer card holds the partner ad unit, lifted off the stage. */
 .spotlight-aside {
-  background: rgba(255, 255, 255, 0.96);
+  background: #fff;
   border-radius: var(--radius);
   padding: 8px;
-  box-shadow: 0 24px 60px rgba(20, 8, 50, 0.45);
+  border: 1px solid var(--border);
 }
 
 /* ---------- Sections (tighter, punchier rhythm than the template) ---------- */
@@ -408,29 +415,15 @@ img { max-width: 100%; height: auto; }
   border-radius: var(--radius-sm);
   padding: 22px 20px;
   box-shadow: var(--shadow-sm);
-  transition: transform 0.14s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  transition: border-color 0.18s ease;
   display: block;
   color: inherit;
   overflow: hidden;
 }
-.card::before {
-  /* gold accent rail along the top, revealed on hover */
-  content: "";
-  position: absolute;
-  inset: 0 0 auto 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--accent) 0%, var(--accent-dark) 100%);
-  transform: scaleX(0);
-  transform-origin: left;
-  transition: transform 0.2s ease;
-}
 a.card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--shadow);
   text-decoration: none;
-  border-color: color-mix(in srgb, var(--accent) 55%, var(--border));
+  border-color: var(--primary);
 }
-a.card:hover::before { transform: scaleX(1); }
 a.card:hover .card-icon { background: var(--primary); color: #fff; }
 .card-icon {
   width: 46px;
@@ -450,11 +443,11 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
 /* steps */
 .steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; }
 .step .num {
-  width: 42px; height: 42px; border-radius: var(--radius-pill);
-  background: var(--accent); color: #4a2700; font-weight: 800;
-  font-family: var(--font-head);
+  width: 42px; height: 42px; border-radius: var(--radius-sm);
+  background: var(--surface); color: var(--primary); font-weight: 600;
+  border: 1px solid var(--border);
+  font-family: var(--font-body); font-variant-numeric: tabular-nums;
   display: grid; place-items: center; margin-bottom: 12px;
-  box-shadow: var(--shadow-warm);
 }
 .step h3 { margin-top: 0; }
 .step p { color: var(--muted); }
@@ -468,19 +461,17 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   padding: 18px 16px;
   text-align: center;
 }
-.stat .big { font-family: var(--font-head); font-size: clamp(1.8rem, 4vw, 2.3rem); font-weight: 700; color: var(--accent-text); letter-spacing: -0.02em; }
+.stat .big { font-family: var(--font-head); font-size: clamp(1.8rem, 4vw, 2.3rem); font-weight: 700; color: var(--primary); letter-spacing: -0.02em; }
 .stat .lbl { color: var(--muted); font-size: 0.9rem; }
 
 /* CTA band — energetic gold-edged purple */
 .cta-band {
   position: relative;
-  background: radial-gradient(120% 160% at 85% 0%, #6d28d9 0%, #4c1d95 60%, #3b0f7a 100%);
+  background: var(--primary-dark);
   color: #fff;
   border-radius: var(--radius);
   padding: 48px 44px;
   text-align: center;
-  border: 1.5px solid rgba(245, 158, 11, 0.45);
-  box-shadow: 0 18px 44px rgba(76, 29, 149, 0.30);
 }
 .cta-band h2 { color: #fff; margin-top: 0; }
 .cta-band p { color: rgba(255, 255, 255, 0.86); max-width: 34em; margin: 0 auto 24px; }
@@ -502,7 +493,7 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
 .field input:focus, .field select:focus, .field textarea:focus {
   outline: none;
   border-color: var(--primary);
-  box-shadow: 0 0 0 3px rgba(76, 29, 149, 0.12);
+  box-shadow: 0 0 0 3px rgba(34, 80, 90, 0.15);
 }
 .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; align-items: start; }
 .field-help { font-size: 0.82rem; color: var(--muted); margin: 0; }
@@ -518,25 +509,39 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
 .form-subhead { font-size: 0.95rem; font-weight: 600; color: var(--text); margin: 0 0 2px; }
 .btn[aria-busy="true"] { opacity: 0.75; pointer-events: none; }
 
-/* ---------- Quick answer / FAQ ---------- */
+/* ---------- Quick answer (the Ledger) / FAQ ---------- */
 .quick-answer {
-  background: var(--surface-warm);
-  border: 1px solid color-mix(in srgb, var(--accent) 30%, var(--border));
-  border-left: 4px solid var(--accent);
-  border-radius: var(--radius-sm);
-  padding: 18px 22px;
-  margin: 22px 0 28px;
+  border-top: 2px solid var(--text);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0 16px;
+  margin: 26px 0 30px;
 }
 .quick-answer .label {
   display: block;
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
   text-transform: uppercase;
-  color: var(--accent-text);
-  margin-bottom: 6px;
+  color: var(--accent);
+  margin-bottom: 10px;
 }
-.quick-answer p { margin: 0; font-size: 1.05rem; }
+.quick-answer p { margin: 0; font-size: 1.26rem; line-height: 1.55; }
+.quick-answer .qa-sources {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px 10px;
+  margin-top: 14px;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  color: var(--muted);
+}
+.quick-answer .qa-sources .qa-check { color: var(--primary); font-weight: 700; }
 
 .faq { margin-top: 44px; }
 .faq-item { border-bottom: 1px solid var(--border); }
@@ -622,7 +627,9 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   margin-bottom: 4px;
 }
 
-/* ---------- Credit Karma hero ad (Awin) ---------- */
+/* ---------- Credit Karma unit (Awin) ---------- */
+/* A recommended free tool from the desk, not a floaty banner. The banner image
+   doubles as the Awin impression pixel — always rendered in production. */
 .ck-ad {
   display: flex;
   flex-direction: column;
@@ -630,9 +637,16 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   gap: 10px;
   background: var(--bg);
   border: 1px solid var(--border);
-  border-radius: 16px;
+  border-radius: var(--radius);
   padding: 18px;
-  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.08);
+}
+.ck-ad .ck-kicker {
+  align-self: flex-start;
+  font-size: 0.76rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
 }
 .ck-ad .ck-disclosure {
   align-self: flex-end;
@@ -684,7 +698,7 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   box-shadow: var(--shadow-sm);
   color: inherit;
 }
-.post-card:hover { transform: translateY(-2px); box-shadow: var(--shadow); text-decoration: none; }
+.post-card:hover { box-shadow: var(--shadow); text-decoration: none; border-color: var(--primary); }
 .post-card .meta { font-size: 0.82rem; color: var(--muted); text-transform: uppercase; letter-spacing: 0.05em; }
 .post-card h3 { margin: 4px 0 6px; }
 .post-card p { margin: 0; color: var(--muted); font-size: 0.96rem; }
@@ -727,7 +741,7 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
 .footer-links { list-style: none; padding: 0; margin: 0; display: grid; gap: 9px; }
 .footer-trust { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 .footer-trust li { display: flex; align-items: flex-start; gap: 9px; line-height: 1.4; }
-.footer-trust .tick { color: #5fd99a; font-weight: 800; flex: none; }
+.footer-trust .tick { color: rgba(255,255,255,0.75); font-weight: 800; flex: none; }
 .footer-brand { font-weight: 800; color: #fff; font-size: 1.15rem; margin-bottom: 10px; }
 .footer-disclaimer {
   border-top: 1px solid rgba(255, 255, 255, 0.15);
@@ -781,12 +795,12 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   z-index: -1;
   background: linear-gradient(
     100deg,
-    rgba(40, 16, 70, 0.92) 0%,
-    rgba(40, 16, 70, 0.78) 45%,
-    rgba(40, 16, 70, 0.55) 100%
+    rgba(22, 59, 67, 0.92) 0%,
+    rgba(22, 59, 67, 0.78) 45%,
+    rgba(22, 59, 67, 0.55) 100%
   );
 }
-.hero--image .eyebrow { background: rgba(255, 255, 255, 0.16); color: #fff; }
+.hero--image .eyebrow { background: transparent; color: rgba(255, 255, 255, 0.85); border-top-color: rgba(255, 255, 255, 0.85); }
 .hero--image h1 { color: #fff; }
 .hero--image .lede { color: rgba(255, 255, 255, 0.9); }
 .hero--image .hero-trust { color: rgba(255, 255, 255, 0.85); }
@@ -812,11 +826,10 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   justify-content: center;
   width: 52px;
   height: 52px;
-  border-radius: var(--radius-pill);
+  border-radius: var(--radius);
   margin-bottom: 16px;
   color: #fff;
   background: var(--hero-accent, var(--primary));
-  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.18);
 }
 .hero--image .hero-badge { background: rgba(255, 255, 255, 0.18); }
 
@@ -856,7 +869,7 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
     border-bottom: 1px solid var(--border);
     transition: max-height 0.25s ease;
   }
-  .nav-drawer.open { max-height: 80vh; box-shadow: 0 8px 24px rgba(76, 29, 149, 0.12); }
+  .nav-drawer.open { max-height: 80vh; box-shadow: 0 4px 12px rgba(26, 29, 26, 0.1); }
   .nav-drawer ul { list-style: none; margin: 0; padding: 8px 20px 16px; display: grid; gap: 2px; }
   .nav-drawer a {
     display: block;
@@ -884,24 +897,55 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
    (.field{display:grid}, .card{display:block} were overriding it, causing
    conditional form fields and the thank-you CTA to show when they shouldn't). */
 [hidden] { display: none !important; }
-/* ── Lead-gen redesign: FHA promo band, announcement bar, hero form ────────── */
-.fha-promo { background: linear-gradient(120deg, var(--ink,#06122B), var(--primary,#11366B)); color:#fff; padding:32px 0; }
+/* ── FHA partner program: an editorial callout, not a promo costume ───────── */
+.fha-promo { background: var(--primary-dark); color:#fff; padding:36px 0; }
 .fha-promo-inner { display:flex; gap:28px; align-items:center; justify-content:space-between; flex-wrap:wrap; }
 .fha-promo-copy { flex:1 1 430px; }
-.fha-promo-copy h2 { color:#fff; margin:6px 0 8px; font-size:1.7rem; line-height:1.15; }
+.fha-promo-copy h2 { color:#fff; margin:6px 0 8px; font-size:1.7rem; line-height:1.15; border-top:0; padding-top:0; }
 .fha-promo-copy p { color:rgba(255,255,255,.85); margin:0; max-width:46em; }
-.fha-badge { display:inline-block; background:var(--accent,#B07A1E); color:#1a1206; font-weight:700; font-size:.78rem; letter-spacing:.02em; padding:4px 12px; border-radius:20px; margin-bottom:6px; }
+.fha-badge { display:inline-block; color:rgba(255,255,255,.85); border-top:2px solid rgba(255,255,255,.85); font-weight:600; font-size:.74rem; letter-spacing:.14em; text-transform:uppercase; padding:8px 0 0; margin-bottom:8px; }
 .fha-promo-cta { flex:0 0 auto; text-align:center; }
-.fha-cta { background:var(--accent,#B07A1E); color:#1a1206 !important; border:0; font-weight:700; box-shadow:0 6px 20px rgba(0,0,0,.25); }
-.fha-cta:hover { background:#fff; color:#0A1F44 !important; }
-.fha-promo-note { color:rgba(255,255,255,.55); font-size:.76rem; margin:8px 0 0; }
+.fha-cta { background:#fff; color:var(--primary-dark) !important; border:0; font-weight:600; }
+.fha-cta:hover { background:var(--surface); }
+.fha-promo-note { color:rgba(255,255,255,.6); font-size:.76rem; margin:8px 0 0; }
+.fha-promo-note a { color:rgba(255,255,255,.8); text-decoration:underline; }
 
-.announce-bar { background:var(--accent,#B07A1E); color:#1a1206; text-align:center; font-size:.9rem; font-weight:600; padding:8px 14px; line-height:1.3; }
-.announce-bar a { color:#1a1206; text-decoration:underline; font-weight:700; }
+/* Announce bar: a calm ruled line on paper, not a gold urgency stripe. */
+.announce-bar { background:var(--surface); color:var(--text); border-bottom:1px solid var(--border); text-align:center; font-size:.88rem; font-weight:500; padding:8px 14px; line-height:1.3; }
+.announce-bar a { color:var(--primary); text-decoration:underline; font-weight:600; }
 .announce-bar a:hover { text-decoration:none; }
 
 /* Hero lead form: the form is the primary above-the-fold action on the homepage. */
 .ihero-form { align-self:start; }
-.ihero-form .form-card { box-shadow:0 18px 50px rgba(6,18,43,.28); }
 .ihero-form .form-card h3 { font-size:1.15rem; }
 @media (max-width:900px){ .fha-promo-inner{ text-align:center; } .fha-promo-copy{ flex-basis:100%; } .fha-promo-cta{ width:100%; } }
+
+/* ── Scam shield: the honest-broker block. Oxblood rule = warnings only. ──── */
+.scam-shield {
+  border-left: 3px solid var(--flag);
+  background: var(--bg);
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  border-right: 1px solid var(--border);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 18px;
+  margin: 0 0 18px;
+}
+.scam-shield .ss-label {
+  display:block;
+  font-family: var(--font-body);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--flag);
+  margin-bottom: 8px;
+}
+.scam-shield ul { list-style:none; margin:0; padding:0; display:grid; gap:7px; }
+.scam-shield li { font-size:0.92rem; line-height:1.45; color:var(--text); padding-left:16px; position:relative; }
+.scam-shield li::before { content:"—"; position:absolute; left:0; color:var(--flag); }
+.scam-shield .ss-note { margin:10px 0 0; font-size:0.8rem; color:var(--muted); }
+.scam-shield .ss-note a { color:var(--muted); text-decoration:underline; }
+/* Money-page hero: the right cell is a trust rail (shield + recommended tool). */
+.hero-rail { display:grid; gap:14px; align-self:start; }
+.hero--image .scam-shield { background:#fff; }
