@@ -635,29 +635,38 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  background: var(--bg);
+  background: #fff;
   border: 1px solid var(--border);
   border-radius: var(--radius);
-  padding: 18px;
+  padding: 16px 18px 18px;
+}
+.ck-ad .ck-head {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
 }
 .ck-ad .ck-kicker {
-  align-self: flex-start;
   font-size: 0.76rem;
-  font-weight: 600;
+  font-weight: 700;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--accent);
 }
 .ck-ad .ck-disclosure {
-  align-self: flex-end;
-  font-size: 0.78rem;
+  font-size: 0.66rem;
   letter-spacing: 0.1em;
   text-transform: uppercase;
   color: var(--muted);
+  white-space: nowrap;
 }
 .ck-ad .ck-cta {
-  font-weight: 700;
-  font-size: 1.05rem;
+  font-family: var(--font-serif);
+  font-weight: 600;
+  font-size: 1.2rem;
   line-height: 1.3;
   text-align: center;
   color: var(--primary);
@@ -941,10 +950,17 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   color: var(--flag);
   margin-bottom: 8px;
 }
-.scam-shield ul { list-style:none; margin:0; padding:0; display:grid; gap:7px; }
-.scam-shield li { font-size:0.92rem; line-height:1.45; color:var(--text); padding-left:16px; position:relative; }
+.scam-shield ul { list-style:none; margin:0; padding:0; display:grid; gap:9px; }
+.scam-shield li {
+  font-family: var(--font-serif);
+  font-size: 1.04rem;
+  line-height: 1.5;
+  color: var(--text);
+  padding-left: 1.3em;
+  position: relative;
+}
 .scam-shield li::before { content:"—"; position:absolute; left:0; color:var(--flag); }
-.scam-shield .ss-note { margin:10px 0 0; font-size:0.8rem; color:var(--muted); }
+.scam-shield .ss-note { margin:12px 0 0; padding-top:10px; border-top:1px solid var(--border); font-size:0.8rem; color:var(--muted); }
 .scam-shield .ss-note a { color:var(--muted); text-decoration:underline; }
 /* Money-page hero: the right cell is a trust rail (shield + recommended tool). */
 .hero-rail { display:grid; gap:14px; align-self:start; }

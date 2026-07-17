@@ -53,8 +53,10 @@ const enable = import.meta.env.PROD && Boolean(creativeId);
 const kicker = lang === 'es' ? 'Una herramienta gratis que recomendamos' : 'A free tool we recommend';
 ---
 <div class:list={['ck-ad', { 'ck-ad--inline': props.inline }]}>
-  <span class="ck-kicker">{kicker}</span>
-  <span class="ck-disclosure">Advertisement</span>
+  <div class="ck-head">
+    <span class="ck-kicker">{kicker}</span>
+    <span class="ck-disclosure">Advertisement</span>
+  </div>
   <a class="ck-cta" href={clickUrl} rel="sponsored nofollow" target="_blank">
     {cta} <span aria-hidden="true">&rarr;</span>
   </a>
