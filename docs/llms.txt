@@ -40,4 +40,4 @@
 - Card availability, approval policies, and rates vary by issuer and change frequently.
 - Always verify current details with the card issuer directly.
 - FICO factor weights cited are the standard published breakdown.
-- IRS ITIN data referenced: the IRS has issued more than 5.8 million ITINs.
+- IRS ITIN data referenced: the IRS has issued roughly 31 million ITINs since 1996; about 5 million were active as of October 2025 (TIGTA report 2026-400-016).
