@@ -14,10 +14,10 @@ publishedAt: "2026-07-17"
 author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-credit-card-bank-by-bank-application-guide"
   - "how-to-apply-for-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
   - "credit-card-denied-itin-what-to-do"
-  - "itin-credit-card-issuer-comparison-2026"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito con mi número ITIN en línea?"
     a: "Sí, muchos emisores, incluyendo Capital One y American Express, aceptan el ITIN en solicitudes completamente en línea. Por lo general, ingresas tu ITIN en el mismo campo donde el formulario pide el número de Seguro Social. Fintechs como OpenSky y Firstcard también están diseñadas para solicitudes ITIN totalmente en línea."

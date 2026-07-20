@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "how-to-apply-for-credit-card-with-itin"
+  - "itin-credit-card-bank-by-bank-application-guide"
   - "credit-card-itin-apply-online-vs-in-branch"
   - "improve-credit-card-approval-odds-itin"
-  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "¿Un rechazo de tarjeta de crédito afecta mi puntaje de crédito?"
     a: "El rechazo en sí no baja tu puntaje. La consulta fuerte (hard inquiry) de la solicitud puede reducirlo algunos puntos y permanece en tu reporte de crédito hasta dos años, pero su impacto disminuye después de unos meses de uso responsable del crédito."
