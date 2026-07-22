@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-prequalification-itin"
+  - "credit-card-reconsideration-line-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "first-credit-card-itin-no-us-credit-history"
-  - "improve-credit-card-approval-odds-itin"
 faqs:
   - q: "Can I use my credit history from another country to get approved for a U.S. credit card with an ITIN?"
     a: "Yes, but only through specific programs. American Express's Global Card Relationship accepts existing Amex cardholders using a passport or ITIN. Nova Credit translates bureau data from supported countries for a small number of U.S. issuers. Outside those programs, U.S. lenders do not automatically see your foreign credit file."
