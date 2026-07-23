@@ -40,7 +40,7 @@ On May 19, 2026, President Trump signed Executive Order 14406, titled *Restoring
 
 ## What does the 2026 executive order actually say about ITINs?
 
-*A question we hear often:* readers want to know whether the EO is a ban or something more nuanced.
+Readers want to know whether the EO is a ban or something more nuanced.
 
 It is not a ban. The order lists "the use of an individual taxpayer identification number (ITIN) to obtain credit products or open depository accounts where the applicant lacks verified lawful immigration status" as a red-flag typology. It then clarifies that "although an ITIN facilitates tax compliance, its use in lieu of a Social Security number or valid work-authorized visa may be identified as a risk factor requiring enhanced due diligence."
 
@@ -69,7 +69,7 @@ Institutions should anticipate that the Treasury advisory will influence suspici
 
 ## Does this mean I will be denied for a credit card just for using an ITIN?
 
-*This one comes up a lot* among our readers, especially those with lawful visa status who have never had a credit issue.
+Among our readers, especially those with lawful visa status who have never had a credit issue.
 
 The answer depends heavily on your immigration status. The order's due-diligence language is specifically tied to applicants who *lack verified lawful immigration status*. The executive order clarifies that an ITIN "facilitates tax compliance," but its use in lieu of a Social Security number or valid work-authorized visa "may be identified as a risk factor requiring enhanced due diligence to ensure the account is not being utilized to facilitate the unlawful employment of unauthorized aliens."
 
@@ -81,7 +81,7 @@ The data does not support treating ITIN holders as higher credit risks. ITIN hol
 
 ## Which issuers are most likely to still approve ITIN credit card applications in 2026?
 
-*Readers frequently ask:* which banks are safest to apply to right now?
+Which banks are safest to apply to right now?
 
 No major issuer has publicly announced it is ending ITIN acceptance as of the date of this writing (July 8, 2026). Of the top 10 credit card issuers, seven accept an ITIN, including Bank of America and Capital One. The order creates a compliance obligation, not a prohibition, so issuers retain individual discretion.
 
@@ -120,7 +120,7 @@ For a detailed walkthrough of which documents each major issuer actually request
 
 ## Should I be worried about my existing ITIN credit card being closed?
 
-*A question we hear often*, particularly from readers who have spent 12-18 months carefully building a positive payment history and do not want to lose it.
+If you have spent 12-18 months carefully building a positive payment history, losing it is the last thing you want.
 
 Do not panic, and do not preemptively close your account. Banks have not yet received formal guidance, and closing accounts could create its own financial hardship by wiping out the age-of-account history you have built. Account closures are not mandated by the order. The order focuses on new applications and new account openings, not on forcing issuers to review existing in-good-standing accounts.
 

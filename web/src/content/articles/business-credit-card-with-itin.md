@@ -38,7 +38,7 @@ If you run a business, freelance operation, or side hustle in the U.S. without a
 
 ## Can I actually get a business credit card using just my ITIN?
 
-*A question we hear often:* and the answer is a firm yes, with one important nuance.
+And the answer is a firm yes, with one important nuance.
 
 Your ITIN serves the same identity-verification function on a business card application that an SSN does for a U.S. citizen, it lets the issuer pull your personal credit file and confirm who you are. Several large banks, including Bank of America, Citibank, and Wells Fargo, accept an ITIN in place of a Social Security number on business credit card applications. Capital One and Chase round out the major-bank options that have explicitly confirmed ITIN acceptance.
 
@@ -66,7 +66,7 @@ Capital One Spark Cash is widely regarded as one of the top business cards that 
 
 ## What's the difference between a small-business card and a corporate card for ITIN holders?
 
-*This one comes up a lot*, especially among immigrant founders who've heard that corporate cards like Brex or Ramp don't require an SSN at all.
+Immigrant founders often hear that corporate cards like Brex or Ramp don't require an SSN at all.
 
 There are two fundamentally different product categories here, and understanding them will save you a wasted application:
 
@@ -78,7 +78,7 @@ For most ITIN holders who are early in their business journey, a small-business 
 
 ## What documents do I need to apply?
 
-*Readers frequently ask* about the exact paperwork, because the requirements can feel opaque when you don't have an SSN.
+About the exact paperwork, because the requirements can feel opaque when you don't have an SSN.
 
 Here's a practical checklist for a small-business card application:
 
@@ -118,7 +118,7 @@ Also consider pairing your credit card strategy with rent or utility reporting. 
 
 ## Do I need a formal business entity, or can I apply as a sole proprietor?
 
-*A question we hear often* from freelancers and gig workers, and the answer depends on the card.
+From freelancers and gig workers, and the answer depends on the card.
 
 For most small-business cards from Capital One, Chase, and Bank of America, you do **not** need a formal LLC or corporation. Sole proprietors and independent contractors can apply. Your "business name" can simply be your own legal name, and your EIN can be an individual-use EIN obtained as a sole proprietor (still free from the IRS, still doesn't require an SSN).
 

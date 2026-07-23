@@ -36,7 +36,7 @@ Your ITIN credit card is doing two jobs at once: giving you a spending tool and,
 
 ## Does an ITIN credit card really report the same way as an SSN card?
 
-*A question we hear often:* many readers assume their ITIN creates a "secondary" or somehow different credit file that scoring models treat as less valuable. That is a myth.
+Many readers assume their ITIN creates a "secondary" or somehow different credit file that scoring models treat as less valuable. That is a myth.
 
 Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account. Your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account. The ITIN is just the identifier that links your accounts into a single file at each bureau. As far as FICO and VantageScore are concerned, scoring models do not distinguish between an ITIN and an SSN and treat both identifiers exactly the same.
 
@@ -65,7 +65,7 @@ One important caveat: a few issuers, including many Synchrony-partner store card
 
 ## How do I actually verify bureau reporting before I apply?
 
-*Readers frequently ask:* where exactly do you look to confirm a card reports to all three bureaus?
+Where exactly do you look to confirm a card reports to all three bureaus?
 
 The fastest path is to call the issuer's customer service line directly before you submit an application. Ask specifically: "Does this card report to Experian, Equifax, AND TransUnion each month?" Get a clear yes or no. You can also search the card's terms-and-conditions page for the phrase "credit bureau" or "credit reporting." Major issuers usually disclose this in their product disclosures.
 
@@ -83,7 +83,7 @@ Practically speaking, the payment-history component accounts for 35% of your sco
 
 ## How long until I have a scoreable credit file from my ITIN card?
 
-*This one comes up a lot:* new ITIN holders often expect an immediate credit score after getting their first card, then worry when nothing appears for months.
+New ITIN holders often expect an immediate credit score after getting their first card, then worry when nothing appears for months.
 
 You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months. The timeline is the same as for anyone starting with no credit history. Your ITIN status does not slow the process down.
 

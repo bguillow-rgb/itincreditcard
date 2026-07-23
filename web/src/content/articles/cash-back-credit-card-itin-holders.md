@@ -36,7 +36,7 @@ If you have an ITIN and you've heard cash back cards are only for people with a 
 
 ## Wait, can ITIN holders actually earn cash back, or just build credit?
 
-*A question we hear often:* Many ITIN holders assume that the only cards available to them are basic, no-frills secured cards focused purely on building credit. That's no longer accurate.
+Many ITIN holders assume that the only cards available to them are basic, no-frills secured cards focused purely on building credit. That's no longer accurate.
 
 According to CNBC Select's 2026 review of cards available without an SSN, major issuers including Capital One, Chase, and American Express all have cash back cards that accept an ITIN in place of an SSN. Petal, Zolve, and OpenSky, three platforms built specifically with immigrants and noncitizens in mind, round out the field with cards that earn 1%-1.5% on purchases from day one.
 
@@ -62,7 +62,7 @@ Here is a side-by-side look at the strongest options by credit profile:
 
 ## I have zero U.S. credit. What's my best cash back option?
 
-*This one comes up a lot:* The Capital One Quicksilver Secured Cash Rewards Credit Card is the most straightforward starting point. WalletHub's June 2026 ranking names it the top pick for new U.S. immigrants because even applicants with no credit history or SSN may qualify, as long as they are at least 18, have a U.S. mailing address, and hold an ITIN. The card earns 1.5%-5% cash back on purchases with no annual fee, and you get your $200 minimum security deposit back when you close or upgrade the account after demonstrating responsible use.
+The Capital One Quicksilver Secured Cash Rewards Credit Card is the most straightforward starting point. WalletHub's June 2026 ranking names it the top pick for new U.S. immigrants because even applicants with no credit history or SSN may qualify, as long as they are at least 18, have a U.S. mailing address, and hold an ITIN. The card earns 1.5%-5% cash back on purchases with no annual fee, and you get your $200 minimum security deposit back when you close or upgrade the account after demonstrating responsible use.
 
 Capital One automatically reviews your account for a credit limit increase within six months of opening, which can lower your credit utilization ratio and nudge your score upward. Once your score reaches a qualifying threshold, you may be upgraded to the unsecured Capital One Quicksilver without a new application.
 
@@ -78,7 +78,7 @@ For ITIN holders who pay their balance in full each month and plan to use the ca
 
 ## Can I get a Chase cash back card with an ITIN?
 
-*Readers frequently ask:* The short answer is yes, for select Chase products. Chase accepts ITINs on credit card applications, and two cash back cards stand out.
+The short answer is yes, for select Chase products. Chase accepts ITINs on credit card applications, and two cash back cards stand out.
 
 The **Chase Freedom Rise** requires no credit history and lets you apply with an ITIN. It earns a solid flat rate on every purchase, and you can be considered for a credit limit increase within six months if you use the card responsibly and pay on time. According to NerdWallet's 2026 review, there is one caveat: the card's approval-odds booster of linking a Chase checking account with a $250 minimum balance requires an SSN to open, so ITIN holders may not be able to use that feature.
 
@@ -98,7 +98,7 @@ Before submitting a full application, check whether the issuer offers a pre-qual
 
 ## How quickly can I move from a 1% secured cash back card to a better one?
 
-*A question we hear often:* The timeline is more predictable than most people expect.
+The timeline is more predictable than most people expect.
 
 You will typically have a scoreable credit file after six months of account activity. With consistent on-time payments and credit utilization kept below 30%, many cardholders reach a score in the low-to-mid 600s within 12-18 months. That range generally unlocks unsecured cards from mainstream issuers, including options with higher cash back rates and category bonuses.
 

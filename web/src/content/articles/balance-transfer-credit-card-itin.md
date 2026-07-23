@@ -46,7 +46,7 @@ Balance transfers do not erase debt. They buy you time at a lower cost, which on
 
 ## Which credit cards accept an ITIN and also offer balance transfers?
 
-*A question we hear often:* do ITIN-friendly issuers actually carry competitive balance transfer offers, or are you stuck with basic secured cards?
+Do ITIN-friendly issuers actually carry competitive balance transfer offers, or are you stuck with basic secured cards?
 
 Good news: at least two major issuers publicly confirm they accept an ITIN on applications and carry solid balance transfer offers.
 
@@ -61,7 +61,7 @@ A few important caveats. ITIN acceptance does not guarantee approval. These issu
 
 ## How do I actually complete a balance transfer using my ITIN card?
 
-*This one comes up a lot:* once you are approved for the new card, what happens next?
+Once you are approved for the new card, what happens next?
 
 The mechanics are identical for ITIN and SSN holders. Here is the step-by-step process:
 
@@ -75,7 +75,7 @@ For example: a $2,400 transfer to a 12-month 0% card means paying $200 per month
 
 ## What does the balance transfer fee actually cost me, and is it worth it?
 
-*Readers frequently ask:* is the upfront fee worth paying?
+Is the upfront fee worth paying?
 
 Most cards charge 3%-5% of the transferred amount. On a $3,000 balance, a 3% fee costs $90 and a 5% fee costs $150. That sounds painful, but compare it to the alternative. According to Experian, a standard balance transfer fee of 3%-5% is frequently offset by the interest savings, particularly when moving debt from a card with a 25%-29% APR.
 
@@ -110,7 +110,7 @@ That said, some issuers, including American Express, partner with Nova Credit to
 
 ## What mistakes should I avoid when doing a balance transfer with an ITIN card?
 
-*This one comes up a lot:* what are the common pitfalls?
+What are the common pitfalls?
 
 Several mistakes can turn a smart balance transfer into a costly one.
 

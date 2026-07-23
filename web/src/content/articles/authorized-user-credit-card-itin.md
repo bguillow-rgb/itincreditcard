@@ -44,7 +44,7 @@ For ITIN holders, this matters a great deal. Issuers can't deny you for applying
 
 ## Do I need an SSN to be added as an authorized user?
 
-*A question we hear often:* no, you generally do not. Some credit card companies let you add an authorized user without providing their Social Security number. Instead, issuers may only ask for the person's full name, date of birth, and address, though requirements vary and some banks may request an SSN later for credit reporting.
+No, you generally do not. Some credit card companies let you add an authorized user without providing their Social Security number. Instead, issuers may only ask for the person's full name, date of birth, and address, though requirements vary and some banks may request an SSN later for credit reporting.
 
 The critical nuance here is the difference between *being added* and *getting credit-bureau reporting*. Some issuers will issue you a physical card without an SSN or ITIN, but the account won't actually show up on your credit report until they can match it to a tax ID. Most issuers ask for the authorized user's Social Security number or Individual Taxpayer Identification Number so the account can be matched to the correct credit file. American Express, for example, requires the SSN or ITIN at the time of the request. Other issuers may allow the card to be issued without it initially, but the account often will not appear on the authorized user's credit report until the number is provided.
 
@@ -70,7 +70,7 @@ For ITIN holders specifically, Capital One and Chase allow adding authorized use
 
 ## Does authorized user status actually move my ITIN credit score?
 
-*Readers frequently ask:* yes, but with important caveats.
+Yes, but with important caveats.
 
 Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account. Your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account. The same logic applies to authorized user accounts once they're matched to your ITIN-linked file.
 
@@ -80,7 +80,7 @@ Conversely, it's critical to only become an authorized user on an account with s
 
 ## What information does the primary cardholder need to provide about me?
 
-*This one comes up a lot:* it varies by issuer, but the bar is low. The primary cardholder will need to provide the authorized user's full legal name, date of birth, and mailing address. Some issuers also ask for a phone number or relationship to the primary cardholder. 
+It varies by issuer, but the bar is low. The primary cardholder will need to provide the authorized user's full legal name, date of birth, and mailing address. Some issuers also ask for a phone number or relationship to the primary cardholder. 
 
 Most issuers require the authorized user's full legal name and date of birth. Many also ask for their Social Security number or ITIN, though some only require a name. If you have your ITIN in hand, share it, the issuer needs it to route the account to your credit file rather than floating it in limbo.
 
@@ -110,7 +110,7 @@ You'll typically have a scoreable credit file after six months of account activi
 
 ## What if the primary cardholder's issuer won't accept an ITIN for the authorized user?
 
-*A question we hear often:* call the issuer's reconsideration or customer service line rather than accepting a front-line "no." Call the issuer's customer service line directly to confirm their current ITIN policy before applying, published policies and branch-level execution are not always the same. A phone agent often has more flexibility than the online form allows.
+Call the issuer's reconsideration or customer service line rather than accepting a front-line "no." Call the issuer's customer service line directly to confirm their current ITIN policy before applying, published policies and branch-level execution are not always the same. A phone agent often has more flexibility than the online form allows.
 
 If the issuer truly won't accept an ITIN, the authorized user account may still be issued, but without credit-bureau reporting. In that case, the account is spending access only, not a credit-building tool. Your better path is to ask the primary cardholder to open a new card at an ITIN-friendly issuer like American Express (which explicitly accepts ITINs for authorized users) or to proceed directly to a [secured card in your own name](/secured-credit-card-with-itin) that accepts ITIN applicants.
 

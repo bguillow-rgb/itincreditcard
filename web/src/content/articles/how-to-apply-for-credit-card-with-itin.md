@@ -52,7 +52,7 @@ Applying for a credit card with an ITIN is more straightforward than most immigr
 
 ## Before I Apply, Do I Need Anything Besides My ITIN?
 
-*A question we hear often:* Yes, and getting your document stack organized before you start will save you from getting stuck mid-application.
+Yes, and getting your document stack organized before you start will save you from getting stuck mid-application.
 
 Here's what most ITIN-accepting issuers require at the time of application:
 
@@ -91,7 +91,7 @@ Always call the issuer's customer service line to confirm their current ITIN pol
 
 ## How Do I Actually Fill Out the Application With an ITIN?
 
-*This one comes up a lot:* The mechanics are nearly identical to applying with an SSN. Here's the step-by-step flow:
+The mechanics are nearly identical to applying with an SSN. Here's the step-by-step flow:
 
 **Step 1, Run a pre-qualification check.** Several ITIN-accepting issuers offer soft-pull pre-qualification. Capital One's pre-qualification tool, for example, lets you see which cards you may qualify for without affecting your credit scores. Use this before submitting any formal application.
 
@@ -121,7 +121,7 @@ Note that your ITIN itself doesn't change how your credit score is calculated. I
 
 ## What If My Application Gets Denied?
 
-*Readers frequently ask:* A denial with an ITIN is usually tied to one of three things: (1) the issuer doesn't accept ITINs for that specific card, (2) you couldn't verify a U.S. address, or (3) the income you reported was too low relative to the card's requirements.
+A denial with an ITIN is usually tied to one of three things: (1) the issuer doesn't accept ITINs for that specific card, (2) you couldn't verify a U.S. address, or (3) the income you reported was too low relative to the card's requirements.
 
 If you're denied, the issuer is required by law to send you an adverse action notice within 30 days explaining the primary reason. Read it carefully, it tells you exactly what to fix. Common next steps:
 

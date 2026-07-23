@@ -42,7 +42,7 @@ Most people in this situation assume the answer is 'almost no one.' The reality 
 
 ## Which major banks actually accept an ITIN on credit card applications?
 
-*A question we hear often:* People consistently want a simple, confirmed list, not vague reassurances. Here is what the data shows for 2026.
+People consistently want a simple, confirmed list, not vague reassurances. Here is what the data shows for 2026.
 
 Many of the top credit card issuers have rewards credit cards you can apply for using an ITIN, including Chase, American Express, and Capital One. Beyond that core trio, Bank of America, Citi, and Wells Fargo also accept ITINs for at least some of their credit products. The table below organizes the issuer landscape by what is confirmed:
 
@@ -77,7 +77,7 @@ The trade-off: fintech cards often carry lower credit limits (typically starting
 
 ## Does Chase really accept an ITIN? I've heard it's complicated.
 
-*Readers frequently ask:* Yes, Chase accepts ITINs, and the process is more straightforward than the rumors suggest.
+Yes, Chase accepts ITINs, and the process is more straightforward than the rumors suggest.
 
 You can get a Chase credit card without an SSN. You will need to provide an alternate source of identification, and Chase will accept an ITIN in place of a Social Security number. You can apply without an SSN online, over the phone, or in person at a branch.
 
@@ -97,7 +97,7 @@ That international credit access is a meaningful advantage if you're coming from
 
 ## What documents does every bank need when I apply with an ITIN?
 
-*This one comes up a lot:* The core document set is consistent across issuers, but some want originals and some accept digital copies.
+The core document set is consistent across issuers, but some want originals and some accept digital copies.
 
 Here is what to have ready before you start any application:
 
@@ -126,7 +126,7 @@ Once you have 12-18 months of on-time payment history, transitioning to an unsec
 
 ## What if my application gets denied even though the bank says it accepts ITINs?
 
-*A question we hear often:* Getting denied despite using an ITIN accepted by the issuer is frustrating, but the reason is almost never the ITIN itself.
+Getting denied despite using an ITIN accepted by the issuer is frustrating, but the reason is almost never the ITIN itself.
 
 Credit card applications can be denied for several reasons, including credit score, limited credit history, or errors on your application. A high debt-to-income ratio or too many recent credit applications can signal risk to issuers and affect approval chances. For ITIN holders specifically, the most common denial triggers are: (1) no U.S. credit history, (2) no existing banking relationship with the issuer, and (3) insufficient documented income.
 

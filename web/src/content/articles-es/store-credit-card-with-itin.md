@@ -38,13 +38,13 @@ Si tienes un ITIN y quieres construir crédito en EE. UU., las tarjetas de créd
 
 ## ¿Por qué los titulares de ITIN preguntan específicamente sobre tarjetas de crédito de tiendas?
 
-*Una pregunta que escuchamos con frecuencia:* las tarjetas de tiendas tienen una larga reputación de ser las tarjetas de crédito más fáciles de obtener. Esa reputación no es infundada. Las tarjetas de crédito de tiendas a veces pueden ser más accesibles y pueden aceptar números ITIN, aunque generalmente tienen tasas de interés más altas y están limitadas al uso en comercios específicos. Para alguien que acaba de llegar a Estados Unidos y necesita cualquier cuenta aprobada para comenzar su historial crediticio, una tarjeta de tienda puede parecer el punto de partida más obvio.
+Las tarjetas de tiendas tienen una larga reputación de ser las tarjetas de crédito más fáciles de obtener. Esa reputación no es infundada. Las tarjetas de crédito de tiendas a veces pueden ser más accesibles y pueden aceptar números ITIN, aunque generalmente tienen tasas de interés más altas y están limitadas al uso en comercios específicos. Para alguien que acaba de llegar a Estados Unidos y necesita cualquier cuenta aprobada para comenzar su historial crediticio, una tarjeta de tienda puede parecer el punto de partida más obvio.
 
 También hay una razón práctica: muchos titulares de ITIN ya compran habitualmente en Target, Walmart, Amazon o Costco. Obtener crédito en una tienda donde ya compras parece eficiente. El problema es que "tarjeta de crédito de tienda" no es una categoría de producto única con reglas de evaluación consistentes. Necesitas saber qué emisor específico respalda la tarjeta, porque el banco detrás del nombre de la marca es quien establece la política de ITIN, no el comercio.
 
 ## ¿Cuál es la diferencia entre una tarjeta de tienda de ciclo cerrado y una de ciclo abierto, y por qué importa para los titulares de ITIN?
 
-*Este tema surge mucho.* Los productos de crédito de tiendas se dividen en dos categorías. Una **tarjeta de ciclo cerrado** solo se puede usar en un comercio o sus tiendas afiliadas. La Amazon Secured Card es un buen ejemplo. Una **tarjeta de ciclo abierto** lleva el logo de Visa, Mastercard o Amex y funciona en cualquier lugar, como la Target RedCard Mastercard o una Amazon Prime Rewards Visa.
+Los productos de crédito de tiendas se dividen en dos categorías. Una **tarjeta de ciclo cerrado** solo se puede usar en un comercio o sus tiendas afiliadas. La Amazon Secured Card es un buen ejemplo. Una **tarjeta de ciclo abierto** lleva el logo de Visa, Mastercard o Amex y funciona en cualquier lugar, como la Target RedCard Mastercard o una Amazon Prime Rewards Visa.
 
 Para los titulares de ITIN, esta distinción importa porque las tarjetas aseguradas de ciclo cerrado tienen los requisitos de aprobación más flexibles. La Amazon Secured Card, emitida por Synchrony Bank, está diseñada específicamente para quienes no tienen historial crediticio o tienen un perfil crediticio limitado en EE. UU. Una estructura asegurada significa que depositas una cantidad reembolsable que se convierte en tu línea de crédito. El emisor asume muy poco riesgo, por lo que es menos probable que te rechacen por no tener SSN.
 
@@ -69,7 +69,7 @@ La Amazon Secured Card reporta tu actividad de pagos a las tres principales bur�
 
 ## ¿Cómo averiguo si una tarjeta de tienda específica acepta ITIN antes de solicitar?
 
-*Los lectores preguntan esto con frecuencia* porque una consulta formal en una solicitud que de todas formas iban a rechazar es un costo innecesario. Aquí hay un proceso de dos pasos que toma menos de diez minutos.
+Porque una consulta formal en una solicitud que de todas formas iban a rechazar es un costo innecesario. Aquí hay un proceso de dos pasos que toma menos de diez minutos.
 
 Primero, identifica el banco emisor, no el comercio. Casi todas las tarjetas de crédito de tiendas son emitidas por un banco como Synchrony, Citi, Capital One, Barclays, TD Bank o Alliance Data. Puedes encontrar esto en la página de términos y condiciones de la tarjeta, generalmente indicado como "Emitida por [Nombre del Banco]".
 
@@ -85,7 +85,7 @@ Una nota práctica: algunas solicitudes de tarjetas de tiendas en línea tienen 
 
 ## ¿Son realmente las tarjetas de crédito de tiendas una buena opción para construir crédito con ITIN?
 
-*Este tema surge mucho,* y la respuesta honesta es: depende de la tarjeta.
+Y la respuesta honesta es: depende de la tarjeta.
 
 Las tarjetas de tiendas suelen tener tasas de interés más altas y están limitadas al uso en comercios específicos, lo cual es una desventaja real. Una tarjeta de ciclo cerrado que solo puedes usar en una tienda te da muy poca flexibilidad de compra. Si tu objetivo es únicamente construir un historial crediticio y planeas pagar el saldo completo cada mes, la tasa de interés no es relevante, lo que importa es el reporte. En ese caso, la Amazon Secured Card o una tarjeta co-branded de Capital One pueden funcionar igual de bien que cualquier tarjeta asegurada de uso general.
 

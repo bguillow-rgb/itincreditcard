@@ -38,7 +38,7 @@ Si tienes un Número de Identificación Personal del Contribuyente (ITIN) y algu
 
 ## ¿Tener un ITIN realmente crea un historial crediticio, o simplemente existe sin hacer nada?
 
-*Una pregunta que escuchamos con frecuencia:* Los titulares de ITIN a veces se preocupan de que los burós de crédito no "vean" sus cuentas de la misma forma en que lo harían para alguien con SSN. Esa preocupación no tiene fundamento.
+Los titulares de ITIN a veces se preocupan de que los burós de crédito no "vean" sus cuentas de la misma forma en que lo harían para alguien con SSN. Esa preocupación no tiene fundamento.
 
 Cuando abres una tarjeta de crédito con un emisor que acepta ITIN, el prestamista reporta la actividad de tu cuenta a los burós usando tu ITIN como identificador de archivo. Equifax, Experian y TransUnion pueden crear y mantener un historial crediticio vinculado a un ITIN en lugar de un SSN. Los algoritmos de puntaje tratan ambos identificadores por igual. Tu historial de pagos, el uso del crédito, la antigüedad de las cuentas y la mezcla de crédito se calculan exactamente de la misma manera, sin importar qué número de nueve dígitos ancla tu archivo.
 
@@ -52,7 +52,7 @@ Dicho esto, los hábitos importan más que el tiempo. Un solo pago atrasado pued
 
 ## ¿Qué tarjetas ITIN son realmente las mejores para construir crédito rápido?
 
-*Esto surge mucho:* No todas las tarjetas que se promocionan para titulares de ITIN son igual de útiles para construir crédito. Los dos requisitos que más importan son (1) reportar a los tres burós y (2) no requerir verificación de crédito o tener criterios de aprobación flexibles para que puedas ser aprobado.
+No todas las tarjetas que se promocionan para titulares de ITIN son igual de útiles para construir crédito. Los dos requisitos que más importan son (1) reportar a los tres burós y (2) no requerir verificación de crédito o tener criterios de aprobación flexibles para que puedas ser aprobado.
 
 Aquí tienes una comparación de las tarjetas que comúnmente usan los titulares de ITIN para construir crédito en 2026:
 
@@ -69,7 +69,7 @@ Para más detalles sobre qué emisores aceptan un ITIN y cómo funcionan sus pol
 
 ## ¿Qué hábitos con tarjetas realmente mueven mi puntaje de crédito más rápido?
 
-*Los lectores preguntan con frecuencia:* Una vez que te aprueban una tarjeta de crédito con ITIN, los comportamientos que impulsan el puntaje son los mismos para todos, pero las consecuencias son más grandes para los titulares de ITIN que tienen menos tarjetas y, por lo tanto, menos margen de error.
+Una vez que te aprueban una tarjeta de crédito con ITIN, los comportamientos que impulsan el puntaje son los mismos para todos, pero las consecuencias son más grandes para los titulares de ITIN que tienen menos tarjetas y, por lo tanto, menos margen de error.
 
 **Paga el saldo completo, no solo el mínimo.** Pagar solo el mínimo deja un saldo en la tarjeta, lo que eleva tu porcentaje de uso del crédito y te genera intereses. Pagar el saldo completo cada mes mantiene el uso del crédito cerca de cero al cierre del estado de cuenta y elimina por completo los cargos financieros.
 
@@ -89,7 +89,7 @@ Si quieres acelerar el proceso, algunos titulares de ITIN agregan una segunda he
 
 ## ¿Qué errores cometen más seguido los titulares de ITIN con las tarjetas de crédito?
 
-*Una pregunta que escuchamos con frecuencia:* Varios patrones consistentemente frenan el progreso en la construcción de crédito, especialmente entre personas que son nuevas en el sistema de crédito de EE. UU.
+Varios patrones consistentemente frenan el progreso en la construcción de crédito, especialmente entre personas que son nuevas en el sistema de crédito de EE. UU.
 
 **Usar el límite de la tarjeta al máximo.** Usar más del 30% de tu límite de crédito al cierre del estado de cuenta es uno de los errores más comunes y dañinos. Una tarjeta con límite de $500 y un saldo de $450 muestra un uso del 90%, lo que puede bajar el puntaje decenas de puntos de inmediato. La solución es pagar el saldo antes de que cierre el estado de cuenta o solicitar un aumento del límite de crédito una vez que tengas seis meses de historial. Para estrategias sobre cómo solicitar un límite más alto, consulta nuestra [guía para solicitar aumento de límite de crédito para titulares de ITIN](/credit-limit-increase-itin-credit-card).
 

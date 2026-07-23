@@ -44,7 +44,7 @@ Para los titulares de ITIN, esto importa mucho. Los emisores no pueden rechazart
 
 ## ¿Necesito un SSN para ser agregado como usuario autorizado?
 
-*Una pregunta que escuchamos con frecuencia:* no, por lo general no lo necesitas. Algunas compañías de tarjetas de crédito permiten agregar a un usuario autorizado sin pedir su número de seguro social. En su lugar, los emisores pueden pedir solo el nombre completo, la fecha de nacimiento y la dirección de la persona, aunque los requisitos varían y algunos bancos pueden solicitar un SSN más adelante para el reporte crediticio.
+No, por lo general no lo necesitas. Algunas compañías de tarjetas de crédito permiten agregar a un usuario autorizado sin pedir su número de seguro social. En su lugar, los emisores pueden pedir solo el nombre completo, la fecha de nacimiento y la dirección de la persona, aunque los requisitos varían y algunos bancos pueden solicitar un SSN más adelante para el reporte crediticio.
 
 El matiz clave aquí es la diferencia entre *ser agregado* y *obtener reporte en las agencias de crédito*. Algunos emisores te enviarán una tarjeta física sin SSN o ITIN, pero la cuenta no aparecerá en tu reporte de crédito hasta que puedan vincularla a un número de identificación fiscal. La mayoría de los emisores piden el número de seguro social o el Número de Identificación Personal del Contribuyente (ITIN) del usuario autorizado para poder vincular la cuenta al expediente crediticio correcto. American Express, por ejemplo, exige el SSN o ITIN al momento de la solicitud. Otros emisores pueden permitir que se emita la tarjeta sin él inicialmente, pero la cuenta a menudo no aparecerá en el reporte del usuario autorizado hasta que se proporcione ese número.
 
@@ -70,7 +70,7 @@ Para los titulares de ITIN específicamente, Capital One y Chase permiten agrega
 
 ## ¿Ser usuario autorizado realmente mejora mi puntaje de crédito con ITIN?
 
-*Los lectores preguntan esto con frecuencia:* sí, pero con advertencias importantes.
+Sí, pero con advertencias importantes.
 
 Una vez que se abre una cuenta de crédito usando tu ITIN, reporta a las agencias de crédito de la misma manera que cualquier otra cuenta. Tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntaje de crédito de la misma forma, independientemente de si usaste un ITIN o un SSN para abrir la cuenta. La misma lógica aplica a las cuentas de usuario autorizado una vez que se vinculan a tu expediente con ITIN.
 
@@ -80,7 +80,7 @@ Por otro lado, es fundamental convertirte en usuario autorizado únicamente en u
 
 ## ¿Qué información necesita proporcionar el titular principal sobre mí?
 
-*Esto surge mucho:* varía según el emisor, pero el requisito es bajo. El titular principal tendrá que proporcionar el nombre legal completo, la fecha de nacimiento y la dirección postal del usuario autorizado. Algunos emisores también piden un número de teléfono o la relación con el titular principal.
+Varía según el emisor, pero el requisito es bajo. El titular principal tendrá que proporcionar el nombre legal completo, la fecha de nacimiento y la dirección postal del usuario autorizado. Algunos emisores también piden un número de teléfono o la relación con el titular principal.
 
 La mayoría de los emisores piden el nombre legal completo y la fecha de nacimiento del usuario autorizado. Muchos también solicitan el número de seguro social o ITIN, aunque algunos solo requieren el nombre. Si tienes tu ITIN a la mano, compártelo, el emisor lo necesita para vincular la cuenta a tu expediente crediticio en lugar de dejarlo sin asignar.
 
@@ -110,7 +110,7 @@ Por lo general, tendrás un expediente con puntaje después de seis meses de act
 
 ## ¿Qué pasa si el emisor del titular principal no acepta un ITIN para el usuario autorizado?
 
-*Una pregunta que escuchamos con frecuencia:* llama a la línea de reconsideración o al servicio al cliente del emisor en lugar de aceptar un "no" del primer agente. Llama directamente a la línea de servicio al cliente del emisor para confirmar su política actual sobre ITIN antes de solicitar, las políticas publicadas y la ejecución a nivel de sucursal no siempre coinciden. Un agente telefónico suele tener más flexibilidad de la que permite el formulario en línea.
+Llama a la línea de reconsideración o al servicio al cliente del emisor en lugar de aceptar un "no" del primer agente. Llama directamente a la línea de servicio al cliente del emisor para confirmar su política actual sobre ITIN antes de solicitar, las políticas publicadas y la ejecución a nivel de sucursal no siempre coinciden. Un agente telefónico suele tener más flexibilidad de la que permite el formulario en línea.
 
 Si el emisor realmente no acepta un ITIN, es posible que igual te emitan la cuenta de usuario autorizado, pero sin reporte a las agencias de crédito. En ese caso, la cuenta solo te da acceso de compra, no es una herramienta para construir crédito. Tu mejor opción es pedirle al titular principal que abra una nueva tarjeta en un emisor amigable con ITIN como American Express (que acepta explícitamente ITINs para usuarios autorizados) o proceder directamente a una [tarjeta asegurada a tu nombre](/secured-credit-card-with-itin) que acepte solicitantes con ITIN.
 

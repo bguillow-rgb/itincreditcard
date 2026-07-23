@@ -36,7 +36,7 @@ If you hold an ITIN and travel regularly, whether for work, family visits abroad
 
 ## Do any travel credit cards actually accept an ITIN?
 
-*A question we hear often:* Yes, and more than most ITIN holders realize. According to CNBC Select, many top credit card issuers, including Chase, American Express, and Capital One, have travel rewards cards you can apply for using an ITIN. Your ITIN is only part of the equation, though. Issuers also evaluate your income, any existing U.S. credit history, and sometimes whether you hold a checking or savings account with them.
+Yes, and more than most ITIN holders realize. According to CNBC Select, many top credit card issuers, including Chase, American Express, and Capital One, have travel rewards cards you can apply for using an ITIN. Your ITIN is only part of the equation, though. Issuers also evaluate your income, any existing U.S. credit history, and sometimes whether you hold a checking or savings account with them.
 
 Capital One is widely considered the most ITIN-friendly major issuer. Its Quicksilver Secured card earns 5% cash back on hotels and rental cars booked through Capital One Travel and 1.5% on everything else. It can be opened with an ITIN and a $200 refundable deposit, making it the most accessible travel-rewards entry point for ITIN holders still building credit. Chase also accepts an ITIN in place of an SSN, and its Freedom Rise card, which carries no annual fee, can be applied for online or in person. American Express now requires either an SSN or an ITIN from all applicants, so your ITIN is sufficient to apply for personal Amex cards, including travel-oriented ones, as long as you meet their credit requirements.
 
@@ -48,7 +48,7 @@ For most ITIN holders starting from zero U.S. credit, a realistic timeline looks
 
 ## Which travel cards are most realistic for ITIN holders right now?
 
-*Readers frequently ask:* The answer depends on where you are in your credit journey. The table below organizes the main options by credit-building stage:
+The answer depends on where you are in your credit journey. The table below organizes the main options by credit-building stage:
 
 | Card | ITIN Accepted | Annual Fee | Travel Benefit | Best For |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Always verify current terms directly with the issuer before applying, as rates, 
 
 ## I have good credit history in my home country. Does that help?
 
-*This one comes up a lot.* Unfortunately, international credit histories do not automatically transfer to U.S. bureaus. As Discover notes, even if you have built strong credit history abroad, it may not carry over to the United States. The U.S. reporting system is entirely separate.
+Unfortunately, international credit histories do not automatically transfer to U.S. bureaus. As Discover notes, even if you have built strong credit history abroad, it may not carry over to the United States. The U.S. reporting system is entirely separate.
 
 That said, two bridge options are worth knowing about. The first is the American Express Global Card Relationship (formerly called Global Transfer), which lets existing Amex cardholders from eligible countries apply for a U.S. Amex card using their internal Amex relationship instead of a U.S. credit file. One important caveat: a card opened this way without an ITIN attached may report only to American Express internally, not to the three U.S. bureaus, so it will not build your U.S. credit score. Travel site Taxsym describes Global Transfer as a starting move, not a finishing one. You still need an ITIN and a bureau-reporting card to build a usable U.S. credit profile.
 

@@ -36,7 +36,7 @@ Pre-qualifying for a credit card before you formally apply is one of the smartes
 
 ## What exactly is credit card pre-qualification and why does it matter for ITIN holders?
 
-*A question we hear often:* pre-qualification (also called pre-approval) is a screening step where a card issuer reviews your basic financial profile using a soft credit pull before you ever submit a formal application.
+Pre-qualification (also called pre-approval) is a screening step where a card issuer reviews your basic financial profile using a soft credit pull before you ever submit a formal application.
 
 These screening processes look at your basic credit information and run a soft credit check to determine your likelihood of approval, and soft inquiries do not affect your scores. This matters a great deal for ITIN holders because your U.S. credit file may still be short or thin. Pre-approval typically involves a soft inquiry, which means it will not affect your credit scores, while applying for a credit card generally involves a hard inquiry, which can temporarily lower your scores slightly.
 
@@ -44,7 +44,7 @@ Applying blindly to cards that may not accept your ITIN, or to cards whose credi
 
 ## Which issuers let ITIN holders pre-qualify online?
 
-*This one comes up a lot:* not every issuer has built ITIN support into their pre-qualification flow, but several major ones have.
+Not every issuer has built ITIN support into their pre-qualification flow, but several major ones have.
 
 Capital One's pre-qualification tool asks for your date of birth, plus your Social Security number or Individual Taxpayer Identification Number (ITIN). That explicit ITIN field makes Capital One the most straightforward starting point. Capital One has the most transparent preapproval tool, explicitly telling you which tier (Platinum, QuicksilverOne, or Quicksilver/Venture) you are likely to qualify for, making it a good first check for any credit level.
 
@@ -66,7 +66,7 @@ Here is a quick-reference table of major issuers and their ITIN pre-qualificatio
 
 ## What information do I need to pre-qualify with my ITIN?
 
-*Readers frequently ask:* the pre-qualification form at most issuers is short. You will generally need:
+The pre-qualification form at most issuers is short. You will generally need:
 
 - Full legal name (exactly as it appears on your ITIN documents)
 - U.S. mailing address
@@ -91,7 +91,7 @@ For ITIN holders with no U.S. credit history at all, pre-qualification results m
 
 ## Does pre-qualifying reduce my actual approval odds, or does it help?
 
-*A question we hear often:* pre-qualifying does not reduce your odds. It can only help.
+Pre-qualifying does not reduce your odds. It can only help.
 
 When you pre-qualify, the issuer runs a soft pull against your basic profile. Fewer denials: getting prequalified or preapproved means you are less likely to be turned down. When you are shown a pre-qualified offer and then formally apply for that specific card, you are applying with real confidence rather than hoping for the best.
 

@@ -50,7 +50,7 @@ The good news: the APR printed on your card is only a cost if you carry a balanc
 
 ## Why do ITIN holders often see higher APRs than people with longer credit histories?
 
-*A question we hear often:* "Is my ITIN the reason I got a 27% rate?"
+"Is my ITIN the reason I got a 27% rate?"
 
 The short answer is no, your ITIN itself is not the reason. Policies for accepting ITINs differ, and some credit card issuers may accept ITINs only for some of their cards, but once a lender agrees to review your application, they evaluate you on the same creditworthiness factors as any other applicant: payment history, existing balances, length of credit history, and income.
 
@@ -76,7 +76,7 @@ A few things stand out from this table. Secured credit cards are the most access
 
 ## Is a 0% APR card actually a real credit card, or just a debit card in disguise?
 
-*Readers frequently ask:* whether these advertised 0% APR cards truly build credit or are just a marketing trick.
+Whether these advertised 0% APR cards truly build credit or are just a marketing trick.
 
 The distinction matters. Some 0% APR products aimed at immigrants work on a prepaid-secured model: you load a balance, spend from it, and the issuer reports your activity to the credit bureaus as though it were a revolving credit account. There is no interest because you are spending your own money, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. A traditional debit card does none of that.
 
@@ -88,7 +88,7 @@ That said, once your score is established, you will likely want to [upgrade to a
 
 ## How do I compare APR offers when applying for a credit card with my ITIN?
 
-*This one comes up a lot:* new cardholders often do not know where to find the actual APR before they apply.
+New cardholders often do not know where to find the actual APR before they apply.
 
 Every credit card is required by federal law (the Truth in Lending Act) to disclose its APR in a standardized Schumer Box, which you will see on the application page or in the card's terms and conditions. For ITIN holders, here is what to look for:
 

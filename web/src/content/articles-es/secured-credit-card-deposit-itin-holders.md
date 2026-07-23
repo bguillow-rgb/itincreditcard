@@ -36,7 +36,7 @@ Para la mayoría de los titulares de ITIN, una tarjeta de crédito asegurada es 
 
 ## ¿Qué es en realidad el depósito de una tarjeta de crédito asegurada y por qué lo necesito?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN ya sienten que tienen un obstáculo extra en comparación con quienes tienen SSN. El depósito puede parecer otra barrera más. En realidad, es todo lo contrario.
+Los titulares de ITIN ya sienten que tienen un obstáculo extra en comparación con quienes tienen SSN. El depósito puede parecer otra barrera más. En realidad, es todo lo contrario.
 
 El depósito de una tarjeta de crédito asegurada es un pago único en efectivo y reembolsable que haces al abrir la cuenta. Según Experian, [el depósito de seguridad actúa como garantía, lo que hace que los emisores estén más dispuestos a otorgar crédito a solicitantes que no tienen un expediente crediticio tradicional](17-5). La palabra clave es *reembolsable*: [el depósito lo retiene el emisor y solo se usa si no pagas tu saldo](17-8). No se gasta en compras ni es una tarifa.
 
@@ -62,7 +62,7 @@ Para la mayoría de los demás emisores, el mínimo es $200. La Secured Masterca
 
 ## ¿Cómo hago el depósito en la práctica? ¿Qué documentos necesito?
 
-*Los lectores preguntan esto con frecuencia:* aquí es donde el proceso es un poco diferente para los titulares de ITIN en comparación con quienes tienen SSN.
+Aquí es donde el proceso es un poco diferente para los titulares de ITIN en comparación con quienes tienen SSN.
 
 El proceso de solicitud funciona así: llenas la solicitud de la tarjeta usando tu ITIN en lugar del SSN. [La mayoría de las solicitudes de crédito piden tu nombre legal completo, ITIN, fecha de nacimiento, dirección, situación laboral, ingresos anuales brutos y pago mensual de vivienda](14-1). Después de que el emisor revise tu solicitud, tienes un plazo para hacer el depósito.
 
@@ -72,7 +72,7 @@ Además del ITIN, la mayoría de los emisores piden un pasaporte extranjero vál
 
 ## ¿Cómo me ayuda el depósito a construir crédito y el reporte a las agencias funciona igual que con un SSN?
 
-*Esto surge mucho:* los titulares de ITIN a veces se preocupan porque su expediente crediticio sea una versión de segunda clase comparado con el de alguien con SSN. No lo es.
+Los titulares de ITIN a veces se preocupan porque su expediente crediticio sea una versión de segunda clase comparado con el de alguien con SSN. No lo es.
 
 [Una vez que se abre una cuenta de crédito usando tu ITIN, se reporta a las agencias de crédito de la misma manera que cualquier otra cuenta. Tu historial de pagos, el uso de crédito y la antigüedad de la cuenta influyen en tu puntaje de crédito de forma idéntica, sin importar si usaste un ITIN o un SSN para abrir la cuenta](11-4,11-5). Los modelos de puntuación, FICO y VantageScore, no hacen distinción.
 
@@ -98,7 +98,7 @@ Una vez que tu tarjeta asegurada pase al siguiente nivel, consulta nuestra guía
 
 ## Tarjeta asegurada vs. sin garantía: ¿cuándo tiene sentido cambiar?
 
-*Los lectores preguntan esto con frecuencia:* ¿cómo sé cuándo estoy listo para dejar la tarjeta asegurada?
+¿cómo sé cuándo estoy listo para dejar la tarjeta asegurada?
 
 El momento adecuado para buscar una tarjeta sin garantía suele ser cuando has tenido tu tarjeta asegurada durante al menos 12 meses, has hecho todos los pagos a tiempo y tu puntaje ha llegado a mediados de los 600 o más. En ese punto, el grupo de [tarjetas sin garantía](/unsecured-credit-card-itin-holders) compatibles con ITIN se amplía considerablemente, y puedes empezar a ganar recompensas reales sin tener dinero inmovilizado en un depósito.
 

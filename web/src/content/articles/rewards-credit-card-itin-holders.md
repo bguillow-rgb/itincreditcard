@@ -38,7 +38,7 @@ Many ITIN holders assume that rewards cards, cash back, travel points, rotating 
 
 ## So ITIN holders can actually earn rewards, is that really true?
 
-*A question we hear often:* Yes, and it matters more than most people realize. Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account, your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account. The same logic applies to rewards: your ITIN is just a tax identifier. The card's earning structure doesn't change based on which nine-digit number is on file.
+Yes, and it matters more than most people realize. Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account, your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account. The same logic applies to rewards: your ITIN is just a tax identifier. The card's earning structure doesn't change based on which nine-digit number is on file.
 
 Regardless of the type of credit card rewards you want to earn and the state of your credit score, or lack thereof, there's a credit card without a Social Security number requirement for you. That said, the specific card that makes sense depends heavily on where you are in your credit-building journey. A brand-new arrival with no U.S. history has different options than someone who has held a secured card responsibly for 18 months.
 
@@ -56,7 +56,7 @@ For a broader look at which institutions will actually approve your application,
 
 ## I've had my secured card for about a year. What rewards cards can I graduate to?
 
-*Readers frequently ask:* After 12-18 months of responsible use, on-time payments, utilization consistently under 30%, your credit profile starts opening doors to more competitive rewards products.
+After 12-18 months of responsible use, on-time payments, utilization consistently under 30%, your credit profile starts opening doors to more competitive rewards products.
 
 The Chase Freedom Unlimited® is one of the best rewards credit cards you can get without an SSN, though a good credit score is needed to get approved. It earns 1.5% cash back on all purchases with no annual fee and accepts ITIN applications. On your account anniversary, the Chase Freedom Rise® account is automatically reviewed to see whether you're eligible to upgrade to the Chase Freedom Unlimited®, a natural upgrade path for ITIN holders who started with no U.S. history.
 
@@ -66,7 +66,7 @@ You'll typically have a scoreable credit file after six months of account activi
 
 ## How does earning and redeeming cash back actually work for ITIN holders?
 
-*This one comes up a lot:* Exactly the same as it does for anyone else. Your rewards accumulate in your account as you spend, and redemption options, statement credit, direct deposit, gift cards, travel bookings, are identical regardless of whether you opened the account with an ITIN or SSN.
+Exactly the same as it does for anyone else. Your rewards accumulate in your account as you spend, and redemption options, statement credit, direct deposit, gift cards, travel bookings, are identical regardless of whether you opened the account with an ITIN or SSN.
 
 One practical note: when getting a credit card without an SSN, you'll still need to meet the card issuer's other application requirements. The lender may review your credit history, request alternative forms of identification, require a checking and/or savings account, and factor your income into its decision. Your income documentation is especially important, issuers want to confirm you can carry the card responsibly, and pay stubs or tax returns filed with your ITIN work well here.
 
@@ -107,7 +107,7 @@ If your application is declined, don't panic. Issuers typically provide an adver
 
 ## What's the fastest realistic path from a starter card to a genuine rewards card?
 
-*A question we hear often:* Here's the practical roadmap most ITIN holders follow:
+Here's the practical roadmap most ITIN holders follow:
 
 1. **Month 1:** Open a secured card that accepts your ITIN (OpenSky, Capital One Platinum Secured, or similar). Fund the deposit from a U.S. bank or fintech account.
 2. **Months 2-6:** Use the card for small, regular purchases. Pay the full balance every month. Keep utilization under 30%.

@@ -42,7 +42,7 @@ That said, your foreign history isn't entirely useless. A small number of lender
 
 ## What is Nova Credit and how does it work for ITIN holders?
 
-*A question we hear often:* many readers arrive knowing their home-country bureau score but not understanding how it can cross the border.
+Many readers arrive knowing their home-country bureau score but not understanding how it can cross the border.
 
 Nova Credit is a financial technology company that partners with credit bureaus in select countries and translates a foreign credit file into what they call a Credit Passport. A participating U.S. lender then reads that Credit Passport as supplemental underwriting data during the application review. Nova Credit can translate credit history from countries including India, the UK, Canada, Mexico, and others into a format some U.S. lenders accept. The company has expanded its supported country list over time, so it's worth checking their current coverage directly.
 
@@ -50,7 +50,7 @@ One important detail for ITIN holders specifically: as of 2025, Nova Credit's Cr
 
 ## How does the American Express Global Card Relationship work with an ITIN?
 
-*This one comes up a lot*, especially among immigrants who held Amex cards abroad before relocating.
+Immigrants who held Amex cards abroad before relocating ask about this most.
 
 American Express operates a program (formally called Global Card Relationship, commonly called Global Transfer) that lets an existing cardholder apply for a U.S. Amex card using their international account history instead of a U.S. credit file. To be eligible, your existing card must be issued by American Express, you must be the primary cardholder, and you must have held the card for at least three months, with the account open and in good standing at the time you apply. In practice, the credit community generally recommends six to twelve months of history for better odds, though Amex's published minimum stays at three months.
 
@@ -72,7 +72,7 @@ According to a 2026 Experian white paper, ITIN holders have a lower debt-to-inco
 
 ## Can a community bank or credit union review my foreign credit report manually?
 
-*Readers frequently ask* whether they can simply walk into a branch and show their home-country credit report.
+Whether they can simply walk into a branch and show their home-country credit report.
 
 The answer is: sometimes, and it's worth trying before you rule it out. A few credit unions and community banks will accept a paper or PDF copy of your foreign credit report as part of a manual review. You walk in with a translated CIBIL, Experian UK, or SCHUFA report, and a loan officer evaluates you case by case. This is not a standardized process, and approval depends on the officer, the bank, and the product. Secured cards in particular are the product most likely to be reviewed this way, because the deposit reduces the lender's risk regardless of your background.
 
@@ -80,7 +80,7 @@ If you want to try this route, call the lending department before you go in. Ask
 
 ## What documents should I bring when applying through any of these programs?
 
-*This one comes up a lot* in our inbox, usually a few days before someone's appointment.
+In our inbox, usually a few days before someone's appointment.
 
 The exact document list varies by program, but the following covers the core of what all three pathways require in some form:
 

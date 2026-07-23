@@ -50,7 +50,7 @@ For ITIN holders who want to understand the full credit-building roadmap beyond 
 
 ## Which secured credit cards actually accept an ITIN in 2026?
 
-*A question we hear often:* not every "secured card" list online tells you which ones specifically allow an ITIN. Here's a clear breakdown.
+Not every "secured card" list online tells you which ones specifically allow an ITIN. Here's a clear breakdown.
 
 | Card | Issuer | Min. Deposit | Annual Fee | Reports to All 3 Bureaus | ITIN Online? |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@ According to WalletHub, seven of the top 10 credit card issuers in the U.S. acce
 
 ## I have my ITIN, what documents do I actually need to bring to the application?
 
-*This one comes up a lot:* people get their ITIN and then aren't sure what else they need. Here's the standard document checklist for a secured card application as an ITIN holder:
+People get their ITIN and then aren't sure what else they need. Here's the standard document checklist for a secured card application as an ITIN holder:
 
 1. **Your ITIN**, the actual nine-digit number (format: 9XX-XX-XXXX) or the IRS ITIN assignment letter.
 2. **A valid government-issued photo ID**, a foreign passport is the most universally accepted. Some issuers also accept a consular ID (matrícula consular) or a state-issued ID if you have one.
@@ -85,7 +85,7 @@ For in-person applications at Chase or Bank of America, bring all of the above i
 
 ## How do I actually fill out the application when it asks for a Social Security Number?
 
-*Readers frequently ask:* this is a specific pain point that trips people up. Most credit card applications have a field labeled "Social Security Number", but that doesn't mean you're stuck.
+This is a specific pain point that trips people up. Most credit card applications have a field labeled "Social Security Number", but that doesn't mean you're stuck.
 
 Here's what to do:
 
@@ -129,7 +129,7 @@ For ITIN holders who want to accelerate the process, adding a credit-builder loa
 
 ## Is it true that my credit score from my home country doesn't transfer to the U.S.?
 
-*A question we hear often:* yes, unfortunately it's true, U.S. credit bureaus only track U.S. credit activity. A perfect 10-year payment history in Mexico, India, Brazil, or anywhere else means nothing to Equifax, Experian, or TransUnion. You start from zero.
+Yes, unfortunately it's true, U.S. credit bureaus only track U.S. credit activity. A perfect 10-year payment history in Mexico, India, Brazil, or anywhere else means nothing to Equifax, Experian, or TransUnion. You start from zero.
 
 There is one exception worth knowing: a service called Nova Credit can translate credit histories from select countries, including India, Mexico, Canada, the UK, Australia, and a few others, into a format that some U.S. lenders will accept during the application process. American Express is one issuer that uses this tool, which it calls Credit Passport, allowing new immigrants with strong foreign credit histories to potentially qualify for Amex cards before they've built a U.S. file.
 

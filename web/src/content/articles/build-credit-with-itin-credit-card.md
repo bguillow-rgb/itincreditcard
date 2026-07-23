@@ -38,7 +38,7 @@ If you hold an Individual Taxpayer Identification Number and have ever wondered 
 
 ## Does having an ITIN actually create a credit file, or does it just sit there?
 
-*A question we hear often:* ITIN holders sometimes worry that the credit bureaus won't "see" their accounts the same way they would for an SSN holder. That worry is unfounded.
+ITIN holders sometimes worry that the credit bureaus won't "see" their accounts the same way they would for an SSN holder. That worry is unfounded.
 
 When you open a credit card with an ITIN-accepting issuer, the lender reports your account activity to the bureaus using your ITIN as the file identifier. Equifax, Experian, and TransUnion can all create and maintain a credit file tied to an ITIN rather than an SSN. The scoring algorithms treat both identifiers equally. Your payment history, credit utilization, account age, and credit mix are all calculated in exactly the same way regardless of which nine-digit number anchors your file.
 
@@ -52,7 +52,7 @@ That said, habits matter more than time. One missed payment can erase several mo
 
 ## Which ITIN credit cards are actually best for building credit fast?
 
-*This one comes up a lot:* Not every card marketed to ITIN holders is equally useful for credit building. The two requirements that matter most are (1) reporting to all three bureaus and (2) no credit check or lenient underwriting so you can actually get approved.
+Not every card marketed to ITIN holders is equally useful for credit building. The two requirements that matter most are (1) reporting to all three bureaus and (2) no credit check or lenient underwriting so you can actually get approved.
 
 Here is a comparison of cards commonly used by ITIN holders for credit building in 2026:
 
@@ -69,7 +69,7 @@ For more detail on which issuers accept an ITIN and how their policies work, see
 
 ## What card habits actually move my credit score the fastest?
 
-*Readers frequently ask:* Once approved for an ITIN credit card, the behaviors that drive the score are the same for everyone, but the stakes are higher for ITIN holders who have fewer cards and therefore less margin for error.
+Once approved for an ITIN credit card, the behaviors that drive the score are the same for everyone, but the stakes are higher for ITIN holders who have fewer cards and therefore less margin for error.
 
 **Pay the full balance, not just the minimum.** Paying only the minimum keeps a balance on the card, which raises your utilization ratio and costs you interest. Paying in full every month keeps utilization near zero at statement close and eliminates finance charges entirely.
 
@@ -89,7 +89,7 @@ If you want to accelerate the timeline further, some ITIN holders add a second c
 
 ## What mistakes do ITIN holders most commonly make with credit cards?
 
-*A question we hear often:* Several patterns consistently derail credit-building progress, particularly among people who are new to the U.S. credit system.
+Several patterns consistently derail credit-building progress, particularly among people who are new to the U.S. credit system.
 
 **Maxing out the card.** Using more than 30% of your credit limit at statement close is one of the most common and damaging mistakes. A $500-limit card with a $450 balance shows 90% utilization, which can drop a score by dozens of points immediately. The fix is to either pay down the balance before the statement closes or request a credit limit increase once you have six months of history. For strategies on requesting a higher limit, see our [credit limit increase guide for ITIN holders](/credit-limit-increase-itin-credit-card).
 

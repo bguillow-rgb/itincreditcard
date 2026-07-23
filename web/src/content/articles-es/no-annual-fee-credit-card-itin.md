@@ -36,7 +36,7 @@ Pagar una cuota anual en tu primera tarjeta de crédito en EE. UU. es un gasto r
 
 ## ¿Existen tarjetas de crédito reales que acepten un ITIN Y no cobren cuota anual?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN a veces creen que tienen que pagar una cuota solo para ser aprobados. Eso no es cierto.
+Los titulares de ITIN a veces creen que tienen que pagar una cuota solo para ser aprobados. Eso no es cierto.
 
 Si eres inmigrante reciente, estudiante internacional u otro no ciudadano sin SSN, es posible que puedas solicitar una tarjeta de crédito usando un ITIN, y muchos de los principales emisores, entre ellos Chase, American Express y Capital One, tienen tarjetas de recompensas a las que puedes aplicar con un ITIN. Varias de esas tarjetas no cobran absolutamente nada en cuotas anuales.
 
@@ -68,7 +68,7 @@ En tan solo seis meses, es posible que seas considerado para un aumento de lími
 
 ## ¿Y la Capital One Platinum? ¿Vale la pena sin recompensas?
 
-*Este tema surge mucho:* algunos titulares de ITIN se preguntan si una tarjeta sin recompensas vale la pena abrirla.
+Algunos titulares de ITIN se preguntan si una tarjeta sin recompensas vale la pena abrirla.
 
 La Capital One Platinum es una tarjeta de crédito sin garantía para personas sin historial crediticio o con puntaje de crédito regular, y en tan solo seis meses es posible que seas considerado para un aumento de límite de crédito. No se requiere depósito de seguridad para abrir una cuenta y no tiene cuota anual.
 
@@ -84,7 +84,7 @@ Lo que diferencia más a OpenSky es su proceso de aprobación sin revisión de c
 
 ## ¿Puedo obtener una tarjeta sin cuota anual y sin garantía con un ITIN a través de Chase?
 
-*Los lectores preguntan con frecuencia* si bancos grandes como Chase realmente procesan solicitudes con ITIN.
+Si bancos grandes como Chase realmente procesan solicitudes con ITIN.
 
 Puedes usar un ITIN para completar una solicitud de tarjeta de crédito de Chase en línea. La Chase Freedom Unlimited es una de las tarjetas sin cuota anual más populares en EE. UU. y está disponible para titulares de ITIN que ya tienen un historial crediticio establecido en el país. La Chase Freedom Unlimited es una tarjeta de reembolso en efectivo muy bien valorada que no tiene cuota anual.
 
@@ -100,7 +100,7 @@ Una tarjeta de reembolso del $0 que paga 2% en cada compra superará a una tarje
 
 ## ¿Qué debo tener cuidado con las tarjetas que dicen ser "gratuitas"?
 
-*Una pregunta que escuchamos con frecuencia:* algunas tarjetas se publicitan como sin cuota anual, pero esconden costos en otros lugares.
+Algunas tarjetas se publicitan como sin cuota anual, pero esconden costos en otros lugares.
 
 Presta atención a estas categorías de costos ocultos:
 

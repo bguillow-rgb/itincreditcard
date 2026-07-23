@@ -36,7 +36,7 @@ Solicitar una tarjeta de crédito con ITIN genera una pregunta que aparece en ca
 
 ## ¿Tengo que demostrar ingresos para obtener una tarjeta de crédito con mi ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* si los ingresos importan cuando se usa un ITIN.
+Si los ingresos importan cuando se usa un ITIN.
 
 La respuesta corta es sí, en la mayoría de las tarjetas, aunque las reglas tienen bastante flexibilidad. Los prestamistas quieren asegurarse de que ganas lo suficiente para cubrir al menos los pagos mínimos, aunque por ley no existe un ingreso mínimo específico: cada emisor fija sus propias pautas internas. Eso significa que un emisor puede aprobarte con $800 al mes de trabajo a tiempo parcial, mientras que otro quiere ver $1,500.
 
@@ -58,7 +58,7 @@ Los emisores también calculan tu relación deuda-ingreso, dividiendo el total d
 
 ## ¿Qué comprobante de ingresos necesito presentar?
 
-*Los lectores preguntan con frecuencia* exactamente qué documentos reunir antes de presionar "enviar".
+Exactamente qué documentos reunir antes de presionar "enviar".
 
 La documentación común incluye una carta de confirmación de ITIN válida del IRS, una identificación con foto emitida por el gobierno como pasaporte o licencia de conducir extranjera, comprobante de domicilio como recibos de servicios o contratos de arrendamiento, y comprobante de ingresos como talones de pago, estados de cuenta bancarios o declaraciones de impuestos.
 
@@ -91,7 +91,7 @@ Para un análisis más detallado de qué emisores específicos aceptan ITIN y qu
 
 ## ¿Puedo calificar si acabo de empezar a trabajar en Estados Unidos y solo tengo uno o dos talones de pago?
 
-*Esta pregunta surge mucho:* qué hacer cuando tus ingresos son reales pero casi no tienes rastro documental en Estados Unidos.
+Qué hacer cuando tus ingresos son reales pero casi no tienes rastro documental en Estados Unidos.
 
 Uno o dos talones de pago pueden ser suficientes para algunos emisores, especialmente si los combinas con un estado de cuenta bancario que muestre el depósito llegando con regularidad. La mayoría de los emisores de tarjetas de crédito quieren ver al menos algunos meses de actividad bancaria en Estados Unidos antes de aprobarte, por lo que abrir una cuenta de cheques o de ahorros en un banco que acepte solicitantes con ITIN es un paso inteligente desde el principio. Incluso 60 días de actividad bancaria limpia fortalece considerablemente tu solicitud.
 

@@ -38,8 +38,6 @@ Los estudiantes internacionales llegan a EE. UU. cargando ambición, maletas lle
 
 ## ¿Por qué la mayoría de las solicitudes de tarjetas piden un SSN y qué papel juega el ITIN?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 La ley federal exige que los emisores de tarjetas verifiquen la identidad de cada solicitante antes de aprobarlo, y el SSN es la forma estándar de hacerlo. Sin embargo, la ley no exige específicamente un SSN. Según Experian, emisores como American Express y Capital One aceptan un ITIN como alternativa válida. El ITIN es un número de nueve dígitos que emite el IRS a personas que necesitan un número de identificación tributaria en EE. UU. pero no son elegibles para obtener un SSN. Como identificador crediticio, funciona igual que un SSN en una solicitud de tarjeta: el emisor puede consultar cualquier historial de crédito vinculado a ese número y evaluar tu perfil de riesgo.
 
 El detalle práctico es que no todos los emisores han adaptado sus sistemas para aceptar ITIN. Aproximadamente la mitad de los grandes emisores lo hace; el resto aún no ha actualizado sus procesos. Tu lista de tarjetas disponibles es más corta que la de un estudiante nacional, pero está lejos de estar vacía y crece cada año.
@@ -65,8 +63,6 @@ Para estudiantes que todavía no pueden obtener un ITIN o prefieren no esperar, 
 
 ## ¿Necesito el ITIN antes de solicitar, o puedo hacerlo justo después de llegar?
 
-*Esta pregunta surge mucho:*
-
 La respuesta depende de qué tarjeta quieras obtener. Si solicitas una tarjeta estudiantil de Capital One o Bank of America, necesitas el ITIN primero. Obtenerlo implica presentar el Formulario W-7 del IRS, proporcionar prueba de identidad y estatus extranjero, y adjuntarlo a una declaración federal de impuestos o calificar bajo una excepción específica del IRS. El proceso por correo generalmente tarda entre 6 y 11 semanas, una espera real cuando estás tratando de organizarte en tu primer mes en el campus.
 
 Ciertos Agentes de Aceptación Certificadores (CAA) del IRS pueden verificar tus documentos en persona, lo que puede reducir considerablemente el tiempo de procesamiento. El IRS publica la lista de CAA autorizados en su sitio web.
@@ -89,8 +85,6 @@ Además del ITIN, los emisores pedirán una serie estándar de información. Pre
 Los emisores evaluarán tu perfil general de riesgo, no solo tu historial crediticio, cuando no tienes historial previo en EE. UU. Según Experian, la documentación de ingresos y una verificación de identidad limpia tienen el mayor peso cuando el historial crediticio es escaso o inexistente. Un trabajo de medio tiempo en el campus, un estipendio o incluso ahorros bancarios documentados pueden contar como ingreso en la mayoría de las solicitudes.
 
 ## Me rechazaron en un emisor. ¿Significa eso que no puedo obtener ninguna tarjeta?
-
-*Los lectores nos preguntan esto con frecuencia:*
 
 Para nada. Un rechazo de un emisor dice muy poco sobre tus posibilidades con otro, porque las políticas de ITIN y los criterios de evaluación varían enormemente de banco a banco. Según la Universidad de Minnesota Extension, si te rechazan una solicitud regular con tu ITIN, el siguiente paso es una tarjeta de crédito asegurada, que requiere un depósito reembolsable en lugar de una verificación de crédito. Las tarjetas aseguradas son mucho más fáciles de obtener porque el depósito elimina la mayor parte del riesgo para el prestamista.
 

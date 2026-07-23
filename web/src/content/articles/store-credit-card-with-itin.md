@@ -38,13 +38,13 @@ If you hold an ITIN and want to build U.S. credit, store and retail credit cards
 
 ## Why do ITIN holders ask about store credit cards specifically?
 
-*A question we hear often:* store cards have a long-standing reputation as the easiest credit cards to get approved for. That reputation is not unfounded. Store credit cards can sometimes be more accessible and may accept ITIN numbers, though they typically carry higher interest rates and are limited to use at specific retailers. For someone who just arrived in the United States and needs any approved account to start a credit file, a retail card can feel like the obvious starting point.
+Store cards have a long-standing reputation as the easiest credit cards to get approved for. That reputation is not unfounded. Store credit cards can sometimes be more accessible and may accept ITIN numbers, though they typically carry higher interest rates and are limited to use at specific retailers. For someone who just arrived in the United States and needs any approved account to start a credit file, a retail card can feel like the obvious starting point.
 
 There is also a practical overlap: many ITIN holders already shop at Target, Walmart, Amazon, or Costco regularly. Getting credit from a store you already use feels efficient. The catch is that "store credit card" is not a single product category with consistent underwriting rules. You need to know which specific issuer backs the card, because the bank behind the brand name sets the ITIN policy, not the retailer.
 
 ## What is the difference between a closed-loop and an open-loop retail card, and why does it matter for ITIN holders?
 
-*This one comes up a lot.* Store-branded credit products fall into two buckets. A **closed-loop card** can only be used at one retailer or its affiliated properties. The Amazon Secured Card is a good example. An **open-loop card** carries a Visa, Mastercard, or Amex logo and works everywhere -- think the Target RedCard Mastercard or an Amazon Prime Rewards Visa.
+Store-branded credit products fall into two buckets. A **closed-loop card** can only be used at one retailer or its affiliated properties. The Amazon Secured Card is a good example. An **open-loop card** carries a Visa, Mastercard, or Amex logo and works everywhere -- think the Target RedCard Mastercard or an Amazon Prime Rewards Visa.
 
 For ITIN holders, this distinction matters because closed-loop secured cards have the loosest approval requirements. The Amazon Secured Card, issued by Synchrony Bank, is specifically designed for those with no credit history or a limited U.S. credit profile. A secured structure means you put down a refundable deposit, which becomes your credit line. The issuer takes very little risk, so they are less likely to reject you for lacking an SSN.
 
@@ -69,7 +69,7 @@ The Amazon Secured Card reports your payment activity to the three major credit 
 
 ## How do I find out if a specific store card accepts ITIN before I apply?
 
-*Readers frequently ask* this because a hard inquiry on an application you were always going to get denied for is a pointless cost. Here is a two-step process that takes less than ten minutes.
+This because a hard inquiry on an application you were always going to get denied for is a pointless cost. Here is a two-step process that takes less than ten minutes.
 
 First, identify the issuing bank, not the retailer. Almost every store credit card is issued by a bank like Synchrony, Citi, Capital One, Barclays, TD Bank, or Alliance Data. You can find this on the card's terms-and-conditions page, usually listed as "Issued by [Bank Name]."
 
@@ -85,7 +85,7 @@ One practical note: some online retail card applications have a field labeled "S
 
 ## Are store credit cards actually a good choice for building credit with an ITIN?
 
-*This one comes up a lot,* and the honest answer is: it depends on the card.
+And the honest answer is: it depends on the card.
 
 Store cards typically carry higher interest rates and are limited to use at specific retailers, which is a real drawback. A closed-loop card you can only use at one retailer gives you very limited spending flexibility. If your goal is purely to build a credit file and you plan to pay in full every month, the interest rate is irrelevant -- what matters is the reporting. In that case, the Amazon Secured Card or a Capital One co-branded retail card can work just as well as any general-purpose secured card.
 

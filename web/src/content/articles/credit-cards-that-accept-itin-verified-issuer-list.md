@@ -72,7 +72,7 @@ Of the top 10 credit card issuers, seven accept an ITIN, including Bank of Ameri
 
 ## "I have no U.S. credit history at all. Where do I even start?"
 
-*A question we hear often:* This is the most common situation for recent immigrants and new ITIN holders, and the answer is more accessible than most people expect.
+This is the most common situation for recent immigrants and new ITIN holders, and the answer is more accessible than most people expect.
 
 For most people without an SSN, the fastest path to a real credit card is through a credit-builder card that does not require a credit check, and two options stand out as the easiest to qualify for with an ITIN.
 
@@ -105,7 +105,7 @@ For the Chase Freedom Unlimited you generally need a score of 670 or above. For 
 
 ## "I keep hearing that Petal accepted ITINs. Is that still true in 2026?"
 
-*This one comes up a lot:* Petal was a widely cited ITIN-friendly card, and many older guides still list it. The situation has changed.
+Petal was a widely cited ITIN-friendly card, and many older guides still list it. The situation has changed.
 
 As of May 2026, Petal 1 and Petal 2 are no longer accepting new applications. After Empower Finance signed a definitive agreement to acquire Petal and closed the deal, the brand has transitioned to Tilt Card, Inc. New applicants are now offered Tilt cards instead, while existing Petal cardholders keep their accounts and benefits.
 
@@ -117,7 +117,7 @@ If you applied for Petal recently and were declined, or if you are searching for
 
 ## "What are the real fees and limits I should expect, card by card?"
 
-*Readers frequently ask:* Issuers often bury the most useful numbers in footnotes. Here is the consolidated data, pulled from issuer disclosures and third-party reviews current as of July 2026.
+Issuers often bury the most useful numbers in footnotes. Here is the consolidated data, pulled from issuer disclosures and third-party reviews current as of July 2026.
 
 ### Fee and limit snapshot: ITIN-accepting secured cards
 
@@ -155,7 +155,7 @@ If you have a valid visa, green card, or other immigration documentation, keep i
 
 ## "How does Wells Fargo's ITIN policy compare to Bank of America and Citi?"
 
-*A question we hear often:* These three large traditional banks all accept ITINs, but with meaningfully different processes and card access levels.
+These three large traditional banks all accept ITINs, but with meaningfully different processes and card access levels.
 
 Wells Fargo accepts an ITIN in place of an SSN for all of its credit cards. That is the most permissive policy among the three. The Wells Fargo Active Cash earns a flat 2% cash back on all purchases, one of the strongest flat-rate rewards available to any credit card holder, ITIN or SSN. The Active Cash card charges a 3% foreign transaction fee, which makes it less than ideal for use outside the U.S., and you will likely need a good to excellent score to improve your chances of approval. If you travel internationally, pair Wells Fargo's ITIN acceptance with a no-foreign-transaction-fee card from Capital One or Chase.
 
@@ -181,7 +181,7 @@ The Tilt Motion Visa (the Petal successor) also requires no deposit and accepts 
 
 ## "What documents do I actually need to bring to a credit card application as an ITIN holder?"
 
-*Readers frequently ask:* The application itself is usually straightforward, but having the right supporting documents ready prevents delays or unnecessary denials.
+The application itself is usually straightforward, but having the right supporting documents ready prevents delays or unnecessary denials.
 
 If you are getting a credit card without an SSN, you will still need to meet the card issuer's other application requirements. The lender may review your credit history, request alternative forms of identification, require a checking or savings account, and factor your income into its decision.
 

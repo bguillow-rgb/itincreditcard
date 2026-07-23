@@ -36,8 +36,6 @@ Si ya leíste nuestra guía sobre [qué bancos aceptan el ITIN para tarjetas de 
 
 ## ¿Por qué sería más fácil una cooperativa que un banco para titulares de ITIN?
 
-*Una pregunta que nos hacen con frecuencia:*
-
 La respuesta corta es la misión. Las cooperativas de crédito son cooperativas sin fines de lucro de propiedad de sus miembros. Mientras que el modelo de evaluación de un banco grande está calibrado para minimizar el riesgo entre millones de solicitantes anónimos, el de una cooperativa está orientado a servir a su comunidad específica, que, en muchos casos, incluye explícitamente a inmigrantes y titulares de ITIN.
 
 Resource One Credit Union, por ejemplo, ha incorporado formalmente el ITIN como forma de identificación aceptada, como parte de su compromiso continuo de servir a poblaciones diversas que quizás no tienen un Número de Seguro Social. Ese tipo de compromiso institucional es poco frecuente en los grandes bancos, donde la aceptación del ITIN existe pero suele ser inconsistente, la política escrita y lo que ocurre en una sucursal específica no siempre coinciden.
@@ -69,8 +67,6 @@ Cabe destacar que cooperativas como Fibre Federal Credit Union ofrecen préstamo
 
 ## ¿Cómo me uno realmente a una cooperativa de crédito con un ITIN?
 
-*Esta pregunta surge mucho:*
-
 Las cooperativas tienen un concepto llamado **campo de membresía**, debes calificar geográficamente, por tu profesión o por asociación para unirte. El primer paso es encontrar una a la que seas elegible. El localizador gratuito de la NCUA en mycreditunion.gov te permite buscar por código postal. Muchas cooperativas de desarrollo comunitario (CDCUs) tienen campos de membresía amplios, a veces basta con vivir o trabajar en un condado determinado.
 
 Una vez que encuentres una candidata, los documentos estándar que necesitarás son:
@@ -85,8 +81,6 @@ Algunas cooperativas que ofrecen productos basados en ITIN aceptan datos crediti
 Importante: la mayoría de las cooperativas requieren que realices la membresía en persona o mediante una cita por video si solicitas con ITIN en lugar de SSN. No asumas que la solicitud en línea funcionará, llama primero.
 
 ## ¿Importa cuál cooperativa elijo, o son todas iguales?
-
-*Los lectores preguntan esto con frecuencia:*
 
 Importa bastante. No todas las cooperativas tienen un programa de ITIN. Entre las que sí lo tienen, el nivel de compromiso varía, algunas cuentan con personal bilingüe dedicado y una política documentada de préstamos con ITIN; otras técnicamente aceptan el ITIN pero no tienen a nadie en el equipo que haya procesado uno recientemente. Algunas cooperativas, como Express Credit Union en Washington, son incluso Agentes de Aceptación certificados por el IRS, lo que significa que pueden ayudarte a solicitar el ITIN directamente y están certificadas por el IRS para hacerlo. Ese nivel de infraestructura es señal de una institución genuinamente amigable con los inmigrantes.
 

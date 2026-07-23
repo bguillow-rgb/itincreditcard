@@ -50,7 +50,7 @@ La buena noticia es que el APR de tu tarjeta solo representa un costo si dejas u
 
 ## ¿Por qué los titulares de ITIN suelen ver APRs más altos que quienes tienen un historial crediticio más largo?
 
-*Una pregunta que escuchamos con frecuencia:* "¿Mi ITIN es la razón por la que me dieron una tasa del 27%?"
+"¿Mi ITIN es la razón por la que me dieron una tasa del 27%?"
 
 La respuesta corta es no: tu ITIN en sí no es la razón. Las políticas para aceptar ITINs varían, y algunos emisores de tarjetas de crédito pueden aceptarlos solo para ciertos productos, pero una vez que un prestamista acepta revisar tu solicitud, te evalúa con los mismos criterios de solvencia que a cualquier otro solicitante: historial de pagos, saldos existentes, antigüedad del historial crediticio e ingresos.
 
@@ -76,7 +76,7 @@ Hay algunas cosas importantes que destacar de esta tabla. Las tarjetas de crédi
 
 ## ¿Una tarjeta con APR del 0% es realmente una tarjeta de crédito o solo una tarjeta de débito disfrazada?
 
-*Los lectores preguntan con frecuencia* si estas tarjetas anunciadas con APR del 0% realmente construyen crédito o si son solo un truco de mercadotecnia.
+Si estas tarjetas anunciadas con APR del 0% realmente construyen crédito o si son solo un truco de mercadotecnia.
 
 La distinción es importante. Algunos productos con APR del 0% dirigidos a inmigrantes funcionan con un modelo prepagado-asegurado: cargas un saldo, gastas de él y el emisor reporta tu actividad a los burós de crédito como si fuera una cuenta de crédito revolvente. No hay intereses porque estás gastando tu propio dinero, y la actividad se reporta como uso de crédito puntual a Experian, TransUnion y Equifax. Una tarjeta de débito tradicional no hace nada de eso.
 
@@ -88,7 +88,7 @@ Dicho esto, una vez que tu puntaje esté establecido, probablemente querrás [pa
 
 ## ¿Cómo comparo las ofertas de APR al solicitar una tarjeta de crédito con mi ITIN?
 
-*Esto surge mucho:* los nuevos tarjetahabientes a menudo no saben dónde encontrar el APR real antes de solicitar una tarjeta.
+Los nuevos tarjetahabientes a menudo no saben dónde encontrar el APR real antes de solicitar una tarjeta.
 
 Por ley federal (la Ley de Veracidad en los Préstamos, o Truth in Lending Act), todas las tarjetas de crédito deben divulgar su APR en un cuadro estandarizado llamado Schumer Box, que verás en la página de solicitud o en los términos y condiciones de la tarjeta. Para los titulares de ITIN, esto es lo que debes buscar:
 

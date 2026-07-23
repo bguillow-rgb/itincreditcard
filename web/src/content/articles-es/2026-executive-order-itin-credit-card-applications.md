@@ -40,7 +40,7 @@ El 19 de mayo de 2026, el presidente Trump firmó la Orden Ejecutiva 14406, titu
 
 ## ¿Qué dice realmente la orden ejecutiva de 2026 sobre los ITIN?
 
-*Una pregunta que nos hacen con frecuencia:* los lectores quieren saber si la orden es una prohibición o algo más matizado.
+Los lectores quieren saber si la orden es una prohibición o algo más matizado.
 
 No es una prohibición. La orden incluye "el uso de un número de identificación personal del contribuyente (ITIN) para obtener productos de crédito o abrir cuentas de depósito cuando el solicitante carece de estatus migratorio legal verificado" como una tipología de señal de alerta. Luego aclara que "aunque un ITIN facilita el cumplimiento tributario, su uso en lugar de un número de Seguro Social o una visa de trabajo válida puede identificarse como un factor de riesgo que requiere diligencia debida reforzada".
 
@@ -69,7 +69,7 @@ Las instituciones deben anticipar que la guía del Tesoro influirá en las expec
 
 ## ¿Significa esto que me negarán una tarjeta de crédito solo por usar un ITIN?
 
-*Esta es una pregunta frecuente* entre nuestros lectores, especialmente entre quienes tienen estatus legal de visa y nunca han tenido problemas de crédito.
+Entre nuestros lectores, especialmente entre quienes tienen estatus legal de visa y nunca han tenido problemas de crédito.
 
 La respuesta depende en gran medida de tu estatus migratorio. El lenguaje de diligencia debida de la orden está vinculado específicamente a los solicitantes que *carecen de estatus migratorio legal verificado*. La orden ejecutiva aclara que un ITIN "facilita el cumplimiento tributario", pero su uso en lugar de un número de Seguro Social o una visa de trabajo válida "puede identificarse como un factor de riesgo que requiere diligencia debida reforzada para garantizar que la cuenta no se esté utilizando para facilitar el empleo ilegal de extranjeros no autorizados".
 
@@ -81,7 +81,7 @@ Los datos no respaldan tratar a los titulares de ITIN como mayores riesgos credi
 
 ## ¿Qué emisores tienen más probabilidades de aprobar solicitudes de tarjeta de crédito con ITIN en 2026?
 
-*Una pregunta frecuente de los lectores:* ¿con qué bancos es más seguro solicitar ahora mismo?
+¿con qué bancos es más seguro solicitar ahora mismo?
 
 Ningún emisor importante ha anunciado públicamente que dejará de aceptar ITIN a la fecha de esta publicación (8 de julio de 2026). De los 10 principales emisores de tarjetas de crédito, siete aceptan un ITIN, incluyendo Bank of America y Capital One. La orden crea una obligación de cumplimiento, no una prohibición, por lo que los emisores conservan su discreción individual.
 
@@ -120,7 +120,7 @@ Para un recorrido detallado de qué documentos solicita cada emisor principal en
 
 ## ¿Debo preocuparme por el cierre de mi tarjeta de crédito con ITIN?
 
-*Una pregunta que escuchamos con frecuencia*, especialmente de lectores que han dedicado entre 12 y 18 meses a construir cuidadosamente un historial de pagos positivo y no quieren perderlo.
+Si has dedicado entre 12 y 18 meses a construir cuidadosamente un historial de pagos positivo, perderlo es lo último que quieres.
 
 No entres en pánico y no cierres tu cuenta de forma preventiva. Los bancos aún no han recibido la guía formal, y cerrar cuentas podría generar su propio problema financiero al eliminar el historial de antigüedad de cuenta que has construido. Los cierres de cuentas no están ordenados por la orden ejecutiva. Esta se enfoca en nuevas solicitudes y apertura de nuevas cuentas, no en obligar a los emisores a revisar cuentas existentes al día.
 

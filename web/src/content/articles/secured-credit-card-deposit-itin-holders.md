@@ -36,7 +36,7 @@ For most ITIN holders, a secured credit card is the clearest path into the U.S. 
 
 ## So what actually is a secured credit card deposit, and why do I need one?
 
-*A question we hear often:* ITIN holders already feel like they have one extra hurdle compared to SSN applicants. The deposit can sound like yet another barrier. It is actually the opposite.
+ITIN holders already feel like they have one extra hurdle compared to SSN applicants. The deposit can sound like yet another barrier. It is actually the opposite.
 
 A secured credit card deposit is a one-time, refundable cash payment you make when you open the account. According to Experian, [the security deposit acts as collateral, making card issuers more willing to extend credit to applicants who lack a traditional credit file](17-5). The key word is *refundable*: [the deposit is held by the issuer and only used if you default on your balance](17-8). It is not spent on purchases and it is not a fee.
 
@@ -62,7 +62,7 @@ For most other issuers, the minimum is $200. Citi's Secured Mastercard [allows d
 
 ## How do I actually make the deposit? What documents do I need?
 
-*Readers frequently ask:* this is where the mechanics get a little different for ITIN holders compared to SSN applicants.
+This is where the mechanics get a little different for ITIN holders compared to SSN applicants.
 
 The application process works like this: you fill out the card application using your ITIN in place of an SSN. [Most credit applications ask for your full legal name, ITIN, date of birth, address, employment status, gross annual income, and monthly housing payment](14-1). After the issuer reviews your application, you are given a window to fund the deposit.
 
@@ -72,7 +72,7 @@ Beyond the ITIN itself, most issuers ask for a valid foreign passport and proof 
 
 ## How does the deposit build my credit, and will the bureau reporting work the same as with an SSN?
 
-*This one comes up a lot:* ITIN holders sometimes worry that their credit file is a second-class version of an SSN-based file. It is not.
+ITIN holders sometimes worry that their credit file is a second-class version of an SSN-based file. It is not.
 
 [Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account. Your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account](11-4,11-5). The scoring models, FICO and VantageScore, do not differentiate.
 
@@ -98,7 +98,7 @@ Once your secured card graduates, check our guide on [how to get a credit limit 
 
 ## Secured vs. unsecured: when does it make sense to switch?
 
-*Readers frequently ask:* how do I know when I am ready to move on from a secured card?
+How do I know when I am ready to move on from a secured card?
 
 The right time to pursue an unsecured card is typically when you have held your secured card for at least 12 months, have made every payment on time, and your score has reached the mid-600s or higher. At that point, the pool of ITIN-friendly [unsecured cards](/unsecured-credit-card-itin-holders) opens up meaningfully, and you can start earning real rewards without tying up cash in a deposit.
 

@@ -78,8 +78,6 @@ On the unsecured side, lenders set your credit limit based on income, creditwort
 
 ## Do ITIN holders qualify for unsecured credit cards?
 
-*A question we hear often:*
-
 Secured cards are easier to get with an ITIN, especially if you are new to U.S. credit, but they are not your only option. Some lenders accept ITINs for unsecured cards too. Whether you get approved depends on your income, any existing credit history, and the specific issuer's policies.
 
 Capital One is the clearest example of an issuer that offers both pathways. The Capital One Platinum is an unsecured card aimed at people with no credit history or fair credit scores. There is no security deposit, no annual fee, and Capital One may consider you for a credit limit increase after as few as six months.
@@ -89,8 +87,6 @@ That said, this is the exception. Unsecured cards for ITIN holders generally req
 ---
 
 ## Which secured cards accept ITIN in 2026? Here are the real numbers.
-
-*This one comes up a lot:*
 
 The table below reflects current data from issuer websites and verified third-party sources. Confirm live rates at each issuer before applying, as APRs are variable and shift with the prime rate.
 
@@ -108,8 +104,6 @@ The table below reflects current data from issuer websites and verified third-pa
 ---
 
 ## Why does the Capital One Platinum Secured have such a low minimum deposit?
-
-*Readers frequently ask:*
 
 The Capital One Platinum Secured works like any secured card: you put down a refundable deposit that becomes your credit limit. Most secured cards require a dollar-for-dollar match between deposit and limit. Capital One does something different. Depending on your creditworthiness, you may qualify for a $200 credit limit with only a $49 or $99 deposit. That gap is what makes it stand out.
 
@@ -134,8 +128,6 @@ According to OpenSky's own data, users improve their credit scores by an average
 ---
 
 ## Can Bank of America ITIN holders apply online?
-
-*This one comes up a lot:*
 
 This is a detail many comparison sites bury or miss entirely. If you have an SSN, you can apply online or at a branch. If you have an ITIN, Bank of America requires an in-person branch visit.
 
@@ -202,8 +194,6 @@ The cleanest outcome is graduating at the same issuer. You keep your account age
 ---
 
 ## Should I get a secured card or skip straight to an unsecured one with my ITIN?
-
-*Readers frequently ask:*
 
 One variable settles it: do you have any existing U.S. credit history?
 

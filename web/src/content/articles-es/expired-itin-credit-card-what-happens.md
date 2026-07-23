@@ -38,7 +38,7 @@ La mayoría de los titulares de ITIN solo descubren el problema cuando ya es dem
 
 ## Espera, ¿un ITIN puede vencer? Pensé que era permanente.
 
-*Una pregunta que escuchamos con frecuencia:* sí, los ITINs pueden vencer, y muchos titulares no lo saben hasta que surge un problema.
+Sí, los ITINs pueden vencer, y muchos titulares no lo saben hasta que surge un problema.
 
 Los SSN no vencen ni necesitan renovarse, pero los ITIN pueden vencer si no se usan en una declaración federal de impuestos al menos una vez cada tres años. Específicamente, un ITIN vence después de tres años consecutivos sin uso, el 31 de diciembre del tercer año. También existe una regla de vencimiento por lotes para emisiones antiguas: los ITIN con dígitos intermedios 90, 91, 92 y 94-99 emitidos antes de 2013 vencieron en rondas de lotes del IRS entre 2016 y 2020.
 
@@ -56,7 +56,7 @@ No te alarmes por perder tus cuentas de tarjeta de crédito abiertas. Están a s
 
 ## Entonces, ¿qué es lo que realmente se bloquea cuando mi ITIN vence?
 
-*Los lectores preguntan esto con frecuencia* porque las consecuencias son más específicas de lo que la mayoría espera. Un ITIN vencido genera dos problemas concretos con las tarjetas de crédito.
+Porque las consecuencias son más específicas de lo que la mayoría espera. Un ITIN vencido genera dos problemas concretos con las tarjetas de crédito.
 
 Primero, las nuevas solicitudes de tarjetas de crédito probablemente fallarán. Cuando envías una nueva solicitud, los emisores realizan una verificación de identidad de Conoce a Tu Cliente (KYC) según lo exige la ley federal. Los bancos y emisores de tarjetas de crédito pueden aceptar legalmente un ITIN bajo las reglas de Conoce a Tu Cliente de la Ley Patriota. Ese proceso de verificación incluye confirmar que el número identificador que proporcionaste es válido y activo. Un ITIN vencido no pasará esta verificación en la mayoría de los emisores, lo que resulta en un rechazo en la etapa de identidad antes de que tu expediente crediticio sea revisado de manera significativa.
 
@@ -66,7 +66,7 @@ Todo lo demás, incluyendo los gastos de tu tarjeta actual, recompensas, pagos a
 
 ## ¿Cómo afecta el vencimiento del ITIN a mi historial de crédito y puntaje crediticio?
 
-*Este tema surge mucho,* especialmente entre titulares de ITIN que han pasado 12 a 24 meses construyendo cuidadosamente un expediente crediticio en EE. UU.
+Especialmente entre titulares de ITIN que han pasado 12 a 24 meses construyendo cuidadosamente un expediente crediticio en EE. UU.
 
 Lo que mucha gente no sabe es lo siguiente: las agencias de crédito pueden crear y mantener expedientes crediticios usando un ITIN. Cuando abres una cuenta de crédito con un ITIN y realizas pagos, el prestamista reporta esa actividad a las agencias de crédito, igual que lo haría con alguien que tiene un SSN. Con el tiempo, construyes un historial de crédito y, eventualmente, obtienes un puntaje crediticio.
 
@@ -101,7 +101,7 @@ La acción clave es notificar a cada una de las tres agencias por escrito y actu
 
 ## ¿Qué debo hacer ahora si creo que mi ITIN podría estar vencido?
 
-*Los lectores preguntan con frecuencia* por una lista de pasos claros, así que aquí está:
+Por una lista de pasos claros, así que aquí está:
 
 1. Revisa los dígitos intermedios de tu ITIN. Busca en alguna declaración de impuestos antigua o en tu carta original del IRS. Si tus dígitos intermedios están en el rango 70-99 y recibiste el ITIN antes de 2013, es muy probable que ya haya vencido bajo el calendario de lotes.
 2. Aplica la prueba de tres años sin uso. Si tu ITIN no fue incluido en al menos una declaración federal de impuestos durante un período de tres años, vence automáticamente el 31 de diciembre de ese tercer año. Cuenta hacia atrás desde el último año en que declaraste.

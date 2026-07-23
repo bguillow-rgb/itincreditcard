@@ -36,7 +36,7 @@ Obtener una tarjeta de crédito siendo inmigrante indocumentado es una de las pr
 
 ## ¿Las compañías de tarjetas de crédito verifican mi estatus migratorio cuando solicito?
 
-*Una pregunta que escuchamos con frecuencia:* el temor de que solicitar una tarjeta de crédito pueda de alguna forma alertar a las autoridades de inmigración.
+El temor de que solicitar una tarjeta de crédito pueda de alguna forma alertar a las autoridades de inmigración.
 
 No ocurrirá. Las compañías de tarjetas de crédito no se dedican a verificar tu estatus migratorio, pero sí necesitan una forma de confirmar tu identidad. Esa verificación existe para prevenir fraude bajo la ley bancaria federal, no para fines de inmigración. Las solicitudes de crédito están completamente separadas del estatus migratorio. Los bancos no reportan las solicitudes ni la información de las cuentas a USCIS. La Ley de Igualdad de Oportunidades de Crédito (ECOA) también prohíbe a los emisores discriminar por origen nacional.
 
@@ -52,7 +52,7 @@ Una vez que tengas tu ITIN, puedes comenzar a solicitar tarjetas de crédito el 
 
 ## ¿Qué emisores de tarjetas de crédito aceptan ITIN de solicitantes indocumentados?
 
-*Los lectores preguntan con frecuencia:* qué grandes bancos realmente aceptan una solicitud si soy indocumentado.
+Qué grandes bancos realmente aceptan una solicitud si soy indocumentado.
 
 Más de lo que la mayoría imagina. Aquí tienes un resumen de los emisores más amigables con el ITIN en 2026:
 
@@ -73,7 +73,7 @@ American Express acepta un ITIN en lugar de un número de Seguro Social. Ten en 
 
 ## ¿Cuál es la tarjeta más fácil de aprobar sin historial crediticio en EE. UU.?
 
-*Esta pregunta surge mucho:* la mayoría de los inmigrantes indocumentados que solicitan su primera tarjeta en EE. UU. no tienen ningún historial crediticio, lo que complica la aprobación incluso cuando el emisor acepta ITIN.
+La mayoría de los inmigrantes indocumentados que solicitan su primera tarjeta en EE. UU. no tienen ningún historial crediticio, lo que complica la aprobación incluso cuando el emisor acepta ITIN.
 
 La respuesta es una tarjeta asegurada sin verificación de crédito. La OpenSky Secured Credit Card es una de las pocas tarjetas aseguradas que aprueba abiertamente a solicitantes sin SSN. No hay verificación de crédito durante la solicitud, lo que la hace accesible si tu historial crediticio en EE. UU. es escaso o inexistente. Tú defines el límite de crédito con tu depósito de seguridad reembolsable, OpenSky reporta la actividad de tu cuenta a las tres principales agencias de crédito cada mes y no hay cargos ocultos.
 
@@ -108,7 +108,7 @@ Lo más importante es esto: si puedes obtener un ITIN, construir un historial cr
 
 ## ¿Cómo me ayuda una tarjeta de crédito con ITIN a construir crédito?
 
-*Los lectores preguntan con frecuencia:* si el crédito que construyen con ITIN realmente cuenta y si se transfiere en caso de que su situación migratoria cambie más adelante.
+Si el crédito que construyen con ITIN realmente cuenta y si se transfiere en caso de que su situación migratoria cambie más adelante.
 
 Sí en ambos casos. Tu ITIN es un identificador fiscal permanente, y cada cuenta de crédito que abras con él se reporta a Experian, Equifax y TransUnion bajo ese número. Las agencias de crédito mantienen expedientes por ITIN igual que lo hacen por SSN. Algunos emisores de tarjetas de crédito te permiten usar un ITIN en lugar de un SSN al solicitar una tarjeta. Pero tu capacidad de construir crédito depende de usar la tarjeta de forma responsable, no del método que usaste para solicitarla.
 

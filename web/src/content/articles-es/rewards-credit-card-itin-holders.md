@@ -38,7 +38,7 @@ Muchos titulares de ITIN dan por hecho que las tarjetas de recompensas, reembols
 
 ## ¿De verdad los titulares de ITIN pueden ganar recompensas?
 
-*Una pregunta que escuchamos con frecuencia:* Sí, y es más importante de lo que la mayoría cree. Una vez que se abre una cuenta de crédito con tu ITIN, se reporta a los burós de crédito igual que cualquier otra cuenta, tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntaje crediticio de manera idéntica, sin importar si usaste un ITIN o un SSN para abrirla. La misma lógica aplica a las recompensas: tu ITIN es solo un identificador fiscal. La estructura de acumulación de la tarjeta no cambia según qué número de nueve dígitos esté registrado.
+Sí, y es más importante de lo que la mayoría cree. Una vez que se abre una cuenta de crédito con tu ITIN, se reporta a los burós de crédito igual que cualquier otra cuenta, tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntaje crediticio de manera idéntica, sin importar si usaste un ITIN o un SSN para abrirla. La misma lógica aplica a las recompensas: tu ITIN es solo un identificador fiscal. La estructura de acumulación de la tarjeta no cambia según qué número de nueve dígitos esté registrado.
 
 Sin importar el tipo de recompensas que quieras ganar ni el estado de tu puntaje crediticio, o la falta de él, existe una tarjeta de crédito sin requisito de número de Seguro Social para ti. Dicho esto, la tarjeta específica que te conviene depende en gran medida de en qué punto de tu camino crediticio te encuentras. Alguien que acaba de llegar al país sin ningún historial en EE. UU. tiene opciones distintas a quien ya ha manejado responsablemente una tarjeta asegurada durante 18 meses.
 
@@ -56,7 +56,7 @@ Para conocer más instituciones que aprobarán tu solicitud, consulta nuestra gu
 
 ## Llevo alrededor de un año con mi tarjeta asegurada. ¿A qué tarjetas de recompensas puedo graduarme?
 
-*Los lectores preguntan esto con frecuencia:* Después de 12 a 18 meses de uso responsable, pagos a tiempo y utilización consistentemente por debajo del 30%, tu perfil crediticio empieza a abrirte las puertas a productos de recompensas más competitivos.
+Después de 12 a 18 meses de uso responsable, pagos a tiempo y utilización consistentemente por debajo del 30%, tu perfil crediticio empieza a abrirte las puertas a productos de recompensas más competitivos.
 
 La Chase Freedom Unlimited® es una de las mejores tarjetas de recompensas que puedes obtener sin SSN, aunque necesitas un buen puntaje crediticio para ser aprobado. Ofrece 1.5% de reembolso en efectivo en todas las compras, sin tarifa anual, y acepta solicitudes con ITIN. En el aniversario de tu cuenta, la cuenta Chase Freedom Rise® se revisa automáticamente para ver si eres elegible para actualizarte a la Chase Freedom Unlimited®, una ruta de transición natural para titulares de ITIN que empezaron sin historial en EE. UU.
 
@@ -66,7 +66,7 @@ Por lo general tendrás un expediente crediticio puntuable después de seis mese
 
 ## ¿Cómo funciona ganar y canjear reembolso en efectivo para los titulares de ITIN?
 
-*Esta pregunta aparece mucho:* Exactamente igual que para cualquier otra persona. Tus recompensas se acumulan en tu cuenta a medida que gastas, y las opciones de canje, crédito en el estado de cuenta, depósito directo, tarjetas de regalo, reservaciones de viaje, son idénticas sin importar si abriste la cuenta con un ITIN o un SSN.
+Exactamente igual que para cualquier otra persona. Tus recompensas se acumulan en tu cuenta a medida que gastas, y las opciones de canje, crédito en el estado de cuenta, depósito directo, tarjetas de regalo, reservaciones de viaje, son idénticas sin importar si abriste la cuenta con un ITIN o un SSN.
 
 Una nota práctica: al solicitar una tarjeta de crédito sin SSN, igual deberás cumplir con los demás requisitos del emisor. El prestamista puede revisar tu historial crediticio, solicitar formas alternativas de identificación, requerir una cuenta de cheques y/o ahorros, y considerar tus ingresos en su decisión. Tu documentación de ingresos es especialmente importante, los emisores quieren confirmar que puedes manejar la tarjeta de forma responsable, y los talones de pago o declaraciones de impuestos presentadas con tu ITIN funcionan bien para este propósito.
 
@@ -107,7 +107,7 @@ Si tu solicitud es rechazada, no te alarmes. Los emisores generalmente envían u
 
 ## ¿Cuál es el camino más rápido y realista de una tarjeta básica a una tarjeta de recompensas de verdad?
 
-*Una pregunta que escuchamos con frecuencia:* Esta es la hoja de ruta práctica que siguen la mayoría de los titulares de ITIN:
+Esta es la hoja de ruta práctica que siguen la mayoría de los titulares de ITIN:
 
 1. **Mes 1:** Abre una tarjeta asegurada que acepte tu ITIN (OpenSky, Capital One Platinum Secured o similar). Financia el depósito desde una cuenta bancaria o de fintech en EE. UU.
 2. **Meses 2-6:** Usa la tarjeta para compras pequeñas y regulares. Paga el saldo completo cada mes. Mantén la utilización por debajo del 30%.

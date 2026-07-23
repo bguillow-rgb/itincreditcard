@@ -46,7 +46,7 @@ One important maintenance note: ITINs can expire if they are not used on a feder
 
 ## I live abroad. Can I actually get a U.S. credit card with just an ITIN?
 
-*A question we hear often:* yes, and you have more options than you probably think, though you will face some real friction. While not all financial institutions accept ITIN numbers for credit card applications, many major banks and credit card issuers do recognize ITINs as valid identification. This is particularly relevant for immigrants, non-residents, and others who need to establish credit history but do not qualify for an SSN.
+Yes, and you have more options than you probably think, though you will face some real friction. While not all financial institutions accept ITIN numbers for credit card applications, many major banks and credit card issuers do recognize ITINs as valid identification. This is particularly relevant for immigrants, non-residents, and others who need to establish credit history but do not qualify for an SSN.
 
 The core challenge for non-residents is not the ITIN itself; it is the combination of no U.S. credit history and no permanent U.S. address. Issuers need somewhere to send the physical card, and most also want to see some financial footprint in the U.S. system. All the main ITIN-friendly card options are designed for online remote applications that can be completed from abroad. For secured cards, plan ahead for the refundable deposit by having a U.S. bank or fintech account with routing and account numbers for ACH funding, since the account does not open until the deposit is received within the issuer's funding window.
 
@@ -72,7 +72,7 @@ Bank of America accepts ITIN for credit card applications. If you have a checkin
 
 ## I do not have a U.S. address. How do I handle card delivery?
 
-*Readers frequently ask:* this is the single most common obstacle non-residents report, and the solution is simpler than most expect.
+This is the single most common obstacle non-residents report, and the solution is simpler than most expect.
 
 Some issuers accept a friend's address as the mailing address on your application. A family member, friend, or colleague already living in the United States can receive the card on your behalf. Coordinate before you apply so they know to watch for the envelope, which typically arrives within 7-10 business days after approval.
 
@@ -85,7 +85,7 @@ A few things to keep in mind when using a third-party address:
 
 ## What documents do I need to apply?
 
-*This one comes up a lot:* the exact list varies by issuer, but the standard package for an ITIN non-resident application is:
+The exact list varies by issuer, but the standard package for an ITIN non-resident application is:
 
 1. **Your ITIN letter** from the IRS (the CP565 notice or W-7 approval letter)
 2. **Valid foreign passport** for identity verification

@@ -36,8 +36,6 @@ Si acabas de llegar a Estados Unidos, o tienes un ITIN pero no tienes ningún hi
 
 ## ¿Por qué tantos titulares de ITIN no tienen historial crediticio en EE. UU.?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 La mayoría de las tarjetas de crédito tradicionales requieren un historial crediticio en EE. UU. Si acabas de llegar de otro país, no tienes ninguno, aunque hayas tenido un crédito excelente en tu país de origen. Los puntajes crediticios no se transfieren entre países. Esa es la frustración principal para los inmigrantes y no residentes: años de comportamiento financiero responsable en el extranjero no cuentan para nada cuando un prestamista en EE. UU. revisa tu expediente.
 
 Como menos prestamistas aceptan ITINs, muchos titulares de ITIN comienzan con un "thin file" (historial escaso), es decir, muy poca información para generar un puntaje confiable. Esto no es mal crédito, sino historial limitado. Aun así, los prestamistas suelen ser cautelosos con los expedientes escasos, lo que lleva a rechazos o a condiciones menos favorables.
@@ -53,8 +51,6 @@ Una tarjeta de crédito asegurada requiere un depósito de seguridad. Si no pued
 Como el depósito protege al emisor, pueden aprobar a solicitantes que no tienen ningún expediente de crédito. Por eso, estas tarjetas son el punto de entrada más accesible para los titulares de ITIN.
 
 ## ¿Qué tarjetas específicas aprueban a titulares de ITIN sin verificación de crédito?
-
-*Esta pregunta surge mucho:*
 
 Aquí tienes una comparación de las principales opciones sin verificación de crédito que aceptan un ITIN en 2026.
 
@@ -83,8 +79,6 @@ Si cierras la cuenta sin hacer la mejora, por lo general puedes esperar recibir 
 Para financiar el depósito, necesitarás una cuenta bancaria en EE. UU. con número de ruta y número de cuenta para que el emisor pueda procesar la transferencia ACH. La tarjeta asegurada requiere un depósito de seguridad reembolsable que debe acreditarse dentro del plazo que establece el emisor, y contar con una cuenta bancaria o fintech en EE. UU. con número de ruta y número de cuenta es indispensable. Si todavía no tienes una cuenta bancaria en EE. UU., las cuentas fintech que también aceptan ITINs (como la cuenta Current vinculada a la Current Build Card) pueden resolver ambos problemas al mismo tiempo.
 
 ## ¿Una tarjeta sin verificación de crédito realmente construye historial crediticio para los titulares de ITIN?
-
-*Los lectores preguntan esto con frecuencia:*
 
 Sí, y este es el punto más importante. Que no haya verificación de crédito durante la aprobación no significa que la tarjeta ignore a los burós de crédito después. El valor de estas tarjetas está en lo que sucede una vez que te aprueban.
 

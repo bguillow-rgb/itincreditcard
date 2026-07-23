@@ -46,7 +46,7 @@ Las transferencias de saldo no eliminan la deuda. Te dan tiempo a un costo menor
 
 ## ¿Qué tarjetas de crédito aceptan un ITIN y también ofrecen transferencias de saldo?
 
-*Una pregunta que recibimos con frecuencia:* ¿los emisores que aceptan ITIN realmente ofrecen transferencias de saldo competitivas, o solo tienes acceso a tarjetas aseguradas básicas?
+¿los emisores que aceptan ITIN realmente ofrecen transferencias de saldo competitivas, o solo tienes acceso a tarjetas aseguradas básicas?
 
 Buenas noticias: al menos dos grandes emisores confirman públicamente que aceptan el ITIN en las solicitudes y ofrecen buenas opciones de transferencia de saldo.
 
@@ -61,7 +61,7 @@ Algunas advertencias importantes. Que acepten el ITIN no garantiza la aprobació
 
 ## ¿Cómo completo una transferencia de saldo usando mi tarjeta con ITIN?
 
-*Esta pregunta surge mucho:* una vez que te aprueban la nueva tarjeta, ¿qué sigue?
+Una vez que te aprueban la nueva tarjeta, ¿qué sigue?
 
 El proceso es idéntico para titulares de ITIN y de SSN. Estos son los pasos:
 
@@ -75,7 +75,7 @@ Por ejemplo: una transferencia de $2,400 a una tarjeta con 0% por 12 meses impli
 
 ## ¿Cuánto me cuesta realmente la comisión por transferencia de saldo y vale la pena?
 
-*Los lectores preguntan seguido:* ¿vale la pena pagar la comisión por adelantado?
+¿vale la pena pagar la comisión por adelantado?
 
 La mayoría de las tarjetas cobran entre el 3% y el 5% del monto transferido. En un saldo de $3,000, una comisión del 3% cuesta $90 y una del 5% cuesta $150. Puede sonar doloroso, pero compáralo con la alternativa. Según Experian, una comisión estándar de transferencia de saldo del 3%-5% frecuentemente se compensa con el ahorro en intereses, especialmente cuando se mueve una deuda de una tarjeta con un APR del 25%-29%.
 
@@ -110,7 +110,7 @@ Dicho esto, algunos emisores, entre ellos American Express, se asocian con Nova 
 
 ## ¿Qué errores debo evitar al hacer una transferencia de saldo con una tarjeta ITIN?
 
-*Esta pregunta surge mucho:* ¿cuáles son los errores más comunes?
+¿cuáles son los errores más comunes?
 
 Hay varios errores que pueden convertir una transferencia de saldo inteligente en una costosa.
 

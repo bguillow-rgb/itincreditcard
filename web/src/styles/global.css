@@ -684,7 +684,7 @@ a.card:hover .card-icon { background: var(--primary); color: #fff; }
   height: 250px;
   background: var(--surface);
   border: 1px dashed var(--border);
-  border-radius: 8px;
+  border-radius: var(--radius);
   color: var(--muted);
   font-size: 0.8rem;
   text-align: center;

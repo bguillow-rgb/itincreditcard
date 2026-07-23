@@ -46,7 +46,7 @@ Una nota importante sobre el mantenimiento: los ITIN pueden expirar si no se usa
 
 ## Vivo en el extranjero. ¿Realmente puedo obtener una tarjeta de crédito de EE. UU. solo con un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* sí, y tienes más opciones de las que probablemente imaginas, aunque enfrentarás algunos obstáculos reales. Aunque no todas las instituciones financieras aceptan el ITIN para solicitudes de tarjetas de crédito, muchos bancos importantes y emisores de tarjetas sí lo reconocen como identificación válida. Esto es especialmente relevante para inmigrantes, no residentes y otras personas que necesitan establecer historial crediticio pero no califican para un SSN.
+Sí, y tienes más opciones de las que probablemente imaginas, aunque enfrentarás algunos obstáculos reales. Aunque no todas las instituciones financieras aceptan el ITIN para solicitudes de tarjetas de crédito, muchos bancos importantes y emisores de tarjetas sí lo reconocen como identificación válida. Esto es especialmente relevante para inmigrantes, no residentes y otras personas que necesitan establecer historial crediticio pero no califican para un SSN.
 
 El principal desafío para los no residentes no es el ITIN en sí, sino la combinación de no tener historial crediticio en EE. UU. y no tener una dirección permanente allá. Los emisores necesitan un lugar donde enviar la tarjeta física, y la mayoría también quiere ver algún rastro financiero dentro del sistema estadounidense. Todas las opciones principales de tarjetas compatibles con ITIN están diseñadas para solicitudes en línea que pueden completarse desde el extranjero. Para las tarjetas aseguradas, planifica con anticipación el depósito reembolsable teniendo una cuenta bancaria o fintech en EE. UU. con número de ruta y número de cuenta para el financiamiento por ACH, ya que la cuenta no se abre hasta que se recibe el depósito dentro del período indicado por el emisor.
 
@@ -72,7 +72,7 @@ Bank of America acepta el ITIN para solicitudes de tarjetas de crédito. Si ya t
 
 ## No tengo dirección en EE. UU. ¿Cómo resuelvo el envío de la tarjeta?
 
-*Los lectores preguntan esto con frecuencia:* es el obstáculo más común que reportan los no residentes, y la solución es más sencilla de lo que la mayoría espera.
+Es el obstáculo más común que reportan los no residentes, y la solución es más sencilla de lo que la mayoría espera.
 
 Algunos emisores aceptan la dirección de un amigo como dirección postal en tu solicitud. Un familiar, amigo o conocido que ya viva en Estados Unidos puede recibir la tarjeta en tu nombre. Coordina antes de aplicar para que estén atentos al sobre, que normalmente llega entre 7 y 10 días hábiles después de la aprobación.
 
@@ -85,7 +85,7 @@ Algunas cosas a tener en cuenta al usar la dirección de otra persona:
 
 ## ¿Qué documentos necesito para aplicar?
 
-*Esta pregunta surge mucho:* la lista exacta varía según el emisor, pero el paquete estándar para una solicitud de no residente con ITIN es:
+La lista exacta varía según el emisor, pero el paquete estándar para una solicitud de no residente con ITIN es:
 
 1. **Tu carta del ITIN** emitida por el IRS (el aviso CP565 o la carta de aprobación del W-7)
 2. **Pasaporte extranjero vigente** para verificar tu identidad

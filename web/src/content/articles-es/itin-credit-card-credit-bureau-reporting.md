@@ -36,7 +36,7 @@ Tu tarjeta de crédito con ITIN está haciendo dos trabajos a la vez: darte una 
 
 ## ¿Una tarjeta de crédito con ITIN realmente reporta igual que una con SSN?
 
-*Una pregunta que recibimos con frecuencia:* muchos lectores asumen que su ITIN crea un expediente de crédito "secundario" o de alguna manera diferente, que los modelos de puntuación valoran menos. Eso es un mito.
+Muchos lectores asumen que su ITIN crea un expediente de crédito "secundario" o de alguna manera diferente, que los modelos de puntuación valoran menos. Eso es un mito.
 
 Una vez que se abre una cuenta de crédito usando tu ITIN, reporta a los burós de crédito igual que cualquier otra cuenta. Tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntuación de crédito de manera idéntica, sin importar si usaste un ITIN o un SSN para abrir la cuenta. El ITIN es simplemente el identificador que vincula tus cuentas en un solo expediente en cada buró. Para FICO y VantageScore, los modelos de puntuación no distinguen entre un ITIN y un SSN, y tratan ambos identificadores exactamente igual.
 
@@ -65,7 +65,7 @@ Una advertencia importante: algunos emisores, incluidas muchas tarjetas de tiend
 
 ## ¿Cómo verifico el reporte a burós antes de aplicar?
 
-*Los lectores preguntan con frecuencia:* ¿dónde exactamente buscas para confirmar que una tarjeta reporta a los tres burós?
+¿dónde exactamente buscas para confirmar que una tarjeta reporta a los tres burós?
 
 La forma más rápida es llamar directamente a la línea de servicio al cliente del emisor antes de enviar tu solicitud. Pregunta específicamente: "¿Esta tarjeta reporta a Experian, Equifax Y TransUnion cada mes?" Busca un sí o un no claro. También puedes buscar en la página de términos y condiciones de la tarjeta la frase "buró de crédito" o "reporte de crédito". Los emisores grandes generalmente lo informan en sus divulgaciones de producto.
 
@@ -83,7 +83,7 @@ En términos prácticos, el componente de historial de pagos representa el 35% d
 
 ## ¿Cuánto tiempo tarda en aparecer mi puntuación de crédito con mi tarjeta ITIN?
 
-*Esta pregunta surge mucho:* los nuevos titulares de ITIN suelen esperar una puntuación de crédito inmediata después de obtener su primera tarjeta, y luego se preocupan cuando no aparece nada durante meses.
+Los nuevos titulares de ITIN suelen esperar una puntuación de crédito inmediata después de obtener su primera tarjeta, y luego se preocupan cuando no aparece nada durante meses.
 
 Por lo general tendrás un expediente de crédito con puntuación después de seis meses de actividad en la cuenta. A partir de ahí, los pagos puntuales constantes y una utilización baja pueden llevarte a una puntuación de 650-700 en 12-18 meses. El plazo es el mismo que para cualquier persona que empieza sin historial de crédito. Tu estatus de ITIN no ralentiza el proceso.
 

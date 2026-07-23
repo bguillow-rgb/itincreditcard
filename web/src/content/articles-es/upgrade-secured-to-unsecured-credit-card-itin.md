@@ -58,7 +58,7 @@ Según CNBC Select, construir un historial crediticio medible desde cero general
 
 ## ¿Cuándo estoy realmente listo para pedir el cambio?
 
-*Una pregunta que escuchamos con frecuencia:* quienes obtuvieron su primera tarjeta asegurada quieren saber el momento indicado para solicitar el cambio en lugar de esperar indefinidamente.
+Quienes obtuvieron su primera tarjeta asegurada quieren saber el momento indicado para solicitar el cambio en lugar de esperar indefinidamente.
 
 La respuesta honesta es que el momento depende de tres factores que deben darse juntos, no solo del calendario:
 
@@ -70,7 +70,7 @@ Si cumples con los tres criterios, la ventana típica es de 12-18 meses después
 
 ## ¿Qué emisores ofrecen opciones reales de cambio para titulares de ITIN?
 
-*Este tema surge mucho:* no todas las tarjetas aseguradas son iguales en cuanto a la graduación, y esa diferencia importa antes de elegir tu primera tarjeta, no después.
+No todas las tarjetas aseguradas son iguales en cuanto a la graduación, y esa diferencia importa antes de elegir tu primera tarjeta, no después.
 
 Así es como los principales emisores compatibles con ITIN manejan los cambios:
 
@@ -89,7 +89,7 @@ Discover it Secured también inicia revisiones automáticas después de 7 meses.
 
 ## ¿Cómo solicito el cambio si mi emisor no lo hace automáticamente?
 
-*Los lectores preguntan con frecuencia:* ¿qué se dice y qué hay que tener a la mano cuando llamas para pedir el cambio?
+¿qué se dice y qué hay que tener a la mano cuando llamas para pedir el cambio?
 
 Para los emisores que requieren una solicitud manual (Bank of America y Citi son los ejemplos más comunes para titulares de ITIN), el proceso es más sencillo de lo que la mayoría espera. Llama al número que aparece en el reverso de tu tarjeta y pide hablar con el equipo de servicio de tarjetas de crédito. Diles que llevas X meses como titular, que no has tenido ningún pago tardío y que te gustaría ser considerado para el cambio a un producto no asegurado o para una revisión de devolución de depósito.
 
@@ -112,7 +112,7 @@ Si estás comenzando este proceso, nuestra guía de [tarjetas de crédito no ase
 
 ## ¿Qué puntaje de crédito necesito en la práctica antes de solicitar una tarjeta no asegurada nueva?
 
-*Una pregunta que escuchamos con frecuencia:* hay mucha información contradictoria en línea sobre el número mágico.
+Hay mucha información contradictoria en línea sobre el número mágico.
 
 Para los titulares de ITIN que solicitan un producto no asegurado nuevo en un emisor diferente (en lugar de un cambio con el mismo emisor), el objetivo práctico depende de la tarjeta:
 

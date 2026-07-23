@@ -36,7 +36,7 @@ Getting a credit card as an undocumented immigrant is one of the most common and
 
 ## Do credit card companies check my immigration status when I apply?
 
-*A question we hear often:* the fear that applying for a credit card could somehow flag someone to immigration authorities.
+The fear that applying for a credit card could somehow flag someone to immigration authorities.
 
 It will not. Credit card companies are not in the business of checking your immigration status, but they do need a way to verify your identity. That identity verification is for fraud prevention under federal banking law, not immigration enforcement. Credit applications are entirely separate from immigration status. Banks do not report applications or account information to USCIS. The Equal Credit Opportunity Act (ECOA) also prohibits issuers from discriminating based on national origin.
 
@@ -52,7 +52,7 @@ Once you have your ITIN, you can begin applying for credit cards the same day it
 
 ## Which credit card issuers accept an ITIN from undocumented applicants?
 
-*Readers frequently ask:* which big banks will actually take an application if I am undocumented.
+Which big banks will actually take an application if I am undocumented.
 
 More than most people realize. Here is a snapshot of the most ITIN-friendly issuers in 2026:
 
@@ -73,7 +73,7 @@ American Express will accept an ITIN in place of a Social Security number. Keep 
 
 ## What is the easiest card to get approved for with no U.S. credit history?
 
-*This one comes up a lot:* most undocumented immigrants applying for their first U.S. card have no existing credit file at all, which makes approval harder even when the issuer accepts an ITIN.
+Most undocumented immigrants applying for their first U.S. card have no existing credit file at all, which makes approval harder even when the issuer accepts an ITIN.
 
 The answer is a no-credit-check secured card. The OpenSky Secured Credit Card is one of the few secured credit cards that openly approves applicants without an SSN. There is no credit check during application, which makes it accessible if your U.S. credit history is thin or non-existent. You set the credit limit with your refundable security deposit, OpenSky reports your account activity to all three major credit bureaus every month, and there are no hidden fees.
 
@@ -108,7 +108,7 @@ The more important point: if you can get an ITIN, it can make building a U.S. cr
 
 ## How does an ITIN credit card actually help me build credit?
 
-*Readers frequently ask:* whether the credit they build with an ITIN will count, and whether it carries over if their immigration situation changes later.
+Whether the credit they build with an ITIN will count, and whether it carries over if their immigration situation changes later.
 
 Yes on both counts. Your ITIN is a permanent tax identifier, and every credit account you open with it is reported to Experian, Equifax, and TransUnion under that number. The credit bureaus maintain files by ITIN just as they do by SSN. Some credit card issuers let you use an ITIN instead of an SSN when applying for a credit card. But your ability to build credit is based on using the card responsibly, not on the method you used to apply.
 

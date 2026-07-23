@@ -36,8 +36,6 @@ La mayoría de los titulares de ITIN abren su primera tarjeta de crédito en EE.
 
 ## ¿Por qué las tarjetas de crédito con ITIN empiezan con límites tan bajos?
 
-*Una pregunta que escuchamos con frecuencia:*
-
 Cuando solicitas tu primera tarjeta con un ITIN y poca o ninguna historia crediticia en EE. UU., el emisor tiene muy pocos datos con qué trabajar. Conoce tu ingreso reportado y el historial crediticio que exista, pero ese historial puede ser escaso o incluso inexistente. Para gestionar el riesgo, el emisor abre la cuenta con un límite conservador.
 
 Ese conservadurismo es temporal. Los prestamistas aplican estrategias de "límite bajo con crecimiento gradual": emiten tarjetas con límites iniciales bajos a prestatarios con puntajes más bajos y luego aumentan esos límites según el comportamiento. El límite promedio al momento de apertura para prestatarios subprime es de alrededor de $700, pero cinco años después esas mismas cuentas promedian $2,700, un aumento del 285 por ciento. Los titulares de ITIN siguen la misma trayectoria una vez que establecen un historial de pagos.
@@ -49,8 +47,6 @@ El período de espera estándar en la mayoría de los emisores que aceptan ITIN 
 El momento en que haces la solicitud también importa. Si recientemente cambiaste de trabajo, empezaste a recibir ingresos por trabajo independiente o presentaste una declaración de impuestos en EE. UU. con ingresos más altos que los de tu solicitud original, ese es el momento ideal para pedirlo. Los emisores le dan mucho peso a los ingresos actualizados cuando evalúan solicitudes de aumento de límite.
 
 ## ¿Cuáles son los pasos para solicitar un aumento de límite de crédito como titular de ITIN?
-
-*Esta pregunta aparece mucho:*
 
 El proceso es idéntico al de cualquier titular de tarjeta. Aquí está el paso a paso según el tipo de emisor:
 
@@ -73,8 +69,6 @@ Las tarjetas aseguradas siguen un camino un poco diferente porque tu depósito e
 **Graduación a tarjeta no asegurada:** Un aumento de límite no es la única mejora disponible. OpenSky ofrece un camino de actualización: después de aproximadamente seis meses de pagos a tiempo, los titulares elegibles reciben una invitación para pasarse a la OpenSky Visa Gold no asegurada. De manera similar, después de 6 a 12 meses de pagos a tiempo, muchos emisores te graduarán a una tarjeta no asegurada y te devolverán tu depósito, lo cual es un logro importante. Una vez que tienes una tarjeta no asegurada, las solicitudes estándar de aumento de límite aplican sin ninguna mecánica de depósito.
 
 ## ¿Qué hace que los emisores aprueben más fácilmente un aumento de límite para titulares de ITIN?
-
-*Los lectores preguntan esto con frecuencia:*
 
 Los emisores analizan las mismas señales de comportamiento sin importar si tienes un ITIN o un SSN. Los factores con mayor peso son:
 

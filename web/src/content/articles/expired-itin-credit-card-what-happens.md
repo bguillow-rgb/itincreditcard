@@ -38,7 +38,7 @@ Most ITIN holders only discover the gap when it's too late: they apply for a new
 
 ## Wait, can an ITIN actually expire? I thought it was permanent.
 
-*A question we hear often:* yes, ITINs can and do expire, and many holders are unaware until a problem surfaces.
+Yes, ITINs can and do expire, and many holders are unaware until a problem surfaces.
 
 SSNs do not expire or need to be renewed, but ITINs can expire if they are not used on a federal tax return at least once every three years. Specifically, an ITIN expires after three consecutive years of non-use, on December 31 of the third year. There is also a batch-expiration rule from older issuances: ITINs with middle digits 90, 91, 92, and 94-99 issued before 2013 expired in IRS batch rounds between 2016 and 2020.
 
@@ -56,7 +56,7 @@ Don't panic about losing your open credit card accounts. They're safe.
 
 ## So what actually gets blocked when my ITIN expires?
 
-*Readers frequently ask* this because the consequences are more targeted than most people expect. An expired ITIN creates two specific credit card problems.
+This because the consequences are more targeted than most people expect. An expired ITIN creates two specific credit card problems.
 
 First, new credit card applications will likely fail. When you submit a new application, issuers run a Know Your Customer (KYC) identity verification as required by federal law. Banks and credit card issuers can legally accept an ITIN under the Patriot Act's Know Your Customer rules. That verification process includes checking that the identifying number you provided is valid and active. An expired ITIN will fail this check for most issuers, resulting in a denial at the identity stage before your credit file is ever meaningfully reviewed.
 
@@ -66,7 +66,7 @@ Everything else, including your existing card's spending, rewards, automatic pay
 
 ## How does ITIN expiration affect my credit history and credit score?
 
-*This one comes up a lot,* especially from ITIN holders who have spent 12-24 months carefully building a U.S. credit file.
+Especially from ITIN holders who have spent 12-24 months carefully building a U.S. credit file.
 
 Here is what many people do not realize: credit bureaus can create and maintain credit files using an ITIN. When you open a credit account with an ITIN and make payments, the lender reports that activity to the credit bureaus, just like they would for someone with an SSN. Over time, you build a credit history, and eventually, you get a credit score.
 
@@ -101,7 +101,7 @@ The key action is to notify each of the three bureaus in writing and update your
 
 ## What should I do right now if I think my ITIN might be expired?
 
-*Readers frequently ask* for a clear action checklist, so here it is:
+For a clear action checklist, so here it is:
 
 1. Check your ITIN's middle digits. Look at any old tax return or your original IRS letter. If your middle digits fall in the 70-99 range and you received the ITIN before 2013, it has very likely already expired under the batch schedule.
 2. Apply the three-year non-use test. If your ITIN was not included on at least one federal tax return during a three-year period, it automatically expires on December 31 of that third year. Count backwards from the last year you filed.

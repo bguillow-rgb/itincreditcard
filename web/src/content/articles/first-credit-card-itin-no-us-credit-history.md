@@ -40,7 +40,7 @@ Starting your U.S. financial life with an ITIN and no American credit history ca
 
 ## Does having no U.S. credit history automatically mean I'll be denied?
 
-*A question we hear often:* not at all. U.S. credit bureaus simply have no file on you yet -- that is different from having *bad* credit.
+Not at all. U.S. credit bureaus simply have no file on you yet -- that is different from having *bad* credit.
 
 If you're starting from scratch, it will generally take between two to six months of credit activity to establish a credit score. Until then, you are what the industry calls "credit invisible," and specific card types exist precisely for this group.
 
@@ -75,7 +75,7 @@ For a deeper look at the full landscape of ITIN-friendly issuers, see our guide 
 
 ## What documents do I need before I apply?
 
-*Readers frequently ask:* what exactly should I have on hand before I start the application?
+What exactly should I have on hand before I start the application?
 
 Gather these four items before you open any application form:
 
@@ -90,7 +90,7 @@ One detail many guides miss: issuers will text a one-time password (OTP) during 
 
 ## Can my foreign credit history help me get approved?
 
-*This one comes up a lot,* especially from applicants who have years of strong credit in their home country but a blank U.S. file.
+Especially from applicants who have years of strong credit in their home country but a blank U.S. file.
 
 Even if you've built credit history, it may not always transfer to the United States. U.S. credit bureaus only track U.S. activity. Your CIBIL score, Mexican Buró de Crédito file, or UK Experian report is invisible to American lenders by default. There is, however, a workaround.
 
@@ -119,7 +119,7 @@ For more detail on the full application process, see our guide on [how to apply 
 
 ## How do I keep my first card working in my favor?
 
-*A question we hear often:* once I have the card, what habits matter most?
+Once I have the card, what habits matter most?
 
 The mechanics are identical whether you used an SSN or an ITIN. Once you have a credit card, building credit works the same way regardless of whether you used an SSN or ITIN. Three rules cover the vast majority of what moves your score.
 

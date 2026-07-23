@@ -36,8 +36,6 @@ If you just arrived in the United States, or you have an ITIN but no U.S. credit
 
 ## Why do so many ITIN holders have no U.S. credit history in the first place?
 
-*A question we hear often:*
-
 Most traditional credit cards require a U.S. credit history. If you just arrived from another country, you have none, even if you had excellent credit back home. Credit scores do not transfer between countries. That is the core frustration for immigrants and non-residents: years of responsible financial behavior overseas count for nothing when a U.S. lender pulls your file.
 
 Because fewer lenders accept ITINs, many ITIN holders start with a "thin file," meaning too little data to generate a reliable score. This is not bad credit; it is limited history. Still, lenders often treat thin files cautiously, leading to rejections or weaker terms.
@@ -53,8 +51,6 @@ A secured credit card requires a security deposit. If you cannot make payments, 
 Because the deposit protects the issuer, they can approve applicants with no credit file at all. That makes these cards the most accessible entry point for ITIN holders.
 
 ## Which specific cards approve ITIN holders without a credit check?
-
-*This one comes up a lot:*
 
 Here is a comparison of the leading no-credit-check options that accept an ITIN in 2026.
 
@@ -83,8 +79,6 @@ If you close the account without upgrading, you can typically expect your refund
 For funding the deposit, you will need a U.S. bank account with routing and account numbers so the issuer can process the ACH transfer. The secured card requires a refundable security deposit that must be funded within the issuer's window, and having a U.S. bank or fintech account with routing and account numbers is a must. If you do not have a U.S. bank account yet, fintech accounts that also accept ITINs (such as the Current account linked to the Current Build Card) can solve both problems at once.
 
 ## Does a no-credit-check card still build real credit for ITIN holders?
-
-*Readers frequently ask:*
 
 Yes, and this is the most important point. Skipping the credit check during approval does not mean the card ignores credit bureaus afterward. The value of these cards comes from what happens after you are approved.
 

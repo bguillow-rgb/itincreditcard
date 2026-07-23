@@ -38,8 +38,6 @@ International students arrive in the U.S. carrying ambition, packed suitcases, a
 
 ## Why do most credit card applications ask for an SSN, and where does an ITIN fit in?
 
-*A question we hear often:*
-
 Federal law requires card issuers to verify an applicant's identity before approving them, and the SSN is the standard way they do that. The law does not require an SSN specifically, though. According to Experian, issuers like American Express and Capital One accept an ITIN as a valid alternative. An ITIN is a nine-digit number issued by the IRS to people who need a U.S. taxpayer ID but are not eligible for an SSN. As a credit identifier, it works the same way an SSN does on a card application: the issuer can pull any existing credit file linked to that number and evaluate your risk profile.
 
 The practical catch is that not every issuer has built their systems to accept ITINs. About half of major issuers do; the rest have not yet updated their processes. Your list of eligible cards is shorter than a domestic student's, but it is far from empty, and it grows every year.
@@ -65,8 +63,6 @@ For students who cannot yet get an ITIN or prefer not to wait, fintechs like Zol
 
 ## Do I need an ITIN before I can apply, or can I apply right after landing?
 
-*This one comes up a lot:*
-
 The answer depends on which card you target. If you apply for a Capital One or Bank of America student card, you need an ITIN first. Getting one means filing IRS Form W-7, providing proof of identity and foreign status, and attaching it to a federal tax return or qualifying under a specific IRS exception. The IRS mail-in process typically takes 6-11 weeks, which is a real wait when you are trying to get set up your first month on campus.
 
 Certain IRS Certifying Acceptance Agents (CAAs) can verify your documents in person, which can cut processing time considerably. The IRS lists authorized CAAs on its website.
@@ -89,8 +85,6 @@ Beyond the ITIN itself, issuers will ask for a standard set of information. Prep
 Card issuers will evaluate your overall risk profile, not just your credit history, when you have no prior U.S. credit file. According to Experian, income documentation and a clean identity verification carry the most weight when credit history is thin or absent. A part-time campus job, a stipend, or even documented bank savings can count as income on most applications.
 
 ## I got rejected by one issuer. Does that mean I cannot get any card?
-
-*Readers frequently ask:*
 
 Not at all. Rejection from one issuer tells you very little about your chances with another, because ITIN policies and underwriting criteria vary enormously from bank to bank. According to the University of Minnesota Extension, if a regular card application with your ITIN is denied, the next step is a secured credit card, which requires a refundable deposit in place of a credit check. Secured cards are much easier to get approved for because the deposit eliminates most of the lender's risk.
 

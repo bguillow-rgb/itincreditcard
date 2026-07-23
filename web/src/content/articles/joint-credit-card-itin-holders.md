@@ -38,7 +38,7 @@ Getting a credit card as an ITIN holder already takes research. Adding a second 
 
 ## What exactly is a joint credit card, and how is it different from just adding an authorized user?
 
-*A question we hear often:* many ITIN holders conflate these two things, but the legal and financial difference is significant.
+Many ITIN holders conflate these two things, but the legal and financial difference is significant.
 
 A joint credit card means both applicants sign the same application and both become fully responsible for every dollar charged to the account, regardless of who made the purchase. Authorized users do not share any financial responsibility for charges made on the credit card, while joint credit card holders share equal financial responsibility for all credit card charges. That single distinction shapes everything else about these two arrangements.
 
@@ -48,7 +48,7 @@ With a joint account, there is no primary and secondary holder. Both people's cr
 
 ## Can ITIN holders actually apply for joint credit cards in 2026?
 
-*Readers frequently ask:* whether having an ITIN (rather than an SSN) makes a joint application impossible, or just harder.
+Whether having an ITIN (rather than an SSN) makes a joint application impossible, or just harder.
 
 Honestly, the ITIN is rarely the biggest obstacle. The bigger problem is that most major U.S. credit card issuers have stopped offering joint accounts entirely. You cannot apply for a credit card with a cosigner with any of the top 10 credit card issuers, but you may have luck applying with a cosigner at a local bank or credit union. The same is broadly true for joint accounts: the mainstream options have largely disappeared.
 
@@ -70,7 +70,7 @@ One more thing worth knowing: once you cosign, you generally cannot remove yours
 
 ## Which banks and credit unions are most likely to approve a joint application with an ITIN?
 
-*This one comes up a lot*, especially among couples where one person has an SSN and the other has an ITIN.
+This matters most for couples where one person has an SSN and the other has an ITIN.
 
 Here is a practical comparison of where to look:
 
@@ -88,7 +88,7 @@ The takeaway: if a joint account is your goal, credit unions are your best start
 
 ## What documents does each applicant need for a joint application?
 
-*Readers frequently ask* whether both co-applicants need the same documents, or whether only the primary person's financials are reviewed.
+Whether both co-applicants need the same documents, or whether only the primary person's financials are reviewed.
 
 For a joint application, the issuer evaluates both applicants. In practice, both people should bring:
 
@@ -111,7 +111,7 @@ There is a real downside too: one person's poor habits immediately affect the ot
 
 ## What are the best alternatives if no joint account is available?
 
-*This one comes up a lot* because, for most people, joint accounts simply are not available at their preferred issuer.
+Because, for most people, joint accounts simply are not available at their preferred issuer.
 
 **Authorized user.** The closest practical alternative. The primary cardholder adds the ITIN holder as an authorized user. The ITIN holder gets a card and builds credit history, but has no legal repayment responsibility. See our detailed guide on [becoming an authorized user with an ITIN](/authorized-user-credit-card-itin).
 

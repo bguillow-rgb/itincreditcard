@@ -40,7 +40,7 @@ The good news: several ITIN-friendly issuers waive the foreign transaction fee e
 
 ## Why does a foreign transaction fee matter more if I have an ITIN?
 
-*A question we hear often:* ITIN holders tend to have more cross-border financial activity than the average cardholder. Immigrants and international students who send money home or buy from merchants in their home country, online shoppers who buy from international retailers, and people who work remotely for foreign companies are all prime candidates for a no-foreign-transaction-fee card.
+ITIN holders tend to have more cross-border financial activity than the average cardholder. Immigrants and international students who send money home or buy from merchants in their home country, online shoppers who buy from international retailers, and people who work remotely for foreign companies are all prime candidates for a no-foreign-transaction-fee card.
 
 The math is straightforward. A typical foreign transaction fee runs 2%-3% of each purchase. If you travel internationally or frequently shop from foreign retailers, choosing a card that waives this fee can save you meaningful money over time. For an ITIN holder spending $5,000 a year on international purchases, that is $100-$150 per year saved by picking the right card at the start.
 
@@ -72,7 +72,7 @@ For applicants who already have a few months of U.S. banking history and stable 
 
 ## I'm new to the U.S. with no credit history. Can I still get a no-fee card?
 
-*Readers frequently ask:* this is the most common scenario for ITIN holders looking for international-friendly cards.
+This is the most common scenario for ITIN holders looking for international-friendly cards.
 
 With no U.S. credit history at all, your most realistic starting point is a secured card from an issuer that both accepts ITINs and waives the foreign transaction fee. The secured credit card is the single most accessible route for immigrants with no credit. You make a cash deposit, typically $200 to $500, and that deposit becomes your credit limit. The card issuer reports your payment activity to all three credit bureaus every month, and that is how your U.S. credit history begins.
 
@@ -86,7 +86,7 @@ One practical tip many applicants miss: having a checking or savings account at 
 
 ## What documents do I need when applying for one of these cards with an ITIN?
 
-*This one comes up a lot:* gathering the right paperwork before you start an application prevents the most common delays.
+Gathering the right paperwork before you start an application prevents the most common delays.
 
 When applying, have your ITIN, a valid form of ID such as a passport or consular ID, proof of address, and proof of income ready. For most online applications, these are uploaded as photos or scans. A few additional things to know:
 
@@ -112,7 +112,7 @@ One concern some ITIN holders raise is whether applying for a credit card could 
 
 ## What is the upgrade path once I build credit with an ITIN card?
 
-*A question we hear often:* your first no-foreign-fee card is a stepping stone, not a permanent home.
+Your first no-foreign-fee card is a stepping stone, not a permanent home.
 
 After 12-18 months of responsible use, you should be able to move to an unsecured card with real rewards. Know before you apply whether your card offers a graduation path or whether you will need to close it and apply elsewhere.
 

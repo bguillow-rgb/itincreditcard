@@ -36,7 +36,7 @@ Paying an annual fee on your very first U.S. credit card is a real cost most ITI
 
 ## Do any real credit cards accept an ITIN AND charge no annual fee?
 
-*A question we hear often:* ITIN holders sometimes assume they have to pay a fee just to get approved. That is not true.
+ITIN holders sometimes assume they have to pay a fee just to get approved. That is not true.
 
 If you are a recent immigrant, international student, or another noncitizen without an SSN, you may still be able to apply for a credit card using an ITIN, and many of the top credit card issuers, including Chase, American Express, and Capital One, have rewards cards you can apply for with an ITIN. Several of those cards charge absolutely nothing in annual fees.
 
@@ -68,7 +68,7 @@ In as few as six months, you may be considered for a credit limit increase. Capi
 
 ## What about the Capital One Platinum? Is it worth it without any rewards?
 
-*This one comes up a lot:* some ITIN holders wonder whether a no-rewards card is even worth opening.
+Some ITIN holders wonder whether a no-rewards card is even worth opening.
 
 The Capital One Platinum is an unsecured credit card for people with no credit history or fair credit scores, and in as few as six months you may be considered for a credit limit increase. There is no security deposit required to open an account, and it has no annual fee.
 
@@ -84,7 +84,7 @@ The biggest differentiator for OpenSky is the no-credit-check approval process. 
 
 ## Can I get a no-annual-fee unsecured card with an ITIN from Chase?
 
-*Readers frequently ask:* whether big banks like Chase will actually process an ITIN application.
+Whether big banks like Chase will actually process an ITIN application.
 
 You can use an ITIN to complete an online Chase credit card application. The Chase Freedom Unlimited is one of the most popular no-annual-fee cards in the U.S. and is accessible to ITIN holders who have an established U.S. credit history. The Chase Freedom Unlimited is a top-rated cash-back card that has no annual fee.
 
@@ -100,7 +100,7 @@ A $0 cash-back card paying 2% on every purchase will out-earn a $95 fee card unl
 
 ## What should I watch out for on cards that claim to be "free"?
 
-*A question we hear often:* some cards market themselves as no-annual-fee but bury costs elsewhere.
+Some cards market themselves as no-annual-fee but bury costs elsewhere.
 
 Watch for these hidden cost categories:
 

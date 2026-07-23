@@ -42,7 +42,7 @@ La mayoría de las personas en esta situación asumen que casi ningún banco los
 
 ## ¿Qué bancos principales aceptan el ITIN en solicitudes de tarjetas de crédito?
 
-*Una pregunta que escuchamos con frecuencia:* Las personas quieren una lista simple y confirmada, no respuestas vagas. Esto es lo que muestran los datos para 2026.
+Las personas quieren una lista simple y confirmada, no respuestas vagas. Esto es lo que muestran los datos para 2026.
 
 Muchos de los principales emisores de tarjetas de crédito tienen tarjetas con recompensas a las que puedes aplicar usando un ITIN, incluyendo Chase, American Express y Capital One. Más allá de ese trío principal, Bank of America, Citi y Wells Fargo también aceptan el ITIN para al menos algunos de sus productos de crédito. La tabla a continuación organiza el panorama por emisor según lo que está confirmado:
 
@@ -77,7 +77,7 @@ La desventaja: las tarjetas fintech suelen tener límites de crédito más bajos
 
 ## ¿Chase realmente acepta el ITIN? He escuchado que es complicado.
 
-*Los lectores preguntan esto con frecuencia:* Sí, Chase acepta el ITIN, y el proceso es más sencillo de lo que sugieren los rumores.
+Sí, Chase acepta el ITIN, y el proceso es más sencillo de lo que sugieren los rumores.
 
 Puedes obtener una tarjeta de crédito de Chase sin SSN. Necesitarás proporcionar una forma alternativa de identificación, y Chase aceptará el ITIN en lugar del Número de Seguro Social. Puedes aplicar sin SSN en línea, por teléfono o en persona en una sucursal.
 
@@ -97,7 +97,7 @@ Ese acceso a crédito internacional es una ventaja real si vienes de Canadá, el
 
 ## ¿Qué documentos necesita cada banco cuando aplico con ITIN?
 
-*Esta pregunta surge mucho:* El conjunto de documentos básicos es consistente entre emisores, aunque algunos piden originales y otros aceptan copias digitales.
+El conjunto de documentos básicos es consistente entre emisores, aunque algunos piden originales y otros aceptan copias digitales.
 
 Esto es lo que debes tener listo antes de iniciar cualquier solicitud:
 
@@ -126,7 +126,7 @@ Una vez que tengas 12-18 meses de historial de pagos puntuales, pasar a una tarj
 
 ## ¿Qué hago si me rechazan la solicitud aunque el banco diga que acepta el ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* Que te rechacen a pesar de usar un ITIN que el emisor acepta es frustrante, pero la razón casi nunca es el ITIN en sí.
+Que te rechacen a pesar de usar un ITIN que el emisor acepta es frustrante, pero la razón casi nunca es el ITIN en sí.
 
 Las solicitudes de tarjetas de crédito pueden ser rechazadas por varias razones, incluyendo el puntaje crediticio, historial crediticio limitado o errores en la solicitud. Una alta proporción de deuda respecto a los ingresos o demasiadas solicitudes de crédito recientes pueden indicar riesgo para los emisores y afectar las posibilidades de aprobación. Para los titulares de ITIN específicamente, los motivos de rechazo más comunes son: (1) no tener historial crediticio en EE. UU., (2) no tener una relación bancaria previa con el emisor, y (3) ingresos documentados insuficientes.
 

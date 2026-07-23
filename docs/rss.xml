@@ -6,7 +6,7 @@
     <atom:link href="https://itincreditcard.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Jul 2026 14:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:19:02 GMT</lastBuildDate>
     <item>
       <title>Credit Card Reconsideration Line for ITIN Holders (2026)</title>
       <link>https://itincreditcard.com/articles/credit-card-reconsideration-line-itin</link>
@@ -162,6 +162,13 @@
       <description>Yes, ITIN holders can get cash back credit cards. Discover which issuers accept an ITIN, which cards pay the most back, and how to pick the right one.</description>
     </item>
     <item>
+      <title>Credit Cards With an ITIN for Non-Residents (2026 Guide)</title>
+      <link>https://itincreditcard.com/articles/credit-card-itin-non-residents</link>
+      <guid isPermaLink="true">https://itincreditcard.com/articles/credit-card-itin-non-residents</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Yes, non-residents can get a U.S. credit card with an ITIN. Learn which cards accept ITIN with no U.S. address, what docs you need, and how to apply from abroad.</description>
+    </item>
+    <item>
       <title>Credit Cards for International Students With an ITIN (2026)</title>
       <link>https://itincreditcard.com/articles/credit-card-international-students-itin</link>
       <guid isPermaLink="true">https://itincreditcard.com/articles/credit-card-international-students-itin</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="true">https://itincreditcard.com/articles/credit-card-prequalification-itin</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <description>Yes, ITIN holders can pre-qualify for credit cards without a hard pull. Learn which issuers accept ITINs at the prequalification step and how to protect your credit.</description>
-    </item>
-    <item>
-      <title>Credit Cards With an ITIN for Non-Residents (2026 Guide)</title>
-      <link>https://itincreditcard.com/articles/credit-card-itin-non-residents</link>
-      <guid isPermaLink="true">https://itincreditcard.com/articles/credit-card-itin-non-residents</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Yes, non-residents can get a U.S. credit card with an ITIN. Learn which cards accept ITIN with no U.S. address, what docs you need, and how to apply from abroad.</description>
     </item>
     <item>
       <title>First Credit Card With an ITIN and No U.S. Credit History</title>
@@ -197,18 +197,18 @@
       <description>Got an SSN after using an ITIN? Your credit cards and credit history don't disappear. Learn exactly how to protect your cards and transfer your file.</description>
     </item>
     <item>
-      <title>No Annual Fee Credit Cards for ITIN Holders (2026)</title>
-      <link>https://itincreditcard.com/articles/no-annual-fee-credit-card-itin</link>
-      <guid isPermaLink="true">https://itincreditcard.com/articles/no-annual-fee-credit-card-itin</guid>
-      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>Yes, ITIN holders can get no-annual-fee credit cards. Compare the best $0-fee options from Capital One, OpenSky, and more — no SSN required.</description>
-    </item>
-    <item>
       <title>No Foreign Transaction Fee Credit Cards for ITIN Holders</title>
       <link>https://itincreditcard.com/articles/no-foreign-transaction-fee-credit-card-itin</link>
       <guid isPermaLink="true">https://itincreditcard.com/articles/no-foreign-transaction-fee-credit-card-itin</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <description>Yes, ITIN holders can get credit cards with no foreign transaction fee. Compare ITIN-friendly cards that waive the fee and learn which issuers approve without an SSN.</description>
+    </item>
+    <item>
+      <title>No Annual Fee Credit Cards for ITIN Holders (2026)</title>
+      <link>https://itincreditcard.com/articles/no-annual-fee-credit-card-itin</link>
+      <guid isPermaLink="true">https://itincreditcard.com/articles/no-annual-fee-credit-card-itin</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
+      <description>Yes, ITIN holders can get no-annual-fee credit cards. Compare the best $0-fee options from Capital One, OpenSky, and more — no SSN required.</description>
     </item>
     <item>
       <title>Secured Credit Card Deposits for ITIN Holders (2026)</title>

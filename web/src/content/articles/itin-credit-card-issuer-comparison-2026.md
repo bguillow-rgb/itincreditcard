@@ -80,8 +80,6 @@ The table below is the fastest way to find your fit. Cards are sorted from easie
 
 ## The 2026 regulatory context: what every ITIN holder should know right now
 
-*A question we hear often:*
-
 **Is it still safe to apply for a credit card using my ITIN in mid-2026?**
 
 This is the most urgent background question for every ITIN holder reading this guide in July 2026, so it deserves a direct, honest answer.
@@ -122,8 +120,6 @@ After roughly six months of on-time payments, eligible OpenSky cardholders are i
 
 ## Which major bank is the most accessible for ITIN holders?
 
-*Readers frequently ask:*
-
 **Capital One Platinum Secured: the major-bank starting point**
 
 The Capital One Platinum Credit Card is one of the best starter credit cards without an SSN requirement because applicants can use an ITIN instead of an SSN and may qualify despite limited or no credit history.
@@ -139,8 +135,6 @@ The downside is no rewards on the base Platinum Secured. If you want cash back f
 ---
 
 ## Issuer-by-issuer breakdown: every bank that accepts an ITIN
-
-*This one comes up a lot:*
 
 ### Bank of America
 
@@ -217,8 +211,6 @@ The Self Visa accepts an ITIN and pairs with a credit-builder savings account. A
 
 ## What credit score do I need for each tier of ITIN card?
 
-*This one comes up a lot:*
-
 For ITIN applicants, the credit profile question is more layered than for SSN holders because many of you are starting from zero. Here is a practical tiered view:
 
 **Tier 1: no credit history at all (no U.S. score)**
@@ -258,8 +250,6 @@ When applying, have your ITIN, a valid form of ID such as a passport or consular
 ---
 
 ## How long until I can graduate from a secured to a rewards card?
-
-*A question we hear often:*
 
 After 12 months of on-time payments, your score will typically be in the 680-720 range, and you can apply for rewards cards. Some issuers review you earlier, though. The Chase Freedom Rise considers you for a credit limit increase within six months if you use the card responsibly and make payments on time. Capital One does the same: Capital One will begin automatically reviewing your account after just six months to see if you qualify for a higher credit line with no additional deposit.
 

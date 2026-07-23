@@ -58,7 +58,7 @@ According to CNBC Select, building a scoreable credit file from zero typically t
 
 ## When am I actually ready to ask about an upgrade?
 
-*A question we hear often:* readers who got their first secured card want to know the right moment to push for an upgrade rather than waiting indefinitely.
+Readers who got their first secured card want to know the right moment to push for an upgrade rather than waiting indefinitely.
 
 The honest answer is that timing depends on three things working together, not just the calendar:
 
@@ -70,7 +70,7 @@ If you are hitting all three, the window is typically 12-18 months after your ac
 
 ## Which issuers offer real upgrade paths for ITIN holders?
 
-*This one comes up a lot:* not all secured cards are equal when it comes to graduation, and the difference matters before you choose your first card, not after.
+Not all secured cards are equal when it comes to graduation, and the difference matters before you choose your first card, not after.
 
 Here is how the major ITIN-friendly issuers handle upgrades:
 
@@ -89,7 +89,7 @@ Discover it Secured similarly begins automatic reviews after 7 months. If you qu
 
 ## How do I actually request an upgrade if my issuer does not do it automatically?
 
-*Readers frequently ask:* what do you say, and what do you need to have ready, when you call to ask about upgrading?
+What do you say, and what do you need to have ready, when you call to ask about upgrading?
 
 For issuers that require a manual request (Bank of America and Citi are the common examples for ITIN holders), the process is more straightforward than most people expect. Call the number on the back of your card and ask to speak with the credit card servicing team. Tell them you have been a cardholder for X months, you have not missed a payment, and you would like to be considered for an upgrade to an unsecured product or a deposit refund review.
 
@@ -112,7 +112,7 @@ If you are starting this process, our guide to [unsecured credit cards for ITIN 
 
 ## What credit score do I realistically need before I apply to a new unsecured card?
 
-*A question we hear often:* there is a lot of conflicting information online about the magic number.
+There is a lot of conflicting information online about the magic number.
 
 For ITIN holders applying to a new unsecured product at a different issuer (rather than a same-issuer upgrade), the practical target depends on the card:
 

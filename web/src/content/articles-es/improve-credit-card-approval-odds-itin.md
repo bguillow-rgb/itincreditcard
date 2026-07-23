@@ -36,7 +36,7 @@ Conseguir aprobación para una tarjeta de crédito en EE. UU. con un ITIN es com
 
 ## ¿Por qué mi ITIN parece causar problemas en las solicitudes de tarjeta de crédito?
 
-*Una pregunta que escuchamos frecuentemente:* el ITIN en sí no es el problema. La mayoría de los emisores de tarjetas de crédito piden un número de Seguro Social para verificar tu identidad y revisar tu historial crediticio, pero una compañía de tarjetas de crédito puede solicitar en su lugar un Número de Identificación Personal del Contribuyente (ITIN), que el IRS emite a personas que aún no son elegibles para obtener una tarjeta de Seguro Social. La fricción ocurre cuando un titular de ITIN solicita con un emisor que simplemente no acepta ITINs, o cuando aplica para una tarjeta diseñada para solicitantes con historial crediticio establecido en EE. UU. que todavía no tienen.
+El ITIN en sí no es el problema. La mayoría de los emisores de tarjetas de crédito piden un número de Seguro Social para verificar tu identidad y revisar tu historial crediticio, pero una compañía de tarjetas de crédito puede solicitar en su lugar un Número de Identificación Personal del Contribuyente (ITIN), que el IRS emite a personas que aún no son elegibles para obtener una tarjeta de Seguro Social. La fricción ocurre cuando un titular de ITIN solicita con un emisor que simplemente no acepta ITINs, o cuando aplica para una tarjeta diseñada para solicitantes con historial crediticio establecido en EE. UU. que todavía no tienen.
 
 Una vez que se abre una cuenta de crédito usando tu ITIN, esta se reporta a los burós de crédito de la misma forma que cualquier otra cuenta. Tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntaje crediticio de manera idéntica, ya sea que hayas usado un ITIN o un SSN para abrir la cuenta. El objetivo, entonces, es simplemente abrir esa primera cuenta en el lugar correcto.
 
@@ -50,7 +50,7 @@ Un matiz importante: las políticas para aceptar ITINs varían, y algunos emisor
 
 ## ¿Debo empezar con una tarjeta asegurada o ir directo a una no asegurada?
 
-*Los lectores preguntan frecuentemente:* para un titular de ITIN con poco o ningún historial crediticio en EE. UU., comenzar con una tarjeta asegurada es casi siempre la decisión correcta. La razón es simple: aumenta drásticamente tus posibilidades de aprobación.
+Para un titular de ITIN con poco o ningún historial crediticio en EE. UU., comenzar con una tarjeta asegurada es casi siempre la decisión correcta. La razón es simple: aumenta drásticamente tus posibilidades de aprobación.
 
 Las tarjetas de crédito aseguradas son la opción más accesible para los titulares de ITIN. Estas tarjetas requieren un depósito en efectivo que generalmente sirve como límite de crédito. Después de un período de uso responsable, algunos emisores pueden ofrecer la conversión a una tarjeta no asegurada. Por lo general tienen un proceso de aprobación más sencillo y son efectivas para construir crédito.
 
@@ -60,7 +60,7 @@ Si todavía no tienes un archivo de crédito en EE. UU., es más difícil obtene
 
 ## ¿Qué es la precalificación y cómo ayuda a los titulares de ITIN?
 
-*Esto surge mucho:* la precalificación (también llamada preaprobación) es la herramienta más subutilizada disponible para los solicitantes con ITIN. El beneficio principal es simple: conoces tu resultado probable antes de generar una consulta dura.
+La precalificación (también llamada preaprobación) es la herramienta más subutilizada disponible para los solicitantes con ITIN. El beneficio principal es simple: conoces tu resultado probable antes de generar una consulta dura.
 
 Antes de solicitar tarjetas de crédito, puede que quieras intentar obtener una preaprobación para ver qué tarjetas podrías calificar. La preaprobación generalmente implica una consulta suave, lo que significa que no afectará tus puntajes de crédito. Solicitar una tarjeta de crédito generalmente implica una consulta dura, que puede bajar tus puntajes ligeramente de forma temporal.
 
@@ -97,7 +97,7 @@ Orden de operaciones práctico: abre una cuenta corriente en Bank of America, Ca
 
 ## ¿Cuántas solicitudes debo enviar y con qué tiempo entre ellas?
 
-*Una pregunta que escuchamos frecuentemente:* la respuesta es una a la vez, con al menos seis meses de diferencia entre ellas.
+La respuesta es una a la vez, con al menos seis meses de diferencia entre ellas.
 
 Enviar una solicitud de tarjeta de crédito generalmente genera una consulta dura, que puede bajar tu puntaje FICO menos de cinco puntos para la mayoría de las personas. Las consultas duras afectan tu puntaje por 12 meses y permanecen en tu reporte de crédito por dos años. Para un titular de ITIN con un archivo escaso, incluso una pequeña caída en el puntaje importa porque tienes menos elementos positivos para amortiguar el impacto.
 

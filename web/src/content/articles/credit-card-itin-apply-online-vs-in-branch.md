@@ -48,7 +48,7 @@ Online is often the fastest route. Just pick the right issuer first.
 
 ## Which issuers let me apply online with an ITIN, and which ones require a branch visit?
 
-*A question we hear often:* readers spend hours comparing card rewards only to discover at the last step that the issuer won't accept their ITIN through the website. Here is a practical breakdown.
+Readers spend hours comparing card rewards only to discover at the last step that the issuer won't accept their ITIN through the website. Here is a practical breakdown.
 
 | Issuer | Online ITIN Application? | In-Branch / Phone Option? | Notes |
 |---|---|---|---|
@@ -71,7 +71,7 @@ Large national banks like Bank of America and Citibank accept ITINs, but you alm
 
 ## Why does going to a branch actually work better at some banks?
 
-*This one comes up a lot:* people wonder if the in-person requirement is just a bureaucratic hassle or if it actually changes their odds.
+People wonder if the in-person requirement is just a bureaucratic hassle or if it actually changes their odds.
 
 It changes your odds, and the reason is structural. You get to have a real conversation with a banker, explain your situation, and physically hand over your organized documents. A helpful banker can work around internal policies in ways an online algorithm simply cannot.
 
@@ -97,7 +97,7 @@ One preparation step that improves approval odds across every channel: open a ch
 
 ## Are there credit cards where I can apply 100% online with an ITIN and no credit history at all?
 
-*Readers frequently ask:* what if I just arrived in the U.S., have no U.S. credit file yet, and don't want to travel to a branch?
+What if I just arrived in the U.S., have no U.S. credit file yet, and don't want to travel to a branch?
 
 Yes, several options exist for exactly this situation. The Current Build Card is a strong pick for ITIN holders with no credit history. There is no credit check, no minimum security deposit, and 0% APR, so approval doesn't depend on a U.S. credit history you don't have yet. You spend from your Current account like a debit card, and the activity gets reported to Experian, TransUnion, and Equifax as on-time credit usage.
 
@@ -111,7 +111,7 @@ If you want to see how your card activity will report to the bureaus once approv
 
 ## What if the online form keeps rejecting my ITIN? What should I try?
 
-*A question we hear often:* the form appears to accept a nine-digit number but then returns an error or a "please use a valid SSN" message.
+The form appears to accept a nine-digit number but then returns an error or a "please use a valid SSN" message.
 
 Try these steps in order:
 

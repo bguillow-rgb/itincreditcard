@@ -36,7 +36,7 @@ Si tienes un ITIN y viajas con frecuencia, ya sea por trabajo, para visitar a tu
 
 ## ¿Alguna tarjeta de crédito de viaje realmente acepta un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* Sí, y más de lo que la mayoría de los titulares de ITIN imaginan. Según CNBC Select, muchos de los principales emisores de tarjetas de crédito, entre ellos Chase, American Express y Capital One, tienen tarjetas de recompensas de viaje a las que puedes solicitar usando un ITIN. Pero tu ITIN es solo una parte de la ecuación. Los emisores también evalúan tus ingresos, cualquier historial crediticio que ya tengas en EE. UU. y, en algunos casos, si tienes una cuenta corriente o de ahorros con ellos.
+Sí, y más de lo que la mayoría de los titulares de ITIN imaginan. Según CNBC Select, muchos de los principales emisores de tarjetas de crédito, entre ellos Chase, American Express y Capital One, tienen tarjetas de recompensas de viaje a las que puedes solicitar usando un ITIN. Pero tu ITIN es solo una parte de la ecuación. Los emisores también evalúan tus ingresos, cualquier historial crediticio que ya tengas en EE. UU. y, en algunos casos, si tienes una cuenta corriente o de ahorros con ellos.
 
 Capital One es ampliamente reconocido como el emisor importante más amigable con los titulares de ITIN. Su tarjeta Quicksilver Secured gana 5% de reembolso en hoteles y autos de alquiler reservados a través de Capital One Travel y 1.5% en todo lo demás. Se puede abrir con un ITIN y un depósito reembolsable de $200, lo que la convierte en el punto de entrada más accesible a las recompensas de viaje para titulares de ITIN que aún están construyendo su crédito. Chase también acepta un ITIN en lugar de un SSN, y su tarjeta Freedom Rise, sin cuota anual, se puede solicitar en línea o en persona. American Express ahora exige un SSN o un ITIN a todos los solicitantes, por lo que tu ITIN es suficiente para solicitar tarjetas personales de Amex, incluidas las orientadas a viajes, siempre que cumplas con sus requisitos de crédito.
 
@@ -48,7 +48,7 @@ Para la mayoría de los titulares de ITIN que parten de cero historial en EE. UU
 
 ## ¿Qué tarjetas de viaje son más realistas para titulares de ITIN en este momento?
 
-*Nuestros lectores preguntan esto con frecuencia:* La respuesta depende de en qué etapa de construcción de crédito te encuentras. La tabla a continuación organiza las principales opciones según la etapa:
+La respuesta depende de en qué etapa de construcción de crédito te encuentras. La tabla a continuación organiza las principales opciones según la etapa:
 
 | Tarjeta | ITIN Aceptado | Cuota Anual | Beneficio de Viaje | Ideal Para |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Siempre verifica los términos actuales directamente con el emisor antes de soli
 
 ## Tengo buen historial crediticio en mi país de origen. ¿Eso ayuda?
 
-*Esta pregunta surge mucho.* Lamentablemente, los historiales crediticios internacionales no se transfieren automáticamente a las agencias de crédito de EE. UU. Como señala Discover, aunque hayas construido un historial crediticio sólido en el extranjero, es posible que no se traslade a Estados Unidos. El sistema de reporte crediticio de EE. UU. es completamente independiente.
+Lamentablemente, los historiales crediticios internacionales no se transfieren automáticamente a las agencias de crédito de EE. UU. Como señala Discover, aunque hayas construido un historial crediticio sólido en el extranjero, es posible que no se traslade a Estados Unidos. El sistema de reporte crediticio de EE. UU. es completamente independiente.
 
 Dicho esto, hay dos opciones puente que vale la pena conocer. La primera es el programa American Express Global Card Relationship (antes llamado Global Transfer), que permite a los titulares de tarjetas Amex de países elegibles solicitar una tarjeta Amex en EE. UU. usando su relación interna con Amex en lugar de un historial crediticio estadounidense. Un aviso importante: una tarjeta abierta de esta manera sin un ITIN vinculado puede reportarse solo internamente en American Express, no a las tres agencias de EE. UU., por lo que no construirá tu puntaje crediticio en este país. El sitio de viajes Taxsym describe Global Transfer como un primer paso, no como la solución definitiva. Aún necesitas un ITIN y una tarjeta que reporte a las agencias para construir un perfil crediticio utilizable en EE. UU.
 

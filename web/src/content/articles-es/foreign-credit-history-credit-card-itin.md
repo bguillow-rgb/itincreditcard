@@ -42,7 +42,7 @@ Dicho esto, tu historial extranjero no es completamente inútil. Un número redu
 
 ## ¿Qué es Nova Credit y cómo funciona para titulares de ITIN?
 
-*Una pregunta que recibimos con frecuencia:* muchos lectores llegan sabiendo su puntaje del buró de su país pero sin entender cómo puede cruzar la frontera.
+Muchos lectores llegan sabiendo su puntaje del buró de su país pero sin entender cómo puede cruzar la frontera.
 
 Nova Credit es una empresa de tecnología financiera que se asocia con burós de crédito de países seleccionados y traduce un historial crediticio extranjero en lo que ellos llaman un Credit Passport. Un prestamista participante en EE. UU. lee ese Credit Passport como datos complementarios durante la revisión de la solicitud. Nova Credit puede traducir el historial crediticio de países como India, el Reino Unido, Canadá, México y otros, a un formato que algunos prestamistas en EE. UU. aceptan. La empresa ha ampliado su lista de países compatibles con el tiempo, por lo que vale la pena verificar su cobertura actual directamente en su sitio.
 
@@ -50,7 +50,7 @@ Un detalle importante para los titulares de ITIN: a partir de 2025, el proceso d
 
 ## ¿Cómo funciona el programa Global Card Relationship de American Express con un ITIN?
 
-*Este tema surge mucho*, especialmente entre inmigrantes que tenían tarjetas Amex en su país antes de mudarse.
+Los inmigrantes que tenían tarjetas Amex en su país antes de mudarse son quienes más preguntan esto.
 
 American Express tiene un programa (conocido oficialmente como Global Card Relationship, y comúnmente llamado Global Transfer) que permite a un titular de tarjeta existente solicitar una tarjeta Amex en EE. UU. usando su historial de cuenta internacional en lugar de un historial crediticio en EE. UU. Para ser elegible, tu tarjeta existente debe ser emitida por American Express, debes ser el titular principal y debes haber tenido la tarjeta durante al menos tres meses, con la cuenta activa y al día al momento de solicitar. En la práctica, la comunidad de crédito generalmente recomienda tener entre seis y doce meses de historial para mejorar las probabilidades, aunque el mínimo publicado por Amex es de tres meses.
 
@@ -72,7 +72,7 @@ Según un informe de Experian de 2026, los titulares de ITIN tienen una proporci
 
 ## ¿Puede un banco comunitario o cooperativa de crédito revisar mi informe crediticio extranjero de forma manual?
 
-*Los lectores preguntan frecuentemente* si pueden simplemente ir a una sucursal y mostrar su informe crediticio de su país de origen.
+Si pueden simplemente ir a una sucursal y mostrar su informe crediticio de su país de origen.
 
 La respuesta es: a veces, y vale la pena intentarlo antes de descartarlo. Algunas cooperativas de crédito y bancos comunitarios aceptan una copia impresa o en PDF de tu informe crediticio extranjero como parte de una revisión manual. Vas con un informe CIBIL, Experian UK o SCHUFA traducido, y un oficial de préstamos te evalúa caso por caso. No es un proceso estandarizado y la aprobación depende del oficial, el banco y el producto. Las tarjetas aseguradas en particular son el producto que con mayor probabilidad se revisa de esta manera, porque el depósito reduce el riesgo del prestamista independientemente de tu historial.
 
@@ -80,7 +80,7 @@ Si quieres intentar esta opción, llama al departamento de préstamos antes de i
 
 ## ¿Qué documentos debo llevar al aplicar a través de cualquiera de estos programas?
 
-*Este tema surge mucho* en nuestra bandeja de entrada, generalmente unos días antes de la cita de alguien.
+En nuestra bandeja de entrada, generalmente unos días antes de la cita de alguien.
 
 La lista exacta de documentos varía según el programa, pero lo siguiente cubre lo esencial que los tres caminos requieren de alguna forma:
 

@@ -36,7 +36,7 @@ Getting a rejection letter is frustrating in any language. When you applied with
 
 ## Why did my credit card application get denied with an ITIN?
 
-*A question we hear often:* ITIN holders who are denied rarely get a clear explanation upfront, but federal law is on your side. Under the Equal Credit Opportunity Act, issuers must send you an adverse action notice explaining the denial reason within 30 days of receiving your completed application. You can also call customer service and ask for the reason right away without waiting for the letter.
+ITIN holders who are denied rarely get a clear explanation upfront, but federal law is on your side. Under the Equal Credit Opportunity Act, issuers must send you an adverse action notice explaining the denial reason within 30 days of receiving your completed application. You can also call customer service and ask for the reason right away without waiting for the letter.
 
 The most common denial reasons for ITIN applicants fall into a few categories:
 
@@ -69,7 +69,7 @@ According to NerdWallet, the reconsideration process involves a manual review of
 
 ## Does the type of denial change what I should do next?
 
-*This one comes up a lot:* not all denial reasons call for the same response. Matching your next step to the actual reason saves time and protects your credit score from unnecessary hard inquiries.
+Not all denial reasons call for the same response. Matching your next step to the actual reason saves time and protects your credit score from unnecessary hard inquiries.
 
 | Denial Reason | Reconsideration Worth Trying? | Best Next Step |
 |---|---|---|
@@ -87,7 +87,7 @@ If the denial was a hard stop (score far below the threshold, prior default with
 
 ## My reconsideration call did not work. What cards should I try next?
 
-*Readers frequently ask:* after a denial from a mainstream issuer, the fastest path forward is usually a card that removes the two biggest barriers at once: the credit history requirement and the SSN requirement.
+After a denial from a mainstream issuer, the fastest path forward is usually a card that removes the two biggest barriers at once: the credit history requirement and the SSN requirement.
 
 Secured cards are the most accessible option. You place a refundable deposit that becomes your credit limit, and because the issuer's risk is covered by that deposit, many of them accept applicants with no U.S. credit history and an ITIN in place of an SSN. You can learn more in our guide to [secured credit cards with an ITIN](https://itincreditcard.com/secured-credit-card-with-itin).
 
@@ -126,7 +126,7 @@ If you are unsure which issuers are currently accepting ITIN applications, our g
 
 ## How do I make sure my next application does not get denied for the same reason?
 
-*A question we hear often:* the single most important pre-application checklist for ITIN holders covers five steps that address the most common denial triggers.
+The single most important pre-application checklist for ITIN holders covers five steps that address the most common denial triggers.
 
 1. **Confirm all three bureau reports are unfrozen.** Visit AnnualCreditReport.com and check your freeze status at Experian, TransUnion, and Equifax separately.
 2. **Verify your ITIN is active.** ITINs that have not been used on a federal tax return for three consecutive years are deactivated by the IRS. If yours is expired, you will need to renew it with Form W-7 before applying.

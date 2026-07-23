@@ -36,7 +36,7 @@ Recibir una carta de rechazo es frustrante en cualquier idioma. Cuando solicitas
 
 ## ¿Por qué rechazaron mi solicitud de tarjeta de crédito con un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN que reciben un rechazo rara vez obtienen una explicación clara de inmediato, pero la ley federal está de tu lado. Según la Ley de Igualdad de Oportunidades de Crédito (Equal Credit Opportunity Act), los emisores deben enviarte un aviso de acción adversa con el motivo del rechazo dentro de los 30 días posteriores a recibir tu solicitud completa. También puedes llamar al servicio al cliente y pedir el motivo de inmediato, sin esperar la carta.
+Los titulares de ITIN que reciben un rechazo rara vez obtienen una explicación clara de inmediato, pero la ley federal está de tu lado. Según la Ley de Igualdad de Oportunidades de Crédito (Equal Credit Opportunity Act), los emisores deben enviarte un aviso de acción adversa con el motivo del rechazo dentro de los 30 días posteriores a recibir tu solicitud completa. También puedes llamar al servicio al cliente y pedir el motivo de inmediato, sin esperar la carta.
 
 Los motivos de rechazo más comunes para solicitantes con ITIN se agrupan en algunas categorías:
 
@@ -69,7 +69,7 @@ Según NerdWallet, el proceso de reconsideración implica una revisión manual d
 
 ## ¿El tipo de rechazo cambia lo que debo hacer a continuación?
 
-*Este tema surge mucho:* no todos los motivos de rechazo requieren la misma respuesta. Adaptar tu siguiente paso al motivo real te ahorra tiempo y protege tu puntaje de consultas innecesarias.
+No todos los motivos de rechazo requieren la misma respuesta. Adaptar tu siguiente paso al motivo real te ahorra tiempo y protege tu puntaje de consultas innecesarias.
 
 | Motivo del rechazo | ¿Vale la pena intentar reconsideración? | Mejor siguiente paso |
 |---|---|---|
@@ -87,7 +87,7 @@ Si el rechazo fue definitivo (puntaje muy por debajo del umbral, incumplimiento 
 
 ## Mi llamada de reconsideración no funcionó. ¿Qué tarjetas debo solicitar ahora?
 
-*Los lectores preguntan esto con frecuencia:* después de un rechazo de un emisor convencional, el camino más rápido suele ser una tarjeta que elimina los dos mayores obstáculos al mismo tiempo: el requisito de historial crediticio y el requisito de SSN.
+Después de un rechazo de un emisor convencional, el camino más rápido suele ser una tarjeta que elimina los dos mayores obstáculos al mismo tiempo: el requisito de historial crediticio y el requisito de SSN.
 
 Las tarjetas aseguradas son la opción más accesible. Depositas una cantidad reembolsable que se convierte en tu límite de crédito y, como el riesgo del emisor está cubierto por ese depósito, muchos de ellos aceptan solicitantes sin historial de crédito en EE. UU. y con ITIN en lugar de SSN. Puedes conocer más en nuestra guía de [tarjetas de crédito aseguradas con ITIN](https://itincreditcard.com/secured-credit-card-with-itin).
 
@@ -126,7 +126,7 @@ Si no sabes qué emisores están aceptando solicitudes con ITIN actualmente, nue
 
 ## ¿Cómo me aseguro de que mi próxima solicitud no sea rechazada por el mismo motivo?
 
-*Una pregunta que escuchamos con frecuencia:* la lista de verificación previa a la solicitud más importante para titulares de ITIN cubre cinco pasos que abordan los motivos de rechazo más comunes.
+La lista de verificación previa a la solicitud más importante para titulares de ITIN cubre cinco pasos que abordan los motivos de rechazo más comunes.
 
 1. **Confirma que los reportes de las tres agencias estén desbloqueados.** Visita AnnualCreditReport.com y verifica el estado de tu bloqueo en Experian, TransUnion y Equifax por separado.
 2. **Verifica que tu ITIN esté activo.** Los ITINs que no se han usado en una declaración de impuestos federal durante tres años consecutivos son desactivados por el IRS. Si el tuyo está vencido, necesitas renovarlo con el Formulario W-7 antes de solicitar.

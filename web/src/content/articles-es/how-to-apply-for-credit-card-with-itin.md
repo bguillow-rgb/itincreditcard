@@ -52,7 +52,7 @@ Solicitar una tarjeta de crédito con un ITIN es más sencillo de lo que la mayo
 
 ## Antes de solicitar, ¿necesito algo más además de mi ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* Sí, y tener tus documentos organizados antes de comenzar te evitará quedar atascado a mitad de la solicitud.
+Sí, y tener tus documentos organizados antes de comenzar te evitará quedar atascado a mitad de la solicitud.
 
 Esto es lo que la mayoría de los emisores que aceptan ITIN requieren al momento de la solicitud:
 
@@ -91,7 +91,7 @@ Siempre llama a la línea de servicio al cliente del emisor para confirmar su po
 
 ## ¿Cómo lleno la solicitud con mi ITIN?
 
-*Esta pregunta surge mucho:* El proceso es casi idéntico a solicitar con un SSN. Aquí está el flujo paso a paso:
+El proceso es casi idéntico a solicitar con un SSN. Aquí está el flujo paso a paso:
 
 **Paso 1, Haz una precalificación.** Varios emisores que aceptan ITIN ofrecen precalificación con consulta suave. La herramienta de precalificación de Capital One, por ejemplo, te muestra para qué tarjetas podrías calificar sin afectar tu puntaje de crédito. Úsala antes de enviar cualquier solicitud formal.
 
@@ -121,7 +121,7 @@ Ten en cuenta que tu ITIN en sí no cambia cómo se calcula tu puntaje de crédi
 
 ## ¿Qué hago si me niegan la solicitud?
 
-*Los lectores preguntan esto con frecuencia:* Una negativa con ITIN generalmente se debe a una de tres razones: (1) el emisor no acepta ITIN para esa tarjeta específica, (2) no pudiste verificar un domicilio en EE. UU., o (3) los ingresos que declaraste fueron demasiado bajos en relación con los requisitos de la tarjeta.
+Una negativa con ITIN generalmente se debe a una de tres razones: (1) el emisor no acepta ITIN para esa tarjeta específica, (2) no pudiste verificar un domicilio en EE. UU., o (3) los ingresos que declaraste fueron demasiado bajos en relación con los requisitos de la tarjeta.
 
 Si te niegan, el emisor está obligado por ley a enviarte un aviso de acción adversa dentro de 30 días explicando el motivo principal. Léelo con atención, te dice exactamente qué corregir. Los pasos más comunes a seguir:
 

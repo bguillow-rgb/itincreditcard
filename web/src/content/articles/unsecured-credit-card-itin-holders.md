@@ -38,8 +38,6 @@ Getting a credit card without putting down a security deposit is a milestone man
 
 ## What exactly is an "unsecured" credit card, and why does it matter for ITIN holders?
 
-*A question we hear often:*
-
 Unlike a secured card, an unsecured credit card doesn't require a deposit. If you lack credit history in the U.S. or have a poor credit history preventing you from qualifying for standard cards, you might consider applying for a secured credit card first, but unsecured cards are the end goal for most people.
 
 For ITIN holders specifically, the distinction is financial leverage. A secured card locks up $200-$500 of your own money as collateral. That money could cover rent, groceries, or an emergency. When you have bad credit or no credit history, lenders are taking a risk by giving you money to borrow. To reduce that risk, many credit card companies require a cash deposit, which serves as collateral. An unsecured card eliminates that requirement, and signals that an issuer trusts your financial profile enough to extend credit without a safety net.
@@ -79,8 +77,6 @@ The American Express® Gold Card is an excellent option if you're interested in 
 
 ## Do I need a credit score before I can get an unsecured card with an ITIN?
 
-*This one comes up a lot:*
-
 Not always, but it depends heavily on which card you target. The fintech options in the table above (Zolve, Current Build) use alternative underwriting. Unlike secured credit cards, which require an upfront deposit, unsecured cards base approval on your credit profile, income, or alternative data. For people with limited or poor credit history, the easiest unsecured credit cards to get tend to come from fintech companies that use alternative underwriting, looking at factors like your income, bank account activity, or employment history instead of a traditional credit score.
 
 For traditional bank cards like the Capital One Platinum or Chase Freedom Rise, the story is a bit different. If you're getting a credit card without an SSN, you'll still need to meet the card issuer's other application requirements. That means the lender may review your credit history, request alternative forms of identification, require a checking and/or savings account, and factor your income into its decision.
@@ -112,8 +108,6 @@ With Capital One's Quicksilver Secured, you can get your deposit back eventually
 ---
 
 ## I was denied for an unsecured card, what should I do?
-
-*Readers frequently ask:*
 
 A denial isn't the end of the road. First, understand why it happened. Call the issuer's customer service line directly to confirm their current ITIN policy before applying, published policies and branch-level execution are not always the same. Denial reasons most commonly include insufficient credit history, unverifiable income, or the issuer simply not supporting ITINs for that specific card.
 

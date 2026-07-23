@@ -36,7 +36,7 @@ Applying for a credit card with an ITIN raises a question that comes up at every
 
 ## Do I need to show income at all to get a credit card with my ITIN?
 
-*A question we hear often:* whether income is even a factor when an ITIN is involved.
+Whether income is even a factor when an ITIN is involved.
 
 The short answer is yes, for most cards, but the rules have real flexibility. Lenders want to make sure you earn enough to cover at least the minimum payments, though there is usually no specific "minimum" income requirement under the law, issuers set their own internal guidelines. That means one issuer may approve you at $800 a month in part-time income while another wants to see $1,500.
 
@@ -58,7 +58,7 @@ Issuers also calculate your debt-to-income ratio, dividing your total monthly de
 
 ## What proof of income do I need to submit?
 
-*Readers frequently ask* exactly which documents to gather before hitting "submit."
+Exactly which documents to gather before hitting "submit."
 
 Common documentation includes a valid ITIN confirmation letter from the IRS, government-issued photo identification such as a passport or foreign driver's license, proof of residence such as utility bills or lease agreements, and proof of income such as pay stubs, bank statements, or tax returns.
 
@@ -91,7 +91,7 @@ For a deeper look at which specific issuers accept ITINs and what each card requ
 
 ## Can I qualify if I just started working in the U.S. and only have one or two pay stubs?
 
-*This one comes up a lot:* what to do when your income is real but you have almost no U.S. paper trail.
+What to do when your income is real but you have almost no U.S. paper trail.
 
 One or two pay stubs can be enough for some issuers, especially if you pair them with a bank statement showing the deposit arriving regularly. Most credit card issuers want to see at least a few months of U.S. banking activity before they approve you, so opening a checking or savings account at a bank that accepts ITIN applicants is a smart early step. Even 60 days of clean banking activity strengthens your application considerably.
 

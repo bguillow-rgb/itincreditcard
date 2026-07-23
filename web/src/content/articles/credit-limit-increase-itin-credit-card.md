@@ -36,8 +36,6 @@ Most ITIN holders open their first U.S. credit card with a modest starting limit
 
 ## Why do ITIN credit cards start with such low limits?
 
-*A question we hear often:*
-
 When you apply for your first card with an ITIN and little or no U.S. credit history, the issuer has very limited data to work with. They know your reported income and any credit file that exists, but that file may be thin or entirely absent. To manage their risk, issuers open the account at a conservative limit.
 
 That conservatism is temporary. Lenders implement "low-and-grow" strategies, issuing cards with low initial limits to lower-credit-score borrowers and then increasing the limits based on borrower behavior. Credit card limits at origination for subprime borrowers average around $700, but by five years after origination those same accounts average $2,700, a 285 percent increase. ITIN holders follow the same trajectory once they establish a payment track record.
@@ -49,8 +47,6 @@ The standard waiting period across most ITIN-friendly issuers is six months of o
 Timing your request around a real income change also matters. If you recently changed jobs, added freelance income, or filed a U.S. tax return showing higher earnings than your original application, that is the right moment to ask. Issuers weigh updated income heavily when evaluating limit-increase requests.
 
 ## What are the actual steps to request a credit limit increase as an ITIN holder?
-
-*This one comes up a lot:*
 
 The mechanics are identical to what any cardholder would do. Here is the process broken down by issuer type:
 
@@ -73,8 +69,6 @@ Secured cards follow a slightly different path because your deposit is what sets
 **Graduation to unsecured:** A limit increase is not the only upgrade available. OpenSky does offer an upgrade path: after roughly six months of on-time payments, eligible cardholders are invited to upgrade to the unsecured OpenSky Visa Gold. Similarly, after 6-12 months of on-time payments, many issuers will graduate you to an unsecured card and return your deposit, which is a major milestone. Once you hold an unsecured card, standard limit-increase requests apply without any deposit mechanics.
 
 ## What makes issuers more likely to approve a limit increase for ITIN holders?
-
-*Readers frequently ask:*
 
 Issuers look at the same behavioral signals regardless of whether you have an ITIN or an SSN. The factors with the most weight are:
 

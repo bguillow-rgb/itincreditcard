@@ -40,7 +40,7 @@ La buena noticia: varios emisores amigables con ITIN eliminan el cargo por trans
 
 ## ¿Por qué importa más el cargo por transacción extranjera si tengo un ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* los titulares de ITIN tienden a tener más actividad financiera transfronteriza que el tarjetahabiente promedio. Los inmigrantes y estudiantes internacionales que envían dinero a casa o compran a comerciantes en su país de origen, los compradores en línea que adquieren productos de minoristas internacionales, y las personas que trabajan de forma remota para empresas extranjeras son candidatos ideales para una tarjeta sin cargo por transacción extranjera.
+Los titulares de ITIN tienden a tener más actividad financiera transfronteriza que el tarjetahabiente promedio. Los inmigrantes y estudiantes internacionales que envían dinero a casa o compran a comerciantes en su país de origen, los compradores en línea que adquieren productos de minoristas internacionales, y las personas que trabajan de forma remota para empresas extranjeras son candidatos ideales para una tarjeta sin cargo por transacción extranjera.
 
 La matemática es sencilla. Un cargo típico por transacción extranjera es del 2% al 3% de cada compra. Si viajas internacionalmente o con frecuencia compras a minoristas extranjeros, elegir una tarjeta que elimine este cargo puede ahorrarte una cantidad significativa a lo largo del tiempo. Para un titular de ITIN que gasta $5,000 al año en compras internacionales, eso representa un ahorro de $100 a $150 por año con solo elegir la tarjeta correcta desde el principio.
 
@@ -72,7 +72,7 @@ Para solicitantes que ya tienen algunos meses de historial bancario en EE. UU. e
 
 ## Soy nuevo en EE. UU. y no tengo historial crediticio. ¿Puedo obtener una tarjeta sin cargos?
 
-*Los lectores preguntan esto con frecuencia:* es el escenario más común para titulares de ITIN que buscan tarjetas amigables para uso internacional.
+Es el escenario más común para titulares de ITIN que buscan tarjetas amigables para uso internacional.
 
 Sin ningún historial crediticio en EE. UU., tu punto de partida más realista es una tarjeta asegurada de un emisor que acepte ITIN y elimine el cargo por transacción extranjera. La tarjeta de crédito asegurada es la opción más accesible para inmigrantes sin crédito. Haces un depósito en efectivo, generalmente de $200 a $500, y ese depósito se convierte en tu límite de crédito. El emisor reporta tu actividad de pagos a los tres burós de crédito cada mes, y así es como comienza tu historial crediticio en EE. UU.
 
@@ -86,7 +86,7 @@ Un consejo práctico que muchos solicitantes pasan por alto: tener una cuenta de
 
 ## ¿Qué documentos necesito para solicitar una de estas tarjetas con un ITIN?
 
-*Esta pregunta surge mucho:* reunir los documentos correctos antes de comenzar una solicitud evita los retrasos más comunes.
+Reunir los documentos correctos antes de comenzar una solicitud evita los retrasos más comunes.
 
 Al solicitar, ten a la mano tu ITIN, una identificación válida como pasaporte o matrícula consular, comprobante de domicilio y comprobante de ingresos. Para la mayoría de las solicitudes en línea, estos documentos se suben como fotos o escaneos. Algunos puntos adicionales a tener en cuenta:
 
@@ -112,7 +112,7 @@ Algunos titulares de ITIN se preguntan si solicitar una tarjeta de crédito podr
 
 ## ¿Cuál es el camino para mejorar de tarjeta una vez que construyo crédito con una tarjeta ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* tu primera tarjeta sin cargo extranjero es un punto de partida, no una solución permanente.
+Tu primera tarjeta sin cargo extranjero es un punto de partida, no una solución permanente.
 
 Después de 12 a 18 meses de uso responsable, deberías poder pasar a una tarjeta no asegurada con recompensas reales. Investiga antes de solicitar si tu tarjeta ofrece un camino de graduación o si necesitarás cerrarla y solicitar otra en otro lugar.
 

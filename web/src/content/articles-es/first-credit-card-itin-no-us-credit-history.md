@@ -40,7 +40,7 @@ Comenzar tu vida financiera en EE.UU. con un ITIN y sin historial crediticio ame
 
 ## ¿No tener historial crediticio en EE.UU. significa automáticamente que me negarán?
 
-*Una pregunta que escuchamos mucho:* para nada. Los burós de crédito en EE.UU. simplemente no tienen ningún archivo tuyo todavía, y eso es muy diferente a tener *mal* crédito.
+Para nada. Los burós de crédito en EE.UU. simplemente no tienen ningún archivo tuyo todavía, y eso es muy diferente a tener *mal* crédito.
 
 Si estás comenzando desde cero, en general se necesitan entre dos y seis meses de actividad crediticia para establecer un puntaje de crédito. Hasta entonces, eres lo que la industria llama "invisible al crédito", y existen tipos de tarjetas creados específicamente para este grupo.
 
@@ -75,7 +75,7 @@ Para un análisis más detallado del panorama completo de emisores que aceptan I
 
 ## ¿Qué documentos necesito antes de solicitar?
 
-*Nuestros lectores preguntan seguido:* ¿qué exactamente debo tener a la mano antes de comenzar la solicitud?
+¿qué exactamente debo tener a la mano antes de comenzar la solicitud?
 
 Reúne estos cuatro elementos antes de abrir cualquier formulario de solicitud:
 
@@ -90,7 +90,7 @@ Un detalle que muchas guías omiten: los emisores envían una contraseña de un 
 
 ## ¿Mi historial crediticio en el extranjero puede ayudarme a que me aprueben?
 
-*Este tema surge mucho,* especialmente entre solicitantes que tienen años de buen crédito en su país de origen pero un historial en blanco en EE.UU.
+Especialmente entre solicitantes que tienen años de buen crédito en su país de origen pero un historial en blanco en EE.UU.
 
 Aunque hayas construido un historial crediticio, es posible que no siempre se transfiera a Estados Unidos. Los burós de crédito en EE.UU. solo rastrean actividad estadounidense. Tu puntaje CIBIL, tu expediente en el Buró de Crédito mexicano o tu reporte de Experian del Reino Unido son invisibles para los prestamistas americanos por defecto. Sin embargo, existe una solución.
 
@@ -119,7 +119,7 @@ Para más detalles sobre el proceso completo de solicitud, consulta nuestra guí
 
 ## ¿Cómo mantengo mi primera tarjeta trabajando a mi favor?
 
-*Una pregunta que escuchamos seguido:* una vez que tengo la tarjeta, ¿qué hábitos importan más?
+Una vez que tengo la tarjeta, ¿qué hábitos importan más?
 
 La mecánica es idéntica tanto si usaste un SSN como un ITIN. Una vez que tienes una tarjeta de crédito, construir crédito funciona de la misma manera sin importar si usaste un SSN o un ITIN. Tres reglas cubren la gran mayoría de lo que mueve tu puntaje.
 

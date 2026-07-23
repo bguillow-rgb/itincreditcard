@@ -42,7 +42,7 @@ The short answer is that nothing disappears automatically, but nothing transfers
 
 ## Do my ITIN credit cards get canceled when I get an SSN?
 
-*A question we hear often:* readers who just received their SSN worry that their secured or unsecured cards will suddenly close.
+Readers who just received their SSN worry that their secured or unsecured cards will suddenly close.
 
 They will not. Your credit card account is a contractual relationship between you and the issuer. That relationship does not end when your taxpayer identification number changes. The account stays open, your card keeps working, and your credit limit stays the same.
 
@@ -54,7 +54,7 @@ The practical step: call or message each issuer and ask specifically how to upda
 
 ## Will my credit history automatically follow me to my new SSN?
 
-*Readers frequently ask:* "If my credit history was built under my ITIN, does it automatically show up when someone runs my SSN?"
+"If my credit history was built under my ITIN, does it automatically show up when someone runs my SSN?"
 
 No, not automatically. The three major credit bureaus (Experian, Equifax, and TransUnion) maintain separate data systems, and they track consumers using identifiers that include your Social Security or taxpayer ID number, name, address, and date of birth. According to guidance from consumer credit experts at Experian, if you have an ITIN, you need to submit a written request directly to each bureau to get your credit file linked to your new SSN.
 
@@ -87,7 +87,7 @@ Mail addresses used as of 2026:
 
 ## What happens to my secured card deposit when I get an SSN?
 
-*This one comes up a lot,* especially among readers who have a secured credit card with a $200-$500 deposit sitting with an issuer.
+Especially among readers who have a secured credit card with a $200-$500 deposit sitting with an issuer.
 
 Your deposit is not affected by your SSN transition. The deposit belongs to you and is held as collateral against your credit limit. It is refundable when the card graduates to an unsecured product or when you close the account in good standing, regardless of what taxpayer ID number you used to open the account.
 
@@ -113,7 +113,7 @@ How quickly a merged file generates a score depends on how fast the bureaus proc
 
 ## Should I open a new credit card under my SSN, or keep using my ITIN cards?
 
-*Readers frequently ask* whether they should just start over with an SSN and apply for new cards.
+Whether they should just start over with an SSN and apply for new cards.
 
 In most cases, keeping your existing ITIN-based cards open is the smarter move, at least in the short term. The average age of your credit accounts is a factor in your credit profile. Closing older accounts and opening new ones resets the clock on account age and adds hard inquiries. Both typically work against you in the near term.
 

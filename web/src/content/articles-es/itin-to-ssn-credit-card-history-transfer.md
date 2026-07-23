@@ -42,7 +42,7 @@ La respuesta corta es que nada desaparece automáticamente, pero tampoco se tran
 
 ## ¿Mis tarjetas de crédito con ITIN se cancelan cuando obtengo un SSN?
 
-*Una pregunta que escuchamos con frecuencia:* las personas que acaban de recibir su SSN temen que sus tarjetas aseguradas o no aseguradas se cierren de repente.
+Las personas que acaban de recibir su SSN temen que sus tarjetas aseguradas o no aseguradas se cierren de repente.
 
 No ocurrirá. Tu cuenta de tarjeta de crédito es una relación contractual entre tú y el emisor. Esa relación no termina cuando cambia tu número de identificación de contribuyente. La cuenta permanece abierta, tu tarjeta sigue funcionando y tu límite de crédito se mantiene igual.
 
@@ -54,7 +54,7 @@ El paso práctico: llama o envía un mensaje a cada emisor y pregunta específic
 
 ## ¿Mi historial crediticio me sigue automáticamente a mi nuevo SSN?
 
-*Los lectores preguntan con frecuencia:* "Si construí mi historial crediticio con mi ITIN, ¿aparece automáticamente cuando alguien consulta mi SSN?"
+"Si construí mi historial crediticio con mi ITIN, ¿aparece automáticamente cuando alguien consulta mi SSN?"
 
 No, no de forma automática. Las tres principales agencias de crédito (Experian, Equifax y TransUnion) mantienen sistemas de datos separados y rastrean a los consumidores usando identificadores que incluyen tu número de Seguro Social o número de contribuyente, nombre, domicilio y fecha de nacimiento. Según la orientación de expertos en crédito al consumidor de Experian, si tienes un ITIN, debes enviar una solicitud por escrito directamente a cada agencia para que vinculen tu expediente crediticio a tu nuevo SSN.
 
@@ -87,7 +87,7 @@ Direcciones postales vigentes en 2026:
 
 ## ¿Qué pasa con el depósito de mi tarjeta asegurada cuando obtengo un SSN?
 
-*Este tema surge mucho,* especialmente entre quienes tienen una tarjeta de crédito asegurada con un depósito de $200-$500 en manos de un emisor.
+Especialmente entre quienes tienen una tarjeta de crédito asegurada con un depósito de $200-$500 en manos de un emisor.
 
 Tu depósito no se ve afectado por la transición al SSN. El depósito te pertenece y se retiene como garantía de tu límite de crédito. Es reembolsable cuando la tarjeta se convierte en un producto no asegurado o cuando cierras la cuenta en buen estado, independientemente del número de identificación fiscal que usaste para abrirla.
 
@@ -113,7 +113,7 @@ Qué tan rápido un expediente fusionado genera un puntaje depende de la velocid
 
 ## ¿Debo abrir una nueva tarjeta de crédito con mi SSN o seguir usando mis tarjetas con ITIN?
 
-*Los lectores preguntan con frecuencia* si deberían empezar de cero con un SSN y solicitar tarjetas nuevas.
+Si deberían empezar de cero con un SSN y solicitar tarjetas nuevas.
 
 En la mayoría de los casos, mantener abiertas tus tarjetas actuales basadas en ITIN es la decisión más inteligente, al menos a corto plazo. La antigüedad promedio de tus cuentas de crédito es un factor en tu perfil crediticio. Cerrar cuentas antiguas y abrir nuevas reinicia el conteo de antigüedad de las cuentas y agrega consultas de crédito fuertes (hard inquiries). Ambas cosas suelen trabajar en tu contra a corto plazo.
 

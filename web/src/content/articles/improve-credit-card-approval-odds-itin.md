@@ -36,7 +36,7 @@ Getting approved for a U.S. credit card with an ITIN is entirely possible, but a
 
 ## Why does my ITIN seem to cause problems on credit card applications?
 
-*A question we hear often:* the ITIN itself is not the problem. Most credit card issuers ask for a Social Security number to verify your identity and check your credit history, but a credit card company may instead request an Individual Taxpayer Identification Number (ITIN), which the IRS issues to individuals who are still ineligible for a Social Security card. The friction happens when an ITIN holder applies to an issuer that simply does not accept ITINs, or applies for a card designed for applicants with established U.S. credit history they do not yet have.
+The ITIN itself is not the problem. Most credit card issuers ask for a Social Security number to verify your identity and check your credit history, but a credit card company may instead request an Individual Taxpayer Identification Number (ITIN), which the IRS issues to individuals who are still ineligible for a Social Security card. The friction happens when an ITIN holder applies to an issuer that simply does not accept ITINs, or applies for a card designed for applicants with established U.S. credit history they do not yet have.
 
 Once a credit account is opened using your ITIN, it reports to the credit bureaus the same way as any other account. Your payment history, utilization, and account age all factor into your credit score identically whether you used an ITIN or SSN to open the account. The goal, then, is simply to get that first account open at the right place.
 
@@ -50,7 +50,7 @@ One important nuance: policies for accepting ITINs differ, and some credit card 
 
 ## Should I start with a secured card or go straight for an unsecured one?
 
-*Readers frequently ask:* for an ITIN holder with little or no U.S. credit history, starting with a secured card is almost always the right call. The reason is straightforward: it dramatically increases your approval odds.
+For an ITIN holder with little or no U.S. credit history, starting with a secured card is almost always the right call. The reason is straightforward: it dramatically increases your approval odds.
 
 Secured credit cards are the most accessible option for ITIN holders. These cards require a cash deposit that typically serves as the credit limit. After a period of responsible use, some issuers may offer conversion to an unsecured card. They generally have an easier approval process and are effective for credit building.
 
@@ -60,7 +60,7 @@ If you have no U.S. credit file yet, an unsecured card is harder to get approved
 
 ## What is pre-qualification and how does it help ITIN holders?
 
-*This one comes up a lot:* pre-qualification (also called pre-approval) is the most underused tool available to ITIN applicants. The core benefit is simple: you find out your likely outcome before triggering a hard inquiry.
+Pre-qualification (also called pre-approval) is the most underused tool available to ITIN applicants. The core benefit is simple: you find out your likely outcome before triggering a hard inquiry.
 
 Before you apply for credit cards, you may want to try getting pre-approved to see which cards you could be eligible for. Pre-approval typically involves a soft inquiry, which means it won't affect your credit scores. Applying for a credit card generally involves a hard inquiry, which can temporarily lower your scores slightly.
 
@@ -97,7 +97,7 @@ Practical order of operations: open a checking account at Bank of America, Capit
 
 ## How many applications should I submit, and how far apart?
 
-*A question we hear often:* the answer is one at a time, spaced at least six months apart.
+The answer is one at a time, spaced at least six months apart.
 
 Submitting a credit card application typically triggers a hard inquiry, which can lower your FICO score by less than five points for most people. Hard inquiries affect your score for 12 months and stay on your credit report for two years. For an ITIN holder with a thin file, even a small score drop matters because you have fewer positive items to cushion it.
 

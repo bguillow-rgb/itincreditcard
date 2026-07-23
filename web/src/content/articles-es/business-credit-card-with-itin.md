@@ -38,7 +38,7 @@ Si tienes un negocio, trabajas como freelance o tienes un proyecto propio en EE.
 
 ## ¿Realmente puedo obtener una tarjeta de crédito empresarial usando solo mi ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* y la respuesta es un sí definitivo, con un matiz importante.
+Y la respuesta es un sí definitivo, con un matiz importante.
 
 Tu ITIN cumple la misma función de verificación de identidad en una solicitud de tarjeta empresarial que el SSN para un ciudadano estadounidense, le permite al emisor consultar tu historial de crédito personal y confirmar quién eres. Varios bancos grandes, entre ellos Bank of America, Citibank y Wells Fargo, aceptan el ITIN en lugar del número de Seguro Social en solicitudes de tarjetas de crédito empresariales. Capital One y Chase completan las opciones de bancos principales que han confirmado explícitamente que aceptan ITIN.
 
@@ -66,7 +66,7 @@ Capital One Spark Cash es ampliamente reconocida como una de las mejores tarjeta
 
 ## ¿Cuál es la diferencia entre una tarjeta para pequeños negocios y una tarjeta corporativa para titulares de ITIN?
 
-*Esto surge mucho*, especialmente entre emprendedores inmigrantes que han escuchado que las tarjetas corporativas como Brex o Ramp no requieren SSN en absoluto.
+Los emprendedores inmigrantes suelen escuchar que las tarjetas corporativas como Brex o Ramp no requieren SSN en absoluto.
 
 Existen dos categorías de productos fundamentalmente distintas, y entenderlas te ahorrará una solicitud desperdiciada:
 
@@ -78,7 +78,7 @@ Para la mayoría de los titulares de ITIN que están comenzando su camino empres
 
 ## ¿Qué documentos necesito para solicitar una tarjeta?
 
-*Los lectores preguntan frecuentemente* sobre el papeleo exacto, porque los requisitos pueden parecer poco claros cuando no tienes SSN.
+Sobre el papeleo exacto, porque los requisitos pueden parecer poco claros cuando no tienes SSN.
 
 Aquí tienes una lista práctica para una solicitud de tarjeta para pequeños negocios:
 
@@ -118,7 +118,7 @@ También considera combinar tu estrategia de tarjetas de crédito con el reporte
 
 ## ¿Necesito una entidad empresarial formal, o puedo solicitar como propietario único?
 
-*Una pregunta que escuchamos con frecuencia* de freelancers y trabajadores de plataformas digitales, y la respuesta depende de la tarjeta.
+De freelancers y trabajadores de plataformas digitales, y la respuesta depende de la tarjeta.
 
 Para la mayoría de las tarjetas para pequeños negocios de Capital One, Chase y Bank of America, **no** necesitas una LLC o corporación formal. Los propietarios únicos y los contratistas independientes pueden solicitarlas. El "nombre del negocio" puede ser simplemente tu nombre legal, y tu EIN puede ser uno obtenido como propietario único (también gratis con el IRS, también sin necesidad de SSN).
 

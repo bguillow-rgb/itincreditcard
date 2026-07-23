@@ -36,7 +36,7 @@ Precalificarte para una tarjeta de crédito antes de solicitar formalmente es un
 
 ## ¿Qué es exactamente la precalificación de tarjetas de crédito y por qué importa para los titulares de ITIN?
 
-*Una pregunta que escuchamos con frecuencia:* la precalificación (también llamada preaprobación) es un paso de filtro en el que un emisor de tarjetas revisa tu perfil financiero básico mediante una consulta suave de crédito antes de que presentes una solicitud formal.
+La precalificación (también llamada preaprobación) es un paso de filtro en el que un emisor de tarjetas revisa tu perfil financiero básico mediante una consulta suave de crédito antes de que presentes una solicitud formal.
 
 Estos procesos de filtro revisan tu información básica de crédito y realizan una consulta suave para determinar tu probabilidad de aprobación; las consultas suaves no afectan tus puntajes. Esto importa mucho para los titulares de ITIN porque tu historial de crédito en EE. UU. puede ser corto o limitado. La preaprobación generalmente implica una consulta suave, lo que significa que no afectará tus puntajes de crédito, mientras que solicitar una tarjeta de crédito generalmente implica una consulta dura, que puede bajar tus puntajes temporalmente.
 
@@ -44,7 +44,7 @@ Solicitar a ciegas tarjetas que quizás no acepten tu ITIN, o tarjetas cuyos req
 
 ## ¿Qué emisores permiten a los titulares de ITIN precalificarse en línea?
 
-*Esto surge mucho:* no todos los emisores han integrado el soporte para ITIN en su proceso de precalificación, pero varios de los principales sí lo han hecho.
+No todos los emisores han integrado el soporte para ITIN en su proceso de precalificación, pero varios de los principales sí lo han hecho.
 
 La herramienta de precalificación de Capital One solicita tu fecha de nacimiento, más tu número de Seguro Social o Número de Identificación Personal del Contribuyente (ITIN). Ese campo explícito para ITIN hace de Capital One el punto de partida más directo. Capital One tiene la herramienta de preaprobación más transparente, ya que te indica explícitamente en qué nivel (Platinum, QuicksilverOne o Quicksilver/Venture) es probable que califiques, lo que lo convierte en un buen primer paso para cualquier nivel de crédito.
 
@@ -66,7 +66,7 @@ Aquí tienes una tabla de referencia rápida de los principales emisores y su so
 
 ## ¿Qué información necesito para precalificarme con mi ITIN?
 
-*Los lectores preguntan esto con frecuencia:* el formulario de precalificación en la mayoría de los emisores es breve. Por lo general necesitarás:
+El formulario de precalificación en la mayoría de los emisores es breve. Por lo general necesitarás:
 
 - Nombre legal completo (exactamente como aparece en tus documentos de ITIN)
 - Dirección postal en EE. UU.
@@ -91,7 +91,7 @@ Para los titulares de ITIN sin historial de crédito en EE. UU., los resultados 
 
 ## ¿Precalificarme reduce mis probabilidades reales de aprobación o me ayuda?
 
-*Una pregunta que escuchamos con frecuencia:* precalificarte no reduce tus probabilidades. Solo puede ayudarte.
+Precalificarte no reduce tus probabilidades. Solo puede ayudarte.
 
 Cuando te precalificas, el emisor realiza una consulta suave de tu perfil básico. Menos rechazos: precalificarte o preaprobarte significa que es menos probable que te rechacen. Cuando ves una oferta de precalificación y luego solicitas formalmente esa tarjeta específica, lo haces con confianza real en lugar de esperar lo mejor.
 

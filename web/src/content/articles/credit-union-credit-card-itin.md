@@ -36,8 +36,6 @@ If you've already read our guide on [which banks accept ITIN for credit cards](h
 
 ## Why would a credit union be easier than a bank for ITIN holders?
 
-*A question we hear often:*
-
 The short answer is mission. Credit unions are member-owned, not-for-profit cooperatives. Where a large bank's underwriting model is calibrated to minimize risk across millions of anonymous applicants, a credit union's model is calibrated around serving its specific community, which, for many credit unions, explicitly includes immigrants and ITIN holders.
 
 Resource One Credit Union, for example, has formally added ITIN as an accepted form of identification as part of its ongoing commitment to serving diverse populations who may not have a Social Security Number. That kind of institutional commitment is rare at the big-bank level, where ITIN acceptance is real but often uneven, the written policy and what happens at a specific branch are not always the same thing.
@@ -69,8 +67,6 @@ Notably, credit unions like Fibre Federal Credit Union offer consumer loans, inc
 
 ## How do I actually join a credit union with an ITIN?
 
-*This one comes up a lot:*
-
 Credit unions have a concept called a **field of membership**, you have to qualify geographically, professionally, or by association to join. The first step is finding one you're eligible for. The NCUA's free locator at mycreditunion.gov lets you search by zip code. Many community development credit unions (CDCUs) have broad fields of membership, sometimes just living or working in a county is enough.
 
 Once you find a candidate, the standard documents you'll need are:
@@ -85,8 +81,6 @@ Some credit unions that offer ITIN-based products will accept alternative credit
 Important: most credit unions require you to open membership in person or via a video appointment if you're applying with an ITIN rather than an SSN. Don't assume the online application will work, call first.
 
 ## Does it matter which credit union I pick, or are they all the same?
-
-*Readers frequently ask:*
 
 It matters quite a bit. Not every credit union has an ITIN program. Among those that do, depth of commitment varies, some have dedicated bilingual staff and a documented ITIN lending policy; others technically accept ITINs but lack anyone on staff who has processed one recently. A few credit unions, like Express Credit Union in Washington, are even IRS-certified Acceptance Agents, meaning they can help you apply for an ITIN directly and are certified by the IRS to do so. That level of infrastructure signals a genuinely immigrant-friendly institution.
 

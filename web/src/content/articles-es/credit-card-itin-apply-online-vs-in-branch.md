@@ -48,7 +48,7 @@ En línea suele ser la ruta más rápida. Solo elige primero al emisor correcto.
 
 ## ¿Qué emisores me permiten solicitar en línea con un ITIN y cuáles exigen ir a la sucursal?
 
-*Una pregunta que escuchamos seguido:* los lectores pasan horas comparando recompensas de tarjetas solo para descubrir en el último paso que el emisor no acepta su ITIN a través del sitio web. Aquí tienes un resumen práctico.
+Los lectores pasan horas comparando recompensas de tarjetas solo para descubrir en el último paso que el emisor no acepta su ITIN a través del sitio web. Aquí tienes un resumen práctico.
 
 | Emisor | ¿Solicitud ITIN en línea? | ¿Opción en sucursal o por teléfono? | Notas |
 |---|---|---|---|
@@ -71,7 +71,7 @@ Los grandes bancos nacionales como Bank of America y Citibank aceptan ITIN, pero
 
 ## ¿Por qué ir a la sucursal funciona mejor en algunos bancos?
 
-*Esto surge mucho:* la gente se pregunta si el requisito de ir en persona es solo un trámite burocrático o si realmente cambia sus probabilidades.
+La gente se pregunta si el requisito de ir en persona es solo un trámite burocrático o si realmente cambia sus probabilidades.
 
 Sí cambia tus probabilidades, y la razón es estructural. Puedes tener una conversación real con un banquero, explicar tu situación y entregar en mano tus documentos organizados. Un banquero que quiera ayudarte puede sortear las políticas internas de maneras que un algoritmo en línea simplemente no puede.
 
@@ -97,7 +97,7 @@ Un paso de preparación que mejora las probabilidades de aprobación en todos lo
 
 ## ¿Hay tarjetas de crédito donde pueda solicitar 100% en línea con un ITIN y sin ningún historial crediticio?
 
-*Los lectores preguntan seguido:* ¿qué pasa si acabo de llegar a EE. UU., todavía no tengo historial crediticio aquí y no quiero ir a una sucursal?
+¿qué pasa si acabo de llegar a EE. UU., todavía no tengo historial crediticio aquí y no quiero ir a una sucursal?
 
 Sí, existen varias opciones para exactamente esta situación. La Current Build Card es una opción sólida para titulares de ITIN sin historial crediticio. No hay verificación de crédito, no se requiere depósito de seguridad mínimo y tiene 0% APR, por lo que la aprobación no depende de un historial crediticio en EE. UU. que todavía no tienes. Gastas desde tu cuenta Current como si fuera una tarjeta de débito, y la actividad se reporta a Experian, TransUnion y Equifax como uso de crédito puntual.
 
@@ -111,7 +111,7 @@ Si quieres saber cómo se reportará la actividad de tu tarjeta a los burós una
 
 ## ¿Qué hago si el formulario en línea sigue rechazando mi ITIN?
 
-*Una pregunta que escuchamos seguido:* el formulario parece aceptar un número de nueve dígitos pero luego muestra un error o un mensaje de "usa un SSN válido".
+El formulario parece aceptar un número de nueve dígitos pero luego muestra un error o un mensaje de "usa un SSN válido".
 
 Prueba estos pasos en orden:
 
