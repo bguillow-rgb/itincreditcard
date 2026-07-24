@@ -17,7 +17,7 @@ relatedSlugs:
   - "travel-credit-card-itin-holders"
   - "no-annual-fee-credit-card-itin"
   - "credit-card-international-students-itin"
-  - "low-apr-credit-card-itin-holders"
+  - "itin-credit-card-hotels-car-rentals"
 faqs:
   - q: "Can I use my ITIN credit card abroad without paying a foreign transaction fee?"
     a: "Yes, if you chose a card that explicitly waives foreign transaction fees. Many ITIN-friendly cards, including Capital One's secured and unsecured lineup and Petal 2, charge $0 in foreign transaction fees. Always confirm in the card's Schumer Box before applying, because other ITIN-friendly cards like OpenSky Secured do charge a 3% foreign transaction fee."

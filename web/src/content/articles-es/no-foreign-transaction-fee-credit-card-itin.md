@@ -17,7 +17,7 @@ relatedSlugs:
   - "no-annual-fee-credit-card-itin"
   - "cash-back-credit-card-itin-holders"
   - "credit-union-credit-card-itin"
-  - "low-apr-credit-card-itin-holders"
+  - "itin-credit-card-hotels-car-rentals"
 faqs:
   - q: "¿Puedo usar mi tarjeta de crédito con ITIN en el extranjero sin pagar cargo por transacción extranjera?"
     a: "Sí, siempre que hayas elegido una tarjeta que elimine expresamente ese cargo. Muchas tarjetas amigables con ITIN, incluidas las líneas asegurada y no asegurada de Capital One y la Petal 2, cobran $0 por transacciones extranjeras. Confirma siempre en el Schumer Box de la tarjeta antes de solicitar, porque otras tarjetas que aceptan ITIN, como la OpenSky Secured, sí cobran un cargo del 3%."
