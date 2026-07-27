@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "authorized-user-credit-card-itin"
   - "balance-transfer-credit-card-itin"
+  - "best-starter-credit-cards-itin-zero-credit-history"
   - "credit-card-international-students-itin"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "Does using an ITIN instead of an SSN change how my credit card activity is reported?"
     a: "No. Once your account is open, the issuer reports your payment history, balance, credit limit, and account age to the credit bureaus exactly the same way it does for SSN holders. The ITIN simply identifies your file; it does not affect what gets reported or how scoring models evaluate it."

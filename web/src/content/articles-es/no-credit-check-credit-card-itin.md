@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"
+  - "best-starter-credit-cards-itin-zero-credit-history"
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "secured-credit-card-with-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Varios emisores, como OpenSky, Firstcard y la Current Build Card, aprueban a titulares de ITIN sin exigir ningún historial crediticio en EE. UU. En lugar de revisar tu expediente de crédito, se basan en un depósito de seguridad o en una cuenta bancaria vinculada."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "upgrade-secured-to-unsecured-credit-card-itin"
   - "secured-credit-card-deposit-itin-holders"
-  - "cash-back-credit-card-itin-holders"
+  - "best-starter-credit-cards-itin-zero-credit-history"
 faqs:
   - q: "Can I get an unsecured credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but options are limited if you're starting from zero. Cards like the Zolve Classic and the Current Build Card use alternative underwriting, such as income verification or bank account history, instead of a traditional credit score, so no prior U.S. credit history is required."
