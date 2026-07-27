@@ -41,7 +41,11 @@ const faqs = [
   },
 ];
 ---
-<BaseLayout title={SITE.name} ogImage="/og/home.png">
+<BaseLayout
+  title={SITE.name}
+  description="ITINCreditCard.com is an independent hub for ITIN cardholders. Get matched with an issuer, then read plain-English guides on applying without an SSN, secured vs. unsecured cards, and building U.S. credit from zero."
+  ogImage="/og/home.png"
+>
   <!-- Spotlight hero (image-led, bold) -->
   <section class="spotlight">
     <img class="spotlight-photo" src="/img/credit-cards.webp" alt="A stack of credit cards on a clean surface" loading="eager" fetchpriority="high" decoding="async" />
@@ -51,8 +55,8 @@ const faqs = [
         <h1>Get a credit card with your ITIN, no SSN required</h1>
         <p class="lede">
           Building U.S. credit with an ITIN is possible, and faster than most people expect.
-          We help ITIN holders find the right card, understand how approval works, and grow
-          their score step by step.
+          We help you find <a href="/credit-cards-that-accept-itin">credit cards that accept an ITIN</a>,
+          understand how approval works, and grow your score step by step.
         </p>
         <div class="spotlight-cta">
           <a href="#lead" class="btn btn-gold btn-lg">Find your card</a>
