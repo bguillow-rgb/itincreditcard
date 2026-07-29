@@ -56,10 +56,10 @@ Cómo compilamos esta información: cruzamos las páginas de solicitud de los em
 
 | Posición | Tarjeta | Tipo | Depósito mínimo | Cuota anual | APR | Sin verificación de crédito | Recompensas | Ideal para |
 |------|------|------|-------------|------------|-----|-----------------|---------|----------|
-| 1 | Capital One Quicksilver Secured | Asegurada | $200 | $0 | 28.99% variable | No | 1.5% reembolso en efectivo | La mayoría de los titulares de ITIN que empiezan |
+| 1 | Capital One Quicksilver Secured | Asegurada | $200 | $0 | 29.99% variable | No | 1.5% reembolso en efectivo | La mayoría de los titulares de ITIN que empiezan |
 | 2 | OpenSky Secured Visa | Asegurada | $200 | $35 | 23.89% variable | Sí | Ninguna | Titulares de ITIN que quieren aprobación garantizada |
 | 3 | Chase Freedom Rise | Sin garantía | Ninguno | $0 | Variable | No | 1.5% reembolso en efectivo | Titulares de ITIN con cuenta Chase |
-| 4 | Citi Secured Mastercard | Asegurada | $200 | $0 | 27.49% variable | No | Ninguna | Clientes bancarios de Citi |
+| 4 | Citi Secured Mastercard | Asegurada | $200 | $0 | ~27.74% variable | No | Ninguna | Clientes bancarios de Citi |
 | 5 | OpenSky Plus Secured Visa | Asegurada | $300 | $0 | Variable | Sí | Ninguna | Quienes buscan cero cuota anual y sin verificación de crédito |
 | 6 | Current Build Card | Saldo vinculado | Ninguno | $0 | 0% | Sí | 1 punto/$ en restaurantes y supermercados | Titulares de ITIN que quieren riesgo cero de deuda |
 | 7 | Self Visa Credit Card | Asegurada | $100 | $0 el año 1, $25 después | 27.49% variable | No | Ninguna | Solicitantes que quieren combinar crédito a plazos y revolvente |
@@ -124,7 +124,7 @@ La contrapartida es que Chase sí realiza una consulta dura de crédito. Si tu e
 | Cuota anual | $0 | $0 el año 1, $25 después |
 | Depósito mínimo | $200 | $100 |
 | Depósito máximo / límite | $2,500 | Varía |
-| APR | 27.49% variable | 27.49% variable |
+| APR | ~27.74% variable | 27.49% variable |
 | Sin verificación de crédito | No | No |
 | Recompensas | Ninguna | Ninguna |
 | Comisión por transacciones internacionales | 3% | Ninguna |

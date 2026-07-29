@@ -54,19 +54,19 @@ Of the top 10 credit card issuers, seven accept an ITIN, including Bank of Ameri
 
 ### Master issuer reference table
 
-| Issuer | ITIN Accepted? | Cards Available | Apply Online? | Min. Credit Score (approx.) | Notes |
-|---|---|---|---|---|---|
-| **Capital One** | Yes, all cards | Platinum, Quicksilver Secured, QuicksilverOne, Savor Student | Yes | None (secured); 650+ (unsecured) | Pre-qualification tool uses soft pull |
-| **Chase** | Yes, all cards | Freedom Rise, Freedom Unlimited, Sapphire Preferred, and more | Yes | 670+ (Freedom Unlimited); 720+ (Sapphire) | Branch application always available |
-| **American Express** | Yes, SSN or ITIN | Blue Business Plus, Gold, Platinum, and more | Yes | 670+ (most cards) | Can import foreign Amex history in some countries |
-| **Bank of America** | Yes | Customized Cash Rewards Secured, others | Varies by citizenship | 670+ (unsecured) | Existing BofA account strongly helps approval |
-| **Wells Fargo** | Yes, all cards | Active Cash, Autograph, Reflect | Yes | 670+ (Active Cash) | 3% foreign transaction fee on Active Cash |
-| **Citi** | Yes (select cards) | Secured Mastercard; some unsecured with banking relationship | Varies | None (secured) | Branch relationship often required for ITIN applications |
-| **U.S. Bank** | Yes (secured only) | U.S. Bank Secured Visa | Yes | None | $300-$5,000 deposit; upgrade path to unsecured |
-| **OpenSky** | Yes | Secured Visa ($35/yr), Plus Secured ($0/yr), Launch | Yes | None (no credit check at all) | $200-$3,000 deposit; 89% approval rate cited |
-| **Zolve** | Yes (passport also accepted) | Zolve Classic | Yes | None | For H1-B, L-1, F-1 visa holders; up to $10,000 limit |
-| **Tilt (fka Petal)** | Yes (SSN or ITIN) | Tilt Motion Visa | Yes | 580+ (fair credit ok) | No deposit, no annual fee; cash-flow underwriting |
-| **Discover** | **No** | None | N/A | N/A | SSN required; no ITIN accepted |
+| Issuer | ITIN Accepted? | Cards Available | Apply Online? | Min. Credit Score (approx.) | Last Verified | Notes |
+|---|---|---|---|---|---|---|
+| **Capital One** | Yes, all cards | Platinum, Quicksilver Secured, QuicksilverOne, Savor Student | Yes | None (secured); 650+ (unsecured) | Jul 2026 | Pre-qualification tool uses soft pull |
+| **Chase** | Yes, all cards | Freedom Rise, Freedom Unlimited, Sapphire Preferred, and more | Yes | 670+ (Freedom Unlimited); 720+ (Sapphire) | Jul 2026 | Branch application always available |
+| **American Express** | Yes, SSN or ITIN | Blue Business Plus, Gold, Platinum, and more | Yes | 670+ (most cards) | Jul 2026 | Can import foreign Amex history in some countries |
+| **Bank of America** | Yes | Customized Cash Rewards Secured, others | Varies by citizenship | 670+ (unsecured) | Jul 2026 | Existing BofA account strongly helps approval |
+| **Wells Fargo** | Yes, all cards | Active Cash, Autograph, Reflect | Yes | 670+ (Active Cash) | Jul 2026 | 3% foreign transaction fee on Active Cash |
+| **Citi** | Yes (select cards) | Secured Mastercard; some unsecured with banking relationship | Varies | None (secured) | Jul 2026 | Branch relationship often required for ITIN applications |
+| **U.S. Bank** | Yes (secured only) | U.S. Bank Secured Visa | Yes | None | Jul 2026 | $300-$5,000 deposit; upgrade path to unsecured |
+| **OpenSky** | Yes | Secured Visa ($35/yr), Plus Secured ($0/yr), Launch | Yes | None (no credit check at all) | Jul 2026 | $200-$3,000 deposit; 89% approval rate cited |
+| **Zolve** | Yes (passport also accepted) | Zolve Classic | Yes | None | Jul 2026 | For H1-B, L-1, F-1 visa holders; up to $10,000 limit |
+| **Tilt (fka Petal)** | Yes (SSN or ITIN) | Tilt Motion Visa | Yes | 580+ (fair credit ok) | Jul 2026 | No deposit, no annual fee; cash-flow underwriting |
+| **Discover** | **No** | None | N/A | N/A | Jul 2026 | SSN required; no ITIN accepted |
 
 ---
 
@@ -131,7 +131,7 @@ Issuers often bury the most useful numbers in footnotes. Here is the consolidate
 | U.S. Bank Secured Visa | $0 | ~28.99% | $300 | $5,000 | Yes |
 | Citi Secured Mastercard | $0 | ~27.74% | $200 | $2,500 | Yes |
 
-A few numbers worth flagging: the OpenSky Secured Visa's 21.14% variable APR makes it a better choice than most secured cards if you do not pay your balance in full each month. That is meaningfully lower than the 28%-30% range common across Capital One's secured lineup. The U.S. Bank Secured Credit Card requires a minimum deposit of at least $300, up to $5,000. This card typically allows an upgrade to an unsecured U.S. Bank card after a period of responsible use, which makes it a strong long-term option for applicants who can fund a larger deposit.
+A few numbers worth flagging: the OpenSky Secured Visa's 23.89% variable APR makes it a better choice than most secured cards if you do not pay your balance in full each month. That is meaningfully lower than the 28%-30% range common across Capital One's secured lineup. The U.S. Bank Secured Credit Card requires a minimum deposit of at least $300, up to $5,000. This card typically allows an upgrade to an unsecured U.S. Bank card after a period of responsible use, which makes it a strong long-term option for applicants who can fund a larger deposit.
 
 One concrete data point worth remembering: on average, OpenSky cardmembers see their scores jump 47 points in six months.
 

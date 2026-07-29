@@ -58,21 +58,21 @@ This guide cuts through the noise. Below you will find a ranked, issuer-by-issue
 
 The table below is the fastest way to find your fit. Cards are sorted from easiest to hardest to get based on credit history requirements.
 
-| Issuer / Card | Type | Min. Deposit | Annual Fee | APR (Variable) | Credit Check? | Best For |
-|---|---|---|---|---|---|---|
-| OpenSky Secured Visa | Secured | $200 | $35 | 23.89% | No | Zero history, no credit check |
-| OpenSky Plus Secured Visa | Secured | $300 | $0 | 28.24% | No | Zero history, no annual fee |
-| OpenSky Launch Secured Visa | Secured | $100 | $0 (+ $3/mo fee) | 28.24% | No | Lowest entry deposit |
-| Capital One Platinum Secured | Secured | $49-$200 | $0 | ~29.49% | Soft pre-qual, hard on apply | Thin/no credit, major bank path |
-| Capital One Quicksilver Secured | Secured | $200 | $0 | Variable | Soft pre-qual, hard on apply | No credit + 1.5%-5% cash back |
-| Petal 2 Visa (now Tilt) | Unsecured | None | $0 | 28.24%-30.24% | Soft pre-qual, hard on apply | No-deposit, limited/fair credit |
-| Zolve Classic | Unsecured | None | $0 | 19.50%-39.50% | Soft | Newcomers, students, no history |
-| Chase Freedom Rise | Unsecured | None | $0 | Variable | Hard | Fair credit, Chase bank customer |
-| Amex Gold / Blue Cash | Unsecured | None | Varies | Variable | Hard | Established credit 700+ |
-| Bank of America Secured | Secured | $200-$5,000 | $0 | Variable | Hard | Existing BofA banking relationship |
-| Wells Fargo Secured | Secured | $300 | $25 | Variable | Hard | WF banking relationship |
-| Citi Secured Mastercard | Secured | $200 | $0 | Variable | Hard | Any credit level, Citi relationship |
-| Capital One Spark Cash (Business) | Unsecured | None | $95 (yr 2+) | Variable | Hard | ITIN business owners, good credit |
+| Issuer / Card | Type | Min. Deposit | Annual Fee | APR (Variable) | Application Method | Credit Check? | Best For |
+|---|---|---|---|---|---|---|---|
+| OpenSky Secured Visa | Secured | $200 | $35 | 23.89% | Online | No | Zero history, no credit check |
+| OpenSky Plus Secured Visa | Secured | $300 | $0 | 28.24% | Online | No | Zero history, no annual fee |
+| OpenSky Launch Secured Visa | Secured | $100 | $0 (+ $3/mo fee) | 28.24% | Online | No | Lowest entry deposit |
+| Capital One Platinum Secured | Secured | $49-$200 | $0 | ~29.99% | Online | Soft pre-qual, hard on apply | Thin/no credit, major bank path |
+| Capital One Quicksilver Secured | Secured | $200 | $0 | Variable | Online | Soft pre-qual, hard on apply | No credit + 1.5%-5% cash back |
+| Petal 2 Visa (now Tilt) | Unsecured | None | $0 | 28.24%-30.24% | Online | Soft pre-qual, hard on apply | No-deposit, limited/fair credit |
+| Zolve Classic | Unsecured | None | $0 | 19.50%-39.50% | Online | Soft | Newcomers, students, no history |
+| Chase Freedom Rise | Unsecured | None | $0 | Variable | Online (branch available) | Hard | Fair credit, Chase bank customer |
+| Amex Gold / Blue Cash | Unsecured | None | Varies | Variable | Online | Hard | Established credit 700+ |
+| Bank of America Secured | Secured | $200-$5,000 | $0 | Variable | Online or branch (varies by citizenship) | Hard | Existing BofA banking relationship |
+| Wells Fargo Secured | Secured | $300 | $25 | Variable | Online | Hard | WF banking relationship |
+| Citi Secured Mastercard | Secured | $200 | $0 | Variable | Online or branch | Hard | Any credit level, Citi relationship |
+| Capital One Spark Cash (Business) | Unsecured | None | $95 (yr 2+) | Variable | Online | Hard | ITIN business owners, good credit |
 
 *APR ranges are approximate and vary with the Prime Rate. Always verify current terms directly with the issuer before applying.*
 

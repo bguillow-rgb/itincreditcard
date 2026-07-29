@@ -57,7 +57,7 @@ Si tienes ITIN y estás tratando de decidir si comenzar con una tarjeta de créd
 | Aprobación sin historial en EE.UU. | Probable (algunas sin verificación de crédito) | Difícil o casi imposible |
 | Verificación de crédito al aplicar | A veces se omite por completo | Casi siempre requerida |
 | Límite de crédito inicial | Igual al depósito | Lo determina el emisor según tu perfil crediticio |
-| Rango de APR típico | 21%-29.99% variable | 29.99%+ variable |
+| Rango de APR típico | ~24%-29.99% variable | 29.99%+ variable |
 | Recompensas | Poco comunes, pero existen | Más comunes |
 | Camino hacia la graduación | 6-18 meses pagando a tiempo | N/A |
 | Ideal para | Titulares de ITIN sin historial crediticio en EE.UU. | Titulares de ITIN con crédito establecido (puntaje 680+) |
@@ -90,16 +90,16 @@ Dicho esto, esto es la excepción. Las tarjetas no aseguradas para titulares de 
 
 La tabla a continuación refleja datos actuales de los sitios web de los emisores y fuentes verificadas de terceros. Confirma las tasas vigentes con cada emisor antes de aplicar, ya que los APRs son variables y cambian con la tasa preferencial.
 
-| Tarjeta | Depósito mínimo | Depósito máximo | Cuota anual | APR de compras | ¿Verificación de crédito? | ¿Acepta ITIN? | Camino hacia la graduación |
-|---|---|---|---|---|---|---|---|
-| Capital One Platinum Secured | $49, $99 o $200 | $1,000 | $0 | ~28.99% variable | Sí (pre-calificación suave disponible) | Sí | Revisión automática a los 6 meses |
-| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Sí | Sí | Revisión periódica, típicamente ~18 meses |
-| OpenSky Secured Visa | $200 | $3,000 | $35 | ~21.14% variable | No | Sí | Graduación a OpenSky Gold en 6+ meses |
-| OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Sí | Graduación a OpenSky Gold en 6+ meses |
-| BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Sí | Sí (solo en sucursal para ITIN) | Revisión automática a los ~12 meses |
-| Amazon Secured Card (Synchrony) | $100 | $1,000 | $0 | 10% fija | Sí | Sí (puede requerir verificación en sucursal o por teléfono) | Graduación a tarjeta no asegurada de tienda a los 12 meses |
+| Tarjeta | Depósito mínimo | Depósito máximo | Cuota anual | APR de compras | ¿Verificación de crédito? | ¿Acepta ITIN? | Tiempo típico hasta la graduación | Camino hacia la graduación |
+|---|---|---|---|---|---|---|---|---|
+| Capital One Platinum Secured | $49, $99 o $200 | $1,000 | $0 | ~29.99% variable | Sí (pre-calificación suave disponible) | Sí | 6+ meses | Revisión automática a los 6 meses |
+| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Sí | Sí | 12-18 meses | Revisión periódica, típicamente ~18 meses |
+| OpenSky Secured Visa | $200 | $3,000 | $35 | ~23.89% variable | No | Sí | 6+ meses | Graduación a OpenSky Gold en 6+ meses |
+| OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Sí | 6+ meses | Graduación a OpenSky Gold en 6+ meses |
+| BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Sí | Sí (solo en sucursal para ITIN) | ~12 meses | Revisión automática a los ~12 meses |
+| Amazon Secured Card (Synchrony) | $100 | $1,000 | $0 | 10% fija | Sí | Sí (puede requerir verificación en sucursal o por teléfono) | ~12 meses | Graduación a tarjeta no asegurada de tienda a los 12 meses |
 
-**Nota editorial:** La Discover it Secured Card era una opción sólida: sin cuota anual, recompensas de devolución de efectivo y revisión de graduación a los 7 meses. A partir del 2 de junio de 2026, Discover ya no acepta solicitudes para esa tarjeta. Capital One, que adquirió Discover en 2025, indica que relanzará la tarjeta más adelante este año. Actualizaremos esta tabla cuando eso ocurra.
+**Nota editorial:** La Discover it Secured Card era una opción sólida: sin cuota anual, recompensas de devolución de efectivo y revisión de graduación a los 7 meses. Según se ha reportado, Discover dejó de aceptar nuevas solicitudes para esa tarjeta, y los reportes de la comunidad apuntan a alrededor del 2 de junio de 2026, tras la adquisición de Discover por Capital One. Capital One ha indicado que podría relanzar la tarjeta, pero no se ha confirmado una fecha firme. Actualizaremos esta tabla cuando se confirmen los términos.
 
 ---
 
@@ -111,7 +111,7 @@ Usa la tarjeta para compras pequeñas, paga a tiempo, y Capital One puede consid
 
 Para los titulares de ITIN con presupuesto ajustado, el punto de entrada de $49 es genuinamente útil. Estableces una línea de crédito reportada y comienzas a construir tu historial crediticio en EE.UU. sin inmovilizar varios cientos de dólares.
 
-Algo importante que saber: la tarjeta no tiene cuota anual ni cargos por transacciones en el extranjero, pero tiene un APR variable de 28.99% en compras. Si pagas tu saldo completo cada mes, el APR es irrelevante. Si llevas un saldo, el costo se acumula rápidamente.
+Algo importante que saber: la tarjeta no tiene cuota anual ni cargos por transacciones en el extranjero, pero tiene un APR variable de 29.99% en compras. Si pagas tu saldo completo cada mes, el APR es irrelevante. Si llevas un saldo, el costo se acumula rápidamente.
 
 ---
 
@@ -123,7 +123,7 @@ OpenSky ofrece ahora una pequeña familia de tres tarjetas aseguradas a diferent
 
 ¿Qué nivel de OpenSky tiene más sentido para un titular de ITIN? Para quienes construyen crédito por primera vez y pueden depositar $300 por adelantado, la tarjeta Plus es la mejor opción a largo plazo. Para quienes solo pueden destinar $100, la tarjeta Launch abre la puerta. La tarjeta original, con su cuota anual de $35, queda en el medio y tiene el APR más bajo de las tres.
 
-Según los propios datos de OpenSky, los usuarios mejoran su puntaje de crédito un promedio de 50 puntos en seis meses. OpenSky también anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo seis meses, uno de los plazos de graduación más cortos anunciados entre las tarjetas aseguradas accesibles con ITIN.
+Según los propios datos de OpenSky, los usuarios mejoran su puntaje de crédito un promedio de 47 puntos en seis meses. OpenSky también anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo seis meses, uno de los plazos de graduación más cortos anunciados entre las tarjetas aseguradas accesibles con ITIN.
 
 ---
 

@@ -58,21 +58,21 @@ Esta guía va directo al grano. A continuación encontrarás una comparación or
 
 La tabla de abajo es la forma más rápida de encontrar tu mejor opción. Las tarjetas están ordenadas de más fácil a más difícil de obtener según los requisitos de historial crediticio.
 
-| Emisor / Tarjeta | Tipo | Depósito mínimo | Comisión anual | APR (variable) | ¿Verifica crédito? | Ideal para |
-|---|---|---|---|---|---|---|
-| OpenSky Secured Visa | Asegurada | $200 | $35 | 23.89% | No | Sin historial, sin verificación de crédito |
-| OpenSky Plus Secured Visa | Asegurada | $300 | $0 | 28.24% | No | Sin historial, sin comisión anual |
-| OpenSky Launch Secured Visa | Asegurada | $100 | $0 (+ $3/mes) | 28.24% | No | Depósito de entrada más bajo |
-| Capital One Platinum Secured | Asegurada | $49-$200 | $0 | ~29.49% | Precalificación suave, consulta fuerte al solicitar | Crédito escaso o nulo, banco de nombre reconocido |
-| Capital One Quicksilver Secured | Asegurada | $200 | $0 | Variable | Precalificación suave, consulta fuerte al solicitar | Sin crédito + reembolso en efectivo del 1.5%-5% |
-| Petal 2 Visa (ahora Tilt) | Sin garantía | Ninguno | $0 | 28.24%-30.24% | Precalificación suave, consulta fuerte al solicitar | Sin depósito, crédito limitado o regular |
-| Zolve Classic | Sin garantía | Ninguno | $0 | 19.50%-39.50% | Suave | Recién llegados, estudiantes, sin historial |
-| Chase Freedom Rise | Sin garantía | Ninguno | $0 | Variable | Fuerte | Crédito regular, cliente de Chase |
-| Amex Gold / Blue Cash | Sin garantía | Ninguno | Varía | Variable | Fuerte | Crédito establecido de 700+ |
-| Bank of America Secured | Asegurada | $200-$5,000 | $0 | Variable | Fuerte | Relación bancaria existente con BofA |
-| Wells Fargo Secured | Asegurada | $300 | $25 | Variable | Fuerte | Relación bancaria con WF |
-| Citi Secured Mastercard | Asegurada | $200 | $0 | Variable | Fuerte | Cualquier nivel de crédito, relación con Citi |
-| Capital One Spark Cash (negocios) | Sin garantía | Ninguno | $95 (desde el año 2) | Variable | Fuerte | Dueños de negocios con ITIN y buen crédito |
+| Emisor / Tarjeta | Tipo | Depósito mínimo | Comisión anual | APR (variable) | Método de solicitud | ¿Verifica crédito? | Ideal para |
+|---|---|---|---|---|---|---|---|
+| OpenSky Secured Visa | Asegurada | $200 | $35 | 23.89% | En línea | No | Sin historial, sin verificación de crédito |
+| OpenSky Plus Secured Visa | Asegurada | $300 | $0 | 28.24% | En línea | No | Sin historial, sin comisión anual |
+| OpenSky Launch Secured Visa | Asegurada | $100 | $0 (+ $3/mes) | 28.24% | En línea | No | Depósito de entrada más bajo |
+| Capital One Platinum Secured | Asegurada | $49-$200 | $0 | ~29.99% | En línea | Precalificación suave, consulta fuerte al solicitar | Crédito escaso o nulo, banco de nombre reconocido |
+| Capital One Quicksilver Secured | Asegurada | $200 | $0 | Variable | En línea | Precalificación suave, consulta fuerte al solicitar | Sin crédito + reembolso en efectivo del 1.5%-5% |
+| Petal 2 Visa (ahora Tilt) | Sin garantía | Ninguno | $0 | 28.24%-30.24% | En línea | Precalificación suave, consulta fuerte al solicitar | Sin depósito, crédito limitado o regular |
+| Zolve Classic | Sin garantía | Ninguno | $0 | 19.50%-39.50% | En línea | Suave | Recién llegados, estudiantes, sin historial |
+| Chase Freedom Rise | Sin garantía | Ninguno | $0 | Variable | En línea (sucursal disponible) | Fuerte | Crédito regular, cliente de Chase |
+| Amex Gold / Blue Cash | Sin garantía | Ninguno | Varía | Variable | En línea | Fuerte | Crédito establecido de 700+ |
+| Bank of America Secured | Asegurada | $200-$5,000 | $0 | Variable | En línea o sucursal (según ciudadanía) | Fuerte | Relación bancaria existente con BofA |
+| Wells Fargo Secured | Asegurada | $300 | $25 | Variable | En línea | Fuerte | Relación bancaria con WF |
+| Citi Secured Mastercard | Asegurada | $200 | $0 | Variable | En línea o sucursal | Fuerte | Cualquier nivel de crédito, relación con Citi |
+| Capital One Spark Cash (negocios) | Sin garantía | Ninguno | $95 (desde el año 2) | Variable | En línea | Fuerte | Dueños de negocios con ITIN y buen crédito |
 
 *Los rangos de APR son aproximados y varían con la tasa preferencial. Verifica siempre los términos vigentes directamente con el emisor antes de solicitar.*
 

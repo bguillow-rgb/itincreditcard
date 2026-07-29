@@ -46,20 +46,21 @@ People consistently want a simple, confirmed list, not vague reassurances. Here 
 
 Many of the top credit card issuers have rewards credit cards you can apply for using an ITIN, including Chase, American Express, and Capital One. Beyond that core trio, Bank of America, Citi, and Wells Fargo also accept ITINs for at least some of their credit products. The table below organizes the issuer landscape by what is confirmed:
 
-| Issuer | Accepts ITIN? | Best Entry Card for ITIN Holders | Apply How? |
-|---|---|---|---|
-| **Capital One** | ✅ Yes, multiple cards | Quicksilver Secured or Platinum | Online, phone, or branch |
-| **Chase** | ✅ Yes, most cards | Chase Freedom Rise | Online, phone, or branch |
-| **American Express** | ✅ Yes, personal cards | Amex Gold (with established credit) | Online |
-| **Bank of America** | ✅ Yes (esp. with existing account) | BofA Customized Cash Secured | Branch preferred |
-| **Citi** | ✅ Yes (esp. with banking relationship) | Citi Secured Mastercard | Branch preferred |
-| **Wells Fargo** | ✅ Yes | Wells Fargo Secured Credit Card | Branch or online |
-| **U.S. Bank** | ⚠️ Secured cards only | U.S. Bank Secured Visa | Branch |
-| **OpenSky** | ✅ Yes, no credit check | OpenSky Secured Visa | Online |
-| **Petal** | ✅ Yes, no annual fee | Petal 2 Visa | Online |
-| **Current (Build Card)** | ✅ Yes, no credit check | Current Build Card | App |
+| Bank / Issuer | Accepts ITIN on credit cards? | Online or branch-only | Foreign passport also accepted? | Reports to all 3 bureaus? | Last Verified |
+|---|---|---|---|---|---|
+| **Capital One** | Yes, all cards | Online (phone or branch also) | Not confirmed | Yes | Jul 2026 |
+| **Chase** | Yes, all cards | Online (branch available) | Not confirmed | Yes | Jul 2026 |
+| **American Express** | Yes | Online | Not confirmed | Yes | Jul 2026 |
+| **Bank of America** | Yes | Online or branch (varies by citizenship) | Not confirmed | Not confirmed | Jul 2026 |
+| **Wells Fargo** | Yes, all cards | Online | Not confirmed | Yes | Jul 2026 |
+| **Citi** | Yes, select cards | Online or branch (relationship often required) | Not confirmed | Not confirmed | Jul 2026 |
+| **U.S. Bank** | Yes, secured cards only | Online | Not confirmed | Not confirmed | Jul 2026 |
+| **OpenSky** | Yes, no credit check | Online | Not confirmed | Yes | Jul 2026 |
+| **Zolve** | Yes | Online | Yes | Yes | Jul 2026 |
+| **Tilt (fka Petal)** | Yes | Online | Not confirmed | Yes | Jul 2026 |
+| **Discover** | No | N/A | N/A | N/A | Jul 2026 |
 
-U.S. Bank accepts SSN or ITIN for secured cards only. Every other major issuer in the table above extends ITIN acceptance more broadly, though always subject to each card's individual underwriting criteria.
+"Not confirmed" means the issuer has not published a clear policy on that point for ITIN applicants, so we do not assert it either way. Confirm the current detail with the issuer before you apply. U.S. Bank accepts an ITIN for secured cards only. Every other issuer marked "Yes" above extends ITIN acceptance more broadly, though always subject to each card's individual underwriting criteria. The roster and reporting facts here match our [2026 verified issuer list](/articles/credit-cards-that-accept-itin-verified-issuer-list).
 
 ---
 
@@ -118,7 +119,7 @@ The answer depends on whether you can put down a security deposit.
 
 **If you can make a deposit:** Capital One is the most immigrant-friendly major bank for entry-level applicants. A secured credit card like the Platinum Secured or the Capital One Quicksilver Secured card might be a good place to start. You can apply for both cards with an ITIN. Capital One's pre-qualification tool also lets you gauge your odds with a soft inquiry before committing, a smart move given that credit card applications get rejected around 22% of the time, according to the latest data from the Federal Reserve Bank of New York.
 
-**If you cannot make a deposit:** The Current Build Card is the strongest no-deposit, no-credit-check option for ITIN holders. You spend like a debit card from your Current account, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. The Petal 2 Visa is another strong no-deposit option if you have some U.S. banking history, cardholders earn 1% cash back on all eligible purchases, up to 1.25% after 6 months of on-time payments, and 1.5% after 12 consecutive months. Applicants with limited credit and an ITIN can get approved, and there's no annual fee.
+**If you cannot make a deposit:** The Current Build Card is the strongest no-deposit, no-credit-check option for ITIN holders. You spend like a debit card from your Current account, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. The Tilt Motion Visa, the successor to the Petal 2 Visa, is another strong no-deposit option if you have some U.S. banking history. As reported, Petal 1 and Petal 2 stopped taking new applications in 2026 after Empower Finance's acquisition, and new applicants are routed to Tilt instead. Applicants with limited credit and an ITIN can get approved through Tilt's cash-flow underwriting, and there's no annual fee.
 
 Once you have 12-18 months of on-time payment history, transitioning to an unsecured rewards card at Chase or Amex becomes a realistic goal. Read our guide on [how to build credit with an ITIN](/how-to-build-credit-with-itin) for the full roadmap.
 

@@ -57,7 +57,7 @@ If you have an ITIN and are trying to figure out whether to start with a secured
 | Approval with zero U.S. credit | Likely (some with no credit check) | Difficult to near-impossible |
 | Credit check at application | Sometimes waived entirely | Almost always required |
 | Starting credit limit | Equal to deposit | Set by issuer based on creditworthiness |
-| Typical APR range | 21%-29.99% variable | 29.99%+ variable |
+| Typical APR range | ~24%-29.99% variable | 29.99%+ variable |
 | Rewards | Rare but available | More common |
 | Graduation path | 6-18 months of on-time payments | N/A |
 | Best for | ITIN holders with no U.S. credit history | ITIN holders with established credit (680+ score) |
@@ -90,16 +90,16 @@ That said, this is the exception. Unsecured cards for ITIN holders generally req
 
 The table below reflects current data from issuer websites and verified third-party sources. Confirm live rates at each issuer before applying, as APRs are variable and shift with the prime rate.
 
-| Card | Min. Deposit | Max. Deposit | Annual Fee | Purchase APR | Credit Check? | ITIN Accepted | Graduation Path |
-|---|---|---|---|---|---|---|---|
-| Capital One Platinum Secured | $49, $99, or $200 | $1,000 | $0 | ~28.99% variable | Yes (soft pre-qualify available) | Yes | Auto-review after 6 months |
-| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Yes | Yes | Periodic review, ~18 months typical |
-| OpenSky Secured Visa | $200 | $3,000 | $35 | ~21.14% variable | No | Yes | Graduation to OpenSky Gold in 6+ months |
-| OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Yes | Graduation to OpenSky Gold in 6+ months |
-| BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Yes | Yes (in-branch only for ITIN) | Auto-review at ~12 months |
-| Amazon Secured Card (Synchrony) | $100 | $1,000 | $0 | 10% fixed | Yes | Yes (may require branch/phone verification) | Graduation to unsecured store card after 12 months |
+| Card | Min. Deposit | Max. Deposit | Annual Fee | Purchase APR | Credit Check? | ITIN Accepted | Typical Time to Graduation | Graduation Path |
+|---|---|---|---|---|---|---|---|---|
+| Capital One Platinum Secured | $49, $99, or $200 | $1,000 | $0 | ~29.99% variable | Yes (soft pre-qualify available) | Yes | 6+ months | Auto-review after 6 months |
+| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Yes | Yes | 12-18 months | Periodic review, ~18 months typical |
+| OpenSky Secured Visa | $200 | $3,000 | $35 | ~23.89% variable | No | Yes | 6+ months | Graduation to OpenSky Gold in 6+ months |
+| OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Yes | 6+ months | Graduation to OpenSky Gold in 6+ months |
+| BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Yes | Yes (in-branch only for ITIN) | ~12 months | Auto-review at ~12 months |
+| Amazon Secured Card (Synchrony) | $100 | $1,000 | $0 | 10% fixed | Yes | Yes (may require branch/phone verification) | ~12 months | Graduation to unsecured store card after 12 months |
 
-**Editorial note:** The Discover it Secured Card was a strong option: $0 annual fee, cash-back rewards, and a 7-month graduation review. As of June 2, 2026, Discover is no longer accepting applications for it. Capital One, which acquired Discover in 2025, says it will relaunch the card later this year. We will update this table when it does.
+**Editorial note:** The Discover it Secured Card was a strong option: $0 annual fee, cash-back rewards, and a 7-month graduation review. Discover has reportedly stopped accepting new applications for it, with community reports pointing to around June 2, 2026, following Capital One's acquisition of Discover. Capital One has signaled it may relaunch the card, but no firm date has been confirmed. We will update this table once terms are confirmed.
 
 ---
 
@@ -111,7 +111,7 @@ Use the card for small purchases, pay on time, and Capital One may consider you 
 
 For ITIN holders on a tight budget, the $49 entry point is genuinely useful. You lock in a reporting tradeline and start building your U.S. credit file without tying up several hundred dollars.
 
-One thing to know: the card has no annual fee and no foreign transaction fee, but it carries a 28.99% variable APR on purchases. Pay your balance in full each month and the APR is irrelevant. Carry a balance and the cost adds up fast.
+One thing to know: the card has no annual fee and no foreign transaction fee, but it carries a 29.99% variable APR on purchases. Pay your balance in full each month and the APR is irrelevant. Carry a balance and the cost adds up fast.
 
 ---
 
@@ -123,7 +123,7 @@ OpenSky now offers a small family of three secured cards at different price poin
 
 Which OpenSky tier makes sense for an ITIN holder? For first-time credit builders who can fund $300 up front, the Plus card is the best long-run value. For people who can only spare $100, the Launch card opens the door. The original card, with its $35 annual fee, now sits in the middle and carries the lowest APR of the three.
 
-According to OpenSky's own data, users improve their credit scores by an average of 50 points in six months. OpenSky also advertises graduation to the OpenSky Gold unsecured card in as little as six months, one of the shortest advertised graduation timelines among ITIN-friendly secured cards.
+According to OpenSky's own data, users improve their credit scores by an average of 47 points in six months. OpenSky also advertises graduation to the OpenSky Gold unsecured card in as little as six months, one of the shortest advertised graduation timelines among ITIN-friendly secured cards.
 
 ---
 

@@ -54,19 +54,19 @@ De los 10 principales emisores de tarjetas de crédito, siete aceptan ITIN, incl
 
 ### Tabla de referencia completa de emisores
 
-| Emisor | ¿Acepta ITIN? | Tarjetas disponibles | ¿Solicitud en línea? | Puntaje mínimo (aprox.) | Notas |
-|---|---|---|---|---|---|
-| **Capital One** | Sí, todas las tarjetas | Platinum, Quicksilver Secured, QuicksilverOne, Savor Student | Sí | Ninguno (asegurada); 650+ (no asegurada) | La herramienta de precalificación usa consulta suave |
-| **Chase** | Sí, todas las tarjetas | Freedom Rise, Freedom Unlimited, Sapphire Preferred y más | Sí | 670+ (Freedom Unlimited); 720+ (Sapphire) | Solicitud en sucursal siempre disponible |
-| **American Express** | Sí, SSN o ITIN | Blue Business Plus, Gold, Platinum y más | Sí | 670+ (mayoría de tarjetas) | Puede importar historial de Amex extranjero en algunos países |
-| **Bank of America** | Sí | Customized Cash Rewards Secured y otras | Varía según ciudadanía | 670+ (no asegurada) | Tener cuenta en BofA ayuda mucho a la aprobación |
-| **Wells Fargo** | Sí, todas las tarjetas | Active Cash, Autograph, Reflect | Sí | 670+ (Active Cash) | Comisión del 3% por transacciones extranjeras en Active Cash |
-| **Citi** | Sí (tarjetas seleccionadas) | Secured Mastercard; algunas no aseguradas con relación bancaria | Varía | Ninguno (asegurada) | Relación en sucursal frecuentemente requerida para solicitudes con ITIN |
-| **U.S. Bank** | Sí (solo aseguradas) | U.S. Bank Secured Visa | Sí | Ninguno | Depósito de $300 a $5,000; opción de cambio a no asegurada |
-| **OpenSky** | Sí | Secured Visa ($35/año), Plus Secured ($0/año), Launch | Sí | Ninguno (sin verificación de crédito) | Depósito de $200 a $3,000; tasa de aprobación citada del 89% |
-| **Zolve** | Sí (también acepta pasaporte) | Zolve Classic | Sí | Ninguno | Para titulares de visa H1-B, L-1, F-1; límite de hasta $10,000 |
-| **Tilt (antes Petal)** | Sí (SSN o ITIN) | Tilt Motion Visa | Sí | 580+ (crédito regular aceptado) | Sin depósito, sin tarifa anual; evaluación por flujo de caja |
-| **Discover** | **No** | Ninguna | N/A | N/A | Requiere SSN; no acepta ITIN |
+| Emisor | ¿Acepta ITIN? | Tarjetas disponibles | ¿Solicitud en línea? | Puntaje mínimo (aprox.) | Última verificación | Notas |
+|---|---|---|---|---|---|---|
+| **Capital One** | Sí, todas las tarjetas | Platinum, Quicksilver Secured, QuicksilverOne, Savor Student | Sí | Ninguno (asegurada); 650+ (no asegurada) | Jul 2026 | La herramienta de precalificación usa consulta suave |
+| **Chase** | Sí, todas las tarjetas | Freedom Rise, Freedom Unlimited, Sapphire Preferred y más | Sí | 670+ (Freedom Unlimited); 720+ (Sapphire) | Jul 2026 | Solicitud en sucursal siempre disponible |
+| **American Express** | Sí, SSN o ITIN | Blue Business Plus, Gold, Platinum y más | Sí | 670+ (mayoría de tarjetas) | Jul 2026 | Puede importar historial de Amex extranjero en algunos países |
+| **Bank of America** | Sí | Customized Cash Rewards Secured y otras | Varía según ciudadanía | 670+ (no asegurada) | Jul 2026 | Tener cuenta en BofA ayuda mucho a la aprobación |
+| **Wells Fargo** | Sí, todas las tarjetas | Active Cash, Autograph, Reflect | Sí | 670+ (Active Cash) | Jul 2026 | Comisión del 3% por transacciones extranjeras en Active Cash |
+| **Citi** | Sí (tarjetas seleccionadas) | Secured Mastercard; algunas no aseguradas con relación bancaria | Varía | Ninguno (asegurada) | Jul 2026 | Relación en sucursal frecuentemente requerida para solicitudes con ITIN |
+| **U.S. Bank** | Sí (solo aseguradas) | U.S. Bank Secured Visa | Sí | Ninguno | Jul 2026 | Depósito de $300 a $5,000; opción de cambio a no asegurada |
+| **OpenSky** | Sí | Secured Visa ($35/año), Plus Secured ($0/año), Launch | Sí | Ninguno (sin verificación de crédito) | Jul 2026 | Depósito de $200 a $3,000; tasa de aprobación citada del 89% |
+| **Zolve** | Sí (también acepta pasaporte) | Zolve Classic | Sí | Ninguno | Jul 2026 | Para titulares de visa H1-B, L-1, F-1; límite de hasta $10,000 |
+| **Tilt (antes Petal)** | Sí (SSN o ITIN) | Tilt Motion Visa | Sí | 580+ (crédito regular aceptado) | Jul 2026 | Sin depósito, sin tarifa anual; evaluación por flujo de caja |
+| **Discover** | **No** | Ninguna | N/A | N/A | Jul 2026 | Requiere SSN; no acepta ITIN |
 
 ---
 
@@ -131,7 +131,7 @@ Los emisores suelen ocultar los números más útiles en notas al pie. Aquí est
 | U.S. Bank Secured Visa | $0 | ~28.99% | $300 | $5,000 | Sí |
 | Citi Secured Mastercard | $0 | ~27.74% | $200 | $2,500 | Sí |
 
-Algunos números que vale la pena destacar: el APR variable del 21.14% de la OpenSky Secured Visa la convierte en una mejor opción que la mayoría de las tarjetas aseguradas si no pagas tu saldo completo cada mes. Eso es notablemente menor que el rango del 28%-30% común en las tarjetas aseguradas de Capital One. La U.S. Bank Secured Credit Card requiere un depósito mínimo de al menos $300 y hasta $5,000. Esta tarjeta generalmente permite una mejora a una tarjeta no asegurada de U.S. Bank después de un período de uso responsable, lo que la convierte en una opción sólida a largo plazo para solicitantes que puedan hacer un depósito mayor.
+Algunos números que vale la pena destacar: el APR variable del 23.89% de la OpenSky Secured Visa la convierte en una mejor opción que la mayoría de las tarjetas aseguradas si no pagas tu saldo completo cada mes. Eso es notablemente menor que el rango del 28%-30% común en las tarjetas aseguradas de Capital One. La U.S. Bank Secured Credit Card requiere un depósito mínimo de al menos $300 y hasta $5,000. Esta tarjeta generalmente permite una mejora a una tarjeta no asegurada de U.S. Bank después de un período de uso responsable, lo que la convierte en una opción sólida a largo plazo para solicitantes que puedan hacer un depósito mayor.
 
 Un dato concreto que vale la pena recordar: en promedio, los titulares de tarjetas OpenSky ven sus puntajes aumentar 47 puntos en seis meses.
 

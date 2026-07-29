@@ -46,20 +46,21 @@ Las personas quieren una lista simple y confirmada, no respuestas vagas. Esto es
 
 Muchos de los principales emisores de tarjetas de crédito tienen tarjetas con recompensas a las que puedes aplicar usando un ITIN, incluyendo Chase, American Express y Capital One. Más allá de ese trío principal, Bank of America, Citi y Wells Fargo también aceptan el ITIN para al menos algunos de sus productos de crédito. La tabla a continuación organiza el panorama por emisor según lo que está confirmado:
 
-| Emisor | ¿Acepta ITIN? | Mejor tarjeta de entrada para titulares de ITIN | ¿Cómo aplicar? |
-|---|---|---|---|
-| **Capital One** | ✅ Sí, varias tarjetas | Quicksilver Secured o Platinum | En línea, por teléfono o en sucursal |
-| **Chase** | ✅ Sí, la mayoría de las tarjetas | Chase Freedom Rise | En línea, por teléfono o en sucursal |
-| **American Express** | ✅ Sí, tarjetas personales | Amex Gold (con historial establecido) | En línea |
-| **Bank of America** | ✅ Sí (esp. con cuenta existente) | BofA Customized Cash Secured | Se prefiere en sucursal |
-| **Citi** | ✅ Sí (esp. con relación bancaria) | Citi Secured Mastercard | Se prefiere en sucursal |
-| **Wells Fargo** | ✅ Sí | Wells Fargo Secured Credit Card | En sucursal o en línea |
-| **U.S. Bank** | ⚠️ Solo tarjetas aseguradas | U.S. Bank Secured Visa | En sucursal |
-| **OpenSky** | ✅ Sí, sin verificación de crédito | OpenSky Secured Visa | En línea |
-| **Petal** | ✅ Sí, sin cuota anual | Petal 2 Visa | En línea |
-| **Current (Build Card)** | ✅ Sí, sin verificación de crédito | Current Build Card | App |
+| Banco / Emisor | ¿Acepta ITIN en tarjetas de crédito? | En línea o solo en sucursal | ¿También acepta pasaporte extranjero? | ¿Reporta a las 3 agencias? | Última verificación |
+|---|---|---|---|---|---|
+| **Capital One** | Sí, todas las tarjetas | En línea (también por teléfono o sucursal) | No confirmado | Sí | Jul 2026 |
+| **Chase** | Sí, todas las tarjetas | En línea (sucursal disponible) | No confirmado | Sí | Jul 2026 |
+| **American Express** | Sí | En línea | No confirmado | Sí | Jul 2026 |
+| **Bank of America** | Sí | En línea o sucursal (según ciudadanía) | No confirmado | No confirmado | Jul 2026 |
+| **Wells Fargo** | Sí, todas las tarjetas | En línea | No confirmado | Sí | Jul 2026 |
+| **Citi** | Sí, tarjetas seleccionadas | En línea o sucursal (a menudo requiere relación) | No confirmado | No confirmado | Jul 2026 |
+| **U.S. Bank** | Sí, solo tarjetas aseguradas | En línea | No confirmado | No confirmado | Jul 2026 |
+| **OpenSky** | Sí, sin verificación de crédito | En línea | No confirmado | Sí | Jul 2026 |
+| **Zolve** | Sí | En línea | Sí | Sí | Jul 2026 |
+| **Tilt (antes Petal)** | Sí | En línea | No confirmado | Sí | Jul 2026 |
+| **Discover** | No | N/A | N/A | N/A | Jul 2026 |
 
-U.S. Bank acepta SSN o ITIN solo para tarjetas aseguradas. Todos los demás emisores principales en la tabla aceptan el ITIN de forma más amplia, aunque siempre sujeto a los criterios de evaluación individuales de cada tarjeta.
+"No confirmado" significa que el emisor no ha publicado una política clara sobre ese punto para solicitantes con ITIN, así que no lo afirmamos en ningún sentido. Confirma el detalle vigente con el emisor antes de aplicar. U.S. Bank acepta el ITIN solo para tarjetas aseguradas. Todos los demás emisores marcados "Sí" aceptan el ITIN de forma más amplia, aunque siempre sujeto a los criterios de evaluación individuales de cada tarjeta. La lista y los datos de reporte aquí coinciden con nuestra [lista verificada de emisores 2026](/es/articles/credit-cards-that-accept-itin-verified-issuer-list).
 
 ---
 
@@ -118,7 +119,7 @@ La respuesta depende de si puedes hacer un depósito de seguridad.
 
 **Si puedes hacer un depósito:** Capital One es el banco principal más amigable para inmigrantes que están comenzando. Una tarjeta de crédito asegurada como la Platinum Secured o la Capital One Quicksilver Secured puede ser un buen punto de partida. Puedes aplicar para ambas tarjetas con un ITIN. La herramienta de precalificación de Capital One también te permite evaluar tus probabilidades con una consulta suave antes de comprometerte, una decisión inteligente considerando que las solicitudes de tarjetas de crédito se rechazan aproximadamente el 22% de las veces, según los datos más recientes del Banco de la Reserva Federal de Nueva York.
 
-**Si no puedes hacer un depósito:** La Current Build Card es la opción más sólida sin depósito y sin verificación de crédito para titulares de ITIN. Gastas como si fuera una tarjeta de débito desde tu cuenta Current, y la actividad se reporta como uso de crédito puntual a Experian, TransUnion y Equifax. La Petal 2 Visa es otra buena opción sin depósito si tienes algo de historial bancario en EE. UU., los tarjetahabientes ganan 1% de reembolso en efectivo en todas las compras elegibles, hasta 1.25% después de 6 meses de pagos puntuales, y 1.5% después de 12 meses consecutivos. Los solicitantes con crédito limitado y ITIN pueden ser aprobados, y no hay cuota anual.
+**Si no puedes hacer un depósito:** La Current Build Card es la opción más sólida sin depósito y sin verificación de crédito para titulares de ITIN. Gastas como si fuera una tarjeta de débito desde tu cuenta Current, y la actividad se reporta como uso de crédito puntual a Experian, TransUnion y Equifax. La Tilt Motion Visa, la sucesora de la Petal 2 Visa, es otra buena opción sin depósito si tienes algo de historial bancario en EE. UU. Según se ha reportado, Petal 1 y Petal 2 dejaron de aceptar nuevas solicitudes en 2026 tras la adquisición por Empower Finance, y los nuevos solicitantes son dirigidos a Tilt. Los solicitantes con crédito limitado y ITIN pueden ser aprobados mediante la evaluación por flujo de caja de Tilt, y no hay cuota anual.
 
 Una vez que tengas 12-18 meses de historial de pagos puntuales, pasar a una tarjeta de recompensas sin garantía en Chase o Amex se convierte en un objetivo alcanzable. Lee nuestra guía sobre [cómo construir crédito con un ITIN](/how-to-build-credit-with-itin) para ver el plan completo.
 

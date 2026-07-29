@@ -56,10 +56,10 @@ How we compiled this: We cross-referenced issuer application pages, third-party 
 
 | Rank | Card | Type | Min. Deposit | Annual Fee | APR | No Credit Check | Rewards | Best For |
 |------|------|------|-------------|------------|-----|-----------------|---------|----------|
-| 1 | Capital One Quicksilver Secured | Secured | $200 | $0 | 28.99% variable | No | 1.5% cash back | Most ITIN starters |
+| 1 | Capital One Quicksilver Secured | Secured | $200 | $0 | 29.99% variable | No | 1.5% cash back | Most ITIN starters |
 | 2 | OpenSky Secured Visa | Secured | $200 | $35 | 23.89% variable | Yes | None | ITIN holders who want guaranteed approval |
 | 3 | Chase Freedom Rise | Unsecured | None | $0 | Variable | No | 1.5% cash back | ITIN holders with a Chase account |
-| 4 | Citi Secured Mastercard | Secured | $200 | $0 | 27.49% variable | No | None | Citi banking customers |
+| 4 | Citi Secured Mastercard | Secured | $200 | $0 | ~27.74% variable | No | None | Citi banking customers |
 | 5 | OpenSky Plus Secured Visa | Secured | $300 | $0 | Variable | Yes | None | No-annual-fee seekers who want no credit check |
 | 6 | Current Build Card | Linked balance | None | $0 | 0% | Yes | 1 pt/$ dining & grocery | ITIN holders who want zero debt risk |
 | 7 | Self Visa Credit Card | Secured | $100 | $0 yr 1, $25 after | 27.49% variable | No | None | Applicants who want installment + revolving mix |
@@ -124,7 +124,7 @@ The tradeoff is that Chase does conduct a hard credit pull. If your file is comp
 | Annual fee | $0 | $0 yr 1, $25 after |
 | Min. deposit | $200 | $100 |
 | Max deposit/limit | $2,500 | Varies |
-| APR | 27.49% variable | 27.49% variable |
+| APR | ~27.74% variable | 27.49% variable |
 | No credit check | No | No |
 | Rewards | None | None |
 | Foreign transaction fee | 3% | None |

@@ -58,7 +58,14 @@ export default defineConfig({
     sitemap({
       changefreq: 'weekly',
       priority: 0.7,
-      filter: (page) => !/\/(404|thank-you|apply)(\/|$)/.test(page),
+      // Keep this list in sync with the pages that pass `noindex` to BaseLayout.
+      // A noindexed URL in the sitemap is a self-contradiction: the sitemap asks
+      // Google to index it, the page header refuses. GSC reports the result as
+      // "Excluded by 'noindex' tag" and it inflates the not-indexed count, which
+      // buries the pages that are genuinely stuck. (Caught 2026-07-29: /contact
+      // and /es/contact were noindexed on all three sites but still shipped in
+      // every sitemap.)
+      filter: (page) => !/\/(404|thank-you|apply|contact)(\/|$)/.test(page),
       // Emit reciprocal hreflang alternates (en / es / x-default) on every URL.
       // Our EN pages are un-prefixed (/foo) and ES live at /es/foo, which doesn't
       // fit @astrojs/sitemap's i18n option (it assumes every locale is path-
