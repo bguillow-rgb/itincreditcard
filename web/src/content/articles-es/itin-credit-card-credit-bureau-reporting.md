@@ -61,7 +61,7 @@ Aquí tienes un resumen de las tarjetas populares que aceptan ITIN y su reporte 
 
 Cinco de las tarjetas aseguradas más populares, las de Discover, Capital One, Citi, Wells Fargo y Bank of America, reportan a los tres burós de crédito, según el sitio web de Discover. Para los titulares de ITIN que eligen entre estos emisores, puedes tener la tranquilidad de que tus pagos puntuales quedarán registrados en los tres expedientes.
 
-Una advertencia importante: algunos emisores, incluidas muchas tarjetas de tiendas asociadas a Synchrony, envían datos solo a Experian. Por eso nuestra guía sobre [tarjetas de crédito de tiendas con ITIN](https://itincreditcard.com/store-credit-card-with-itin) señala el reporte a burós como un factor clave que debes verificar antes de solicitar cualquier tarjeta de tienda.
+Una advertencia importante: algunos emisores, incluidas muchas tarjetas de tiendas asociadas a Synchrony, envían datos solo a Experian. Por eso nuestra guía sobre [tarjetas de crédito de tiendas con ITIN](/es/articles/store-credit-card-with-itin) señala el reporte a burós como un factor clave que debes verificar antes de solicitar cualquier tarjeta de tienda.
 
 ## ¿Cómo verifico el reporte a burós antes de aplicar?
 
@@ -89,7 +89,7 @@ Por lo general tendrás un expediente de crédito con puntuación después de se
 
 Ese umbral de seis meses es un requisito de FICO: el modelo necesita al menos una cuenta con al menos seis meses de antigüedad que haya sido reportada en los últimos seis meses para generar cualquier puntuación. VantageScore es más flexible y puede producir una puntuación con tan solo un mes de historial, por eso algunos titulares de tarjetas ITIN ven un número de VantageScore antes de que aparezca una puntuación FICO.
 
-Si quieres monitorear tu progreso, revisa tu expediente de Equifax en línea (más sobre eso a continuación) aproximadamente cuando cierre tu sexto estado de cuenta. Ese es generalmente el momento en que una puntuación FICO está disponible por primera vez. Si estás usando tu tarjeta para [construir crédito con una tarjeta de crédito ITIN](https://itincreditcard.com/build-credit-with-itin-credit-card), ese marca de los seis meses es tu primer hito importante.
+Si quieres monitorear tu progreso, revisa tu expediente de Equifax en línea (más sobre eso a continuación) aproximadamente cuando cierre tu sexto estado de cuenta. Ese es generalmente el momento en que una puntuación FICO está disponible por primera vez. Si estás usando tu tarjeta para [construir crédito con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card), ese marca de los seis meses es tu primer hito importante.
 
 ## ¿Cómo obtengo mi reporte de crédito siendo titular de un ITIN para verificar que mi tarjeta está reportando?
 
@@ -115,4 +115,4 @@ Si tu tarjeta aparece pero detectas un error (un saldo incorrecto, un pago atras
 
 Guarda tus propios registros: conserva los estados de cuenta mensuales y los comprobantes de pago. Como titular de ITIN con un proceso más manual para acceder a tu expediente, mantener tus propios registros de estados de cuenta, comprobantes de pago y fechas de apertura de cuentas es muy valioso. Necesitarás esta documentación si alguna vez hay disputas.
 
-Para conocer más opciones de tarjetas disponibles a medida que haces crecer tu historial, consulta nuestras guías sobre [tarjetas de crédito no aseguradas para titulares de ITIN](https://itincreditcard.com/unsecured-credit-card-itin-holders) y [cómo pasar de una tarjeta asegurada a una no asegurada con un ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin). Ambas son relevantes una vez que tengas 12-18 meses de historial reportado sólido.
+Para conocer más opciones de tarjetas disponibles a medida que haces crecer tu historial, consulta nuestras guías sobre [tarjetas de crédito no aseguradas para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders) y [cómo pasar de una tarjeta asegurada a una no asegurada con un ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin). Ambas son relevantes una vez que tengas 12-18 meses de historial reportado sólido.

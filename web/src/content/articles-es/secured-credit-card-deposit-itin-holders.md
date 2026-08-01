@@ -68,7 +68,7 @@ El proceso de solicitud funciona así: llenas la solicitud de la tarjeta usando 
 
 Con Capital One, [tienes 35 días desde la aprobación para hacer el depósito mínimo, el cual puedes enviar de una sola vez o en pagos de al menos $20](21-7). La mayoría de los emisores aceptan pagos con tarjeta de débito, transferencia ACH o giro postal. Eso significa que necesitas tener una cuenta bancaria en EE. UU. o una cuenta de fintech con número de ruta y número de cuenta listos antes de solicitar. Un detalle importante: [los emisores suelen enviar un código de un solo uso por mensaje de texto durante la solicitud, y un número VoIP como Google Voice fallará en esa verificación](16-3,16-4). Usa un SIM real de EE. UU., aunque sea prepago, para evitar ese problema.
 
-Además del ITIN, la mayoría de los emisores piden un pasaporte extranjero válido y comprobante de domicilio postal en EE. UU. La tarjeta física se envía a esa dirección una vez que se acredita el depósito, lo cual [generalmente ocurre a los pocos días de realizar el pago](18-23). Consulta nuestra guía completa sobre [cómo solicitar una tarjeta de crédito con ITIN](/how-to-apply-for-credit-card-with-itin) para ver un paso a paso completo del proceso de solicitud.
+Además del ITIN, la mayoría de los emisores piden un pasaporte extranjero válido y comprobante de domicilio postal en EE. UU. La tarjeta física se envía a esa dirección una vez que se acredita el depósito, lo cual [generalmente ocurre a los pocos días de realizar el pago](18-23). Consulta nuestra guía completa sobre [cómo solicitar una tarjeta de crédito con ITIN](/es/articles/how-to-apply-for-credit-card-with-itin) para ver un paso a paso completo del proceso de solicitud.
 
 ## ¿Cómo me ayuda el depósito a construir crédito y el reporte a las agencias funciona igual que con un SSN?
 
@@ -78,7 +78,7 @@ Los titulares de ITIN a veces se preocupan porque su expediente crediticio sea u
 
 Lo más importante es elegir una tarjeta cuyo emisor reporte a las tres agencias: Experian, TransUnion y Equifax. No todas las tarjetas aseguradas lo hacen. OpenSky [reporta a las tres principales agencias de crédito cada mes](11-35). Capital One [también reporta las cuentas de tarjetas aseguradas a las tres](21-37). Confirma siempre este detalle antes de solicitar.
 
-[Por lo general, tendrás un expediente con puntaje después de seis meses de actividad en la cuenta. A partir de ahí, pagos a tiempo de forma constante y un uso de crédito bajo pueden llevarte a un puntaje de 650 a 700 en 12 a 18 meses](11-7,11-8). Ese rango de puntaje abre la puerta a [tarjetas de crédito sin garantía](/unsecured-credit-card-itin-holders) y, con el tiempo, a tarjetas con recompensas reales.
+[Por lo general, tendrás un expediente con puntaje después de seis meses de actividad en la cuenta. A partir de ahí, pagos a tiempo de forma constante y un uso de crédito bajo pueden llevarte a un puntaje de 650 a 700 en 12 a 18 meses](11-7,11-8). Ese rango de puntaje abre la puerta a [tarjetas de crédito sin garantía](/es/articles/unsecured-credit-card-itin-holders) y, con el tiempo, a tarjetas con recompensas reales.
 
 Para proteger tu depósito y tu progreso, configura el pago automático de al menos el pago mínimo cada mes. Un solo pago tardío puede borrar semanas de historial positivo.
 
@@ -94,13 +94,13 @@ Esta es la parte que más tranquiliza a la mayoría: el depósito no desaparece 
 
 [Algunos emisores también reembolsan el depósito después de una revisión periódica de la cuenta, buscando pagos a tiempo, uso dentro del límite de crédito y buen estado de la cuenta, con revisiones que pueden comenzar a los seis o siete meses](19-17,19-18,19-19).
 
-Una vez que tu tarjeta asegurada pase al siguiente nivel, consulta nuestra guía sobre [cómo obtener un aumento de límite de crédito con ITIN](/credit-limit-increase-itin-credit-card) para conocer el siguiente paso para hacer crecer tu línea de crédito en la nueva cuenta sin garantía.
+Una vez que tu tarjeta asegurada pase al siguiente nivel, consulta nuestra guía sobre [cómo obtener un aumento de límite de crédito con ITIN](/es/articles/credit-limit-increase-itin-credit-card) para conocer el siguiente paso para hacer crecer tu línea de crédito en la nueva cuenta sin garantía.
 
 ## Tarjeta asegurada vs. sin garantía: ¿cuándo tiene sentido cambiar?
 
 ¿cómo sé cuándo estoy listo para dejar la tarjeta asegurada?
 
-El momento adecuado para buscar una tarjeta sin garantía suele ser cuando has tenido tu tarjeta asegurada durante al menos 12 meses, has hecho todos los pagos a tiempo y tu puntaje ha llegado a mediados de los 600 o más. En ese punto, el grupo de [tarjetas sin garantía](/unsecured-credit-card-itin-holders) compatibles con ITIN se amplía considerablemente, y puedes empezar a ganar recompensas reales sin tener dinero inmovilizado en un depósito.
+El momento adecuado para buscar una tarjeta sin garantía suele ser cuando has tenido tu tarjeta asegurada durante al menos 12 meses, has hecho todos los pagos a tiempo y tu puntaje ha llegado a mediados de los 600 o más. En ese punto, el grupo de [tarjetas sin garantía](/es/articles/unsecured-credit-card-itin-holders) compatibles con ITIN se amplía considerablemente, y puedes empezar a ganar recompensas reales sin tener dinero inmovilizado en un depósito.
 
 | Característica | Tarjeta asegurada | Tarjeta sin garantía |
 |---|---|---|
@@ -124,4 +124,4 @@ Tres errores afectan a los titulares de ITIN más que otros:
 
 **Solicitar a emisores que ya no aceptan ITIN.** Las políticas de los emisores cambian. [Llama directamente a la línea de servicio al cliente del emisor para confirmar su política actual con respecto al ITIN antes de solicitar, porque las políticas publicadas y la ejecución a nivel de sucursal no siempre coinciden](4-6). Una solicitud rechazada deja una consulta dura en tu expediente hasta por dos años, según Experian. Usa herramientas de precalificación cuando estén disponibles para verificar la elegibilidad con una consulta suave antes de comprometerte con una solicitud completa.
 
-Para una visión más amplia de qué emisores actualmente son compatibles con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para una visión más amplia de qué emisores actualmente son compatibles con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).

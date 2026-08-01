@@ -112,7 +112,7 @@ El tiempo es el mismo ya seas residente o no residente. Algunos hábitos lo acel
 - Paga el saldo de tu estado de cuenta completo y a tiempo cada mes. El historial de pagos es el factor más importante en tu puntaje.
 - Mantén tu saldo por debajo del 30% de tu límite de crédito en todo momento. Con una tarjeta asegurada de $500, eso significa mantener el saldo por debajo de $150. Apunta a menos del 10% si quieres avanzar lo más rápido posible.
 - Evita solicitar varias tarjetas en un período corto. Cada solicitud genera una consulta dura (hard inquiry), así que espacia las solicitudes al menos 6 meses entre una y otra.
-- Una vez que tengas de 6 a 12 meses de historial limpio con tu tarjeta de crédito ITIN, podrías ser elegible para un aumento de límite de crédito o una mejora a una tarjeta sin depósito. Nuestra guía sobre [cómo obtener un aumento de límite de crédito con un ITIN](https://itincreditcard.com/credit-limit-increase-itin-credit-card) explica los pasos exactos.
+- Una vez que tengas de 6 a 12 meses de historial limpio con tu tarjeta de crédito ITIN, podrías ser elegible para un aumento de límite de crédito o una mejora a una tarjeta sin depósito. Nuestra guía sobre [cómo obtener un aumento de límite de crédito con un ITIN](/es/articles/credit-limit-increase-itin-credit-card) explica los pasos exactos.
 
 Algo que los no residentes a veces pasan por alto: asegúrate de que la tarjeta que elijas reporte a las tres agencias. Equifax, Experian y TransUnion mantienen cada una su propio archivo crediticio. Una tarjeta que solo reporta a una agencia construye apenas un tercio de tu perfil crediticio. Todas las tarjetas de la tabla comparativa anterior reportan a las tres agencias.
 
@@ -130,4 +130,4 @@ Aquí es donde las cosas suelen salir mal, y la mayoría de los errores se puede
 
 **No configurar el pago automático.** Los no residentes a veces pierden las fechas de vencimiento mientras gestionan una mudanza internacional. Configura el pago automático por el mínimo en el momento en que actives tu tarjeta, y luego paga el saldo completo manualmente cada mes. Un solo pago perdido puede reducir tu puntaje de forma significativa y queda en tu historial durante siete años.
 
-Para saber qué hacer si te rechazan a pesar de seguir todos estos pasos, consulta nuestra guía sobre [qué hacer cuando te niegan una tarjeta de crédito con un ITIN](https://itincreditcard.com/credit-card-denied-itin-what-to-do).
+Para saber qué hacer si te rechazan a pesar de seguir todos estos pasos, consulta nuestra guía sobre [qué hacer cuando te niegan una tarjeta de crédito con un ITIN](/es/articles/credit-card-denied-itin-what-to-do).

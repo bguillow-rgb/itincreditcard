@@ -80,13 +80,13 @@ Citi's Secured Mastercard lists an SSN or ITIN among the identity fields, making
 
 That is a meaningful distinction. If you open the Citi Secured Mastercard with only an ITIN and your visa category does not make you eligible for an SSN, your only route to deposit recovery is closing the account. If you do obtain an SSN later, you can update your Citi profile and then request a graduation review once you hit the 18-month mark.
 
-The practical takeaway: if you want the smoothest deposit-recovery experience as an ITIN-only holder, Capital One and Bank of America are safer choices because neither requires an SSN specifically for the graduation step. See our [issuer-by-issuer comparison](https://itincreditcard.com/itin-credit-card-issuer-comparison-2026) for a fuller breakdown of which banks accept ITINs at each stage of the card lifecycle.
+The practical takeaway: if you want the smoothest deposit-recovery experience as an ITIN-only holder, Capital One and Bank of America are safer choices because neither requires an SSN specifically for the graduation step. See our [issuer-by-issuer comparison](/articles/itin-credit-card-issuer-comparison-2026) for a fuller breakdown of which banks accept ITINs at each stage of the card lifecycle.
 
 ## What behavior actually triggers graduation reviews?
 
 Issuers do not graduate accounts automatically after a fixed number of months. They review your overall account behavior. If you have made payments on time consistently for roughly 12-18 months, kept your credit utilization at or below 30%, and built your score to meet the issuer's threshold, you should have no problem upgrading, assuming your issuer has unsecured options available.
 
-For ITIN holders building credit from zero, the score threshold is a real consideration. A first FICO score typically appears after about 6 months of activity. VantageScore can appear sooner, but most lenders still rely on FICO. That means the earliest you can realistically expect a graduation review is around month 7, once a FICO score exists for the issuer to evaluate. Keep utilization below 30% on your ITIN credit card, pay the statement balance in full each month, and confirm your card is reporting to all three bureaus. Check our guide on [does your ITIN credit card report to all three bureaus](https://itincreditcard.com/itin-credit-card-credit-bureau-reporting) if you are unsure.
+For ITIN holders building credit from zero, the score threshold is a real consideration. A first FICO score typically appears after about 6 months of activity. VantageScore can appear sooner, but most lenders still rely on FICO. That means the earliest you can realistically expect a graduation review is around month 7, once a FICO score exists for the issuer to evaluate. Keep utilization below 30% on your ITIN credit card, pay the statement balance in full each month, and confirm your card is reporting to all three bureaus. Check our guide on [does your ITIN credit card report to all three bureaus](/articles/itin-credit-card-credit-bureau-reporting) if you are unsure.
 
 ## What happens to my deposit if I miss payments or the account defaults?
 
@@ -118,7 +118,7 @@ In all cases, any unpaid balance is subtracted from the refund. Clear the balanc
 
 Graduating is almost always the better move. Closing a secured card decreases your overall available credit and shortens your credit history, both of which can pull your score down. When you graduate, the account number and opening date stay the same, so your length of credit history is preserved. Your available credit goes up and your utilization ratio typically improves.
 
-If your issuer does not have an unsecured product you want, or if graduation is blocked (as with Citi for ITIN-only holders), closing and applying elsewhere is perfectly reasonable. Just make sure you have already been approved for a replacement card before closing, so there is no gap in your credit profile. You can explore the best options in our guide to [upgrading from a secured to unsecured credit card with an ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin).
+If your issuer does not have an unsecured product you want, or if graduation is blocked (as with Citi for ITIN-only holders), closing and applying elsewhere is perfectly reasonable. Just make sure you have already been approved for a replacement card before closing, so there is no gap in your credit profile. You can explore the best options in our guide to [upgrading from a secured to unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin).
 
 ---
 

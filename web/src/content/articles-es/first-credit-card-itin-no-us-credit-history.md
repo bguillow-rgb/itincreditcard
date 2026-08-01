@@ -69,7 +69,7 @@ La OpenSky Secured Credit Card es una de las pocas tarjetas de crédito asegurad
 
 La Petal 2 Visa Credit Card es una de las mejores opciones sin requisito de SSN porque los titulares ganan 1% de reembolso en efectivo en todas las compras elegibles, hasta 1.25% después de 6 meses de pagos a tiempo y 1.5% de reembolso después de 12 meses consecutivos pagando puntualmente. Los solicitantes con historial crediticio limitado y un ITIN pueden ser aprobados, y no tiene cuota anual.
 
-Para un análisis más detallado del panorama completo de emisores que aceptan ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para un análisis más detallado del panorama completo de emisores que aceptan ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
 
 ---
 
@@ -113,7 +113,7 @@ En resumen, usa Nova Credit para conseguir la aprobación de tu primera tarjeta,
 5. **Espera tu tarjeta.** Si solicitas en línea, podrías recibir una respuesta casi inmediata a tu solicitud. La tarjeta física generalmente llega en 7 a 10 días hábiles.
 6. **Configura el pago automático de inmediato.** Realiza cada pago a tiempo. El historial de pagos es el factor más importante en tu puntaje de crédito. Configura el pago automático para asegurarte de no perder nunca una fecha de vencimiento.
 
-Para más detalles sobre el proceso completo de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/how-to-apply-for-credit-card-with-itin).
+Para más detalles sobre el proceso completo de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/es/articles/how-to-apply-for-credit-card-with-itin).
 
 ---
 
@@ -127,7 +127,7 @@ La mecánica es idéntica tanto si usaste un SSN como un ITIN. Una vez que tiene
 
 **No canceles tu primera tarjeta.** La antigüedad de tu historial crediticio importa. Mantén tu primera tarjeta abierta incluso después de calificar para mejores opciones. Cerrar la cuenta acorta la antigüedad promedio de tus cuentas, lo que puede restarle puntos a un historial que aún es joven.
 
-**Espacía las nuevas solicitudes.** Intenta espaciar las solicitudes al menos 6 meses para evitar caídas en tu puntaje. Una vez que tengas entre 6 y 12 meses de historial limpio en tu primera tarjeta, estarás en una posición mucho más sólida para solicitar una tarjeta sin garantía con recompensas. Para estrategias sobre cómo pasar de una tarjeta asegurada a una mejor, lee nuestra guía sobre [tarjetas de crédito sin garantía para titulares de ITIN](/unsecured-credit-card-itin-holders).
+**Espacía las nuevas solicitudes.** Intenta espaciar las solicitudes al menos 6 meses para evitar caídas en tu puntaje. Una vez que tengas entre 6 y 12 meses de historial limpio en tu primera tarjeta, estarás en una posición mucho más sólida para solicitar una tarjeta sin garantía con recompensas. Para estrategias sobre cómo pasar de una tarjeta asegurada a una mejor, lee nuestra guía sobre [tarjetas de crédito sin garantía para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders).
 
 La mayoría de las tarjetas amigables con ITIN comienzan con un límite de crédito de entre $200 y $700. Los límites suelen aumentar después de 6 a 12 meses de pagos a tiempo. Después de aproximadamente un año de uso responsable, podrías calificar para tarjetas sin garantía con límites más altos y recompensas.
 
@@ -139,4 +139,4 @@ Una negación con un historial escaso es común y tiene solución. El emisor est
 
 Si eso ocurre: regresa a la opción más accesible de la lista anterior (OpenSky no tiene verificación crediticia), confirma que tus documentos coincidan exactamente con lo que el emisor necesita y espera al menos 90 días antes de volver a solicitar en cualquier lugar. Una negación en sí misma no permanece en tu reporte de crédito a largo plazo: solo la consulta dura lo hace, y su impacto se desvanece en 12 meses.
 
-Para una guía completa sobre cómo recuperarte de una negación, consulta nuestro artículo sobre [qué hacer cuando te niegan una tarjeta de crédito con un ITIN](/credit-card-denied-itin-what-to-do).
+Para una guía completa sobre cómo recuperarte de una negación, consulta nuestro artículo sobre [qué hacer cuando te niegan una tarjeta de crédito con un ITIN](/es/articles/credit-card-denied-itin-what-to-do).

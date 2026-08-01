@@ -42,7 +42,7 @@ Many ITIN holders conflate these two things, but the legal and financial differe
 
 A joint credit card means both applicants sign the same application and both become fully responsible for every dollar charged to the account, regardless of who made the purchase. Authorized users do not share any financial responsibility for charges made on the credit card, while joint credit card holders share equal financial responsibility for all credit card charges. That single distinction shapes everything else about these two arrangements.
 
-With an authorized user setup, one person owns the account. The other gets a card and spending access, but the primary holder alone is on the hook for repayment. Our guide on [becoming an authorized user with an ITIN](/authorized-user-credit-card-itin) covers that path in detail.
+With an authorized user setup, one person owns the account. The other gets a card and spending access, but the primary holder alone is on the hook for repayment. Our guide on [becoming an authorized user with an ITIN](/articles/authorized-user-credit-card-itin) covers that path in detail.
 
 With a joint account, there is no primary and secondary holder. Both people's credit profiles are evaluated at application, both names appear on the account, and both credit reports reflect every payment and every missed payment going forward. The account will appear on both people's credit reports, and can affect both of their credit scores based on how responsibly the cardholder uses it.
 
@@ -84,7 +84,7 @@ Here is a practical comparison of where to look:
 | Community banks | Some offer joint accounts | Varies by bank | Call before visiting |
 | Fintech issuers (e.g., OpenSky) | No joint accounts | Yes | Solo applications only |
 
-The takeaway: if a joint account is your goal, credit unions are your best starting point. Many credit unions that serve Latino, Asian, or other immigrant communities explicitly accept ITINs and have in-branch staff who can walk through the application with you. Our guide to [credit union credit cards for ITIN holders](/credit-union-credit-card-itin) covers specific institutions worth contacting.
+The takeaway: if a joint account is your goal, credit unions are your best starting point. Many credit unions that serve Latino, Asian, or other immigrant communities explicitly accept ITINs and have in-branch staff who can walk through the application with you. Our guide to [credit union credit cards for ITIN holders](/articles/credit-union-credit-card-itin) covers specific institutions worth contacting.
 
 ## What documents does each applicant need for a joint application?
 
@@ -113,11 +113,11 @@ There is a real downside too: one person's poor habits immediately affect the ot
 
 Because, for most people, joint accounts simply are not available at their preferred issuer.
 
-**Authorized user.** The closest practical alternative. The primary cardholder adds the ITIN holder as an authorized user. The ITIN holder gets a card and builds credit history, but has no legal repayment responsibility. See our detailed guide on [becoming an authorized user with an ITIN](/authorized-user-credit-card-itin).
+**Authorized user.** The closest practical alternative. The primary cardholder adds the ITIN holder as an authorized user. The ITIN holder gets a card and builds credit history, but has no legal repayment responsibility. See our detailed guide on [becoming an authorized user with an ITIN](/articles/authorized-user-credit-card-itin).
 
-**Two separate cards.** Each person applies for their own ITIN-accepted card. More upfront work, but it avoids shared-liability risk entirely. Our guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards) lists the current issuers to start with.
+**Two separate cards.** Each person applies for their own ITIN-accepted card. More upfront work, but it avoids shared-liability risk entirely. Our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists the current issuers to start with.
 
-**Secured card for the ITIN holder.** If one partner already has established credit and the other is starting from zero, the most efficient path is often for the ITIN holder to open a [secured credit card](/secured-credit-card-with-itin) independently. Secured credit cards represent the most accessible option for ITIN holders. These cards require a cash deposit that typically serves as the credit limit. After 12-24 months of on-time payments, many issuers will graduate the account to an unsecured card and return the deposit.
+**Secured card for the ITIN holder.** If one partner already has established credit and the other is starting from zero, the most efficient path is often for the ITIN holder to open a [secured credit card](/articles/secured-credit-card-with-itin) independently. Secured credit cards represent the most accessible option for ITIN holders. These cards require a cash deposit that typically serves as the credit limit. After 12-24 months of on-time payments, many issuers will graduate the account to an unsecured card and return the deposit.
 
 Here is a quick decision guide:
 
@@ -135,4 +135,4 @@ Cosigners (and joint holders) will be held responsible for repaying any credit c
 
 A joint credit card is dependent on the success of your relationship with your partner. Financial disputes are among the most common sources of conflict in personal and professional relationships alike. A clear written agreement covering who pays the monthly bill, what the spending limit is for each person, and what happens if the relationship ends is worth drawing up before the account opens.
 
-Closing a joint account affects both credit scores, particularly if the card has a long history or a high limit that was keeping overall utilization low. Factor that into your long-term plan, especially if you are working toward a larger goal like qualifying for a better [unsecured credit card](/unsecured-credit-card-itin-holders) down the road.
+Closing a joint account affects both credit scores, particularly if the card has a long history or a high limit that was keeping overall utilization low. Factor that into your long-term plan, especially if you are working toward a larger goal like qualifying for a better [unsecured credit card](/articles/unsecured-credit-card-itin-holders) down the road.

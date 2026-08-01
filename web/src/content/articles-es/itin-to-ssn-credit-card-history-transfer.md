@@ -93,7 +93,7 @@ Tu depósito no se ve afectado por la transición al SSN. El depósito te perten
 
 De hecho, obtener un SSN puede acelerar el proceso para recuperar ese depósito. Según información de múltiples páginas de soporte de emisores, muchos revisan las cuentas de tarjetas aseguradas para convertirlas en no aseguradas después de 6-12 meses de uso responsable. Con un SSN en su registro, el emisor puede hacer una consulta de crédito completa más fácilmente para evaluarte y ofrecerte un aumento de límite o un cambio de producto. Si tu historial crediticio se fusionó correctamente, el emisor verá tu registro completo de pagos, no solo la actividad desde que agregaste tu SSN, y eso solo puede beneficiarte.
 
-Si convertir tu tarjeta asegurada es una prioridad, lee nuestra guía sobre [cómo pasar de una tarjeta de crédito asegurada a una no asegurada con un ITIN](/upgrade-secured-to-unsecured-credit-card-itin) para conocer el proceso completo, incluyendo las preguntas que debes hacerle a tu emisor antes de solicitar un cambio de producto.
+Si convertir tu tarjeta asegurada es una prioridad, lee nuestra guía sobre [cómo pasar de una tarjeta de crédito asegurada a una no asegurada con un ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin) para conocer el proceso completo, incluyendo las preguntas que debes hacerle a tu emisor antes de solicitar un cambio de producto.
 
 ---
 
@@ -121,7 +121,7 @@ El mejor enfoque es actualizar tus tarjetas actuales con tu nuevo SSN, completar
 
 Dicho esto, si estabas limitado a una tarjeta asegurada precisamente porque no había productos no asegurados disponibles para ti sin un SSN, obtenerlo sí abre nuevas puertas. Las tarjetas de emisores que antes requerían un SSN ahora son accesibles. Pero el orden importa: fusiona primero tu historial y luego solicita productos nuevos, para que tu sólido historial de pagos trabaje a tu favor desde la primera solicitud.
 
-Si ahora estás explorando opciones no aseguradas disponibles para titulares de SSN, nuestra guía sobre [tarjetas de crédito no aseguradas para titulares de ITIN](/unsecured-credit-card-itin-holders) cubre cuáles emisores ofrecen el camino más sencillo de asegurada a no asegurada, sin importar qué identificador usaste.
+Si ahora estás explorando opciones no aseguradas disponibles para titulares de SSN, nuestra guía sobre [tarjetas de crédito no aseguradas para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders) cubre cuáles emisores ofrecen el camino más sencillo de asegurada a no asegurada, sin importar qué identificador usaste.
 
 ---
 

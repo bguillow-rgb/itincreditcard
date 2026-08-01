@@ -44,7 +44,7 @@ Your ITIN serves the same identity-verification function on a business card appl
 
 The nuance: your ITIN covers the *personal guarantee* side of the application. You'll almost always also need an **EIN (Employer Identification Number)** for the business entity itself. An EIN is free to obtain from the IRS, you don't need an SSN to apply for one, and approval is typically instant online. Think of it this way: your ITIN = you as the owner, your EIN = the business. Issuers want both.
 
-Once you have both numbers in hand, the application process is nearly identical to what a U.S. citizen would go through. If you're still building your personal credit file, check out our guide on [how to build credit with an ITIN](/how-to-build-credit-with-itin) before applying, since most small-business cards do perform a hard pull on your personal credit history.
+Once you have both numbers in hand, the application process is nearly identical to what a U.S. citizen would go through. If you're still building your personal credit file, check out our guide on [how to build credit with an ITIN](/build-credit-with-itin) before applying, since most small-business cards do perform a hard pull on your personal credit history.
 
 ## Which specific business cards accept an ITIN in 2026?
 
@@ -107,7 +107,7 @@ Most ITIN holders applying for their first business card will start with an entr
 
 Here's a realistic upgrade path:
 
-1. **Months 0-6:** Open a personal secured card using your ITIN (see our [secured credit card with ITIN guide](/secured-credit-card-with-itin)) and a business checking account. Use both regularly and pay in full every month.
+1. **Months 0-6:** Open a personal secured card using your ITIN (see our [secured credit card with ITIN guide](/articles/secured-credit-card-with-itin)) and a business checking account. Use both regularly and pay in full every month.
 2. **Months 6-12:** Apply for an entry-level business card like the Capital One Spark Classic. Your growing personal credit file and banking history are your strongest assets at this stage.
 3. **Months 12-24:** With 12+ months of on-time payment history, apply for a mid-tier rewards card (Spark Cash Plus, Chase Ink Unlimited). Your credit score, built under your ITIN, transfers directly to this evaluation.
 4. **Year 2+:** If your business revenue grows, corporate cards without personal guarantees (Brex, Ramp) become realistic options. They care about your cash, not your credit score.
@@ -124,4 +124,4 @@ For most small-business cards from Capital One, Chase, and Bank of America, you 
 
 For corporate cards, the equation changes completely. Corporate card eligibility often requires annual revenue in the millions and a minimum number of account users, and sole proprietors rarely meet the business structure requirements. Ramp specifically requires that you be a registered LLC or corporation, sole proprietors are not eligible.
 
-If you're a freelancer or self-employed ITIN holder, the small-business card route is almost always your starting point. An LLC is worth forming if you plan to scale, but it's not a prerequisite for getting your first business card. Check our [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards) guide for the full picture on issuer policies across personal and business products.
+If you're a freelancer or self-employed ITIN holder, the small-business card route is almost always your starting point. An LLC is worth forming if you plan to scale, but it's not a prerequisite for getting your first business card. Check our [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) guide for the full picture on issuer policies across personal and business products.

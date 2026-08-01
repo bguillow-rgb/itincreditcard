@@ -44,7 +44,7 @@ A secured credit card works just like a regular credit card, you swipe it, get a
 
 For ITIN holders specifically, this matters a lot. Most premium or rewards cards require an established credit score, which you simply won't have when you arrive. A secured card is the bridge: you build a payment history over 6-12 months, your score climbs, and then you either upgrade to an unsecured card or apply for one with better rewards. The deposit isn't a fee, it's your own money sitting in a holding account, and you get it back once you graduate. According to Capital One, most secured cards require a deposit of $200 or more, though some are available with as little as $49 depending on your profile.
 
-For ITIN holders who want to understand the full credit-building roadmap beyond just getting the card, our guide on [how to build credit with an ITIN](/how-to-build-credit-with-itin) covers the next steps in detail.
+For ITIN holders who want to understand the full credit-building roadmap beyond just getting the card, our guide on [how to build credit with an ITIN](/build-credit-with-itin) covers the next steps in detail.
 
 ---
 
@@ -123,7 +123,7 @@ Three rules cover 90% of what matters:
 
 **3. Don't apply for multiple cards at once.** Each application triggers a hard inquiry that temporarily lowers your score. Space applications at least three to six months apart. After 12 months of on-time payments on a secured card, your score will typically be in the 680-720 range, enough to qualify for most standard unsecured cards.
 
-For ITIN holders who want to accelerate the process, adding a credit-builder loan alongside the secured card diversifies your credit mix (worth 10% of your FICO score) and can speed up score growth. Our guide to [building credit with an ITIN](/how-to-build-credit-with-itin) covers the full multi-product strategy.
+For ITIN holders who want to accelerate the process, adding a credit-builder loan alongside the secured card diversifies your credit mix (worth 10% of your FICO score) and can speed up score growth. Our guide to [building credit with an ITIN](/build-credit-with-itin) covers the full multi-product strategy.
 
 ---
 

@@ -112,7 +112,7 @@ The timeline is the same whether you are a resident or a non-resident. A few hab
 - Pay your statement balance in full and on time every month. Payment history is the largest driver of your score.
 - Keep your balance below 30% of your credit limit at all times. On a $500 secured card, that means keeping your balance under $150. Aim for under 10% if you want the fastest gains.
 - Avoid applying for multiple cards within a short window. Each application triggers a hard inquiry, so space applications at least 6 months apart.
-- Once you have 6-12 months of clean history on your ITIN credit card, you may be eligible for a credit limit increase or an upgrade to an unsecured card. Our guide on [how to get a credit limit increase with an ITIN](https://itincreditcard.com/credit-limit-increase-itin-credit-card) walks through the exact steps.
+- Once you have 6-12 months of clean history on your ITIN credit card, you may be eligible for a credit limit increase or an upgrade to an unsecured card. Our guide on [how to get a credit limit increase with an ITIN](/articles/credit-limit-increase-itin-credit-card) walks through the exact steps.
 
 One thing non-residents sometimes overlook: make sure the card you choose reports to all three bureaus. Equifax, Experian, and TransUnion each maintain their own credit file. A card that reports to only one bureau builds only one-third of your credit profile. All of the cards listed in the comparison table above report to all three.
 
@@ -130,4 +130,4 @@ This is where things often go wrong, and most of the mistakes are avoidable.
 
 **Not linking the card to autopay.** Non-residents sometimes miss payment due dates while managing an international move. Set up autopay for the minimum payment the moment your card is activated, then manually pay the full balance each month. A single missed payment can drop your score significantly and stays on your report for seven years.
 
-For more on what to do if you are turned down despite following all these steps, see our guide on [what to do when a credit card is denied with an ITIN](https://itincreditcard.com/credit-card-denied-itin-what-to-do).
+For more on what to do if you are turned down despite following all these steps, see our guide on [what to do when a credit card is denied with an ITIN](/articles/credit-card-denied-itin-what-to-do).

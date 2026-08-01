@@ -91,7 +91,7 @@ Store cards typically carry higher interest rates and are limited to use at spec
 
 If you can qualify for a general-purpose secured card that also reports to all three bureaus, though, you are usually better served by that path. Cards like the OpenSky Secured Visa accept ITIN with no credit check and give you the flexibility to use the card everywhere. The OpenSky Secured Credit Card is one of the few secured credit cards that openly approves applicants without an SSN, accepts ITIN, requires no credit check, lets you set the credit limit with your refundable security deposit, and reports your account activity to all three major credit bureaus every month.
 
-For a full comparison of secured card options, see our guide to [secured credit cards with an ITIN](/secured-credit-card-with-itin). If you are ready to look at cards with no deposit requirement, our [unsecured credit card guide for ITIN holders](/unsecured-credit-card-itin-holders) covers that tier.
+For a full comparison of secured card options, see our guide to [secured credit cards with an ITIN](/articles/secured-credit-card-with-itin). If you are ready to look at cards with no deposit requirement, our [unsecured credit card guide for ITIN holders](/articles/unsecured-credit-card-itin-holders) covers that tier.
 
 ## How quickly will a store credit card build my credit score?
 
@@ -99,10 +99,10 @@ You will typically have a scoreable credit file after six months of account acti
 
 A few behaviors move the needle fastest. Payment history accounts for 35% of your FICO score, making it the single biggest lever you control, according to the CFPB. Keep your balance below 30% of your credit limit at all times, ideally below 10%. Most ITIN-friendly cards start with a credit limit between $200 and $700, limits often increase after 6 to 12 months of on-time payments, and after about a year of responsible use you may qualify for unsecured cards with higher limits and rewards.
 
-Once you cross the 6-12 month mark, revisit your options. You can learn more about requesting higher limits in our guide to [getting a credit limit increase with an ITIN](/credit-limit-increase-itin-credit-card), and check your progress using the methods in our guide on [how to check your credit score with an ITIN](/how-to-check-credit-score-with-itin).
+Once you cross the 6-12 month mark, revisit your options. You can learn more about requesting higher limits in our guide to [getting a credit limit increase with an ITIN](/articles/credit-limit-increase-itin-credit-card), and check your progress using the methods in our guide on [how to check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin).
 
 ## What if I get denied for a store credit card with my ITIN?
 
 Denials happen for reasons beyond your ITIN status. Issuers evaluate income, existing debt, and the strength of your identity verification. Card issuers can consider income, credit history, employment status, and whether or not you have a checking or savings account when making decisions, and a thin or missing U.S. banking relationship is a common reason for denial among new ITIN holders.
 
-If you are denied, request the adverse action notice the issuer is required to provide. It will tell you which factor drove the decision. Common fixes include opening a bank account and waiting 3-6 months before reapplying, switching to a secured version of the card, or choosing an issuer with a more explicit ITIN-friendly policy. Our full guide on [what to do after a credit card denial with an ITIN](/credit-card-denied-itin-what-to-do) walks through each step in detail.
+If you are denied, request the adverse action notice the issuer is required to provide. It will tell you which factor drove the decision. Common fixes include opening a bank account and waiting 3-6 months before reapplying, switching to a secured version of the card, or choosing an issuer with a more explicit ITIN-friendly policy. Our full guide on [what to do after a credit card denial with an ITIN](/articles/credit-card-denied-itin-what-to-do) walks through each step in detail.

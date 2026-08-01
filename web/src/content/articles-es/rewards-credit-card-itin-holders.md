@@ -52,7 +52,7 @@ Aquí es donde la mayoría de las guías se quedan cortas, mencionan tarjetas pr
 
 **Current Build Card**, No requiere verificación de crédito, ni depósito mínimo de seguridad, y tiene 0% de APR. Gastas desde tu cuenta de Current, y la actividad se reporta como uso de crédito al día a Experian, TransUnion y Equifax. Además, ganas 1 punto por dólar en restaurantes y supermercados mientras construyes crédito.
 
-Para conocer más instituciones que aprobarán tu solicitud, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para conocer más instituciones que aprobarán tu solicitud, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
 
 ## Llevo alrededor de un año con mi tarjeta asegurada. ¿A qué tarjetas de recompensas puedo graduarme?
 
@@ -78,7 +78,7 @@ No directamente, el tipo de recompensas de una tarjeta no tiene ningún efecto e
 
 Dicho esto, una tarjeta de recompensas puede *indirectamente* ayudarte porque te da un incentivo para usarla con regularidad en compras del día a día (supermercado, gasolina, suscripciones) en lugar de dejarla guardada en un cajón. Gastos bajos y constantes que pagas en su totalidad cada mes es el patrón ideal, y si además estás ganando 1.5% de reembolso en efectivo mientras lo haces, eso es un beneficio real.
 
-Para una explicación paso a paso de todo el proceso de construcción de crédito, consulta nuestra guía sobre [cómo construir crédito con un ITIN](/how-to-build-credit-with-itin).
+Para una explicación paso a paso de todo el proceso de construcción de crédito, consulta nuestra guía sobre [cómo construir crédito con un ITIN](/es/build-credit-with-itin).
 
 ## Comparación de Tarjetas de Recompensas para Titulares de ITIN
 
@@ -103,7 +103,7 @@ Igual deberás cumplir con los demás requisitos del emisor. El prestamista pued
 
 **Usa primero las herramientas de precalificación.** La herramienta de precalificación de Capital One te permite revisar tus probabilidades sin afectar tu crédito. Chase y varios otros emisores ofrecen verificaciones similares de preaprobación sin consulta difícil. Úsalas antes de enviar una solicitud completa.
 
-Si tu solicitud es rechazada, no te alarmes. Los emisores generalmente envían un aviso de acción adversa explicando el motivo. Las razones más comunes son historial crediticio escaso o ingresos insuficientes, ambas situaciones que se pueden mejorar con el tiempo. También puedes considerar las [tarjetas de crédito aseguradas que aceptan ITIN](/secured-credit-card-with-itin) como un paso previo antes de solicitar productos de recompensas no asegurados.
+Si tu solicitud es rechazada, no te alarmes. Los emisores generalmente envían un aviso de acción adversa explicando el motivo. Las razones más comunes son historial crediticio escaso o ingresos insuficientes, ambas situaciones que se pueden mejorar con el tiempo. También puedes considerar las [tarjetas de crédito aseguradas que aceptan ITIN](/es/articles/secured-credit-card-with-itin) como un paso previo antes de solicitar productos de recompensas no asegurados.
 
 ## ¿Cuál es el camino más rápido y realista de una tarjeta básica a una tarjeta de recompensas de verdad?
 

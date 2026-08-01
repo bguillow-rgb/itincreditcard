@@ -90,7 +90,7 @@ Para nada. Un rechazo de un emisor dice muy poco sobre tus posibilidades con otr
 
 OpenSky Secured Visa cobra una cuota anual de $35 y requiere un depósito mínimo de $200, pero no realiza ninguna verificación de crédito, lo que hace que la aprobación sea prácticamente garantizada independientemente del historial crediticio. Acepta ITIN y reporta a las tres bureaus de crédito. Los $35 anuales son un costo modesto por tener acceso garantizado a una tarjeta, y muchos estudiantes cierran la cuenta o cambian a una sin cuota en un plazo de 12 a 18 meses.
 
-Para quienes tienen ITIN y quieren evitar por completo una cuota anual, la Capital One Quicksilver Secured tiene una cuota de $0 y revisa automáticamente tu cuenta para aumentar el límite de crédito después de seis meses de uso responsable. Esa revisión ocurre sin que tengas que pedirla, y un límite más alto mejora directamente tu tasa de utilización de crédito. Consulta nuestra guía de [tarjetas de crédito aseguradas con ITIN](/secured-credit-card-with-itin) para una comparación más detallada de las opciones con depósito.
+Para quienes tienen ITIN y quieren evitar por completo una cuota anual, la Capital One Quicksilver Secured tiene una cuota de $0 y revisa automáticamente tu cuenta para aumentar el límite de crédito después de seis meses de uso responsable. Esa revisión ocurre sin que tengas que pedirla, y un límite más alto mejora directamente tu tasa de utilización de crédito. Consulta nuestra guía de [tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) para una comparación más detallada de las opciones con depósito.
 
 ## ¿Qué tan rápido puedo construir un puntaje de crédito real como estudiante internacional?
 
@@ -105,7 +105,7 @@ Aquí tienes un cronograma realista para un estudiante internacional que abre un
 
 Un error común que borra meses de progreso es mantener un saldo cercano a tu límite de crédito. Intenta mantener tus gastos por debajo del 30% de tu límite en cada ciclo de facturación. Si tu límite es $500, eso significa mantener los cargos por debajo de $150 antes de que cierre tu estado de cuenta. Este único hábito tiene más impacto en tu puntaje durante el primer año que casi cualquier otra cosa.
 
-Para consejos sobre cómo pasar de una tarjeta inicial a tarjetas con recompensas reales, consulta nuestra guía sobre [tarjetas de crédito con recompensas para titulares de ITIN](/rewards-credit-card-itin-holders).
+Para consejos sobre cómo pasar de una tarjeta inicial a tarjetas con recompensas reales, consulta nuestra guía sobre [tarjetas de crédito con recompensas para titulares de ITIN](/es/articles/rewards-credit-card-itin-holders).
 
 ## ¿Qué pasa si después obtengo un SSN? ¿Pierdo el historial de crédito que construí con mi ITIN?
 

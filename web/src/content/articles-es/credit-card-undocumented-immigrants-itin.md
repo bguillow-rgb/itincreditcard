@@ -112,7 +112,7 @@ Si el crédito que construyen con ITIN realmente cuenta y si se transfiere en ca
 
 Sí en ambos casos. Tu ITIN es un identificador fiscal permanente, y cada cuenta de crédito que abras con él se reporta a Experian, Equifax y TransUnion bajo ese número. Las agencias de crédito mantienen expedientes por ITIN igual que lo hacen por SSN. Algunos emisores de tarjetas de crédito te permiten usar un ITIN en lugar de un SSN al solicitar una tarjeta. Pero tu capacidad de construir crédito depende de usar la tarjeta de forma responsable, no del método que usaste para solicitarla.
 
-Si más adelante obtienes un SSN (por ejemplo, después de obtener autorización de trabajo o una tarjeta de residencia), tu historial crediticio con ITIN puede vincularse a tu nuevo SSN en las agencias de crédito, de modo que los años de uso responsable de la tarjeta no se pierdan. Consulta nuestra guía sobre [qué le pasa a tus tarjetas de crédito cuando obtienes un SSN después de usar un ITIN](/itin-to-ssn-credit-card-history-transfer) para conocer los pasos exactos.
+Si más adelante obtienes un SSN (por ejemplo, después de obtener autorización de trabajo o una tarjeta de residencia), tu historial crediticio con ITIN puede vincularse a tu nuevo SSN en las agencias de crédito, de modo que los años de uso responsable de la tarjeta no se pierdan. Consulta nuestra guía sobre [qué le pasa a tus tarjetas de crédito cuando obtienes un SSN después de usar un ITIN](/es/articles/itin-to-ssn-credit-card-history-transfer) para conocer los pasos exactos.
 
 En la práctica, los tres hábitos que hacen subir tu puntaje después de obtener tu primera tarjeta son los mismos para todos:
 
@@ -120,7 +120,7 @@ En la práctica, los tres hábitos que hacen subir tu puntaje después de obtene
 2. Mantén tus gastos por debajo del 30% de tu límite de crédito. El Consumer Financial Protection Bureau (CFPB) recomienda mantener tu tasa de utilización de crédito por debajo del 30%.
 3. Evita solicitar varias tarjetas a la vez, ya que cada solicitud genera una consulta fuerte que puede bajar temporalmente tu puntaje.
 
-Según un análisis de 2026 sobre los tiempos de construcción de crédito con ITIN, los titulares de tarjetas constantes pueden esperar una mejora en su puntaje de 40 a 80 puntos dentro de sus primeros 12 meses de uso. Después de 12 a 18 meses, muchos titulares de ITIN califican para [pasar de una tarjeta asegurada a una no asegurada](/upgrade-secured-to-unsecured-credit-card-itin) con mejores recompensas y sin requisito de depósito.
+Según un análisis de 2026 sobre los tiempos de construcción de crédito con ITIN, los titulares de tarjetas constantes pueden esperar una mejora en su puntaje de 40 a 80 puntos dentro de sus primeros 12 meses de uso. Después de 12 a 18 meses, muchos titulares de ITIN califican para [pasar de una tarjeta asegurada a una no asegurada](/es/articles/upgrade-secured-to-unsecured-credit-card-itin) con mejores recompensas y sin requisito de depósito.
 
 ## ¿Puedo obtener una tarjeta no asegurada siendo inmigrante indocumentado?
 
@@ -128,7 +128,7 @@ Sí, pero toma tiempo. Las tarjetas no aseguradas requieren que el emisor asuma 
 
 Petal tiene dos tarjetas disponibles para inmigrantes que no tienen SSN: la Petal 1 y la Petal 2 Visa Credit Cards. Ambas tarjetas consideran factores más allá de tu puntaje crediticio al evaluar si un solicitante es elegible. Al solicitar, el emisor revisa tu Cash Score analizando tu historial bancario, comprobante de ingresos y pagos de facturas a tiempo. Este modelo alternativo de evaluación hace de Petal uno de los pocos emisores que puede aprobar una tarjeta no asegurada para alguien con un historial crediticio en EE. UU. escaso o inexistente, siempre que tengas un flujo de ingresos documentado y un historial bancario.
 
-Para un análisis completo de las opciones no aseguradas y sus requisitos de ITIN, consulta nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](/unsecured-credit-card-itin-holders).
+Para un análisis completo de las opciones no aseguradas y sus requisitos de ITIN, consulta nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders).
 
 ## ¿Qué errores debo evitar al usar mi primera tarjeta de crédito con ITIN?
 
@@ -140,4 +140,4 @@ Tres errores explican la mayoría de los problemas que vemos entre los nuevos ti
 
 **Cerrar la tarjeta demasiado pronto.** La antigüedad del historial crediticio es un factor en tu puntaje. Cerrar tu primera tarjeta después de solo seis meses elimina la contribución de esa cuenta a tu historial. Mantén la tarjeta abierta y activa (aunque sea con compras pequeñas cada mes) hasta que hayas establecido al menos una cuenta adicional.
 
-Para un análisis más detallado sobre cómo solicitar, incluyendo qué campos de la solicitud debes tener en cuenta, visita nuestra guía sobre [cómo solicitar una tarjeta de crédito con ITIN](/how-to-apply-for-credit-card-with-itin).
+Para un análisis más detallado sobre cómo solicitar, incluyendo qué campos de la solicitud debes tener en cuenta, visita nuestra guía sobre [cómo solicitar una tarjeta de crédito con ITIN](/es/articles/how-to-apply-for-credit-card-with-itin).

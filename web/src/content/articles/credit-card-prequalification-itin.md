@@ -87,7 +87,7 @@ If you decide to formally apply for the card, the hard pull will usually still h
 
 Once you choose a card and submit the full application, the issuer runs a hard inquiry and reviews your complete credit report, income documentation, and sometimes additional identity documents. If you are applying online, you could get a near-instant answer to your application, and if you are approved, some issuers may give you a virtual card number to start using right away.
 
-For ITIN holders with no U.S. credit history at all, pre-qualification results may come back empty at issuers that require some existing credit file. In that case, see our guide to [secured credit cards with an ITIN](/secured-credit-card-with-itin) or [your first credit card with an ITIN and no U.S. credit history](/first-credit-card-itin-no-us-credit-history), which covers cards that skip the credit check entirely.
+For ITIN holders with no U.S. credit history at all, pre-qualification results may come back empty at issuers that require some existing credit file. In that case, see our guide to [secured credit cards with an ITIN](/articles/secured-credit-card-with-itin) or [your first credit card with an ITIN and no U.S. credit history](/articles/first-credit-card-itin-no-us-credit-history), which covers cards that skip the credit check entirely.
 
 ## Does pre-qualifying reduce my actual approval odds, or does it help?
 
@@ -111,7 +111,7 @@ Several options exist that effectively pre-approve all ITIN holders regardless o
 - Firstcard: Firstcard accepts SSNs, ITINs, and passports, making it ideal for immigrants, international students, and non-U.S. citizens. No hard pull is required.
 - Capital One Platinum Secured: often returns a pre-qualified result even for applicants with limited history, because the required security deposit lowers the issuer's risk.
 
-Once you have 6-12 months of on-time payment history on a starter card, run the pre-qualification tools at Capital One and Chase again. Your results will typically improve meaningfully. Our guide on [how to build credit fast with an ITIN credit card](/build-credit-with-itin-credit-card) walks through exactly what to do during that window.
+Once you have 6-12 months of on-time payment history on a starter card, run the pre-qualification tools at Capital One and Chase again. Your results will typically improve meaningfully. Our guide on [how to build credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card) walks through exactly what to do during that window.
 
 ## How many issuers should I pre-qualify with at the same time?
 
@@ -130,4 +130,4 @@ Avoid applying to multiple cards on the same day after pre-qualifying. Space for
 
 In May 2026, a new executive order directed federal financial regulators to review how institutions handle ITIN-based accounts. The order directs the Treasury Department and federal financial regulators to issue guidance treating immigration status as a factor in evaluating financial risk and flags the use of Individual Taxpayer Identification Numbers as a potential red flag requiring enhanced scrutiny. Implementation guidance was still pending as of June 2026, and no major issuer had changed its published ITIN acceptance policy as of this writing. Monitor issuer communications and confirm ITIN acceptance directly before applying, especially if you are applying later in 2026 when guidance may be finalized.
 
-For a complete list of which banks currently accept ITINs for credit card applications, see our dedicated guide on [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a complete list of which banks currently accept ITINs for credit card applications, see our dedicated guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).

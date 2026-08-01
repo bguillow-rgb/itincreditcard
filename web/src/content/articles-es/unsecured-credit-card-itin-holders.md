@@ -89,7 +89,7 @@ Si estás empezando desde cero, generalmente tomará entre dos y seis meses de a
 
 ## ¿Cómo paso de una tarjeta asegurada a una no asegurada con ITIN?
 
-Si actualmente tienes una [tarjeta de crédito asegurada con tu ITIN](/secured-credit-card-with-itin), el proceso de graduación es más sencillo de lo que la mayoría espera, en gran parte es cuestión de tiempo y comportamiento, no de papeleo.
+Si actualmente tienes una [tarjeta de crédito asegurada con tu ITIN](/es/articles/secured-credit-card-with-itin), el proceso de graduación es más sencillo de lo que la mayoría espera, en gran parte es cuestión de tiempo y comportamiento, no de papeleo.
 
 **El plazo estándar para graduarse:**
 
@@ -134,6 +134,6 @@ Una nota importante de mantenimiento: los SSN no vencen ni necesitan renovarse, 
 
 Este es un buen problema de tener. Cuando recibes un SSN después de años de construir crédito con un ITIN, tu historial crediticio no empieza de cero. Proporciona ambos números a los bancos y las agencias de crédito; ellos pueden fusionar tus historiales para que el crédito que tanto te costó construir te siga.
 
-En la práctica: notifica a tus emisores de tarjetas por escrito, luego envía solicitudes escritas a Experian, Equifax y TransUnion pidiéndoles que vinculen tu archivo basado en ITIN a tu nuevo SSN. Guarda copias de toda la correspondencia. Una vez fusionados, tendrás acceso a toda la gama de productos crediticios que antes no estaban disponibles, y todos los años que pasaste [construyendo crédito con tu ITIN](/how-to-build-credit-with-itin) cuentan para ese nuevo capítulo.
+En la práctica: notifica a tus emisores de tarjetas por escrito, luego envía solicitudes escritas a Experian, Equifax y TransUnion pidiéndoles que vinculen tu archivo basado en ITIN a tu nuevo SSN. Guarda copias de toda la correspondencia. Una vez fusionados, tendrás acceso a toda la gama de productos crediticios que antes no estaban disponibles, y todos los años que pasaste [construyendo crédito con tu ITIN](/es/build-credit-with-itin) cuentan para ese nuevo capítulo.
 
 La conclusión más importante para quien lee esta guía: el camino de "ningún crédito, ninguna tarjeta sin depósito" a una tarjeta no asegurada con recompensas suele tomar entre 12 y 18 meses de uso disciplinado. Espera mejoras de 40 a 80 puntos en 12 meses de uso responsable y constante, suficiente para acceder a productos realmente competitivos. Empieza con lo que está disponible hoy. Actualiza cuando los números lo respalden.

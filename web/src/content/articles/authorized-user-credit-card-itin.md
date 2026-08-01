@@ -102,9 +102,9 @@ Being an authorized user is a strong *starting move*, not a complete strategy on
 
 1. **Get your ITIN**, You need it to ensure authorized user accounts actually post to your credit file and to apply for your own cards later.
 2. **Become an authorized user**, Ask a trusted family member or friend with a clean, aged account at a bureau-reporting issuer. Provide your ITIN so the account maps to your file from day one.
-3. **Open a secured card in your own name**, Authorized user status doesn't fully replicate having primary responsibility. Once your file has a few months of history (or immediately, with a no-credit-check secured card), apply for a [secured credit card with your ITIN](/secured-credit-card-with-itin) to add a primary tradeline.
+3. **Open a secured card in your own name**, Authorized user status doesn't fully replicate having primary responsibility. Once your file has a few months of history (or immediately, with a no-credit-check secured card), apply for a [secured credit card with your ITIN](/articles/secured-credit-card-with-itin) to add a primary tradeline.
 4. **Keep utilization under 30%**, Pay every bill on time, keep utilization under 30%, and avoid frequent applications.
-5. **Track your progress**, Check your ITIN-linked credit file regularly. See our guide on [how to check your credit score with an ITIN](/how-to-check-credit-score-with-itin) for the free methods that work without an SSN.
+5. **Track your progress**, Check your ITIN-linked credit file regularly. See our guide on [how to check your credit score with an ITIN](https://itincreditscore.com/check-credit-score-with-itin) for the free methods that work without an SSN.
 
 You'll typically have a scoreable credit file after six months of account activity. Combining authorized user status with a secured card of your own can significantly compress that timeline, some ITIN holders report reaching a scoreable FICO within 90 days using both strategies together.
 
@@ -112,6 +112,6 @@ You'll typically have a scoreable credit file after six months of account activi
 
 Call the issuer's reconsideration or customer service line rather than accepting a front-line "no." Call the issuer's customer service line directly to confirm their current ITIN policy before applying, published policies and branch-level execution are not always the same. A phone agent often has more flexibility than the online form allows.
 
-If the issuer truly won't accept an ITIN, the authorized user account may still be issued, but without credit-bureau reporting. In that case, the account is spending access only, not a credit-building tool. Your better path is to ask the primary cardholder to open a new card at an ITIN-friendly issuer like American Express (which explicitly accepts ITINs for authorized users) or to proceed directly to a [secured card in your own name](/secured-credit-card-with-itin) that accepts ITIN applicants.
+If the issuer truly won't accept an ITIN, the authorized user account may still be issued, but without credit-bureau reporting. In that case, the account is spending access only, not a credit-building tool. Your better path is to ask the primary cardholder to open a new card at an ITIN-friendly issuer like American Express (which explicitly accepts ITINs for authorized users) or to proceed directly to a [secured card in your own name](/articles/secured-credit-card-with-itin) that accepts ITIN applicants.
 
-For a broader picture of which issuers are most welcoming to ITIN holders across all product types, see our full guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a broader picture of which issuers are most welcoming to ITIN holders across all product types, see our full guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).

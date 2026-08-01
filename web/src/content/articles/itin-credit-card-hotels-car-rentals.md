@@ -50,7 +50,7 @@ Authorization holds exist because the hotel wants to confirm a valid payment met
 
 Most hotels place a per-night incidental hold on top of your room rate. Budget chains may hold $50-$100 per night; mid-scale and upscale properties commonly hold $150-$250 per night. A three-night stay at a mid-range hotel could temporarily tie up $450-$750 in addition to your room charges. Some properties authorize the card at the start of your stay, and that block on your available credit stays in place throughout, not just at checkout.
 
-If your ITIN secured card has a $200 limit, you are likely to be declined at check-in simply because the hold would exceed your available credit. The hotel doesn't know or care about your ITIN. The fix is straightforward: request a credit limit increase before you travel (see our guide on [how to get a credit limit increase with an ITIN credit card](/credit-limit-increase-itin-credit-card)), or carry a second card as a backup. Aim to have at least $600-$800 in available credit before booking a multi-night stay.
+If your ITIN secured card has a $200 limit, you are likely to be declined at check-in simply because the hold would exceed your available credit. The hotel doesn't know or care about your ITIN. The fix is straightforward: request a credit limit increase before you travel (see our guide on [how to get a credit limit increase with an ITIN credit card](/articles/credit-limit-increase-itin-credit-card)), or carry a second card as a backup. Aim to have at least $600-$800 in available credit before booking a multi-night stay.
 
 After checkout, expect 3-7 business days for the hold to drop off, depending on your bank.
 
@@ -72,7 +72,7 @@ Debit cards are technically accepted by some rental agencies, but the rules are 
 
 There's also a cash flow problem with debit. Unlike a credit card hold, a debit card authorization immediately reduces your available bank balance, and that hold can take 7-15 business days to clear after the car is returned. That can leave you short on cash during the trip itself.
 
-The practical takeaway: grow your ITIN credit card's limit to at least $800-$1,000 before relying on it for car rentals. That's a realistic target after 6-12 months of responsible use. Upgrading from a secured to an unsecured card (see our guide on [how to upgrade from secured to unsecured credit card with an ITIN](/upgrade-secured-to-unsecured-credit-card-itin)) typically comes with a meaningful limit increase that makes travel much less stressful.
+The practical takeaway: grow your ITIN credit card's limit to at least $800-$1,000 before relying on it for car rentals. That's a realistic target after 6-12 months of responsible use. Upgrading from a secured to an unsecured card (see our guide on [how to upgrade from secured to unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin)) typically comes with a meaningful limit increase that makes travel much less stressful.
 
 ## Which ITIN-accepted cards are best for hotels and car rentals?
 
@@ -91,7 +91,7 @@ For ITIN holders who have already built 12 months or more of credit history, the
 
 The Capital One travel portal reward is worth noting for another reason. For immigrants who travel back to their home country, booking through Capital One Travel earns 5% back, a meaningful return on what is often one of the larger annual expenses a family faces.
 
-If your goal is to get the most value from hotel and car rental spending, pairing a Capital One card (for 5% on the portal) with a no-foreign-transaction-fee card covers both domestic and international travel. See our guide to [no foreign transaction fee credit cards for ITIN holders](/no-foreign-transaction-fee-credit-card-itin).
+If your goal is to get the most value from hotel and car rental spending, pairing a Capital One card (for 5% on the portal) with a no-foreign-transaction-fee card covers both domestic and international travel. See our guide to [no foreign transaction fee credit cards for ITIN holders](/articles/no-foreign-transaction-fee-credit-card-itin).
 
 ## What documents should I bring to the hotel or rental counter?
 

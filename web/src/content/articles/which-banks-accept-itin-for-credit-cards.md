@@ -92,7 +92,7 @@ Amex is a particularly interesting option for immigrants with an established fin
 
 The American Express Gold Card is an excellent option if you're interested in earning travel rewards. It earns Amex Membership Rewards points, which can be transferred to 21 airline and hotel rewards programs, and you can apply online using your ITIN. More importantly for newer arrivals: if you don't have an extensive credit history in the U.S., you may have an easier time getting approved for an American Express card because it can access credit history from a handful of other countries.
 
-That international credit access is a meaningful advantage if you're coming from Canada, the UK, Australia, India, or other countries in Amex's network. If you're brand new to credit in any country, start with a secured product first, see our guide to [secured credit cards with an ITIN](/secured-credit-card-with-itin) before targeting a rewards card like the Amex Gold.
+That international credit access is a meaningful advantage if you're coming from Canada, the UK, Australia, India, or other countries in Amex's network. If you're brand new to credit in any country, start with a secured product first, see our guide to [secured credit cards with an ITIN](/articles/secured-credit-card-with-itin) before targeting a rewards card like the Amex Gold.
 
 ---
 
@@ -121,7 +121,7 @@ The answer depends on whether you can put down a security deposit.
 
 **If you cannot make a deposit:** The Current Build Card is the strongest no-deposit, no-credit-check option for ITIN holders. You spend like a debit card from your Current account, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. The Tilt Motion Visa, the successor to the Petal 2 Visa, is another strong no-deposit option if you have some U.S. banking history. As reported, Petal 1 and Petal 2 stopped taking new applications in 2026 after Empower Finance's acquisition, and new applicants are routed to Tilt instead. Applicants with limited credit and an ITIN can get approved through Tilt's cash-flow underwriting, and there's no annual fee.
 
-Once you have 12-18 months of on-time payment history, transitioning to an unsecured rewards card at Chase or Amex becomes a realistic goal. Read our guide on [how to build credit with an ITIN](/how-to-build-credit-with-itin) for the full roadmap.
+Once you have 12-18 months of on-time payment history, transitioning to an unsecured rewards card at Chase or Amex becomes a realistic goal. Read our guide on [how to build credit with an ITIN](/build-credit-with-itin) for the full roadmap.
 
 ---
 

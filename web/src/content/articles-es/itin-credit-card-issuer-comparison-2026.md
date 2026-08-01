@@ -255,7 +255,7 @@ Después de 12 meses de pagos puntuales, tu puntuación generalmente estará en 
 
 El camino de ascenso de asegurada a sin garantía funciona de manera diferente en cada emisor. Capital One puede devolver tu depósito y convertir la tarjeta automáticamente. OpenSky asciende por invitación. Bank of America y Citi generalmente requieren que solicites una nueva tarjeta sin garantía. Planifica tu cronograma para no tener un depósito inmovilizado durante años cuando podrías recuperarlo.
 
-Para una guía paso a paso sobre cómo pasar exactamente de asegurada a sin garantía, consulta nuestra guía sobre [cómo actualizar de tarjeta de crédito asegurada a sin garantía con un ITIN](/upgrade-secured-to-unsecured-credit-card-itin).
+Para una guía paso a paso sobre cómo pasar exactamente de asegurada a sin garantía, consulta nuestra guía sobre [cómo actualizar de tarjeta de crédito asegurada a sin garantía con un ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin).
 
 ---
 
@@ -271,7 +271,7 @@ Nuestra postura editorial, basada en los datos anteriores:
 
 **Si ya tienes 12 o más meses de historial crediticio en EE. UU.:** Omite el nivel asegurado por completo y solicita directamente la Capital One QuicksilverOne, la Chase Freedom Rise o la Amex Blue Cash Everyday usando tu ITIN.
 
-Para más detalles sobre los documentos y el proceso de solicitud paso a paso, consulta nuestra guía completa sobre [cómo solicitar una tarjeta de crédito con un ITIN](/how-to-apply-for-credit-card-with-itin). Para entender cómo tu nueva tarjeta reporta a las agencias y construye tu puntuación, consulta [si tu tarjeta de crédito con ITIN reporta a las tres agencias](/itin-credit-card-credit-bureau-reporting).
+Para más detalles sobre los documentos y el proceso de solicitud paso a paso, consulta nuestra guía completa sobre [cómo solicitar una tarjeta de crédito con un ITIN](/es/articles/how-to-apply-for-credit-card-with-itin). Para entender cómo tu nueva tarjeta reporta a las agencias y construye tu puntuación, consulta [si tu tarjeta de crédito con ITIN reporta a las tres agencias](/es/articles/itin-credit-card-credit-bureau-reporting).
 
 ---
 

@@ -201,7 +201,7 @@ Si la respuesta es no, empieza con una tarjeta asegurada. El depósito reduce el
 
 Si tienes algo de historial crediticio en EE.UU. (digamos, seis meses o más de una cuenta reportada), consulta la herramienta de pre-calificación de Capital One. Capital One ofrece la Platinum Secured con un depósito de $49, $99 o $200 que abre una línea de crédito de $200, pero también ofrece la Platinum no asegurada para solicitantes con historial limitado: sin depósito, aproximadamente 29.99% APR variable, sin cuota anual y revisión automática de la línea de crédito a los seis meses de pagos puntuales.
 
-Hacer la consulta de pre-calificación no afecta tu historial crediticio y te indica exactamente para qué producto calificas antes de aplicar formalmente. Nuestra guía sobre [cómo pre-calificar para una tarjeta de crédito con ITIN](https://itincreditcard.com/credit-card-prequalification-itin) explica este proceso paso a paso.
+Hacer la consulta de pre-calificación no afecta tu historial crediticio y te indica exactamente para qué producto calificas antes de aplicar formalmente. Nuestra guía sobre [cómo pre-calificar para una tarjeta de crédito con ITIN](/es/articles/credit-card-prequalification-itin) explica este proceso paso a paso.
 
 ---
 
@@ -209,7 +209,7 @@ Hacer la consulta de pre-calificación no afecta tu historial crediticio y te in
 
 Sí. Ambos tipos de tarjeta construyen crédito mediante pagos puntuales y saldos bajos. Los burós de crédito no distinguen entre asegurada y no asegurada al calcular tu puntaje. Lo que importa es el reporte, no la estructura de garantía detrás de la tarjeta.
 
-Los puntajes de crédito generalmente aparecen después de 3-6 meses de uso responsable de la tarjeta. Una vez establecido tu puntaje, las mismas reglas aplican sin importar el tipo de tarjeta: paga a tiempo, mantén el uso del crédito por debajo del 30% (por debajo del 10% es mejor para optimizar el puntaje) y evita cerrar tu cuenta más antigua. Para ver más detalladamente cómo las tarjetas de crédito con ITIN reportan a los burós y qué aparece realmente en tu expediente, consulta nuestra guía sobre [si tu tarjeta de crédito con ITIN reporta a los tres burós](https://itincreditcard.com/itin-credit-card-credit-bureau-reporting).
+Los puntajes de crédito generalmente aparecen después de 3-6 meses de uso responsable de la tarjeta. Una vez establecido tu puntaje, las mismas reglas aplican sin importar el tipo de tarjeta: paga a tiempo, mantén el uso del crédito por debajo del 30% (por debajo del 10% es mejor para optimizar el puntaje) y evita cerrar tu cuenta más antigua. Para ver más detalladamente cómo las tarjetas de crédito con ITIN reportan a los burós y qué aparece realmente en tu expediente, consulta nuestra guía sobre [si tu tarjeta de crédito con ITIN reporta a los tres burós](/es/articles/itin-credit-card-credit-bureau-reporting).
 
 Según los propios datos de titulares de tarjetas de OpenSky, los tarjetahabientes ven un aumento promedio de 47 puntos en su puntaje de crédito durante los primeros seis meses. Ese tipo de progreso temprano es alcanzable tanto con una tarjeta asegurada como con una no asegurada, siempre que los pagos sean puntuales y los saldos se mantengan bajos.
 
@@ -229,7 +229,7 @@ Para tarjetas aseguradas, ten a la mano una cuenta bancaria o fintech en EE.UU. 
 
 Para Bank of America específicamente, los solicitantes con ITIN deben aplicar en persona en una sucursal local, así que lleva los originales de todos los documentos. Para Capital One, Citi y OpenSky, la solicitud completa puede realizarse en línea.
 
-Para un recorrido paso a paso del proceso completo de solicitud, consulta nuestra guía sobre [cómo aplicar para una tarjeta de crédito con ITIN](https://itincreditcard.com/how-to-apply-for-credit-card-with-itin). Si tu solicitud es rechazada, nuestra guía sobre [qué hacer cuando te niegan una tarjeta de crédito con ITIN](https://itincreditcard.com/credit-card-denied-itin-what-to-do) cubre los siguientes pasos.
+Para un recorrido paso a paso del proceso completo de solicitud, consulta nuestra guía sobre [cómo aplicar para una tarjeta de crédito con ITIN](/es/articles/how-to-apply-for-credit-card-with-itin). Si tu solicitud es rechazada, nuestra guía sobre [qué hacer cuando te niegan una tarjeta de crédito con ITIN](/es/articles/credit-card-denied-itin-what-to-do) cubre los siguientes pasos.
 
 ---
 

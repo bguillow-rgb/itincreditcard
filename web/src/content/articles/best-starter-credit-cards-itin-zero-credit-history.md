@@ -88,7 +88,7 @@ The Capital One Quicksilver Secured is one of the best credit cards for building
 
 The deposit minimum is $200, which becomes your starting credit limit. If you want a limit higher than $200, you can make an initial deposit of up to $3,000, depending on your creditworthiness. That flexibility matters because keeping your reported balance below 10-30% of your credit limit is one of the fastest ways to build your score. A $500 deposit gives you much more room to operate than a $200 one.
 
-Every six months, Capital One automatically considers cardholders for a higher credit line with no additional deposit required. Once your credit has improved through responsible card use, you can upgrade to an unsecured Capital One Quicksilver Cash Rewards Credit Card and receive your security deposit back. That automated upgrade path is rare among starter cards and removes the guesswork of knowing when to apply for the next step. For anyone who wants to pre-check their approval odds without a hard inquiry, Capital One's pre-qualification tool is an excellent first stop. See our guide on [how to pre-qualify for a credit card with an ITIN](https://itincreditcard.com/credit-card-prequalification-itin) for the step-by-step process.
+Every six months, Capital One automatically considers cardholders for a higher credit line with no additional deposit required. Once your credit has improved through responsible card use, you can upgrade to an unsecured Capital One Quicksilver Cash Rewards Credit Card and receive your security deposit back. That automated upgrade path is rare among starter cards and removes the guesswork of knowing when to apply for the next step. For anyone who wants to pre-check their approval odds without a hard inquiry, Capital One's pre-qualification tool is an excellent first stop. See our guide on [how to pre-qualify for a credit card with an ITIN](/articles/credit-card-prequalification-itin) for the step-by-step process.
 
 ---
 
@@ -176,7 +176,7 @@ Practically, gather these before you start any application:
 - A U.S. bank or credit union account to fund the deposit via ACH transfer
 - Proof of income (pay stubs, bank statements, or a letter from your employer)
 
-For online applications, use soft-check pre-qualification tools, like Capital One's, to gauge approval odds without a hard inquiry. This matters especially if your file is empty: a hard inquiry on a completely blank file costs you a few points before you have even started accumulating positive history. Our detailed guide on [how to apply for a credit card with an ITIN](https://itincreditcard.com/how-to-apply-for-credit-card-with-itin) walks through the online vs. in-branch process for each major issuer. You can also review [which banks accept ITIN for credit cards](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) to narrow your list before applying.
+For online applications, use soft-check pre-qualification tools, like Capital One's, to gauge approval odds without a hard inquiry. This matters especially if your file is empty: a hard inquiry on a completely blank file costs you a few points before you have even started accumulating positive history. Our detailed guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin) walks through the online vs. in-branch process for each major issuer. You can also review [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) to narrow your list before applying.
 
 ---
 
@@ -202,7 +202,7 @@ Expect 6-12 months of consistent activity before your score is strong enough for
 
 The one exception where two accounts from day one makes sense is the Self Visa path: pairing the Self Credit Builder Account (an installment loan) with the Self Visa (a revolving credit card) immediately gives you two tradeline types. The loan-first route builds an installment tradeline alongside the card, which boosts your credit mix faster than a card-only approach. Since both products are under the same issuer, there is only one hard pull and one relationship to manage.
 
-Once you have 6-12 months of clean history and a score in the fair-to-good range, look at unsecured options. Our guides on [unsecured credit cards for ITIN holders](https://itincreditcard.com/unsecured-credit-card-itin-holders) and [how to upgrade from a secured to an unsecured card with an ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin) cover that next step in detail.
+Once you have 6-12 months of clean history and a score in the fair-to-good range, look at unsecured options. Our guides on [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) and [how to upgrade from a secured to an unsecured card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin) cover that next step in detail.
 
 ---
 

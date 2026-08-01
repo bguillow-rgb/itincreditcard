@@ -152,7 +152,7 @@ La respuesta honesta es que tus opciones dependen del emisor y a veces de tu pa�
 | Latino Credit Union Visa | Solo en sucursal (miembros en NC) | No | Varía | $0 |
 | Self-Help CU Secured | Solo en sucursal | No | Varía | $0 |
 
-Para un análisis más detallado de las reglas de solicitud en línea vs. en sucursal y consejos para navegar formularios en línea poco flexibles, consulta nuestra guía sobre [solicitar una tarjeta de crédito con ITIN en línea vs. en sucursal](/credit-card-itin-apply-online-vs-in-branch).
+Para un análisis más detallado de las reglas de solicitud en línea vs. en sucursal y consejos para navegar formularios en línea poco flexibles, consulta nuestra guía sobre [solicitar una tarjeta de crédito con ITIN en línea vs. en sucursal](/es/articles/credit-card-itin-apply-online-vs-in-branch).
 
 ---
 
@@ -212,7 +212,7 @@ Depende de si quieres solicitar en línea o en persona, y de si puedes financiar
 
 **Mejor opción fintech:** La Self Visa Secured Card acepta el ITIN completamente en línea. La tarjeta no tiene cuota anual el primer año, luego $25 por año, más una APR variable del 27.49%. Self tiene altas tasas de aprobación y sigue siendo una opción consistente para solicitantes con expediente crediticio escaso.
 
-Para una comparación completa lado a lado de depósitos en tarjetas aseguradas y plazos de actualización, consulta nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-card-with-itin).
+Para una comparación completa lado a lado de depósitos en tarjetas aseguradas y plazos de actualización, consulta nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
 
 ---
 

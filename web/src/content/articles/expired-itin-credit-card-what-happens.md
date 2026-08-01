@@ -72,7 +72,7 @@ Here is what many people do not realize: credit bureaus can create and maintain 
 
 That file lives at the bureau level, not the IRS level. An expired ITIN doesn't erase or freeze your bureau file. Your payment history, account ages, and credit utilization data all remain on file as normal, and your credit score is calculated from those bureau records, not from IRS data.
 
-The indirect risk is behavioral. If you can't open a new card or increase a limit because of an expired ITIN, your credit utilization could creep up on existing cards, which can nudge your score downward. That's why renewing promptly matters, even if your current accounts are fine. For more on how card activity connects to your score, see our guide to [building credit with an ITIN credit card](/build-credit-with-itin-credit-card).
+The indirect risk is behavioral. If you can't open a new card or increase a limit because of an expired ITIN, your credit utilization could creep up on existing cards, which can nudge your score downward. That's why renewing promptly matters, even if your current accounts are fine. For more on how card activity connects to your score, see our guide to [building credit with an ITIN credit card](/articles/build-credit-with-itin-credit-card).
 
 ## How do I renew my ITIN, and how long will it take?
 
@@ -95,7 +95,7 @@ For most ITIN holders, the CAA route is the safest option: the agent verifies yo
 
 ## Will I lose my credit history if I switch from my ITIN to an SSN later?
 
-No, and this is covered in detail in our dedicated guide on [what happens to your credit cards when you get an SSN after using an ITIN](/itin-to-ssn-credit-card-history-transfer). The short version: your credit history transfers with you. If an individual later obtains an SSN, it is possible to merge ITIN-based credit history with the new SSN credit file by contacting the major credit bureaus directly. Your account ages, payment records, and scores don't reset.
+No, and this is covered in detail in our dedicated guide on [what happens to your credit cards when you get an SSN after using an ITIN](/articles/itin-to-ssn-credit-card-history-transfer). The short version: your credit history transfers with you. If an individual later obtains an SSN, it is possible to merge ITIN-based credit history with the new SSN credit file by contacting the major credit bureaus directly. Your account ages, payment records, and scores don't reset.
 
 The key action is to notify each of the three bureaus in writing and update your identifying number with each card issuer. Don't let both numbers run simultaneously on active accounts because that can create a mixed-file problem.
 
@@ -108,6 +108,6 @@ For a clear action checklist, so here it is:
 3. Don't apply for a new credit card yet. If you suspect expiration, confirm status first. A denial for identity reasons still generates a hard inquiry on your file in many cases, which can temporarily lower your credit score. Wait until your renewal is confirmed.
 4. Choose your renewal method and submit immediately. Outside of tax season (May through December), standard mail to the IRS Austin center is fine. During January through April, use a CAA for faster processing.
 5. Keep your existing cards active during the wait. Use each card for at least one small purchase per month and pay the balance in full. This keeps your accounts from being flagged as dormant and maintains positive reporting throughout the renewal period.
-6. Apply for the new card after your renewed ITIN letter arrives. Once the IRS issues your renewed number (same digits, new active status), you're clear to apply. Consider [pre-qualifying](/credit-card-prequalification-itin) with issuers that use a soft pull before submitting a full application.
+6. Apply for the new card after your renewed ITIN letter arrives. Once the IRS issues your renewed number (same digits, new active status), you're clear to apply. Consider [pre-qualifying](/articles/credit-card-prequalification-itin) with issuers that use a soft pull before submitting a full application.
 
-If you're already in the middle of building a credit file and want to know which issuers are most likely to approve you once your ITIN is renewed, our [verified issuer list for ITIN credit cards](/credit-cards-that-accept-itin-verified-issuer-list) is a good starting point. Most applicants with 12-18 months of on-time payment history on a secured card are ready to move toward an unsecured product once their ITIN is confirmed active.
+If you're already in the middle of building a credit file and want to know which issuers are most likely to approve you once your ITIN is renewed, our [verified issuer list for ITIN credit cards](/articles/credit-cards-that-accept-itin-verified-issuer-list) is a good starting point. Most applicants with 12-18 months of on-time payment history on a secured card are ready to move toward an unsecured product once their ITIN is confirmed active.

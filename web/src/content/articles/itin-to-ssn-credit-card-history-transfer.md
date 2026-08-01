@@ -93,7 +93,7 @@ Your deposit is not affected by your SSN transition. The deposit belongs to you 
 
 In fact, getting an SSN may actually speed up your path to recovering that deposit. Many issuers review secured card accounts for graduation to an unsecured card after 6-12 months of responsible use, according to information from multiple issuer support pages. With an SSN now on file, your issuer can more easily run a full credit check to evaluate you for a limit increase or a product upgrade. If your credit history has been successfully merged, the issuer will see your complete payment record, not just activity since your SSN was added, and that can only help your case.
 
-If graduating your secured card is a priority, read our guide on [how to upgrade from a secured to an unsecured credit card with an ITIN](/upgrade-secured-to-unsecured-credit-card-itin) for the full process, including the questions to ask your issuer before making a product-change request.
+If graduating your secured card is a priority, read our guide on [how to upgrade from a secured to an unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin) for the full process, including the questions to ask your issuer before making a product-change request.
 
 ---
 
@@ -121,7 +121,7 @@ The better approach is to update your existing cards with your new SSN, complete
 
 That said, if you were limited to a secured card specifically because no unsecured products were available to you without an SSN, getting an SSN does open new doors. Cards from issuers that previously required an SSN are now accessible. But the sequence matters: merge your history first, then apply for new products, so your strong payment record works in your favor from the first application.
 
-If you are now exploring unsecured options available to SSN holders, our guide to [unsecured credit cards for ITIN holders](/unsecured-credit-card-itin-holders) covers which issuers offer the smoothest path from secured to unsecured regardless of which identifier you used.
+If you are now exploring unsecured options available to SSN holders, our guide to [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) covers which issuers offer the smoothest path from secured to unsecured regardless of which identifier you used.
 
 ---
 

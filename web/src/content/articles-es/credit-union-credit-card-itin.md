@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-Si ya leíste nuestra guía sobre [qué bancos aceptan el ITIN para tarjetas de crédito](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) y sentiste que los grandes bancos ponen el listón muy alto, no te equivocas. Las cooperativas de crédito son una categoría completamente diferente, y para los titulares de ITIN, suelen ser el camino más directo hacia una primera tarjeta de crédito en EE. UU.
+Si ya leíste nuestra guía sobre [qué bancos aceptan el ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) y sentiste que los grandes bancos ponen el listón muy alto, no te equivocas. Las cooperativas de crédito son una categoría completamente diferente, y para los titulares de ITIN, suelen ser el camino más directo hacia una primera tarjeta de crédito en EE. UU.
 
 ## ¿Por qué sería más fácil una cooperativa que un banco para titulares de ITIN?
 
@@ -122,4 +122,4 @@ El riesgo principal no es exclusivo de las cooperativas, es el mismo que con cua
 
 Otra nota práctica: un requisito que toma por sorpresa a muchos solicitantes es la verificación por teléfono. Los emisores suelen enviar un código de un solo uso (OTP) durante la solicitud, un número de VoIP como Google Voice o Skype generalmente no pasará esta verificación. Usa un número de celular real de EE. UU.
 
-Para los lectores que ya tienen un historial crediticio establecido con un ITIN y desde entonces obtuvieron un SSN, nuestra guía sobre [cómo transferir el historial crediticio del ITIN a tu nuevo SSN](https://itincreditcard.com/transfer-itin-credit-history-to-ssn) explica paso a paso cómo conservar el crédito que has construido.
+Para los lectores que ya tienen un historial crediticio establecido con un ITIN y desde entonces obtuvieron un SSN, nuestra guía sobre [cómo transferir el historial crediticio del ITIN a tu nuevo SSN](/es/articles/itin-to-ssn-credit-card-history-transfer) explica paso a paso cómo conservar el crédito que has construido.

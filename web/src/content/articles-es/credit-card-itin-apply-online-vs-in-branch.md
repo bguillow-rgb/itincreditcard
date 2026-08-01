@@ -105,7 +105,7 @@ La OpenSky Secured Credit Card es una de las pocas tarjetas aseguradas que aprue
 
 Una nueva generación de empresas fintech está creando productos específicamente para recién llegados a EE. UU., con procesos de solicitud que priorizan lo digital y están diseñados desde cero para manejar titulares de ITIN. Según datos citados por servicios de declaración de impuestos e ITIN, aproximadamente 3.8 millones de personas presentan declaraciones de impuestos en EE. UU. con un ITIN cada año, lo que explica por qué este mercado ha crecido tan rápido.
 
-Si quieres saber cómo se reportará la actividad de tu tarjeta a los burós una vez aprobado, nuestra guía sobre [si tu tarjeta de crédito con ITIN reporta a los 3 burós](https://itincreditcard.com/itin-credit-card-credit-bureau-reporting) detalla el reporte por emisor.
+Si quieres saber cómo se reportará la actividad de tu tarjeta a los burós una vez aprobado, nuestra guía sobre [si tu tarjeta de crédito con ITIN reporta a los 3 burós](/es/articles/itin-credit-card-credit-bureau-reporting) detalla el reporte por emisor.
 
 ---
 
@@ -122,7 +122,7 @@ Prueba estos pasos en orden:
 
 Sé estratégico. Desperdiciar tiempo en solicitudes que están garantizadas a ser rechazadas solo acumula consultas de crédito innecesarias en tu nuevo expediente crediticio.
 
-Para una visión más amplia de cómo estructurar tu estrategia de solicitudes entre emisores, consulta nuestra [comparación de emisores de tarjetas de crédito con ITIN](https://itincreditcard.com/itin-credit-card-issuer-comparison-2026) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación de una tarjeta de crédito con ITIN](https://itincreditcard.com/improve-credit-card-approval-odds-itin).
+Para una visión más amplia de cómo estructurar tu estrategia de solicitudes entre emisores, consulta nuestra [comparación de emisores de tarjetas de crédito con ITIN](/es/articles/itin-credit-card-issuer-comparison-2026) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación de una tarjeta de crédito con ITIN](/es/articles/improve-credit-card-approval-odds-itin).
 
 ---
 

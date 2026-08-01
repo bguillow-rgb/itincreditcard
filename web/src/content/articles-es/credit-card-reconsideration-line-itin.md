@@ -109,7 +109,7 @@ Llamar en un día diferente puede producir un resultado distinto. Algunos repres
 
 La reconsideración por escrito también es una opción. Una carta breve y objetiva al departamento de crédito del emisor, citando tu ITIN, tus ingresos y el motivo por el que crees que el rechazo fue un error de procesamiento, crea un registro que algunos emisores atienden de manera favorable. Si el rechazo se debió a información incompleta o incorrecta en la solicitud, puedes pedir una reconsideración después de corregir ese error.
 
-Una advertencia importante: si genuinamente aún no tienes historial de crédito en Estados Unidos, la reconsideración por sí sola puede no ser suficiente con algunos emisores. En ese caso, la mejor opción es solicitar una tarjeta asegurada que acepte ITIN abiertamente (como la tarjeta asegurada OpenSky o un producto asegurado de una cooperativa de crédito), construir de 6 a 12 meses de historial de pagos reportado y luego volver a solicitar la tarjeta que querías originalmente. Puedes leer más sobre este enfoque en nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-card-with-itin).
+Una advertencia importante: si genuinamente aún no tienes historial de crédito en Estados Unidos, la reconsideración por sí sola puede no ser suficiente con algunos emisores. En ese caso, la mejor opción es solicitar una tarjeta asegurada que acepte ITIN abiertamente (como la tarjeta asegurada OpenSky o un producto asegurado de una cooperativa de crédito), construir de 6 a 12 meses de historial de pagos reportado y luego volver a solicitar la tarjeta que querías originalmente. Puedes leer más sobre este enfoque en nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
 
 ## "¿Llamar a la línea de reconsideración afecta mi estatus migratorio o marca mi ITIN?"
 
@@ -117,7 +117,7 @@ Solicitar crédito no tiene relación con la inmigración. Los emisores reportan
 
 Una llamada de reconsideración es una interacción de servicio al cliente. El representante está revisando tu solicitud, no reportándote a ninguna agencia gubernamental. Estás ejerciendo un derecho estándar del consumidor, amparado por las mismas reglas del CARD Act que rigen la solicitud original.
 
-Si te preocupa cómo los cambios recientes en las políticas pueden afectar las solicitudes basadas en ITIN de forma más general, nuestro artículo sobre [la orden ejecutiva de 2026 y las solicitudes de tarjetas de crédito con ITIN](/2026-executive-order-itin-credit-card-applications) explica qué significan esos cambios en la práctica.
+Si te preocupa cómo los cambios recientes en las políticas pueden afectar las solicitudes basadas en ITIN de forma más general, nuestro artículo sobre [la orden ejecutiva de 2026 y las solicitudes de tarjetas de crédito con ITIN](/es/articles/2026-executive-order-itin-credit-card-applications) explica qué significan esos cambios en la práctica.
 
 ## "¿Qué tan pronto después de mi rechazo debo llamar?"
 
@@ -127,7 +127,7 @@ En la práctica, llamar dentro de las 48 a 72 horas posteriores al rechazo te da
 
 Si te rechazaron por demasiadas consultas duras, esperar al menos cuatro o seis meses antes de volver a solicitar es la decisión más inteligente en lugar de llamar a la línea de reconsideración, ya que ese motivo de rechazo en particular es difícil de rebatir en una llamada. Enfoca las llamadas de reconsideración en rechazos por verificación de identidad o "expediente delgado", donde la explicación del ITIN sí tiene peso.
 
-Si la reconsideración no funciona y necesitas considerar una nueva solicitud, nuestra [comparación emisor por emisor de tarjetas de crédito con ITIN](/itin-credit-card-issuer-comparison-2026) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación con un ITIN](/improve-credit-card-approval-odds-itin) son buenos siguientes pasos.
+Si la reconsideración no funciona y necesitas considerar una nueva solicitud, nuestra [comparación emisor por emisor de tarjetas de crédito con ITIN](/es/articles/itin-credit-card-issuer-comparison-2026) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación con un ITIN](/es/articles/improve-credit-card-approval-odds-itin) son buenos siguientes pasos.
 
 ---
 

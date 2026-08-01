@@ -120,7 +120,7 @@ The application process is straightforward once you know what to expect:
 4. **Report all income.** The lender may review your credit history, request alternative forms of identification, require a checking or savings account, and factor your income into its decision. Include side income, freelance work, and spousal income where permitted.
 5. **If denied online, try a branch.** If neither online method works, visiting a branch in person and applying at the counter always allows an ITIN.
 
-For a full walkthrough of the application, see our guide on [how to apply for a credit card with an ITIN](https://itincreditcard.com/how-to-apply-for-credit-card-with-itin). If you want to explore secured options in more depth, our [secured credit card with ITIN guide](https://itincreditcard.com/secured-credit-card-with-itin) compares deposit amounts and upgrade timelines across all the major issuers.
+For a full walkthrough of the application, see our guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin). If you want to explore secured options in more depth, our [secured credit card with ITIN guide](/articles/secured-credit-card-with-itin) compares deposit amounts and upgrade timelines across all the major issuers.
 
 ## FAQs: no annual fee credit cards for ITIN holders
 

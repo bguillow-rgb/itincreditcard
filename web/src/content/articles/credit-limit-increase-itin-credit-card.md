@@ -91,7 +91,7 @@ Here is a concrete example. Suppose you carry a $150 balance on a $500 limit car
 
 If you pay your credit card bill in full and on time every month, increasing your credit limit gives you more flexibility and may enhance your credit score by lowering your credit utilization ratio. Pairing a limit increase with the habit of paying in full each month means you get the utilization benefit without accumulating interest charges.
 
-Once your score has grown to a solid range, you will also be eligible for the kinds of cards covered in our [unsecured credit cards for ITIN holders](https://itincreditcard.com/unsecured-credit-card-itin-holders) guide, which typically offer higher limits from the start.
+Once your score has grown to a solid range, you will also be eligible for the kinds of cards covered in our [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) guide, which typically offer higher limits from the start.
 
 ## What if my request is denied?
 
@@ -104,7 +104,7 @@ The straightforward remedies:
 - **Add a deposit (secured cards).** If you hold a secured card, depositing additional funds is a guaranteed way to increase the limit without any underwriting decision.
 - **Update your income.** If you have earned more since you originally applied, make sure your profile reflects that before you ask again.
 
-For cardholders who have built 12-24 months of history on a secured card and are ready to move to a card with a higher baseline limit, our guide to [which banks accept ITIN for credit cards](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) walks through all the major issuers and their current policies.
+For cardholders who have built 12-24 months of history on a secured card and are ready to move to a card with a higher baseline limit, our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) walks through all the major issuers and their current policies.
 
 ## A quick comparison: how major ITIN-friendly issuers handle limit increases
 

@@ -42,7 +42,7 @@ Muchos titulares de ITIN confunden estas dos opciones, pero la diferencia legal 
 
 Una tarjeta de crédito conjunta significa que ambos solicitantes firman la misma solicitud y ambos son completamente responsables de cada dólar cargado a la cuenta, sin importar quién hizo la compra. Los usuarios autorizados no comparten ninguna responsabilidad financiera por los cargos de la tarjeta, mientras que los titulares de tarjetas conjuntas comparten la misma responsabilidad financiera por todos los cargos. Esa única diferencia lo cambia todo en estos dos arreglos.
 
-Con un usuario autorizado, una persona es dueña de la cuenta. La otra recibe una tarjeta y acceso para gastar, pero solo el titular principal es responsable del pago. Nuestra guía sobre [convertirse en usuario autorizado con un ITIN](/authorized-user-credit-card-itin) cubre ese camino en detalle.
+Con un usuario autorizado, una persona es dueña de la cuenta. La otra recibe una tarjeta y acceso para gastar, pero solo el titular principal es responsable del pago. Nuestra guía sobre [convertirse en usuario autorizado con un ITIN](/es/articles/authorized-user-credit-card-itin) cubre ese camino en detalle.
 
 Con una cuenta conjunta, no hay un titular principal ni uno secundario. Al momento de la solicitud se evalúan los perfiles de crédito de ambas personas, ambos nombres aparecen en la cuenta y los reportes de crédito de los dos reflejan cada pago y cada pago perdido en el futuro. La cuenta aparecerá en los reportes de crédito de ambas personas y puede afectar sus puntajes según la responsabilidad con que se use la tarjeta.
 
@@ -84,7 +84,7 @@ Aquí tienes una comparación práctica de dónde buscar:
 | Bancos comunitarios | Algunos ofrecen cuentas conjuntas | Varía según el banco | Llama antes de ir en persona |
 | Emisores fintech (ej., OpenSky) | No hay cuentas conjuntas | Sí | Solo solicitudes individuales |
 
-La conclusión: si tu objetivo es una cuenta conjunta, las cooperativas de crédito son tu mejor punto de partida. Muchas cooperativas que sirven a comunidades latinas, asiáticas u otras comunidades inmigrantes aceptan el ITIN expresamente y tienen personal en sucursal que puede guiarte en el proceso. Nuestra guía sobre [tarjetas de crédito en cooperativas para titulares de ITIN](/credit-union-credit-card-itin) cubre instituciones específicas a las que vale la pena contactar.
+La conclusión: si tu objetivo es una cuenta conjunta, las cooperativas de crédito son tu mejor punto de partida. Muchas cooperativas que sirven a comunidades latinas, asiáticas u otras comunidades inmigrantes aceptan el ITIN expresamente y tienen personal en sucursal que puede guiarte en el proceso. Nuestra guía sobre [tarjetas de crédito en cooperativas para titulares de ITIN](/es/articles/credit-union-credit-card-itin) cubre instituciones específicas a las que vale la pena contactar.
 
 ## ¿Qué documentos necesita cada solicitante para una solicitud conjunta?
 
@@ -113,11 +113,11 @@ También hay un lado negativo real: los malos hábitos de una persona afectan de
 
 Porque, para la mayoría de las personas, las cuentas conjuntas sencillamente no están disponibles en el emisor que prefieren.
 
-**Usuario autorizado.** La alternativa práctica más cercana. El titular principal agrega al titular de ITIN como usuario autorizado. El titular de ITIN obtiene una tarjeta y construye historial de crédito, pero no tiene responsabilidad legal de pago. Consulta nuestra guía detallada sobre [convertirse en usuario autorizado con un ITIN](/authorized-user-credit-card-itin).
+**Usuario autorizado.** La alternativa práctica más cercana. El titular principal agrega al titular de ITIN como usuario autorizado. El titular de ITIN obtiene una tarjeta y construye historial de crédito, pero no tiene responsabilidad legal de pago. Consulta nuestra guía detallada sobre [convertirse en usuario autorizado con un ITIN](/es/articles/authorized-user-credit-card-itin).
 
-**Dos tarjetas por separado.** Cada persona solicita su propia tarjeta aceptada con ITIN. Requiere más trabajo al inicio, pero evita por completo el riesgo de responsabilidad compartida. Nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards) lista los emisores actuales con los que puedes empezar.
+**Dos tarjetas por separado.** Cada persona solicita su propia tarjeta aceptada con ITIN. Requiere más trabajo al inicio, pero evita por completo el riesgo de responsabilidad compartida. Nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) lista los emisores actuales con los que puedes empezar.
 
-**Tarjeta asegurada para el titular de ITIN.** Si uno de los dos ya tiene crédito establecido y el otro está comenzando desde cero, la ruta más eficiente suele ser que el titular de ITIN abra una [tarjeta de crédito asegurada](/secured-credit-card-with-itin) de forma independiente. Las tarjetas de crédito aseguradas son la opción más accesible para los titulares de ITIN. Estas tarjetas requieren un depósito en efectivo que normalmente funciona como el límite de crédito. Después de 12-24 meses de pagos puntuales, muchos emisores convierten la cuenta en una tarjeta sin garantía y devuelven el depósito.
+**Tarjeta asegurada para el titular de ITIN.** Si uno de los dos ya tiene crédito establecido y el otro está comenzando desde cero, la ruta más eficiente suele ser que el titular de ITIN abra una [tarjeta de crédito asegurada](/es/articles/secured-credit-card-with-itin) de forma independiente. Las tarjetas de crédito aseguradas son la opción más accesible para los titulares de ITIN. Estas tarjetas requieren un depósito en efectivo que normalmente funciona como el límite de crédito. Después de 12-24 meses de pagos puntuales, muchos emisores convierten la cuenta en una tarjeta sin garantía y devuelven el depósito.
 
 Aquí tienes una guía rápida para decidir:
 
@@ -135,4 +135,4 @@ Los cofirmantes (y los titulares conjuntos) serán responsables de pagar cualqui
 
 Una tarjeta de crédito conjunta depende del estado de tu relación con tu pareja. Los conflictos financieros están entre las causas más comunes de problemas en las relaciones personales y profesionales. Vale la pena redactar un acuerdo escrito antes de abrir la cuenta, que cubra quién paga la factura mensual, cuál es el límite de gasto para cada persona y qué pasa si la relación termina.
 
-Cerrar una cuenta conjunta afecta los puntajes de crédito de ambas personas, especialmente si la tarjeta tiene un historial largo o un límite alto que mantenía bajo el uso total del crédito disponible. Ten eso en cuenta en tu plan a largo plazo, sobre todo si estás trabajando hacia una meta más grande, como calificar para una mejor [tarjeta de crédito sin garantía](/unsecured-credit-card-itin-holders) en el futuro.
+Cerrar una cuenta conjunta afecta los puntajes de crédito de ambas personas, especialmente si la tarjeta tiene un historial largo o un límite alto que mantenía bajo el uso total del crédito disponible. Ten eso en cuenta en tu plan a largo plazo, sobre todo si estás trabajando hacia una meta más grande, como calificar para una mejor [tarjeta de crédito sin garantía](/es/articles/unsecured-credit-card-itin-holders) en el futuro.

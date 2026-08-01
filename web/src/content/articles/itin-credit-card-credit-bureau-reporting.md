@@ -61,7 +61,7 @@ Here is a snapshot of popular ITIN-accepting cards and their bureau reporting as
 
 Five of the most popular secured cards, those from Discover, Capital One, Citi, Wells Fargo, and Bank of America, report to all three credit bureaus, according to Discover's website. For ITIN holders choosing among these issuers, you can feel confident that your on-time payments will land on all three files.
 
-One important caveat: a few issuers, including many Synchrony-partner store cards, send data only to Experian. This is one reason our guide to [store credit cards with ITIN](https://itincreditcard.com/store-credit-card-with-itin) flags bureau reporting as a key factor to verify before you apply for any retail card.
+One important caveat: a few issuers, including many Synchrony-partner store cards, send data only to Experian. This is one reason our guide to [store credit cards with ITIN](/articles/store-credit-card-with-itin) flags bureau reporting as a key factor to verify before you apply for any retail card.
 
 ## How do I actually verify bureau reporting before I apply?
 
@@ -89,7 +89,7 @@ You will typically have a scoreable credit file after six months of account acti
 
 That six-month threshold is a FICO requirement: the model needs at least one account that is at least six months old and has been reported within the past six months to generate any score at all. VantageScore is more lenient and can produce a score with as little as one month of history, which is why some ITIN cardholders see a VantageScore number before a FICO score appears.
 
-If you want to track your progress, check your Equifax file online (more on that below) around the time your sixth statement closes. That is typically when a FICO score first becomes available. If you are using your card for [building credit with an ITIN credit card](https://itincreditcard.com/build-credit-with-itin-credit-card), that six-month mark is your first major milestone.
+If you want to track your progress, check your Equifax file online (more on that below) around the time your sixth statement closes. That is typically when a FICO score first becomes available. If you are using your card for [building credit with an ITIN credit card](/articles/build-credit-with-itin-credit-card), that six-month mark is your first major milestone.
 
 ## How do I pull my credit report as an ITIN holder to verify my card is reporting?
 
@@ -115,4 +115,4 @@ If your card is showing but you spot an error (a wrong balance, a missed payment
 
 Keep your own records: save monthly statements and payment confirmations. As an ITIN holder with a more manual path to accessing your file, keeping your own records of statements, payment confirmations, and account opening dates is valuable. You will need this documentation if there are ever disputes.
 
-For more on the card options available to you as you grow your file, see our guides to [unsecured credit cards for ITIN holders](https://itincreditcard.com/unsecured-credit-card-itin-holders) and [how to upgrade from a secured to unsecured card with an ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin). Both become relevant once you have 12-18 months of solid reported history behind you.
+For more on the card options available to you as you grow your file, see our guides to [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) and [how to upgrade from a secured to unsecured card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin). Both become relevant once you have 12-18 months of solid reported history behind you.

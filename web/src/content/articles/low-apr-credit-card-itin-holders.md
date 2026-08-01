@@ -54,7 +54,7 @@ The good news: the APR printed on your card is only a cost if you carry a balanc
 
 The short answer is no, your ITIN itself is not the reason. Policies for accepting ITINs differ, and some credit card issuers may accept ITINs only for some of their cards, but once a lender agrees to review your application, they evaluate you on the same creditworthiness factors as any other applicant: payment history, existing balances, length of credit history, and income.
 
-The real reason most new ITIN holders land in higher APR tiers is thin-file status. Lenders cannot verify a track record they cannot see, so they price that uncertainty into the rate. This is the same dynamic for anyone, immigrant or not, applying for their very first card. As you build a payment history with your [first ITIN credit card](/first-credit-card-itin-no-us-credit-history) and keep utilization low, you become eligible for better rates over time, either through an issuer-initiated rate review or by [upgrading from a secured to an unsecured card](/upgrade-secured-to-unsecured-credit-card-itin) with a more favorable APR.
+The real reason most new ITIN holders land in higher APR tiers is thin-file status. Lenders cannot verify a track record they cannot see, so they price that uncertainty into the rate. This is the same dynamic for anyone, immigrant or not, applying for their very first card. As you build a payment history with your [first ITIN credit card](/articles/first-credit-card-itin-no-us-credit-history) and keep utilization low, you become eligible for better rates over time, either through an issuer-initiated rate review or by [upgrading from a secured to an unsecured card](/articles/upgrade-secured-to-unsecured-credit-card-itin) with a more favorable APR.
 
 ---
 
@@ -70,7 +70,7 @@ Here is a practical breakdown of the card categories available to ITIN holders, 
 | Unsecured starter card | 24%-30%+ | Select issuers | No |
 | Premium rewards card (ITIN-eligible) | 19%-27% variable | Select issuers | No |
 
-A few things stand out from this table. Secured credit cards are the most accessible option for ITIN holders: they require a cash deposit that typically serves as the credit limit, and after a period of responsible use, some issuers may offer conversion to an unsecured card, with generally an easier approval process. [Credit unions that accept ITINs](/credit-union-credit-card-itin) consistently offer the lowest APRs in the secured category, sometimes 8-12 points below what a major bank charges on the same secured product. And fintech 0% APR cards eliminate interest risk entirely for entry-level cardholders.
+A few things stand out from this table. Secured credit cards are the most accessible option for ITIN holders: they require a cash deposit that typically serves as the credit limit, and after a period of responsible use, some issuers may offer conversion to an unsecured card, with generally an easier approval process. [Credit unions that accept ITINs](/articles/credit-union-credit-card-itin) consistently offer the lowest APRs in the secured category, sometimes 8-12 points below what a major bank charges on the same secured product. And fintech 0% APR cards eliminate interest risk entirely for entry-level cardholders.
 
 ---
 
@@ -82,7 +82,7 @@ The distinction matters. Some 0% APR products aimed at immigrants work on a prep
 
 For the purpose of building a U.S. credit file, that bureau reporting is what counts. Whether the card charges 0% or 26% APR has no effect on how fast your credit history grows. What matters is that the account appears on your report, that payments are made on time, and that your utilization stays low. The 0% APR product simply removes the risk of accumulating debt during the months you are getting comfortable with how U.S. credit cards work.
 
-That said, once your score is established, you will likely want to [upgrade to an unsecured card](/upgrade-secured-to-unsecured-credit-card-itin) with real spending power and rewards. At that point, finding a card with a competitive ongoing APR, rather than a 0% introductory model, becomes the right priority.
+That said, once your score is established, you will likely want to [upgrade to an unsecured card](/articles/upgrade-secured-to-unsecured-credit-card-itin) with real spending power and rewards. At that point, finding a card with a competitive ongoing APR, rather than a 0% introductory model, becomes the right priority.
 
 ---
 
@@ -118,7 +118,7 @@ Follow this system and even a card with a 27% APR costs you nothing in interest.
 
 The timeline is more predictable than most people expect. You will typically have a scoreable credit file after six months of account activity, and from there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months. The timeline is the same as for anyone starting with no credit history: your ITIN status does not slow the process down.
 
-Once you reach that range, two things happen. First, you become eligible to [request a credit limit increase](/credit-limit-increase-itin-credit-card) on your existing card, which indirectly lowers your utilization and can push your score higher. Second, you can begin [pre-qualifying for unsecured cards](/credit-card-prequalification-itin) with better APRs through issuers like Capital One, Chase, or American Express, all of which accept ITINs. Many of the top credit card issuers have rewards credit cards you can apply for using an ITIN, including Chase, American Express, and Capital One. A score in the high 600s to low 700s opens the door to purchase APRs in the 19%-22% range on those products, a meaningful improvement over the 26%-28% you likely started with.
+Once you reach that range, two things happen. First, you become eligible to [request a credit limit increase](/articles/credit-limit-increase-itin-credit-card) on your existing card, which indirectly lowers your utilization and can push your score higher. Second, you can begin [pre-qualifying for unsecured cards](/articles/credit-card-prequalification-itin) with better APRs through issuers like Capital One, Chase, or American Express, all of which accept ITINs. Many of the top credit card issuers have rewards credit cards you can apply for using an ITIN, including Chase, American Express, and Capital One. A score in the high 600s to low 700s opens the door to purchase APRs in the 19%-22% range on those products, a meaningful improvement over the 26%-28% you likely started with.
 
 The key is patience combined with consistent behavior: on-time payments, low balances, and no new applications until your file is thick enough to compete for a better product.
 

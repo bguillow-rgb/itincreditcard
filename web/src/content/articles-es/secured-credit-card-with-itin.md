@@ -44,7 +44,7 @@ Una tarjeta de crédito asegurada funciona igual que una tarjeta de crédito reg
 
 Para los titulares de ITIN, esto es muy importante. La mayoría de las tarjetas premium o con recompensas requieren un puntaje de crédito establecido, que simplemente no tendrás cuando llegues al país. Una tarjeta asegurada es el puente: construyes un historial de pagos en 6 a 12 meses, tu puntaje sube, y luego pasas a una tarjeta sin garantía o solicitas una con mejores beneficios. El depósito no es una comisión, es tu propio dinero en una cuenta de resguardo, y lo recuperas una vez que te gradúas. Según Capital One, la mayoría de las tarjetas aseguradas requieren un depósito de $200 o más, aunque algunas están disponibles desde $49 dependiendo de tu perfil.
 
-Si quieres entender el camino completo para construir crédito con tu ITIN más allá de obtener la tarjeta, nuestra guía sobre [cómo construir crédito con un ITIN](/how-to-build-credit-with-itin) cubre los pasos siguientes en detalle.
+Si quieres entender el camino completo para construir crédito con tu ITIN más allá de obtener la tarjeta, nuestra guía sobre [cómo construir crédito con un ITIN](/es/build-credit-with-itin) cubre los pasos siguientes en detalle.
 
 ---
 
@@ -123,7 +123,7 @@ Tres reglas cubren el 90% de lo que importa:
 
 **3. No solicites varias tarjetas a la vez.** Cada solicitud genera una consulta fuerte que baja temporalmente tu puntaje. Espacia las solicitudes al menos de tres a seis meses. Después de 12 meses de pagos puntuales con una tarjeta asegurada, tu puntaje típicamente estará entre 680 y 720, suficiente para calificar para la mayoría de las tarjetas sin garantía estándar.
 
-Para los titulares de ITIN que quieren acelerar el proceso, agregar un préstamo para construir crédito junto con la tarjeta asegurada diversifica tu combinación de crédito (que vale el 10% de tu puntaje FICO) y puede acelerar el crecimiento del puntaje. Nuestra guía para [construir crédito con un ITIN](/how-to-build-credit-with-itin) cubre la estrategia completa con múltiples productos.
+Para los titulares de ITIN que quieren acelerar el proceso, agregar un préstamo para construir crédito junto con la tarjeta asegurada diversifica tu combinación de crédito (que vale el 10% de tu puntaje FICO) y puede acelerar el crecimiento del puntaje. Nuestra guía para [construir crédito con un ITIN](/es/build-credit-with-itin) cubre la estrategia completa con múltiples productos.
 
 ---
 

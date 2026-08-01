@@ -120,7 +120,7 @@ El proceso de solicitud es sencillo una vez que sabes qué esperar:
 4. **Declara todos tus ingresos.** El emisor puede revisar tu historial crediticio, solicitar formas alternativas de identificación, requerir una cuenta de cheques o ahorros, y tomar en cuenta tus ingresos en su decisión. Incluye ingresos secundarios, trabajo independiente e ingresos del cónyuge donde esté permitido.
 5. **Si te rechazan en línea, prueba en una sucursal.** Si ninguno de los métodos en línea funciona, visitar una sucursal en persona y aplicar en ventanilla siempre permite usar un ITIN.
 
-Para una guía completa del proceso de solicitud, consulta nuestro artículo sobre [cómo solicitar una tarjeta de crédito con un ITIN](https://itincreditcard.com/how-to-apply-for-credit-card-with-itin). Si quieres explorar las opciones con depósito con más detalle, nuestra [guía de tarjetas de crédito aseguradas con ITIN](https://itincreditcard.com/secured-credit-card-with-itin) compara montos de depósito y plazos de ascenso entre todos los principales emisores.
+Para una guía completa del proceso de solicitud, consulta nuestro artículo sobre [cómo solicitar una tarjeta de crédito con un ITIN](/es/articles/how-to-apply-for-credit-card-with-itin). Si quieres explorar las opciones con depósito con más detalle, nuestra [guía de tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) compara montos de depósito y plazos de ascenso entre todos los principales emisores.
 
 ## Preguntas frecuentes: tarjetas de crédito sin cuota anual para titulares de ITIN
 

@@ -44,7 +44,7 @@ Once a credit account is opened using your ITIN, it reports to the credit bureau
 
 This is the single highest-leverage step. Applying to an issuer that does not accept ITINs guarantees a denial, regardless of your income or credit history.
 
-Bank of America, Capital One, Citibank, Wells Fargo, and many credit unions accept ITIN in place of an SSN for credit card applications. Beyond the big banks, several fintech issuers built specifically for immigrants accept ITINs or even alternative documents entirely. Our full breakdown is in the [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards) guide, but the short version is: confirm the issuer's ITIN policy before you apply, because published policies and branch-level execution are not always identical. Call the issuer's customer service line directly to confirm their current ITIN policy before applying.
+Bank of America, Capital One, Citibank, Wells Fargo, and many credit unions accept ITIN in place of an SSN for credit card applications. Beyond the big banks, several fintech issuers built specifically for immigrants accept ITINs or even alternative documents entirely. Our full breakdown is in the [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) guide, but the short version is: confirm the issuer's ITIN policy before you apply, because published policies and branch-level execution are not always identical. Call the issuer's customer service line directly to confirm their current ITIN policy before applying.
 
 One important nuance: policies for accepting ITINs differ, and some credit card issuers may accept ITINs only for some of their cards. Capital One accepts ITINs for the Platinum Secured and Quicksilver Secured cards, but that does not mean every Capital One product is automatically available to you.
 
@@ -64,7 +64,7 @@ Pre-qualification (also called pre-approval) is the most underused tool availabl
 
 Before you apply for credit cards, you may want to try getting pre-approved to see which cards you could be eligible for. Pre-approval typically involves a soft inquiry, which means it won't affect your credit scores. Applying for a credit card generally involves a hard inquiry, which can temporarily lower your scores slightly.
 
-For ITIN holders with a thin or no U.S. credit file, this matters even more than it does for established borrowers. Capital One's pre-approval tool uses a soft inquiry to show you your odds before you submit a formal application. Their pre-qualification tool lets you check your odds without affecting your credit. Our detailed walkthrough of the process is in the [credit card pre-qualification with an ITIN](/credit-card-prequalification-itin) guide.
+For ITIN holders with a thin or no U.S. credit file, this matters even more than it does for established borrowers. Capital One's pre-approval tool uses a soft inquiry to show you your odds before you submit a formal application. Their pre-qualification tool lets you check your odds without affecting your credit. Our detailed walkthrough of the process is in the [credit card pre-qualification with an ITIN](/articles/credit-card-prequalification-itin) guide.
 
 The practical rule: always exhaust soft-pull pre-qualification options first. Only submit a hard application to a card where pre-qualification returned a positive result, or where the card has near-guaranteed approval (like a no-credit-check secured card).
 
@@ -103,7 +103,7 @@ Submitting a credit card application typically triggers a hard inquiry, which ca
 
 Wait at least 6 months before applying for a second card. Two new cards in 6 months looks risky and often triggers a denial. The exception is cards that advertise no credit check, such as OpenSky. Because these do not pull your credit at all, applying for one does not affect your file and does not start any waiting clock.
 
-If you have already received a denial, review the adverse action notice the issuer is legally required to send you. You can reapply after a denial, but it is usually smart to wait. Take time to address the reasons in your adverse action notice, work on improving your credit, and consider applying for a card that better matches your credit profile. Our full guide to this situation is at [credit card denied with an ITIN](/credit-card-denied-itin-what-to-do).
+If you have already received a denial, review the adverse action notice the issuer is legally required to send you. You can reapply after a denial, but it is usually smart to wait. Take time to address the reasons in your adverse action notice, work on improving your credit, and consider applying for a card that better matches your credit profile. Our full guide to this situation is at [credit card denied with an ITIN](/articles/credit-card-denied-itin-what-to-do).
 
 ## Once I'm approved, how does responsible card use affect future approval odds?
 
@@ -113,7 +113,7 @@ The single most important factor in your credit score is payment history, which 
 
 The Consumer Financial Protection Bureau (CFPB) recommends keeping your credit utilization ratio below 30%. In practice, keeping utilization under 10% is even better when you are actively trying to build toward a stronger credit profile. On a $300 secured card limit, that means keeping your balance under $30 at statement closing time.
 
-You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months. Once you are in that range, the door opens to unsecured cards, higher limits, and issuers that were previously out of reach. Our guide to [upgrading from a secured to unsecured card with an ITIN](/upgrade-secured-to-unsecured-credit-card-itin) covers exactly what to do at that stage.
+You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months. Once you are in that range, the door opens to unsecured cards, higher limits, and issuers that were previously out of reach. Our guide to [upgrading from a secured to unsecured card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin) covers exactly what to do at that stage.
 
 ## Quick approval odds checklist for ITIN holders
 

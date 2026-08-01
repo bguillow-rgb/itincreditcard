@@ -50,7 +50,7 @@ Los cargos de autorización existen porque el hotel quiere confirmar un método 
 
 La mayoría de los hoteles aplican un cargo por noche para gastos imprevistos, además del costo de la habitación. Los hoteles económicos pueden retener entre $50 y $100 por noche; los de gama media y alta retienen comúnmente entre $150 y $250 por noche. Una estadía de tres noches en un hotel de gama media podría bloquear temporalmente entre $450 y $750, además del costo de tu habitación. Algunas propiedades autorizan la tarjeta al inicio de la estadía, y ese bloqueo en tu crédito disponible se mantiene durante toda la estancia, no solo al hacer el check-out.
 
-Si tu tarjeta ITIN asegurada tiene un límite de $200, es probable que te rechacen al hacer el check-in simplemente porque el cargo superaría tu crédito disponible. El hotel no sabe ni le importa tu ITIN. La solución es sencilla: solicita un aumento de límite antes de viajar (consulta nuestra guía sobre [cómo aumentar el límite de crédito con una tarjeta ITIN](/credit-limit-increase-itin-credit-card)), o lleva una segunda tarjeta de respaldo. Procura tener al menos $600 a $800 de crédito disponible antes de reservar una estadía de varias noches.
+Si tu tarjeta ITIN asegurada tiene un límite de $200, es probable que te rechacen al hacer el check-in simplemente porque el cargo superaría tu crédito disponible. El hotel no sabe ni le importa tu ITIN. La solución es sencilla: solicita un aumento de límite antes de viajar (consulta nuestra guía sobre [cómo aumentar el límite de crédito con una tarjeta ITIN](/es/articles/credit-limit-increase-itin-credit-card)), o lleva una segunda tarjeta de respaldo. Procura tener al menos $600 a $800 de crédito disponible antes de reservar una estadía de varias noches.
 
 Después del check-out, espera entre 3 y 7 días hábiles para que el cargo desaparezca, según tu banco.
 
@@ -72,7 +72,7 @@ Algunas agencias de renta aceptan tarjetas de débito técnicamente, pero las re
 
 También hay un problema de flujo de efectivo con el débito. A diferencia de un cargo de autorización en tarjeta de crédito, una autorización en tarjeta de débito reduce de inmediato tu saldo bancario disponible, y ese bloqueo puede tardar entre 7 y 15 días hábiles en liberarse después de devolver el auto. Eso puede dejarte sin efectivo durante el viaje.
 
-La conclusión práctica: aumenta el límite de tu tarjeta de crédito ITIN a al menos $800 a $1,000 antes de usarla para rentar autos. Ese es un objetivo realista después de 6 a 12 meses de uso responsable. Pasar de una tarjeta asegurada a una no asegurada (consulta nuestra guía sobre [cómo actualizar de tarjeta asegurada a no asegurada con un ITIN](/upgrade-secured-to-unsecured-credit-card-itin)) normalmente viene acompañado de un aumento de límite considerable que hace los viajes mucho menos estresantes.
+La conclusión práctica: aumenta el límite de tu tarjeta de crédito ITIN a al menos $800 a $1,000 antes de usarla para rentar autos. Ese es un objetivo realista después de 6 a 12 meses de uso responsable. Pasar de una tarjeta asegurada a una no asegurada (consulta nuestra guía sobre [cómo actualizar de tarjeta asegurada a no asegurada con un ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin)) normalmente viene acompañado de un aumento de límite considerable que hace los viajes mucho menos estresantes.
 
 ## ¿Qué tarjetas aceptadas con ITIN son mejores para hoteles y alquiler de autos?
 
@@ -91,7 +91,7 @@ Para los titulares de ITIN que ya tienen 12 meses o más de historial crediticio
 
 La recompensa del portal de viajes de Capital One vale la pena mencionarla por otra razón. Para los inmigrantes que viajan a su país de origen, reservar a través de Capital One Travel da un 5% de reembolso, un retorno significativo en lo que suele ser uno de los gastos anuales más grandes para una familia.
 
-Si tu objetivo es sacar el mayor provecho de los gastos en hoteles y alquiler de autos, combinar una tarjeta de Capital One (por el 5% en el portal) con una tarjeta sin cargos por transacciones internacionales cubre tanto los viajes nacionales como los internacionales. Consulta nuestra guía de [tarjetas de crédito sin cargos por transacciones internacionales para titulares de ITIN](/no-foreign-transaction-fee-credit-card-itin).
+Si tu objetivo es sacar el mayor provecho de los gastos en hoteles y alquiler de autos, combinar una tarjeta de Capital One (por el 5% en el portal) con una tarjeta sin cargos por transacciones internacionales cubre tanto los viajes nacionales como los internacionales. Consulta nuestra guía de [tarjetas de crédito sin cargos por transacciones internacionales para titulares de ITIN](/es/articles/no-foreign-transaction-fee-credit-card-itin).
 
 ## ¿Qué documentos debo llevar al hotel o a la agencia de renta?
 

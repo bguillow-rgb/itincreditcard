@@ -89,11 +89,11 @@ Si el rechazo fue definitivo (puntaje muy por debajo del umbral, incumplimiento 
 
 Después de un rechazo de un emisor convencional, el camino más rápido suele ser una tarjeta que elimina los dos mayores obstáculos al mismo tiempo: el requisito de historial crediticio y el requisito de SSN.
 
-Las tarjetas aseguradas son la opción más accesible. Depositas una cantidad reembolsable que se convierte en tu límite de crédito y, como el riesgo del emisor está cubierto por ese depósito, muchos de ellos aceptan solicitantes sin historial de crédito en EE. UU. y con ITIN en lugar de SSN. Puedes conocer más en nuestra guía de [tarjetas de crédito aseguradas con ITIN](https://itincreditcard.com/secured-credit-card-with-itin).
+Las tarjetas aseguradas son la opción más accesible. Depositas una cantidad reembolsable que se convierte en tu límite de crédito y, como el riesgo del emisor está cubierto por ese depósito, muchos de ellos aceptan solicitantes sin historial de crédito en EE. UU. y con ITIN en lugar de SSN. Puedes conocer más en nuestra guía de [tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin).
 
 Si prefieres evitar el depósito, algunas tarjetas de construcción de crédito de tipo fintech usan evaluaciones alternativas que analizan tu actividad bancaria en lugar de un puntaje de crédito tradicional. Estas tarjetas reportan a las tres agencias igual que una tarjeta convencional, por lo que tu historial de pagos sigue construyendo un expediente FICO real.
 
-Una tercera opción que vale la pena considerar es [convertirte en usuario autorizado](https://itincreditcard.com/authorized-user-credit-card-itin) en la cuenta de un familiar o amigo de confianza. El historial positivo del titular principal puede aparecer en tu reporte de crédito y subir tu puntaje, lo que te convierte en un solicitante más sólido cuando apliques de forma independiente en unos meses.
+Una tercera opción que vale la pena considerar es [convertirte en usuario autorizado](/es/articles/authorized-user-credit-card-itin) en la cuenta de un familiar o amigo de confianza. El historial positivo del titular principal puede aparecer en tu reporte de crédito y subir tu puntaje, lo que te convierte en un solicitante más sólido cuando apliques de forma independiente en unos meses.
 
 Trata de acumular 6-12 meses de historial de pagos puntuales en cualquier cuenta que reporte antes de volver a solicitar con el emisor que te rechazó. Según FICO, el historial de pagos es el factor más importante en tu puntaje, ya que representa el 35% del cálculo.
 
@@ -110,7 +110,7 @@ Dos acciones concretas aceleran este proceso:
 - **Agrega un préstamo para construir crédito junto con tu tarjeta asegurada.** Tener tanto un préstamo a plazos como una cuenta de crédito revolvente mejora tu mezcla de crédito, que representa aproximadamente el 10% de tu puntaje FICO.
 - **Mantén tu utilización por debajo del 30%.** Si tu tarjeta asegurada tiene un límite de $300, no cargues más de $90 en saldos reportados al cierre del estado de cuenta. Mientras menos, mejor. Los tarjetahabientes que mantienen su utilización por debajo del 10% suelen ver el mayor crecimiento en su puntaje.
 
-Para un desglose completo de todas las herramientas disponibles, consulta nuestra guía paso a paso sobre [cómo construir crédito con un ITIN](https://itincreditcard.com/how-to-build-credit-with-itin).
+Para un desglose completo de todas las herramientas disponibles, consulta nuestra guía paso a paso sobre [cómo construir crédito con un ITIN](/es/build-credit-with-itin).
 
 ---
 
@@ -120,7 +120,7 @@ Cada nueva solicitud genera una consulta fuerte, que generalmente reduce tu punt
 
 Para limitar consultas innecesarias, usa las herramientas de precalificación antes de solicitar. Muchos emisores ofrecen una precalificación con consulta suave (soft pull) que te muestra si es probable que te aprueben sin afectar tu puntaje en absoluto. Si la herramienta de precalificación en línea no admite el ingreso de un ITIN, llama directamente a la línea de solicitudes del emisor y pide al representante que realice una consulta suave antes de que envíes formalmente tu solicitud.
 
-Si no sabes qué emisores están aceptando solicitudes con ITIN actualmente, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) detalla el panorama actual por emisor para que puedas enfocar tus solicitudes y evitar desperdiciar consultas fuertes en bancos que exigen SSN.
+Si no sabes qué emisores están aceptando solicitudes con ITIN actualmente, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) detalla el panorama actual por emisor para que puedas enfocar tus solicitudes y evitar desperdiciar consultas fuertes en bancos que exigen SSN.
 
 ---
 

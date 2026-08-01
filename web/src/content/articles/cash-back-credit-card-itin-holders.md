@@ -42,7 +42,7 @@ According to CNBC Select's 2026 review of cards available without an SSN, major 
 
 The nuance is that your approval odds and the cash back rate you can reach depend on where you are in your U.S. credit journey. Someone with no U.S. credit file will start with a secured card earning a flat 1.5% back. Someone with 12-18 months of clean payment history may qualify for an unsecured card with tiered or category cash back. Both are legitimate options. The key is matching the card to your current profile rather than over-reaching and risking a denial that temporarily dents your credit.
 
-For a broader look at which issuers open their doors to ITIN applicants, see our guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a broader look at which issuers open their doors to ITIN applicants, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
 
 ## Which cash back cards actually accept an ITIN in 2026?
 
@@ -66,7 +66,7 @@ The Capital One Quicksilver Secured Cash Rewards Credit Card is the most straigh
 
 Capital One automatically reviews your account for a credit limit increase within six months of opening, which can lower your credit utilization ratio and nudge your score upward. Once your score reaches a qualifying threshold, you may be upgraded to the unsecured Capital One Quicksilver without a new application.
 
-If you would rather skip the deposit entirely, the Zolve Classic Credit Card accepts an ITIN or even just a passport, offer letter, or pay slip as identification. There is no security deposit or credit history requirement, and the card earns 1% cash back on eligible purchases. It is especially popular with H-1B and L-1 visa holders who are newly arrived and want purchasing power from day one. See our [unsecured credit cards for ITIN holders](/unsecured-credit-card-itin-holders) page for a deeper breakdown of no-deposit options.
+If you would rather skip the deposit entirely, the Zolve Classic Credit Card accepts an ITIN or even just a passport, offer letter, or pay slip as identification. There is no security deposit or credit history requirement, and the card earns 1% cash back on eligible purchases. It is especially popular with H-1B and L-1 visa holders who are newly arrived and want purchasing power from day one. See our [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) page for a deeper breakdown of no-deposit options.
 
 ## How does the Petal 2 card's cash back structure work for ITIN holders?
 
@@ -94,7 +94,7 @@ An ITIN gets you through the identity verification gate, but it is not the only 
 - **Valid ID:** A passport is almost universally accepted. Some issuers also accept a foreign national ID or a state-issued driver's license where available.
 - **Bank account information:** Petal and some other issuers review your bank account transaction history as a proxy for creditworthiness when your U.S. credit file is thin.
 
-Before submitting a full application, check whether the issuer offers a pre-qualification or pre-approval tool. As Capital One notes, pre-approval involves only a soft inquiry that does not affect your credit score, so it is a low-risk way to gauge your odds. Our [credit card pre-qualification with an ITIN](/credit-card-prequalification-itin) guide walks through that process step by step.
+Before submitting a full application, check whether the issuer offers a pre-qualification or pre-approval tool. As Capital One notes, pre-approval involves only a soft inquiry that does not affect your credit score, so it is a low-risk way to gauge your odds. Our [credit card pre-qualification with an ITIN](/articles/credit-card-prequalification-itin) guide walks through that process step by step.
 
 ## How quickly can I move from a 1% secured cash back card to a better one?
 
@@ -104,10 +104,10 @@ You will typically have a scoreable credit file after six months of account acti
 
 In practical terms, a common progression looks like this: start with the Capital One Quicksilver Secured at 1.5% cash back, get automatically reviewed for a limit increase at month six, then either get upgraded to the unsecured Quicksilver or apply for a no-deposit card like the Petal 2 or Chase Freedom Rise around the 12-month mark. After another year of strong history you may qualify for a card like the Chase Freedom Unlimited with category bonuses up to 5%.
 
-The most important thing you can do at every stage is pay on time and keep your balance low. According to Firstcard's published research, your payment history and utilization factor into your credit score identically whether you used an ITIN or an SSN to open the account, so the same habits that work for any cardholder work for you. Once you build a solid score, see our guide on [how to get a credit limit increase with an ITIN](/credit-limit-increase-itin-credit-card) to learn how to request a higher ceiling as your profile strengthens.
+The most important thing you can do at every stage is pay on time and keep your balance low. According to Firstcard's published research, your payment history and utilization factor into your credit score identically whether you used an ITIN or an SSN to open the account, so the same habits that work for any cardholder work for you. Once you build a solid score, see our guide on [how to get a credit limit increase with an ITIN](/articles/credit-limit-increase-itin-credit-card) to learn how to request a higher ceiling as your profile strengthens.
 
 ## Should I apply for more than one cash back card at once?
 
 No. Applying for multiple cards at the same time triggers multiple hard inquiries and can signal financial stress to issuers, which lowers your approval odds. When you are in the early stages of building U.S. credit history with an ITIN, one well-chosen card used consistently for 12 months does far more for your credit profile than two or three cards opened at the same time. After your first year with a clean record, you can revisit adding a second card to diversify your credit mix or capture a different cash back category.
 
-If your first application is denied, don't panic. Our [credit card denied with an ITIN guide](/credit-card-denied-itin-what-to-do) covers the exact steps to take next, including how to request a reconsideration and which alternative cards have the highest approval rates for thin or new credit files.
+If your first application is denied, don't panic. Our [credit card denied with an ITIN guide](/articles/credit-card-denied-itin-what-to-do) covers the exact steps to take next, including how to request a reconsideration and which alternative cards have the highest approval rates for thin or new credit files.

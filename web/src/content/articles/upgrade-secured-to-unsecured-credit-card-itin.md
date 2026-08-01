@@ -108,7 +108,7 @@ This is where ITIN holders sometimes make a costly mistake. If your issuer does 
 
 Closing the card does reduce your total available credit, though, which can raise your overall utilization ratio and temporarily lower your score. The effect is usually modest if you have at least one other open account, but it is worth timing carefully. A reasonable approach: apply for your target unsecured card first, let that account open and report, then close the secured card a billing cycle or two later so your utilization does not spike right at the moment the new issuer is reviewing your file.
 
-If you are starting this process, our guide to [unsecured credit cards for ITIN holders](/unsecured-credit-card-itin-holders) covers which issuers are most likely to approve a former secured cardholder with a growing ITIN-based credit file.
+If you are starting this process, our guide to [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders) covers which issuers are most likely to approve a former secured cardholder with a growing ITIN-based credit file.
 
 ## What credit score do I realistically need before I apply to a new unsecured card?
 
@@ -120,7 +120,7 @@ For ITIN holders applying to a new unsecured product at a different issuer (rath
 - **630-679 (Low-to-mid fair credit):** Petal 2 Visa, which uses a cash score that weighs banking and income history alongside credit score. This is a realistic target for ITIN holders at the 12-18 month mark with clean payment history.
 - **680+ (Good credit):** Broader options open up, including cards with meaningful rewards. According to one analysis, after 12 months of on-time payments and low utilization, ITIN cardholders who started from zero can realistically expect score improvements in the 40-80 point range, which can move a score from the low 600s into qualifying territory for better products.
 
-If your score is not there yet, use the [credit card pre-qualification tools](/credit-card-prequalification-itin) available from Capital One, Petal, and Discover. These use a soft inquiry (no score impact) to show you your approval odds before you submit a real application.
+If your score is not there yet, use the [credit card pre-qualification tools](/articles/credit-card-prequalification-itin) available from Capital One, Petal, and Discover. These use a soft inquiry (no score impact) to show you your approval odds before you submit a real application.
 
 ## Can I have both the secured and unsecured card open at the same time?
 
@@ -128,7 +128,7 @@ Yes, and in some cases this is the better play. If your issuer does not offer an
 
 The trade-off is that opening the new account triggers a hard inquiry and temporarily lowers your score by roughly 5-15 points. Space applications at least 6 months apart to minimize the impact. If you have been a responsible cardholder on your secured card, the new account approval and the additional limit almost always outweigh the temporary inquiry dip within a few months.
 
-You can also pair this strategy with a [credit limit increase request on your existing secured card](/credit-limit-increase-itin-credit-card) before applying elsewhere. A higher limit on the secured card lowers your utilization, which improves your score before the hard inquiry for the new card hits.
+You can also pair this strategy with a [credit limit increase request on your existing secured card](/articles/credit-limit-increase-itin-credit-card) before applying elsewhere. A higher limit on the secured card lowers your utilization, which improves your score before the hard inquiry for the new card hits.
 
 ## Quick upgrade checklist for ITIN holders
 
@@ -141,4 +141,4 @@ Before you request an upgrade or apply to a new unsecured card, run through this
 - Updated income information ready in case the issuer requests it during review
 - A target card already identified so you apply to exactly one product, not several at once
 
-If you are not quite at the 12-month mark, use the time to keep utilization low and consider asking for a credit limit increase on your secured card, which can move the utilization needle without a new account. Our guide to [building credit fast with an ITIN credit card](/build-credit-with-itin-credit-card) covers the tactics that move the score fastest during this waiting period.
+If you are not quite at the 12-month mark, use the time to keep utilization low and consider asking for a credit limit increase on your secured card, which can move the utilization needle without a new account. Our guide to [building credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card) covers the tactics that move the score fastest during this waiting period.

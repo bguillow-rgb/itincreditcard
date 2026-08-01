@@ -52,7 +52,7 @@ This is where most guides fall short, they list premium cards without flagging t
 
 **Current Build Card**, There's no credit check, no minimum security deposit, and 0% APR. You spend from your Current account, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. You also earn 1 point per dollar on dining and groceries while you build credit.
 
-For a broader look at which institutions will actually approve your application, see our guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a broader look at which institutions will actually approve your application, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
 
 ## I've had my secured card for about a year. What rewards cards can I graduate to?
 
@@ -78,7 +78,7 @@ Not directly, the type of rewards attached to a card has no effect on how credit
 
 That said, a rewards card can *indirectly* help by giving you an incentive to use the card regularly for everyday purchases (groceries, gas, subscriptions) rather than leaving it in a drawer. Low, consistent spending that you pay off in full each month is the ideal pattern, and if you're earning 1.5% cash back while doing it, that's a genuine benefit.
 
-For a step-by-step breakdown of the full credit-building timeline, see our guide on [how to build credit with an ITIN](/how-to-build-credit-with-itin).
+For a step-by-step breakdown of the full credit-building timeline, see our guide on [how to build credit with an ITIN](/build-credit-with-itin).
 
 ## Rewards Card Comparison for ITIN Holders
 
@@ -103,7 +103,7 @@ You'll still need to meet the card issuer's other application requirements. The 
 
 **Check pre-qualification tools first.** Capital One's pre-qualification tool lets you check your odds without affecting your credit. Chase and several other issuers offer similar soft-pull pre-approval checks. Use these before submitting a full application.
 
-If your application is declined, don't panic. Issuers typically provide an adverse action notice explaining why. The most common reasons are thin credit history or insufficient income, both fixable over time. You can also look at [secured credit cards that accept ITIN](/secured-credit-card-with-itin) as a stepping stone before applying to unsecured rewards products.
+If your application is declined, don't panic. Issuers typically provide an adverse action notice explaining why. The most common reasons are thin credit history or insufficient income, both fixable over time. You can also look at [secured credit cards that accept ITIN](/articles/secured-credit-card-with-itin) as a stepping stone before applying to unsecured rewards products.
 
 ## What's the fastest realistic path from a starter card to a genuine rewards card?
 

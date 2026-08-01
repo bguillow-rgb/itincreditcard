@@ -66,7 +66,7 @@ Para la mayoría de los titulares de ITIN que están comenzando desde cero, una 
 - La tarjeta reporta a las principales agencias de crédito exactamente igual que una tarjeta regular.
 - La mayoría de los emisores te actualizan a una tarjeta no asegurada después de 6-12 meses de pagos puntuales y te devuelven tu depósito.
 
-Una **tarjeta no asegurada** tiene sentido si ya tienes 12 o más meses de historial de pagos positivo y un puntaje FICO superior a 620. En ese punto, varias opciones iniciales no aseguradas, algunas con recompensas modestas, estarán disponibles para ti. Consulta las guías completas: [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-cards) y [tarjetas de crédito no aseguradas con ITIN](/unsecured-credit-cards).
+Una **tarjeta no asegurada** tiene sentido si ya tienes 12 o más meses de historial de pagos positivo y un puntaje FICO superior a 620. En ese punto, varias opciones iniciales no aseguradas, algunas con recompensas modestas, estarán disponibles para ti. Consulta las guías completas: [tarjetas de crédito aseguradas para titulares de ITIN](/es/secured-credit-cards) y [tarjetas de crédito no aseguradas con ITIN](/es/unsecured-credit-cards).
 
 ## Cómo solicitar una tarjeta de crédito con ITIN, paso a paso
 
@@ -94,10 +94,10 @@ El cronograma para la mayoría de los titulares de ITIN que empiezan desde cero:
 - **Mes 12:** El puntaje generalmente se ubica entre 620 y 660 para quienes tienen un historial de pagos impecable y baja utilización.
 - **Mes 18-24:** El puntaje suele alcanzar el rango "bueno" (670+), lo que abre el acceso a tarjetas con recompensas y mejores condiciones.
 
-Los factores clave, pagar a tiempo y mantener saldos bajos, son simples. El reto es la constancia a lo largo del tiempo. El pago automático del mínimo te protege de un desastre por pago omitido; pagar el saldo completo cada mes te mantiene libre de deudas y te ahorra intereses. Para la hoja de ruta completa: [cómo construir crédito con un ITIN](/build-credit-with-itin).
+Los factores clave, pagar a tiempo y mantener saldos bajos, son simples. El reto es la constancia a lo largo del tiempo. El pago automático del mínimo te protege de un desastre por pago omitido; pagar el saldo completo cada mes te mantiene libre de deudas y te ahorra intereses. Para la hoja de ruta completa: [cómo construir crédito con un ITIN](/es/build-credit-with-itin).
 
 ## ¿Qué pasa si todavía no tienes un ITIN?
 
-Si no tienes un ITIN, necesitas obtener uno antes de solicitar una tarjeta de crédito. El IRS emite los ITIN mediante el Formulario W-7, generalmente en un plazo de 7 a 11 semanas. La forma más rápida es a través de un Agente Tramitador Certificado autorizado por el IRS, quien puede verificar tus documentos sin que tengas que enviar tu pasaporte por correo. Todos los detalles: [cómo obtener un ITIN](/how-to-get-an-itin).
+Si no tienes un ITIN, necesitas obtener uno antes de solicitar una tarjeta de crédito. El IRS emite los ITIN mediante el Formulario W-7, generalmente en un plazo de 7 a 11 semanas. La forma más rápida es a través de un Agente Tramitador Certificado autorizado por el IRS, quien puede verificar tus documentos sin que tengas que enviar tu pasaporte por correo. Todos los detalles: [cómo obtener un ITIN](/es/how-to-get-an-itin).
 
-Una vez que recibas tu ITIN, regresa para [encontrar tu tarjeta](/apply).
+Una vez que recibas tu ITIN, regresa para [encontrar tu tarjeta](/es/apply).

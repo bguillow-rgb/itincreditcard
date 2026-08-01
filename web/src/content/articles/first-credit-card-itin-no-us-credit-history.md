@@ -69,7 +69,7 @@ The OpenSky Secured Credit Card is one of the few secured credit cards that open
 
 The Petal 2 Visa Credit Card is one of the best options without an SSN requirement because cardholders earn 1% cash back on all eligible purchases, up to 1.25% back after 6 months of on-time payments, and 1.5% cash back after 12 consecutive months of paying on time. Applicants with limited credit and an ITIN can get approved, and there's no annual fee.
 
-For a deeper look at the full landscape of ITIN-friendly issuers, see our guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a deeper look at the full landscape of ITIN-friendly issuers, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
 
 ---
 
@@ -113,7 +113,7 @@ In short, use Nova Credit to get your first card approval, but pair it immediate
 5. **Wait for your card.** If you're applying online, you could get a near-instant answer to your application. The physical card typically arrives in 7-10 business days.
 6. **Set up autopay immediately.** Make every payment on time. Payment history is the single most important factor in your credit score. Set up autopay to make sure you never miss a due date.
 
-For more detail on the full application process, see our guide on [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin).
+For more detail on the full application process, see our guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin).
 
 ---
 
@@ -127,7 +127,7 @@ The mechanics are identical whether you used an SSN or an ITIN. Once you have a 
 
 **Do not close your first card.** The length of your credit history matters. Keep your first card open even after you qualify for better options. Closing the account shortens your average account age, which can shave points off a still-young file.
 
-**Space out new applications.** Try to space out applications by at least 6 months to avoid score drops. Once you have 6-12 months of clean history on your first card, you will be in a much stronger position to apply for an unsecured card with rewards. For strategies on moving up from a secured card, read our guide on [unsecured credit cards for ITIN holders](/unsecured-credit-card-itin-holders).
+**Space out new applications.** Try to space out applications by at least 6 months to avoid score drops. Once you have 6-12 months of clean history on your first card, you will be in a much stronger position to apply for an unsecured card with rewards. For strategies on moving up from a secured card, read our guide on [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders).
 
 Most ITIN-friendly cards start with a credit limit between $200 and $700. Limits often increase after 6 to 12 months of on-time payments. After about a year of responsible use, you may qualify for unsecured cards with higher limits and rewards.
 
@@ -139,4 +139,4 @@ A denial with a thin file is common and fixable. The issuer is required to send 
 
 If that happens: pull back to the most accessible option on the list above (OpenSky has no credit check), confirm your documents match exactly what the issuer needs, and wait at least 90 days before reapplying anywhere. A denial itself does not stay on your credit report long-term -- only the hard inquiry does, and its impact fades within 12 months.
 
-For a full playbook on recovering from a denial, see our guide on [what to do when your credit card is denied with an ITIN](/credit-card-denied-itin-what-to-do).
+For a full playbook on recovering from a denial, see our guide on [what to do when your credit card is denied with an ITIN](/articles/credit-card-denied-itin-what-to-do).

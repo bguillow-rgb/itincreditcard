@@ -120,7 +120,7 @@ Capital One, por ejemplo, revisa automáticamente a los titulares de tarjetas as
 
 Si más adelante obtienes un SSN, no pierdes el historial crediticio que construiste con tu ITIN. Los burós de crédito rastrean la actividad crediticia asociada a los ITIN de la misma manera que lo hacen con los SSN. Si una persona obtiene un SSN posteriormente, es posible combinar el historial crediticio basado en ITIN con el nuevo expediente de SSN contactando directamente a los principales burós de crédito. El historial de pagos puntuales que construiste con tu tarjeta ITIN sin cargo te acompañará cuando finalmente califiques para tarjetas de viaje premium que requieren crédito bueno o excelente.
 
-Para saber más sobre cómo construir un perfil crediticio sólido desde cero, consulta nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito ITIN](/build-credit-with-itin-credit-card). Una vez que tu perfil esté establecido y busques opciones específicas de tarjetas, nuestra [guía de tarjetas de crédito con recompensas para titulares de ITIN](/rewards-credit-card-itin-holders) cubre tarjetas de viaje y de reembolso en efectivo que aceptan ITIN.
+Para saber más sobre cómo construir un perfil crediticio sólido desde cero, consulta nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card). Una vez que tu perfil esté establecido y busques opciones específicas de tarjetas, nuestra [guía de tarjetas de crédito con recompensas para titulares de ITIN](/es/articles/rewards-credit-card-itin-holders) cubre tarjetas de viaje y de reembolso en efectivo que aceptan ITIN.
 
 ---
 

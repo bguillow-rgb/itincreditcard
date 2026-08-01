@@ -152,7 +152,7 @@ The honest answer is that your options depend on the issuer and sometimes your c
 | Latino Credit Union Visa | Branch only (NC members) | No | Varies | $0 |
 | Self-Help CU Secured | Branch only | No | Varies | $0 |
 
-For a deeper look at online vs. in-branch application rules and tips for navigating rigid online forms, see our guide on [applying for a credit card with an ITIN online vs. in-branch](/credit-card-itin-apply-online-vs-in-branch).
+For a deeper look at online vs. in-branch application rules and tips for navigating rigid online forms, see our guide on [applying for a credit card with an ITIN online vs. in-branch](/articles/credit-card-itin-apply-online-vs-in-branch).
 
 ---
 
@@ -212,7 +212,7 @@ This depends on whether you want to apply online or in person, and whether you c
 
 **Best fintech option:** The Self Visa Secured Card accepts an ITIN fully online. The card has no annual fee for the first year, then $25 per year, plus a 27.49% variable APR. Self has high approval rates and remains a consistent option for thin-file applicants.
 
-For a full side-by-side of secured card deposits and upgrade timelines, see our guide to [secured credit cards for ITIN holders](/secured-credit-card-with-itin).
+For a full side-by-side of secured card deposits and upgrade timelines, see our guide to [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
 
 ---
 

@@ -87,7 +87,7 @@ La siguiente tabla compara las principales opciones que aceptan ITIN según la f
 
 Entre los 10 principales emisores de tarjetas de crédito, siete aceptan ITIN, incluyendo Bank of America y Capital One. Eso les da a los titulares de ITIN opciones reales en lugar de un único camino.
 
-Para un análisis más detallado de qué emisores específicos aceptan ITIN y qué requiere cada tarjeta más allá de los ingresos, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para un análisis más detallado de qué emisores específicos aceptan ITIN y qué requiere cada tarjeta más allá de los ingresos, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
 
 ## ¿Puedo calificar si acabo de empezar a trabajar en Estados Unidos y solo tengo uno o dos talones de pago?
 
@@ -100,7 +100,7 @@ Si eres completamente nuevo y casi no tienes historial bancario en Estados Unido
 1. Comienza con una tarjeta asegurada sin verificación de crédito. La OpenSky Secured Card aprueba abiertamente a solicitantes sin SSN, el ITIN funciona, y no hay verificación de crédito durante la solicitud, lo que la hace accesible si tu historial crediticio en Estados Unidos es escaso o inexistente. La documentación de ingresos es mínima porque el depósito es el mecanismo de suscripción.
 2. Usa una fintech diseñada para inmigrantes. Zolve es la única tarjeta en varias listas comparativas de 2026 que te permite solicitar y recibir una tarjeta de crédito virtual antes de llegar a Estados Unidos, lo que significa que el día uno de tu vida en el país también puede ser el día uno de tu historial crediticio.
 
-Una vez que tengas entre tres y seis meses de pagos puntuales e historial bancario, estarás en una posición mucho más sólida para solicitar tarjetas con mejores recompensas y límites más altos. Puedes leer más sobre el camino completo en nuestra guía para [construir crédito rápido con una tarjeta de crédito con ITIN](/build-credit-with-itin-credit-card).
+Una vez que tengas entre tres y seis meses de pagos puntuales e historial bancario, estarás en una posición mucho más sólida para solicitar tarjetas con mejores recompensas y límites más altos. Puedes leer más sobre el camino completo en nuestra guía para [construir crédito rápido con una tarjeta de crédito con ITIN](/es/articles/build-credit-with-itin-credit-card).
 
 ## ¿Qué pasa si exagero mis ingresos en la solicitud?
 
@@ -117,6 +117,6 @@ Si tienes 21 años o más, por lo general puedes declarar los ingresos del hogar
 Más allá de los ingresos del hogar, quedan dos caminos abiertos:
 
 - Tarjetas aseguradas sin requisito de ingresos. Algunas tarjetas, en particular OpenSky y ciertos productos de cooperativas de crédito, se basan únicamente en tu depósito y no piden documentación de ingresos. El depósito es tu garantía, por lo que el riesgo del emisor queda esencialmente cubierto.
-- Convertirte en usuario autorizado. Si tienes un familiar de confianza con una tarjeta de crédito en Estados Unidos, que te agregue como usuario autorizado comienza a construir tu historial crediticio mientras todavía estás estableciendo ingresos en el país. Consulta nuestra guía sobre [cómo convertirte en usuario autorizado con un ITIN](/authorized-user-credit-card-itin) para conocer el proceso paso a paso.
+- Convertirte en usuario autorizado. Si tienes un familiar de confianza con una tarjeta de crédito en Estados Unidos, que te agregue como usuario autorizado comienza a construir tu historial crediticio mientras todavía estás estableciendo ingresos en el país. Consulta nuestra guía sobre [cómo convertirte en usuario autorizado con un ITIN](/es/articles/authorized-user-credit-card-itin) para conocer el proceso paso a paso.
 
 Una vez que tengas al menos ingresos a tiempo parcial o depósitos bancarios verificables, vuelve a intentar una solicitud de tarjeta asegurada. Incluso entre $400 y $500 al mes es suficiente para algunos emisores cuando se combina con un depósito de $200 y sin deudas existentes.

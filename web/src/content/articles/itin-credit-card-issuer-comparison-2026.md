@@ -255,7 +255,7 @@ After 12 months of on-time payments, your score will typically be in the 680-720
 
 The graduation path from secured to unsecured works differently at each issuer. Capital One may refund your deposit and convert the card automatically. OpenSky upgrades by invitation. Bank of America and Citi typically require you to apply for a new unsecured card. Plan your timeline so you are not leaving a deposit locked up for years when you could have it back.
 
-For a step-by-step playbook on exactly how to move from secured to unsecured, see our guide on [how to upgrade from secured to unsecured credit card with an ITIN](/upgrade-secured-to-unsecured-credit-card-itin).
+For a step-by-step playbook on exactly how to move from secured to unsecured, see our guide on [how to upgrade from secured to unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin).
 
 ---
 
@@ -271,7 +271,7 @@ Our editorial stance, grounded in the data above:
 
 **If you already have 12+ months of U.S. credit history:** Skip the secured tier entirely and apply directly for Capital One QuicksilverOne, Chase Freedom Rise, or the Amex Blue Cash Everyday using your ITIN.
 
-For more detail on the documents and step-by-step application process, see our complete guide on [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin). To understand how your new card reports to the bureaus and builds your score, see [does your ITIN credit card report to all three bureaus](/itin-credit-card-credit-bureau-reporting).
+For more detail on the documents and step-by-step application process, see our complete guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin). To understand how your new card reports to the bureaus and builds your score, see [does your ITIN credit card report to all three bureaus](/articles/itin-credit-card-credit-bureau-reporting).
 
 ---
 

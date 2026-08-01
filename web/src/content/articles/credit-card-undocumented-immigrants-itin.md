@@ -112,7 +112,7 @@ Whether the credit they build with an ITIN will count, and whether it carries ov
 
 Yes on both counts. Your ITIN is a permanent tax identifier, and every credit account you open with it is reported to Experian, Equifax, and TransUnion under that number. The credit bureaus maintain files by ITIN just as they do by SSN. Some credit card issuers let you use an ITIN instead of an SSN when applying for a credit card. But your ability to build credit is based on using the card responsibly, not on the method you used to apply.
 
-If you later receive an SSN (for example, after obtaining work authorization or a green card), your ITIN credit history can be linked to your new SSN at the credit bureaus so the years of responsible card use are not lost. See our guide on [what happens to your credit cards when you get an SSN after using an ITIN](/itin-to-ssn-credit-card-history-transfer) for the exact steps.
+If you later receive an SSN (for example, after obtaining work authorization or a green card), your ITIN credit history can be linked to your new SSN at the credit bureaus so the years of responsible card use are not lost. See our guide on [what happens to your credit cards when you get an SSN after using an ITIN](/articles/itin-to-ssn-credit-card-history-transfer) for the exact steps.
 
 Practically, the three habits that drive your score upward after you get your first card are the same for everyone:
 
@@ -120,7 +120,7 @@ Practically, the three habits that drive your score upward after you get your fi
 2. Keep your spending below 30% of your credit limit. The Consumer Financial Protection Bureau (CFPB) recommends keeping your credit utilization ratio below 30%.
 3. Avoid applying for multiple cards at once, because each application triggers a hard inquiry that can briefly lower your score.
 
-According to one 2026 analysis of ITIN credit-building timelines, consistent cardholders can expect a score improvement of 40-80 points within their first 12 months of use. After 12-18 months, many ITIN holders qualify to [upgrade from a secured to an unsecured card](/upgrade-secured-to-unsecured-credit-card-itin) with better rewards and no deposit requirement.
+According to one 2026 analysis of ITIN credit-building timelines, consistent cardholders can expect a score improvement of 40-80 points within their first 12 months of use. After 12-18 months, many ITIN holders qualify to [upgrade from a secured to an unsecured card](/articles/upgrade-secured-to-unsecured-credit-card-itin) with better rewards and no deposit requirement.
 
 ## Can I get an unsecured card as an undocumented immigrant?
 
@@ -128,7 +128,7 @@ Yes, but it takes time. Unsecured cards require the issuer to take on risk witho
 
 Petal has two cards that are available to immigrants who do not have an SSN: the Petal 1 and Petal 2 Visa Credit Cards. Both cards consider factors beyond your credit score when deciding if an applicant is eligible. When you apply, the issuer looks at your Cash Score by analyzing your banking history, proof of income, and on-time bill payments. This alternative underwriting model makes Petal one of the few issuers that may approve an unsecured card for someone with a thin or nonexistent U.S. credit file, as long as you have a documented income stream and a bank account history.
 
-For a full breakdown of unsecured options and their ITIN requirements, see our guide to [unsecured credit cards for ITIN holders](/unsecured-credit-card-itin-holders).
+For a full breakdown of unsecured options and their ITIN requirements, see our guide to [unsecured credit cards for ITIN holders](/articles/unsecured-credit-card-itin-holders).
 
 ## What mistakes should I avoid when using my first ITIN credit card?
 
@@ -140,4 +140,4 @@ Three mistakes account for most of the setbacks we see among new cardholders.
 
 **Closing the card too soon.** Length of credit history is a scoring factor. Closing your first card after only six months erases that account's age contribution. Keep the card open and active (even with small monthly purchases) until you have established at least one additional account.
 
-For a deeper look at applying, including which application fields to watch out for, visit our guide on [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin).
+For a deeper look at applying, including which application fields to watch out for, visit our guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin).

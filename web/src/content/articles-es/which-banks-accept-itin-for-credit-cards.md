@@ -92,7 +92,7 @@ Amex es una opción particularmente interesante para inmigrantes con historial f
 
 La American Express Gold Card es una excelente opción si te interesa ganar recompensas de viaje. Acumula puntos Amex Membership Rewards, que se pueden transferir a 21 programas de aerolíneas y hoteles, y puedes aplicar en línea usando tu ITIN. Aún más importante para los recién llegados: si no tienes un historial crediticio extenso en EE. UU., puede ser más fácil que te aprueben una tarjeta de American Express porque puede acceder al historial crediticio de varios otros países.
 
-Ese acceso a crédito internacional es una ventaja real si vienes de Canadá, el Reino Unido, Australia, India u otros países en la red de Amex. Si eres completamente nuevo en el crédito en cualquier país, comienza primero con un producto asegurado, consulta nuestra guía sobre [tarjetas de crédito aseguradas con ITIN](/secured-credit-card-with-itin) antes de apuntar a una tarjeta de recompensas como la Amex Gold.
+Ese acceso a crédito internacional es una ventaja real si vienes de Canadá, el Reino Unido, Australia, India u otros países en la red de Amex. Si eres completamente nuevo en el crédito en cualquier país, comienza primero con un producto asegurado, consulta nuestra guía sobre [tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) antes de apuntar a una tarjeta de recompensas como la Amex Gold.
 
 ---
 
@@ -121,7 +121,7 @@ La respuesta depende de si puedes hacer un depósito de seguridad.
 
 **Si no puedes hacer un depósito:** La Current Build Card es la opción más sólida sin depósito y sin verificación de crédito para titulares de ITIN. Gastas como si fuera una tarjeta de débito desde tu cuenta Current, y la actividad se reporta como uso de crédito puntual a Experian, TransUnion y Equifax. La Tilt Motion Visa, la sucesora de la Petal 2 Visa, es otra buena opción sin depósito si tienes algo de historial bancario en EE. UU. Según se ha reportado, Petal 1 y Petal 2 dejaron de aceptar nuevas solicitudes en 2026 tras la adquisición por Empower Finance, y los nuevos solicitantes son dirigidos a Tilt. Los solicitantes con crédito limitado y ITIN pueden ser aprobados mediante la evaluación por flujo de caja de Tilt, y no hay cuota anual.
 
-Una vez que tengas 12-18 meses de historial de pagos puntuales, pasar a una tarjeta de recompensas sin garantía en Chase o Amex se convierte en un objetivo alcanzable. Lee nuestra guía sobre [cómo construir crédito con un ITIN](/how-to-build-credit-with-itin) para ver el plan completo.
+Una vez que tengas 12-18 meses de historial de pagos puntuales, pasar a una tarjeta de recompensas sin garantía en Chase o Amex se convierte en un objetivo alcanzable. Lee nuestra guía sobre [cómo construir crédito con un ITIN](/es/build-credit-with-itin) para ver el plan completo.
 
 ---
 

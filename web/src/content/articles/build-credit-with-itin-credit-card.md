@@ -65,7 +65,7 @@ Here is a comparison of cards commonly used by ITIN holders for credit building 
 | Petal 2 Visa | None (unsecured) | Yes | $0 | Yes | No deposit, income-based approval |
 | Chase Freedom Rise | None (unsecured) | Yes | $0 | Yes | Upgrade path to Freedom Unlimited |
 
-For more detail on which issuers accept an ITIN and how their policies work, see our full guide on [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards). If you are starting with zero U.S. history and want the lowest barrier to entry, our [secured credit card with ITIN guide](/secured-credit-card-with-itin) walks through deposit requirements and approval odds card by card.
+For more detail on which issuers accept an ITIN and how their policies work, see our full guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards). If you are starting with zero U.S. history and want the lowest barrier to entry, our [secured credit card with ITIN guide](/articles/secured-credit-card-with-itin) walks through deposit requirements and approval odds card by card.
 
 ## What card habits actually move my credit score the fastest?
 
@@ -83,15 +83,15 @@ Once approved for an ITIN credit card, the behaviors that drive the score are th
 
 Most major issuers build a graduation pathway directly into their secured card products. Capital One, for example, automatically reviews secured cardholders for an upgrade to an unsecured card after as few as six months of on-time payments. Discover reviews Discover it Secured accounts after seven months. If you are approved for an upgrade, your deposit is refunded and your credit limit typically increases, both of which have a positive knock-on effect on your utilization ratio and therefore your score.
 
-The clearest signal that you are ready to apply for a second or upgraded card is a FICO score of 670 or higher with at least 12 months of clean payment history. At that point, unsecured ITIN-friendly cards such as the Chase Freedom Rise or Petal 2 become realistic targets. Check out our [unsecured credit cards for ITIN holders guide](/unsecured-credit-card-itin-holders) for a ranked look at which cards are approachable at that score range.
+The clearest signal that you are ready to apply for a second or upgraded card is a FICO score of 670 or higher with at least 12 months of clean payment history. At that point, unsecured ITIN-friendly cards such as the Chase Freedom Rise or Petal 2 become realistic targets. Check out our [unsecured credit cards for ITIN holders guide](/articles/unsecured-credit-card-itin-holders) for a ranked look at which cards are approachable at that score range.
 
-If you want to accelerate the timeline further, some ITIN holders add a second credit-building tool alongside their card. Becoming an [authorized user on a trusted family member's card](/authorized-user-credit-card-itin) is one of the fastest ways to add positive history to your file without a new hard inquiry.
+If you want to accelerate the timeline further, some ITIN holders add a second credit-building tool alongside their card. Becoming an [authorized user on a trusted family member's card](/articles/authorized-user-credit-card-itin) is one of the fastest ways to add positive history to your file without a new hard inquiry.
 
 ## What mistakes do ITIN holders most commonly make with credit cards?
 
 Several patterns consistently derail credit-building progress, particularly among people who are new to the U.S. credit system.
 
-**Maxing out the card.** Using more than 30% of your credit limit at statement close is one of the most common and damaging mistakes. A $500-limit card with a $450 balance shows 90% utilization, which can drop a score by dozens of points immediately. The fix is to either pay down the balance before the statement closes or request a credit limit increase once you have six months of history. For strategies on requesting a higher limit, see our [credit limit increase guide for ITIN holders](/credit-limit-increase-itin-credit-card).
+**Maxing out the card.** Using more than 30% of your credit limit at statement close is one of the most common and damaging mistakes. A $500-limit card with a $450 balance shows 90% utilization, which can drop a score by dozens of points immediately. The fix is to either pay down the balance before the statement closes or request a credit limit increase once you have six months of history. For strategies on requesting a higher limit, see our [credit limit increase guide for ITIN holders](/articles/credit-limit-increase-itin-credit-card).
 
 **Choosing a card that does not report to all three bureaus.** Some store cards and fintech products only report to one or two bureaus. If Experian never sees your account, any lender who pulls Experian when you apply for your next card will see an empty file. Always confirm tri-bureau reporting before you apply.
 

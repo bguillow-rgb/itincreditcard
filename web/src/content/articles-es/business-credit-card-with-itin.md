@@ -44,7 +44,7 @@ Tu ITIN cumple la misma función de verificación de identidad en una solicitud 
 
 El matiz: tu ITIN cubre la parte de *garantía personal* de la solicitud. Casi siempre también necesitarás un **EIN (Número de Identificación del Empleador)** para la entidad empresarial. Obtener un EIN es gratis con el IRS, no necesitas SSN para solicitarlo y la aprobación es prácticamente inmediata en línea. Piénsalo así: tu ITIN = tú como dueño, tu EIN = el negocio. Los emisores requieren ambos.
 
-Una vez que tengas los dos números, el proceso de solicitud es casi idéntico al de cualquier ciudadano estadounidense. Si todavía estás construyendo tu historial de crédito personal, revisa nuestra guía sobre [cómo construir crédito con un ITIN](/how-to-build-credit-with-itin) antes de aplicar, ya que la mayoría de las tarjetas para pequeños negocios sí hacen una consulta fuerte a tu historial de crédito personal.
+Una vez que tengas los dos números, el proceso de solicitud es casi idéntico al de cualquier ciudadano estadounidense. Si todavía estás construyendo tu historial de crédito personal, revisa nuestra guía sobre [cómo construir crédito con un ITIN](/es/build-credit-with-itin) antes de aplicar, ya que la mayoría de las tarjetas para pequeños negocios sí hacen una consulta fuerte a tu historial de crédito personal.
 
 ## ¿Qué tarjetas empresariales específicas aceptan ITIN en 2026?
 
@@ -107,7 +107,7 @@ La mayoría de los titulares de ITIN que solicitan su primera tarjeta empresaria
 
 Aquí tienes un camino de mejora realista:
 
-1. **Meses 0-6:** Abre una tarjeta personal asegurada con tu ITIN (consulta nuestra [guía de tarjetas de crédito aseguradas con ITIN](/secured-credit-card-with-itin)) y una cuenta corriente empresarial. Úsalas con regularidad y págalas en su totalidad cada mes.
+1. **Meses 0-6:** Abre una tarjeta personal asegurada con tu ITIN (consulta nuestra [guía de tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin)) y una cuenta corriente empresarial. Úsalas con regularidad y págalas en su totalidad cada mes.
 2. **Meses 6-12:** Solicita una tarjeta empresarial de nivel básico como la Capital One Spark Classic. Tu creciente historial de crédito personal y tu historial bancario son tus activos más fuertes en esta etapa.
 3. **Meses 12-24:** Con 12 o más meses de historial de pagos puntuales, solicita una tarjeta de recompensas de nivel intermedio (Spark Cash Plus, Chase Ink Unlimited). Tu puntaje de crédito, construido con tu ITIN, se aplica directamente a esta evaluación.
 4. **Año 2 en adelante:** Si los ingresos de tu negocio crecen, las tarjetas corporativas sin garantía personal (Brex, Ramp) se convierten en opciones realistas. A ellos les importa tu efectivo, no tu puntaje de crédito.
@@ -124,4 +124,4 @@ Para la mayoría de las tarjetas para pequeños negocios de Capital One, Chase y
 
 Para las tarjetas corporativas, la situación cambia por completo. Los requisitos de elegibilidad para tarjetas corporativas a menudo incluyen ingresos anuales en millones y un número mínimo de usuarios de la cuenta, y los propietarios únicos rara vez cumplen con los requisitos de estructura empresarial. Ramp específicamente requiere que seas una LLC o corporación registrada, los propietarios únicos no son elegibles.
 
-Si eres freelancer o trabajas por cuenta propia con ITIN, la ruta de la tarjeta para pequeños negocios es casi siempre tu punto de partida. Formar una LLC vale la pena si planeas crecer, pero no es un requisito previo para obtener tu primera tarjeta empresarial. Consulta nuestra guía [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards) para tener el panorama completo sobre las políticas de los emisores en productos personales y empresariales.
+Si eres freelancer o trabajas por cuenta propia con ITIN, la ruta de la tarjeta para pequeños negocios es casi siempre tu punto de partida. Formar una LLC vale la pena si planeas crecer, pero no es un requisito previo para obtener tu primera tarjeta empresarial. Consulta nuestra guía [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) para tener el panorama completo sobre las políticas de los emisores en productos personales y empresariales.

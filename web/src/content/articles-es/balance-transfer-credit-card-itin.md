@@ -57,7 +57,7 @@ Buenas noticias: al menos dos grandes emisores confirman públicamente que acept
 | Citi Double Cash | Sí (tener una relación bancaria previa ayuda) | 0% | 18 meses | 3% introductorio (primeros 4 meses), luego 5% (mín. $5) | $0 |
 | Capital One (tarjetas seleccionadas) | Sí | Varía según la tarjeta | Varía | Varía | Varía |
 
-Algunas advertencias importantes. Que acepten el ITIN no garantiza la aprobación. Estos emisores también evalúan tu historial crediticio en EE. UU., tus ingresos y tus deudas actuales. Las tarjetas de transferencia de saldo en particular suelen requerir un crédito bueno o excelente, generalmente un puntaje FICO de 670 o más. Si todavía estás en las etapas iniciales de construir crédito con un ITIN, consulta nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito ITIN](https://itincreditcard.com/build-credit-with-itin-credit-card) antes de buscar una tarjeta de transferencia de saldo.
+Algunas advertencias importantes. Que acepten el ITIN no garantiza la aprobación. Estos emisores también evalúan tu historial crediticio en EE. UU., tus ingresos y tus deudas actuales. Las tarjetas de transferencia de saldo en particular suelen requerir un crédito bueno o excelente, generalmente un puntaje FICO de 670 o más. Si todavía estás en las etapas iniciales de construir crédito con un ITIN, consulta nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card) antes de buscar una tarjeta de transferencia de saldo.
 
 ## ¿Cómo completo una transferencia de saldo usando mi tarjeta con ITIN?
 
@@ -92,7 +92,7 @@ El momento también importa. Ambas tarjetas de Wells Fargo ofrecen la tasa de co
 
 Las tarjetas de transferencia de saldo están entre las que más exigen en cuanto a requisitos de elegibilidad. La mayoría de los emisores buscan solicitantes con crédito bueno o excelente. Según FICO, crédito bueno significa un puntaje de 670 o más.
 
-Para los titulares de ITIN, eso suele significar al menos 12-24 meses de historial crediticio documentado en EE. UU., con pagos a tiempo consistentes y una utilización baja, antes de que una tarjeta de transferencia de saldo sea una opción realista. Si comenzaste con una tarjeta asegurada, nuestra guía sobre [cómo pasar de una tarjeta asegurada a una sin garantía con ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin) explica los pasos clave que debes cumplir antes de solicitar productos más competitivos.
+Para los titulares de ITIN, eso suele significar al menos 12-24 meses de historial crediticio documentado en EE. UU., con pagos a tiempo consistentes y una utilización baja, antes de que una tarjeta de transferencia de saldo sea una opción realista. Si comenzaste con una tarjeta asegurada, nuestra guía sobre [cómo pasar de una tarjeta asegurada a una sin garantía con ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin) explica los pasos clave que debes cumplir antes de solicitar productos más competitivos.
 
 Algunos factores adicionales que los emisores consideran junto con tu puntaje:
 

@@ -89,11 +89,11 @@ If the denial was a hard stop (score far below the threshold, prior default with
 
 After a denial from a mainstream issuer, the fastest path forward is usually a card that removes the two biggest barriers at once: the credit history requirement and the SSN requirement.
 
-Secured cards are the most accessible option. You place a refundable deposit that becomes your credit limit, and because the issuer's risk is covered by that deposit, many of them accept applicants with no U.S. credit history and an ITIN in place of an SSN. You can learn more in our guide to [secured credit cards with an ITIN](https://itincreditcard.com/secured-credit-card-with-itin).
+Secured cards are the most accessible option. You place a refundable deposit that becomes your credit limit, and because the issuer's risk is covered by that deposit, many of them accept applicants with no U.S. credit history and an ITIN in place of an SSN. You can learn more in our guide to [secured credit cards with an ITIN](/articles/secured-credit-card-with-itin).
 
 If you want to skip the deposit entirely, some fintech-style credit builders use alternative underwriting that looks at your banking activity rather than a traditional credit score. These cards report to all three bureaus the same way a conventional card does, so your payment history still builds a real FICO file.
 
-A third option worth considering is [becoming an authorized user](https://itincreditcard.com/authorized-user-credit-card-itin) on a trusted family member's or friend's account. The primary cardholder's positive history can appear on your credit report and lift your score, making you a stronger applicant when you apply independently in a few months.
+A third option worth considering is [becoming an authorized user](/articles/authorized-user-credit-card-itin) on a trusted family member's or friend's account. The primary cardholder's positive history can appear on your credit report and lift your score, making you a stronger applicant when you apply independently in a few months.
 
 Aim to build 6-12 months of on-time payment history on any reporting account before you reapply to the issuer that denied you. According to FICO, payment history is the single largest factor in your score, accounting for 35% of the calculation.
 
@@ -110,7 +110,7 @@ Two specific moves speed this up:
 - **Add a credit-builder loan alongside your secured card.** Having both an installment loan and a revolving credit account improves your credit mix, which is worth about 10% of your FICO score.
 - **Keep your utilization below 30%.** If your secured card has a $300 limit, carry no more than $90 in reported balances at statement close. Lower is better. Cardholders who keep utilization under 10% tend to see the strongest score growth.
 
-For a full breakdown of every tool available, see our step-by-step guide on [how to build credit with an ITIN](https://itincreditcard.com/how-to-build-credit-with-itin).
+For a full breakdown of every tool available, see our step-by-step guide on [how to build credit with an ITIN](/build-credit-with-itin).
 
 ---
 
@@ -120,7 +120,7 @@ Each new application triggers one hard inquiry, which typically shaves 3-5 point
 
 To limit unnecessary inquiries, use pre-qualification tools before you apply. Many issuers offer a soft-pull pre-qualification that shows you whether you are likely to be approved without affecting your score at all. If a pre-qualification tool does not support ITIN entry online, call the issuer's application line directly and ask a representative to run a soft pull before you formally submit.
 
-If you are unsure which issuers are currently accepting ITIN applications, our guide to [which banks accept ITIN for credit cards](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) lists the current landscape by issuer so you can target your applications and avoid wasting hard inquiries on banks that require an SSN.
+If you are unsure which issuers are currently accepting ITIN applications, our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists the current landscape by issuer so you can target your applications and avoid wasting hard inquiries on banks that require an SSN.
 
 ---
 

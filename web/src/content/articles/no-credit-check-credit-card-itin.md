@@ -84,7 +84,7 @@ Yes, and this is the most important point. Skipping the credit check during appr
 
 When you open a credit account with an ITIN and make payments, the lender reports that activity to the credit bureaus, just like they would for someone with an SSN. Over time, you build a credit history, and eventually, you get a credit score.
 
-Scoring models do not distinguish between an ITIN and an SSN. A strong payment history carries the same weight either way. According to FICO, payment history is the single largest factor in your score, accounting for roughly 35% of the calculation. Every on-time payment you make with a reporting no-credit-check card adds to the file that will eventually get you unsecured cards, rewards cards, and better terms. You can read more about this process in our guide on [how to build credit fast with an ITIN credit card](/build-credit-with-itin-credit-card).
+Scoring models do not distinguish between an ITIN and an SSN. A strong payment history carries the same weight either way. According to FICO, payment history is the single largest factor in your score, accounting for roughly 35% of the calculation. Every on-time payment you make with a reporting no-credit-check card adds to the file that will eventually get you unsecured cards, rewards cards, and better terms. You can read more about this process in our guide on [how to build credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card).
 
 One important caveat: some secured cards and store cards do not report to all three credit bureaus. If your payment history is not being reported, you are not building credit. Always confirm before you apply.
 
@@ -101,7 +101,7 @@ For most no-credit-check ITIN applications, plan to provide:
 
 When applying, have your ITIN, a valid form of ID such as a passport or consular ID, proof of address, and proof of income ready. Gathering these before you start the application prevents delays and reduces the chance of a rejection based on missing documentation rather than your actual financial profile.
 
-For a step-by-step walkthrough of the full application process, see our guide on [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin).
+For a step-by-step walkthrough of the full application process, see our guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin).
 
 ## I have been denied before. Will a no-credit-check card finally approve me?
 
@@ -109,12 +109,12 @@ The most common reason ITIN holders get denied is not fraud or bad credit. It is
 
 A no-credit-check secured card removes this specific barrier because the issuer is not looking at your credit file to make the decision. Approval is based almost entirely on whether you can fund the deposit and pass identity verification. The deposit dramatically lowers the bank's risk. When the bank feels secure, they are far more likely to approve an applicant without a traditional credit file.
 
-If previous denials came from issuers that do not accept ITINs at all, that is a separate problem. Our guide on [which banks accept an ITIN for credit cards](/which-banks-accept-itin-for-credit-cards) lists verified ITIN-friendly issuers so you can avoid wasting hard inquiries on applications that will fail regardless of your profile.
+If previous denials came from issuers that do not accept ITINs at all, that is a separate problem. Our guide on [which banks accept an ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists verified ITIN-friendly issuers so you can avoid wasting hard inquiries on applications that will fail regardless of your profile.
 
 ## What happens to my no-credit-check card once I build enough credit to qualify for better options?
 
 No-credit-check secured cards are a starting point, not a permanent destination. After showing responsible use with your secured card, you may qualify for unsecured cards from other issuers that do not require a security deposit.
 
-Most issuers review your account automatically after 6-12 months of on-time payments. Accounts can be reviewed over time for higher limits or unsecured upgrades within 6-12 months if on-time payments are consistent. When you upgrade, your deposit comes back and your account history (including the original open date) typically carries over to the new card, preserving the length of your credit history. For a detailed look at this transition, see our guide on [how to upgrade from a secured to an unsecured credit card with an ITIN](/upgrade-secured-to-unsecured-credit-card-itin).
+Most issuers review your account automatically after 6-12 months of on-time payments. Accounts can be reviewed over time for higher limits or unsecured upgrades within 6-12 months if on-time payments are consistent. When you upgrade, your deposit comes back and your account history (including the original open date) typically carries over to the new card, preserving the length of your credit history. For a detailed look at this transition, see our guide on [how to upgrade from a secured to an unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin).
 
 The path is straightforward: open a no-credit-check card, pay on time every month, keep your balance well below the credit limit, and let the bureaus record your track record. Within 12-24 months, most ITIN holders who follow this sequence qualify for unsecured cards with rewards and no deposit requirement.

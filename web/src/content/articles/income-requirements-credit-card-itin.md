@@ -87,7 +87,7 @@ The table below compares major ITIN-accepting options by income flexibility, dep
 
 Among the top 10 credit card issuers, seven accept an ITIN, including Bank of America and Capital One. That gives ITIN holders real choices rather than a single path.
 
-For a deeper look at which specific issuers accept ITINs and what each card requires beyond income, see our full guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a deeper look at which specific issuers accept ITINs and what each card requires beyond income, see our full guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
 
 ## Can I qualify if I just started working in the U.S. and only have one or two pay stubs?
 
@@ -100,7 +100,7 @@ If you are brand new with almost no U.S. banking history, two moves are worth co
 1. Start with a no-credit-check secured card. The OpenSky Secured Card openly approves applicants without an SSN, an ITIN works, and there is no credit check during application, making it accessible if your U.S. credit history is thin or nonexistent. Income documentation is minimal because the deposit is the underwriting mechanism.
 2. Use a fintech designed for immigrants. Zolve is the only card on several 2026 comparison lists that allows you to apply and receive a virtual credit card before you arrive in the United States, meaning day one of your U.S. life can also be day one of your credit history.
 
-Once you have three to six months of on-time payments and banking history, you will be in a much stronger position to apply for cards with better rewards and higher limits. You can read more about the full path in our guide to [building credit fast with an ITIN credit card](/build-credit-with-itin-credit-card).
+Once you have three to six months of on-time payments and banking history, you will be in a much stronger position to apply for cards with better rewards and higher limits. You can read more about the full path in our guide to [building credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card).
 
 ## What happens if I overstate my income on the application?
 
@@ -117,6 +117,6 @@ If you are 21 or older, you can usually list household income on your applicatio
 Beyond household income, two paths remain open:
 
 - Secured cards with no income requirement. Some cards, particularly OpenSky and certain credit union products, rely entirely on your deposit and do not ask for income documentation at all. The deposit is your collateral, so the issuer's risk is essentially covered.
-- Becoming an authorized user. If you have a trusted family member with a U.S. credit card, being added as an authorized user starts building your credit file while you are still establishing U.S. income. See our guide on [how to become an authorized user with an ITIN](/authorized-user-credit-card-itin) for the step-by-step process.
+- Becoming an authorized user. If you have a trusted family member with a U.S. credit card, being added as an authorized user starts building your credit file while you are still establishing U.S. income. See our guide on [how to become an authorized user with an ITIN](/articles/authorized-user-credit-card-itin) for the step-by-step process.
 
 Once you have at least part-time income or verifiable bank deposits, revisit a secured card application. Even $400-$500 a month is enough for some issuers when paired with a $200 deposit and zero existing debt.

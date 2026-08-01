@@ -109,7 +109,7 @@ Calling back on a different day can genuinely produce a different result. Some r
 
 Written reconsideration is also an option. A short, factual letter to the issuer's credit department, citing your ITIN, your income, and why you believe the denial was a processing error, creates a paper trail that some issuers respond to positively. If the denial came from incomplete or incorrect information on the application, you can ask for reconsideration after correcting that error.
 
-One caution worth mentioning: if you genuinely do not yet have a U.S. credit history, reconsideration alone may not be enough with some issuers. In that case, the better path is to apply for a secured card that openly accepts ITINs (such as the OpenSky Secured card or a credit union secured product), build 6-12 months of reported payment history, and then reapply for the card you originally wanted. You can read more about this approach in our guide to [secured credit cards for ITIN holders](/secured-credit-card-with-itin).
+One caution worth mentioning: if you genuinely do not yet have a U.S. credit history, reconsideration alone may not be enough with some issuers. In that case, the better path is to apply for a secured card that openly accepts ITINs (such as the OpenSky Secured card or a credit union secured product), build 6-12 months of reported payment history, and then reapply for the card you originally wanted. You can read more about this approach in our guide to [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
 
 ## "Does calling the reconsideration line affect my immigration status or flag my ITIN?"
 
@@ -117,7 +117,7 @@ Applying for credit is unrelated to immigration. Issuers report applications and
 
 A reconsideration call is a customer service interaction. The representative is reviewing your application, not reporting you to any government agency. You are exercising a standard consumer right, covered by the same CARD Act rules that govern the original application.
 
-If you are concerned about how recent policy changes may affect ITIN-based applications more broadly, our article on [the 2026 executive order and ITIN credit card applications](/2026-executive-order-itin-credit-card-applications) covers what those rule changes mean in practice.
+If you are concerned about how recent policy changes may affect ITIN-based applications more broadly, our article on [the 2026 executive order and ITIN credit card applications](/articles/2026-executive-order-itin-credit-card-applications) covers what those rule changes mean in practice.
 
 ## "How soon after my denial should I call?"
 
@@ -127,7 +127,7 @@ In practice, calling within 48-72 hours of the denial gives you the best shot. T
 
 If you were rejected because of too many hard inquiries, waiting at least four to six months before applying again is the smarter move rather than calling the reconsideration line, since that particular denial reason is hard to argue away on a call. Focus reconsideration calls on identity-verification or "thin file" denial reasons, where the ITIN explanation actually holds weight.
 
-If reconsideration doesn't work and you need to look at a fresh application, our [issuer-by-issuer comparison of ITIN credit cards](/itin-credit-card-issuer-comparison-2026) and our guide on [how to improve approval odds with an ITIN](/improve-credit-card-approval-odds-itin) are good next steps.
+If reconsideration doesn't work and you need to look at a fresh application, our [issuer-by-issuer comparison of ITIN credit cards](/articles/itin-credit-card-issuer-comparison-2026) and our guide on [how to improve approval odds with an ITIN](/articles/improve-credit-card-approval-odds-itin) are good next steps.
 
 ---
 

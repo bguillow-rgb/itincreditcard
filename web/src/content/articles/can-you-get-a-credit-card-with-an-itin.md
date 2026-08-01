@@ -31,7 +31,7 @@ faqs:
 relatedSlugs:
   - "secured-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
-  - "how-to-build-credit-with-itin"
+  - "build-credit-with-itin-credit-card"
 published: true
 ---
 

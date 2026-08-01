@@ -57,7 +57,7 @@ Good news: at least two major issuers publicly confirm they accept an ITIN on ap
 | Citi Double Cash | Yes (existing banking relationship helps) | 0% | 18 months | 3% intro (first 4 months), then 5% (min $5) | $0 |
 | Capital One (selected cards) | Yes | Varies by card | Varies | Varies | Varies |
 
-A few important caveats. ITIN acceptance does not guarantee approval. These issuers also look at your U.S. credit history, income, and existing debt load. Balance transfer cards in particular tend to require good to excellent credit, generally a FICO score of 670 or higher. If you are still in the early stages of building credit with an ITIN, check out our guide on [how to build credit fast with an ITIN credit card](https://itincreditcard.com/build-credit-with-itin-credit-card) before pursuing a balance transfer card.
+A few important caveats. ITIN acceptance does not guarantee approval. These issuers also look at your U.S. credit history, income, and existing debt load. Balance transfer cards in particular tend to require good to excellent credit, generally a FICO score of 670 or higher. If you are still in the early stages of building credit with an ITIN, check out our guide on [how to build credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card) before pursuing a balance transfer card.
 
 ## How do I actually complete a balance transfer using my ITIN card?
 
@@ -92,7 +92,7 @@ Timing matters too. Both Wells Fargo cards offer the lower fee rate only for tra
 
 Balance transfer cards sit near the top of the credit card market in terms of eligibility requirements. Most issuers target applicants with good to excellent credit. According to FICO, good credit means a score of 670 or higher.
 
-For ITIN holders, that typically means at least 12-24 months of documented U.S. credit history with consistent on-time payments and low utilization before a balance transfer card is realistically in reach. If you started with a secured card, our guide on [upgrading from a secured to unsecured credit card with an ITIN](https://itincreditcard.com/upgrade-secured-to-unsecured-credit-card-itin) explains the milestones to hit before applying for more competitive products.
+For ITIN holders, that typically means at least 12-24 months of documented U.S. credit history with consistent on-time payments and low utilization before a balance transfer card is realistically in reach. If you started with a secured card, our guide on [upgrading from a secured to unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin) explains the milestones to hit before applying for more competitive products.
 
 A few additional factors issuers consider alongside your score:
 

@@ -114,7 +114,7 @@ El nuevo entorno de cumplimiento premia la preparación. Si el sistema de un ban
 
 Las instituciones que aceptan documentos ITIN deben evaluar si sus procedimientos de identificación de clientes existentes abordan los indicadores de riesgo identificados por la orden; las posibles mejoras pueden incluir verificación suplementaria sin documentos y revisión adicional de la autorización de empleo cuando haya indicadores de riesgo. Entregar más documentación al banco desde el inicio acorta ese proceso de revisión para ti.
 
-Para un recorrido detallado de qué documentos solicita cada emisor principal en la pantalla de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/how-to-apply-for-credit-card-with-itin).
+Para un recorrido detallado de qué documentos solicita cada emisor principal en la pantalla de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/es/articles/how-to-apply-for-credit-card-with-itin).
 
 ---
 
@@ -126,7 +126,7 @@ No entres en pánico y no cierres tu cuenta de forma preventiva. Los bancos aún
 
 Dicho esto, tomar algunas medidas preventivas tiene sentido ahora. Mantén tu cuenta al día con pagos puntuales y un uso bajo del crédito. Guarda copias de todos los estados de cuenta, las declaraciones de impuestos presentadas con tu ITIN y la documentación de tu estatus legal si la tienes. Si tienes una cuenta en un banco nacional grande y recibes comunicaciones inesperadas sobre revisión de cuenta, responde de inmediato y con documentación completa en lugar de ignorar el aviso.
 
-Si te preocupa el riesgo específico de algún emisor, las cooperativas de crédito y las instituciones financieras de desarrollo comunitario (CDFIs) que históricamente han atendido a comunidades inmigrantes suelen tener relaciones más profundas con prestatarios ITIN y pueden manejar cualquier ajuste de cumplimiento de forma más colaborativa. Nuestra guía sobre [tarjetas de crédito de cooperativas de crédito para titulares de ITIN](/credit-union-credit-card-itin) cubre las mejores cooperativas que actualmente aceptan solicitudes con ITIN.
+Si te preocupa el riesgo específico de algún emisor, las cooperativas de crédito y las instituciones financieras de desarrollo comunitario (CDFIs) que históricamente han atendido a comunidades inmigrantes suelen tener relaciones más profundas con prestatarios ITIN y pueden manejar cualquier ajuste de cumplimiento de forma más colaborativa. Nuestra guía sobre [tarjetas de crédito de cooperativas de crédito para titulares de ITIN](/es/articles/credit-union-credit-card-itin) cubre las mejores cooperativas que actualmente aceptan solicitudes con ITIN.
 
 ---
 
@@ -134,7 +134,7 @@ Si te preocupa el riesgo específico de algún emisor, las cooperativas de créd
 
 No. La orden ejecutiva no toca los mecanismos de reporte. Tu tarjeta de crédito vinculada al ITIN seguirá reportando a Equifax, Experian y TransUnion exactamente igual que antes, siempre que tu emisor continúe aceptando cuentas con ITIN. La orden es una directiva de cumplimiento y diligencia debida dirigida a los procesos de suscripción bancaria y antilavado de dinero, no a las reglas de reporte a los burós.
 
-Si tu tarjeta llega a ser cerrada por un emisor (una decisión voluntaria del emisor, no un mandato de la orden), ese cierre aparecería en tu expediente de crédito y el historial positivo de la cuenta permanecería por hasta 10 años. Para entender exactamente cómo funciona el reporte a los burós a nivel del emisor para cuentas ITIN, consulta nuestro artículo sobre [si tu tarjeta de crédito con ITIN reporta a los tres burós de crédito](/itin-credit-card-credit-bureau-reporting).
+Si tu tarjeta llega a ser cerrada por un emisor (una decisión voluntaria del emisor, no un mandato de la orden), ese cierre aparecería en tu expediente de crédito y el historial positivo de la cuenta permanecería por hasta 10 años. Para entender exactamente cómo funciona el reporte a los burós a nivel del emisor para cuentas ITIN, consulta nuestro artículo sobre [si tu tarjeta de crédito con ITIN reporta a los tres burós de crédito](/es/articles/itin-credit-card-credit-bureau-reporting).
 
 ---
 
@@ -144,4 +144,4 @@ Si has estado considerando solicitar una nueva tarjeta de crédito con tu ITIN y
 
 Después del 18 de julio, las solicitudes seguirán siendo legales y muchas seguirán siendo aprobadas. Pero los flujos de trabajo de cumplimiento de los bancos pueden tomar más tiempo mientras los equipos integran las nuevas tipologías del Tesoro en sus procesos de revisión. Aplicar con documentación sólida y con un emisor que históricamente ha sido amigable con el ITIN te da las mejores probabilidades de aprobación sin importar el momento.
 
-Para una comparación actual lado a lado de qué emisores aceptan solicitudes con ITIN y cuáles son los términos de cada tarjeta, visita nuestra [comparación de emisores de tarjetas de crédito con ITIN 2026](/itin-credit-card-issuer-comparison-2026).
+Para una comparación actual lado a lado de qué emisores aceptan solicitudes con ITIN y cuáles son los términos de cada tarjeta, visita nuestra [comparación de emisores de tarjetas de crédito con ITIN 2026](/es/articles/itin-credit-card-issuer-comparison-2026).

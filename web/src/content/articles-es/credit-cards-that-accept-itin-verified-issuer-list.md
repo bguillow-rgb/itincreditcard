@@ -223,7 +223,7 @@ Aquí está la cronología específica y honesta que la mayoría de los solicita
 
 **Meses 18-24:** Con dos o más cuentas establecidas y un puntaje superior a 720, el nivel de recompensas premium se abre: Amex Gold, Chase Sapphire Preferred, Capital One Savor. Una vez que un inmigrante entra al sistema de crédito, tiene puntajes crediticios en promedio 26.7 puntos más altos al llegar a los 30 años en comparación con no inmigrantes de la misma edad que viven en la misma área, según datos citados en un análisis de Forbes Advisor de 2026, lo que sugiere que construir crédito con disciplina genera dividendos que se acumulan con el tiempo.
 
-Consulta nuestra guía sobre [cómo construir crédito rápidamente con una tarjeta de crédito ITIN](/build-credit-with-itin-credit-card) para un análisis más detallado de las tácticas mes a mes, y nuestra página sobre [cómo obtener un aumento de límite de crédito con ITIN](/credit-limit-increase-itin-credit-card) para los pasos específicos que aceleran el proceso.
+Consulta nuestra guía sobre [cómo construir crédito rápidamente con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card) para un análisis más detallado de las tácticas mes a mes, y nuestra página sobre [cómo obtener un aumento de límite de crédito con ITIN](/es/articles/credit-limit-increase-itin-credit-card) para los pasos específicos que aceleran el proceso.
 
 ---
 
@@ -231,7 +231,7 @@ Consulta nuestra guía sobre [cómo construir crédito rápidamente con una tarj
 
 Muchas cooperativas de crédito locales e instituciones financieras de desarrollo comunitario (CDFI) aceptan ITIN para tarjetas de crédito y préstamos. Estas organizaciones suelen tener requisitos más flexibles que los bancos grandes. Las cooperativas de crédito que sirven específicamente a comunidades inmigrantes, a veces llamadas cooperativas "amigables con inmigrantes" o CDFI, frecuentemente ofrecen tarjetas de crédito aseguradas y no aseguradas con APR más bajos, requisitos de depósito menores y procesos de evaluación más humanos que los sistemas automatizados de los bancos.
 
-La principal desventaja es el acceso: no todas las cooperativas de crédito están disponibles en todas las ciudades y muchas requieren membresía basada en empleador, ubicación geográfica o afiliación comunitaria. Si tienes una cooperativa de crédito disponible que sirve explícitamente a titulares de ITIN, suele ser el camino de menor costo hacia una tarjeta asegurada. Nuestra guía completa sobre [tarjetas de crédito de cooperativas de crédito para titulares de ITIN](/credit-union-credit-card-itin) muestra los principales programas de cooperativas de crédito amigables con ITIN por región.
+La principal desventaja es el acceso: no todas las cooperativas de crédito están disponibles en todas las ciudades y muchas requieren membresía basada en empleador, ubicación geográfica o afiliación comunitaria. Si tienes una cooperativa de crédito disponible que sirve explícitamente a titulares de ITIN, suele ser el camino de menor costo hacia una tarjeta asegurada. Nuestra guía completa sobre [tarjetas de crédito de cooperativas de crédito para titulares de ITIN](/es/articles/credit-union-credit-card-itin) muestra los principales programas de cooperativas de crédito amigables con ITIN por región.
 
 ---
 

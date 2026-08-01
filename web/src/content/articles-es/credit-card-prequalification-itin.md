@@ -87,7 +87,7 @@ Si decides solicitar formalmente la tarjeta, la consulta dura generalmente segui
 
 Una vez que eliges una tarjeta y envías la solicitud completa, el emisor realiza una consulta dura y revisa tu reporte de crédito completo, documentación de ingresos y, a veces, documentos adicionales de identidad. Si solicitas en línea, podrías obtener una respuesta casi inmediata a tu solicitud, y si te aprueban, algunos emisores pueden darte un número de tarjeta virtual para empezar a usar de inmediato.
 
-Para los titulares de ITIN sin historial de crédito en EE. UU., los resultados de precalificación pueden no arrojar opciones en emisores que requieren algún historial crediticio existente. En ese caso, consulta nuestra guía sobre [tarjetas de crédito aseguradas con ITIN](/secured-credit-card-with-itin) o [tu primera tarjeta de crédito con ITIN y sin historial de crédito en EE. UU.](/first-credit-card-itin-no-us-credit-history), que cubre tarjetas que omiten la verificación de crédito por completo.
+Para los titulares de ITIN sin historial de crédito en EE. UU., los resultados de precalificación pueden no arrojar opciones en emisores que requieren algún historial crediticio existente. En ese caso, consulta nuestra guía sobre [tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) o [tu primera tarjeta de crédito con ITIN y sin historial de crédito en EE. UU.](/es/articles/first-credit-card-itin-no-us-credit-history), que cubre tarjetas que omiten la verificación de crédito por completo.
 
 ## ¿Precalificarme reduce mis probabilidades reales de aprobación o me ayuda?
 
@@ -111,7 +111,7 @@ Existen varias opciones que efectivamente preaprobaron a todos los titulares de 
 - Firstcard: Firstcard acepta SSNs, ITINs y pasaportes, lo que la hace ideal para inmigrantes, estudiantes internacionales y no ciudadanos de EE. UU. No se requiere consulta dura.
 - Capital One Platinum Secured: frecuentemente devuelve un resultado de precalificación incluso para solicitantes con historial limitado, porque el depósito de seguridad requerido reduce el riesgo del emisor.
 
-Una vez que tengas entre 6 y 12 meses de historial de pagos puntuales con una tarjeta inicial, vuelve a usar las herramientas de precalificación de Capital One y Chase. Tus resultados generalmente mejorarán de forma notable. Nuestra guía sobre [cómo construir crédito rápidamente con una tarjeta de crédito ITIN](/build-credit-with-itin-credit-card) explica exactamente qué hacer durante ese período.
+Una vez que tengas entre 6 y 12 meses de historial de pagos puntuales con una tarjeta inicial, vuelve a usar las herramientas de precalificación de Capital One y Chase. Tus resultados generalmente mejorarán de forma notable. Nuestra guía sobre [cómo construir crédito rápidamente con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card) explica exactamente qué hacer durante ese período.
 
 ## ¿Con cuántos emisores debo precalificarme al mismo tiempo?
 
@@ -130,4 +130,4 @@ Evita solicitar varias tarjetas el mismo día después de precalificarte. Separa
 
 En mayo de 2026, una nueva orden ejecutiva instruyó a los reguladores financieros federales a revisar cómo las instituciones manejan las cuentas basadas en ITIN. La orden instruye al Departamento del Tesoro y a los reguladores financieros federales a emitir orientación que trate el estatus migratorio como un factor en la evaluación del riesgo financiero, y señala el uso de Números de Identificación Personal del Contribuyente como una posible señal de alerta que requiere mayor escrutinio. La orientación de implementación aún estaba pendiente a junio de 2026, y ningún emisor importante había modificado su política publicada de aceptación de ITIN hasta la fecha de esta publicación. Monitorea las comunicaciones de los emisores y confirma la aceptación del ITIN directamente antes de solicitar, especialmente si vas a hacerlo más adelante en 2026, cuando la orientación podría estar finalizada.
 
-Para una lista completa de los bancos que actualmente aceptan ITIN para solicitudes de tarjetas de crédito, consulta nuestra guía dedicada sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para una lista completa de los bancos que actualmente aceptan ITIN para solicitudes de tarjetas de crédito, consulta nuestra guía dedicada sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).

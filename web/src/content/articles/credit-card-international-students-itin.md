@@ -90,7 +90,7 @@ Not at all. Rejection from one issuer tells you very little about your chances w
 
 OpenSky Secured Visa charges a $35 annual fee and requires a $200 minimum deposit, but it does not run any credit check, making approval essentially guaranteed regardless of credit history. It accepts an ITIN and reports to all three credit bureaus. The $35 annual fee is a modest cost for guaranteed card access, and many students close the account or move to a no-fee card within 12-18 months.
 
-For ITIN holders who want to avoid an annual fee entirely, the Capital One Quicksilver Secured has a $0 annual fee and automatically reviews your account for a credit limit increase after six months of responsible use. That review happens without you having to ask, and a higher limit directly improves your credit utilization ratio. See our guide to [secured credit cards with an ITIN](/secured-credit-card-with-itin) for a deeper comparison of deposit-based options.
+For ITIN holders who want to avoid an annual fee entirely, the Capital One Quicksilver Secured has a $0 annual fee and automatically reviews your account for a credit limit increase after six months of responsible use. That review happens without you having to ask, and a higher limit directly improves your credit utilization ratio. See our guide to [secured credit cards with an ITIN](/articles/secured-credit-card-with-itin) for a deeper comparison of deposit-based options.
 
 ## How quickly can I build a real credit score as an international student?
 
@@ -105,7 +105,7 @@ Here is a realistic timeline for an international student who opens an ITIN-base
 
 One common mistake that erases months of progress is carrying a balance close to your credit limit. Try to keep your spending below 30% of your limit each billing cycle. If your limit is $500, that means keeping charges under $150 before your statement closes. This single habit has more impact on your score in the first year than almost anything else.
 
-For tips on moving from a starter card to cards with real rewards, see our guide on [rewards credit cards for ITIN holders](/rewards-credit-card-itin-holders).
+For tips on moving from a starter card to cards with real rewards, see our guide on [rewards credit cards for ITIN holders](/articles/rewards-credit-card-itin-holders).
 
 ## What if I get an SSN later? Will I lose the credit history I built with my ITIN?
 

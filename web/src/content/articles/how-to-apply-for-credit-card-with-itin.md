@@ -130,7 +130,7 @@ If you're denied, the issuer is required by law to send you an adverse action no
 - **Wait at least six months before reapplying.** Each application triggers a hard inquiry that temporarily dips your score. Spacing applications out by at least six months gives your file time to recover and strengthens your payment history.
 - **Consider becoming an authorized user first.** If a trusted family member or friend with good U.S. credit adds you to their account, their positive history can begin appearing on your credit report, creating a thin-file profile that's easier for issuers to evaluate when you apply on your own.
 
-For a deeper look at which specific cards to target, see our guide to [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards) and our full breakdown of [secured credit cards for ITIN holders](/secured-credit-card-with-itin).
+For a deeper look at which specific cards to target, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) and our full breakdown of [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
 
 ---
 
@@ -150,4 +150,4 @@ Payment history accounts for **35% of your FICO score**, the single largest fact
 
 Also consider diversifying your credit-building strategy early. A credit-builder loan, available from many credit unions and online lenders that accept ITINs, adds an installment account to your file alongside your credit card, which credit scoring models reward. According to data from Firstcard, building a fair credit score (580-669) typically takes 4-6 months of on-time payments from a zero baseline, while reaching a good score (670-739) usually takes 12-18 months of consistent behavior.
 
-Once you've built that foundation, you may find yourself in a position to [transfer your ITIN credit history to a new SSN](/transfer-itin-credit-history-to-ssn) if you become eligible for one, preserving every month of history you've worked to build.
+Once you've built that foundation, you may find yourself in a position to [transfer your ITIN credit history to a new SSN](/articles/itin-to-ssn-credit-card-history-transfer) if you become eligible for one, preserving every month of history you've worked to build.

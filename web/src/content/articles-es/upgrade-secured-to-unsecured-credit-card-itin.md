@@ -108,7 +108,7 @@ Aquí es donde los titulares de ITIN a veces cometen un error costoso. Si tu emi
 
 Cerrar la tarjeta sí reduce tu crédito total disponible, lo que puede aumentar tu ratio de uso general y bajar temporalmente tu puntaje. El efecto suele ser moderado si tienes al menos otra cuenta abierta, pero vale la pena calcular bien el momento. Un enfoque razonable: solicita primero la tarjeta no asegurada que tienes en mente, espera a que esa cuenta se abra y aparezca en tu reporte, y luego cierra la tarjeta asegurada uno o dos ciclos de facturación después para que tu uso del crédito no suba justo cuando el nuevo emisor está revisando tu expediente.
 
-Si estás comenzando este proceso, nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](/unsecured-credit-card-itin-holders) explica qué emisores tienen más probabilidades de aprobar a quienes ya tuvieron una tarjeta asegurada y están construyendo su historial crediticio con ITIN.
+Si estás comenzando este proceso, nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders) explica qué emisores tienen más probabilidades de aprobar a quienes ya tuvieron una tarjeta asegurada y están construyendo su historial crediticio con ITIN.
 
 ## ¿Qué puntaje de crédito necesito en la práctica antes de solicitar una tarjeta no asegurada nueva?
 
@@ -120,7 +120,7 @@ Para los titulares de ITIN que solicitan un producto no asegurado nuevo en un em
 - **630-679 (Crédito regular bajo a medio):** La Petal 2 Visa, que usa un puntaje propio que considera el historial bancario y de ingresos junto con el puntaje de crédito. Este es un objetivo realista para titulares de ITIN en el punto de los 12-18 meses con un historial de pagos limpio.
 - **680+ (Buen crédito):** Se abren más opciones, incluidas tarjetas con recompensas significativas. Según un análisis, después de 12 meses de pagos puntuales y un uso bajo del crédito, los titulares de tarjetas con ITIN que empezaron desde cero pueden esperar de manera realista mejoras en el puntaje de entre 40 y 80 puntos, lo que puede llevar un puntaje de los 600 bajos a un nivel que califique para mejores productos.
 
-Si tu puntaje aún no está donde necesita estar, usa las [herramientas de precalificación para tarjetas de crédito](/credit-card-prequalification-itin) disponibles en Capital One, Petal y Discover. Estas usan una consulta suave (sin impacto en el puntaje) para mostrarte tus probabilidades de aprobación antes de que envíes una solicitud real.
+Si tu puntaje aún no está donde necesita estar, usa las [herramientas de precalificación para tarjetas de crédito](/es/articles/credit-card-prequalification-itin) disponibles en Capital One, Petal y Discover. Estas usan una consulta suave (sin impacto en el puntaje) para mostrarte tus probabilidades de aprobación antes de que envíes una solicitud real.
 
 ## ¿Puedo tener la tarjeta asegurada y la no asegurada abiertas al mismo tiempo?
 
@@ -128,7 +128,7 @@ Sí, y en algunos casos esta es la mejor opción. Si tu emisor no ofrece un camb
 
 La desventaja es que abrir la nueva cuenta genera una consulta dura y baja temporalmente tu puntaje en aproximadamente 5-15 puntos. Deja al menos 6 meses entre solicitudes para minimizar el impacto. Si has sido un titular responsable en tu tarjeta asegurada, la aprobación de la nueva cuenta y el límite adicional casi siempre superan la baja temporal por la consulta en unos pocos meses.
 
-También puedes combinar esta estrategia con una [solicitud de aumento de límite de crédito en tu tarjeta asegurada actual](/credit-limit-increase-itin-credit-card) antes de solicitarla en otro lugar. Un límite más alto en la tarjeta asegurada reduce tu uso del crédito, lo que mejora tu puntaje antes de que llegue la consulta dura por la nueva tarjeta.
+También puedes combinar esta estrategia con una [solicitud de aumento de límite de crédito en tu tarjeta asegurada actual](/es/articles/credit-limit-increase-itin-credit-card) antes de solicitarla en otro lugar. Un límite más alto en la tarjeta asegurada reduce tu uso del crédito, lo que mejora tu puntaje antes de que llegue la consulta dura por la nueva tarjeta.
 
 ## Lista de verificación rápida para titulares de ITIN que quieren hacer el cambio
 
@@ -141,4 +141,4 @@ Antes de solicitar un cambio o aplicar a una nueva tarjeta no asegurada, repasa 
 - Información de ingresos actualizada lista por si el emisor la solicita durante la revisión
 - Una tarjeta objetivo ya identificada para solicitar exactamente un producto, no varios a la vez
 
-Si aún no has llegado al mes 12, aprovecha ese tiempo para mantener el uso del crédito bajo y considera pedir un aumento de límite en tu tarjeta asegurada, lo cual puede mejorar el indicador de uso sin abrir una cuenta nueva. Nuestra guía para [construir crédito rápidamente con una tarjeta de crédito ITIN](/build-credit-with-itin-credit-card) explica las estrategias que mueven el puntaje más rápido durante este período de espera.
+Si aún no has llegado al mes 12, aprovecha ese tiempo para mantener el uso del crédito bajo y considera pedir un aumento de límite en tu tarjeta asegurada, lo cual puede mejorar el indicador de uso sin abrir una cuenta nueva. Nuestra guía para [construir crédito rápidamente con una tarjeta de crédito ITIN](/es/articles/build-credit-with-itin-credit-card) explica las estrategias que mueven el puntaje más rápido durante este período de espera.

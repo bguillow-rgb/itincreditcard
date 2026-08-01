@@ -42,7 +42,7 @@ Según la revisión 2026 de CNBC Select sobre tarjetas disponibles sin SSN, emis
 
 Lo importante es que tus probabilidades de aprobación y la tasa de cash back que puedes alcanzar dependen de en qué punto de tu trayectoria crediticia en EE. UU. te encuentras. Alguien sin historial crediticio en EE. UU. comenzará con una tarjeta asegurada que gana un 1.5% fijo. Alguien con 12 a 18 meses de historial de pagos limpio puede calificar para una tarjeta no asegurada con cash back por categorías o escalonado. Ambas son opciones válidas. Lo clave es elegir la tarjeta que corresponda a tu perfil actual, en lugar de apuntar demasiado alto y arriesgarte a un rechazo que dañe temporalmente tu crédito.
 
-Para un panorama más amplio de qué emisores abren sus puertas a los solicitantes con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards).
+Para un panorama más amplio de qué emisores abren sus puertas a los solicitantes con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
 
 ## ¿Qué tarjetas con cash back aceptan realmente un ITIN en 2026?
 
@@ -66,7 +66,7 @@ La Capital One Quicksilver Secured Cash Rewards Credit Card es el punto de parti
 
 Capital One revisa automáticamente tu cuenta para un aumento de límite de crédito dentro de los seis meses de haberla abierto, lo que puede reducir tu tasa de utilización y subir tu puntuación. Una vez que tu puntuación alcanza el umbral necesario, es posible que te actualicen a la Capital One Quicksilver sin depósito sin necesidad de una nueva solicitud.
 
-Si prefieres evitar el depósito desde el principio, la Zolve Classic Credit Card acepta un ITIN o incluso solo un pasaporte, carta de oferta de trabajo o recibo de pago como identificación. No requiere depósito de seguridad ni historial crediticio, y la tarjeta gana 1% de cash back en compras elegibles. Es especialmente popular entre titulares de visas H-1B y L-1 que acaban de llegar y quieren poder adquisitivo desde el primer día. Consulta nuestra página de [tarjetas de crédito sin depósito para titulares de ITIN](/unsecured-credit-card-itin-holders) para un análisis más detallado de las opciones sin depósito.
+Si prefieres evitar el depósito desde el principio, la Zolve Classic Credit Card acepta un ITIN o incluso solo un pasaporte, carta de oferta de trabajo o recibo de pago como identificación. No requiere depósito de seguridad ni historial crediticio, y la tarjeta gana 1% de cash back en compras elegibles. Es especialmente popular entre titulares de visas H-1B y L-1 que acaban de llegar y quieren poder adquisitivo desde el primer día. Consulta nuestra página de [tarjetas de crédito sin depósito para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders) para un análisis más detallado de las opciones sin depósito.
 
 ## ¿Cómo funciona la estructura de cash back de la tarjeta Petal 2 para titulares de ITIN?
 
@@ -94,7 +94,7 @@ El ITIN te permite pasar la verificación de identidad, pero no es lo único que
 - **Identificación válida:** Un pasaporte es aceptado en casi todos los casos. Algunos emisores también aceptan una identificación nacional extranjera o una licencia de conducir emitida por el estado donde esté disponible.
 - **Información de cuenta bancaria:** Petal y algunos otros emisores revisan el historial de transacciones de tu cuenta bancaria como indicador de solvencia cuando tu historial crediticio en EE. UU. es escaso.
 
-Antes de enviar una solicitud completa, verifica si el emisor ofrece una herramienta de precalificación o preaprobación. Como señala Capital One, la preaprobación implica solo una consulta suave que no afecta tu puntuación crediticia, por lo que es una forma de bajo riesgo de evaluar tus probabilidades. Nuestra guía de [precalificación de tarjetas de crédito con ITIN](/credit-card-prequalification-itin) explica ese proceso paso a paso.
+Antes de enviar una solicitud completa, verifica si el emisor ofrece una herramienta de precalificación o preaprobación. Como señala Capital One, la preaprobación implica solo una consulta suave que no afecta tu puntuación crediticia, por lo que es una forma de bajo riesgo de evaluar tus probabilidades. Nuestra guía de [precalificación de tarjetas de crédito con ITIN](/es/articles/credit-card-prequalification-itin) explica ese proceso paso a paso.
 
 ## ¿Qué tan rápido puedo pasar de una tarjeta asegurada con 1% de cash back a una mejor?
 
@@ -104,10 +104,10 @@ Normalmente tendrás un historial crediticio calificable después de seis meses 
 
 En términos prácticos, una progresión común se ve así: comienzas con la Capital One Quicksilver Secured al 1.5% de cash back, recibes una revisión automática para un aumento de límite al sexto mes, y luego te actualizan a la Quicksilver sin depósito o solicitas una tarjeta sin depósito como la Petal 2 o la Chase Freedom Rise alrededor del mes 12. Después de otro año de historial sólido, puedes calificar para una tarjeta como la Chase Freedom Unlimited con bonificaciones por categoría de hasta 5%.
 
-Lo más importante que puedes hacer en cada etapa es pagar a tiempo y mantener tu saldo bajo. Según la investigación publicada por Firstcard, tu historial de pagos y tu nivel de utilización influyen en tu puntuación crediticia de forma idéntica tanto si usaste un ITIN como un SSN para abrir la cuenta, por lo que los mismos hábitos que funcionan para cualquier titular de tarjeta funcionan para ti. Una vez que construyas una puntuación sólida, consulta nuestra guía sobre [cómo solicitar un aumento de límite de crédito con ITIN](/credit-limit-increase-itin-credit-card) para aprender cómo pedir un límite más alto a medida que tu perfil se fortalece.
+Lo más importante que puedes hacer en cada etapa es pagar a tiempo y mantener tu saldo bajo. Según la investigación publicada por Firstcard, tu historial de pagos y tu nivel de utilización influyen en tu puntuación crediticia de forma idéntica tanto si usaste un ITIN como un SSN para abrir la cuenta, por lo que los mismos hábitos que funcionan para cualquier titular de tarjeta funcionan para ti. Una vez que construyas una puntuación sólida, consulta nuestra guía sobre [cómo solicitar un aumento de límite de crédito con ITIN](/es/articles/credit-limit-increase-itin-credit-card) para aprender cómo pedir un límite más alto a medida que tu perfil se fortalece.
 
 ## ¿Debo solicitar más de una tarjeta con cash back al mismo tiempo?
 
 No. Solicitar varias tarjetas al mismo tiempo genera múltiples consultas formales y puede enviar una señal de estrés financiero a los emisores, lo que reduce tus probabilidades de aprobación. Cuando estás en las primeras etapas de construir historial crediticio en EE. UU. con un ITIN, una tarjeta bien elegida usada de forma consistente durante 12 meses hace mucho más por tu perfil crediticio que dos o tres tarjetas abiertas al mismo tiempo. Después de tu primer año con un historial limpio, puedes considerar agregar una segunda tarjeta para diversificar tu mezcla de crédito o capturar una categoría diferente de cash back.
 
-Si tu primera solicitud es rechazada, no te alarmes. Nuestra [guía sobre qué hacer si te niegan una tarjeta de crédito con ITIN](/credit-card-denied-itin-what-to-do) cubre exactamente los pasos a seguir, incluyendo cómo solicitar una reconsideración y qué tarjetas alternativas tienen las tasas de aprobación más altas para historiales crediticios nuevos o escasos.
+Si tu primera solicitud es rechazada, no te alarmes. Nuestra [guía sobre qué hacer si te niegan una tarjeta de crédito con ITIN](/es/articles/credit-card-denied-itin-what-to-do) cubre exactamente los pasos a seguir, incluyendo cómo solicitar una reconsideración y qué tarjetas alternativas tienen las tasas de aprobación más altas para historiales crediticios nuevos o escasos.

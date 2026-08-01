@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-If you've already read our guide on [which banks accept ITIN for credit cards](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) and walked away feeling like the big banks set a high bar, you're not imagining it. Credit unions are a different category entirely, and for ITIN holders, they're often the path of least resistance to a first U.S. credit card.
+If you've already read our guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) and walked away feeling like the big banks set a high bar, you're not imagining it. Credit unions are a different category entirely, and for ITIN holders, they're often the path of least resistance to a first U.S. credit card.
 
 ## Why would a credit union be easier than a bank for ITIN holders?
 
@@ -122,4 +122,4 @@ The core risk isn't unique to credit unions, it's the same as with any ITIN-base
 
 A separate practical note: one requirement that catches applicants off-guard is phone verification. Issuers will often send a one-time passcode (OTP) during the application, a VoIP number like Google Voice or Skype will typically fail this check. Use a real U.S. mobile number.
 
-For readers who already have an established credit history with an ITIN and have since received an SSN, our guide on [how to transfer ITIN credit history to your new SSN](https://itincreditcard.com/transfer-itin-credit-history-to-ssn) walks through the exact steps to preserve the credit you've built.
+For readers who already have an established credit history with an ITIN and have since received an SSN, our guide on [how to transfer ITIN credit history to your new SSN](/articles/itin-to-ssn-credit-card-history-transfer) walks through the exact steps to preserve the credit you've built.

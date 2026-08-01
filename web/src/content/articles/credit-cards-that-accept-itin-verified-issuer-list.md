@@ -223,7 +223,7 @@ Here is the specific, honest timeline most applicants should plan around:
 
 **Months 18-24:** With two or more established accounts and a score above 720, the premium rewards tier opens: Amex Gold, Chase Sapphire Preferred, Capital One Savor. Once an immigrant enters the credit system, they have credit scores 26.7 points higher on average by age 30 compared to non-immigrants the same age living in the same area, according to data cited in a 2026 Forbes Advisor analysis, which suggests that disciplined credit building pays compounding dividends over time.
 
-See our guide on [how to build credit fast with an ITIN credit card](/build-credit-with-itin-credit-card) for a deeper look at the month-by-month tactics, and our page on [how to get a credit limit increase with an ITIN](/credit-limit-increase-itin-credit-card) for the specific steps that accelerate the process.
+See our guide on [how to build credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card) for a deeper look at the month-by-month tactics, and our page on [how to get a credit limit increase with an ITIN](/articles/credit-limit-increase-itin-credit-card) for the specific steps that accelerate the process.
 
 ---
 
@@ -231,7 +231,7 @@ See our guide on [how to build credit fast with an ITIN credit card](/build-cred
 
 Many local credit unions and community development financial institutions (CDFIs) accept ITINs for credit cards and loans. These organizations often have more flexible requirements than big banks. Credit unions that specifically serve immigrant communities, sometimes called "immigrant-friendly" or "CDFI" credit unions, frequently offer secured and unsecured credit cards with lower APRs, smaller deposit requirements, and more human underwriting processes than automated bank systems.
 
-The main tradeoff is access: not every credit union is available in every city, and many require membership based on employer, geography, or community affiliation. If you have a credit union available to you that explicitly serves ITIN holders, it is often the lowest-cost path to a secured card. Our full guide on [credit union credit cards for ITIN holders](/credit-union-credit-card-itin) maps the major ITIN-friendly credit union programs by region.
+The main tradeoff is access: not every credit union is available in every city, and many require membership based on employer, geography, or community affiliation. If you have a credit union available to you that explicitly serves ITIN holders, it is often the lowest-cost path to a secured card. Our full guide on [credit union credit cards for ITIN holders](/articles/credit-union-credit-card-itin) maps the major ITIN-friendly credit union programs by region.
 
 ---
 

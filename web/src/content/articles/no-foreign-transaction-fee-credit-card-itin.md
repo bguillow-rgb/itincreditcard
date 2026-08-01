@@ -120,7 +120,7 @@ Capital One, for example, automatically reviews secured cardholders for an upgra
 
 If you later receive an SSN, you do not lose the credit history you built under your ITIN. Credit bureaus track credit activity associated with ITINs the same way they do for SSNs. If an individual later obtains an SSN, it is possible to merge ITIN-based credit history with the new SSN credit file by contacting the major credit bureaus directly. The on-time payment history you built with your no-fee ITIN card follows you when you eventually qualify for premium travel cards that require good or excellent credit.
 
-For more on building a strong profile from scratch, see our guide on [how to build credit fast with an ITIN credit card](/build-credit-with-itin-credit-card). Once your profile is established and you are looking for specific card options, our [rewards credit card guide for ITIN holders](/rewards-credit-card-itin-holders) covers travel and cash-back cards that accept ITINs.
+For more on building a strong profile from scratch, see our guide on [how to build credit fast with an ITIN credit card](/articles/build-credit-with-itin-credit-card). Once your profile is established and you are looking for specific card options, our [rewards credit card guide for ITIN holders](/articles/rewards-credit-card-itin-holders) covers travel and cash-back cards that accept ITINs.
 
 ---
 

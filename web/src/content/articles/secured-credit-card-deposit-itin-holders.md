@@ -68,7 +68,7 @@ The application process works like this: you fill out the card application using
 
 For Capital One, [you have 35 days from approval to make the minimum deposit, which you can submit all at once or in increments of at least $20](21-7). Most issuers accept payment by debit card, ACH bank transfer, or money order. That means you need a U.S. bank account or fintech account with routing and account numbers ready before you apply. One detail worth knowing: [issuers often send a one-time passcode by text during the application, and a VoIP number like Google Voice will fail that verification check](16-3,16-4). Use a real U.S. SIM, even a prepaid one, to avoid that roadblock.
 
-Beyond the ITIN itself, most issuers ask for a valid foreign passport and proof of a U.S. mailing address. The physical card is mailed to that address once your deposit clears, which [typically happens within a few days of funding](18-23). See our full guide on [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin) for a step-by-step walkthrough of the complete application process.
+Beyond the ITIN itself, most issuers ask for a valid foreign passport and proof of a U.S. mailing address. The physical card is mailed to that address once your deposit clears, which [typically happens within a few days of funding](18-23). See our full guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin) for a step-by-step walkthrough of the complete application process.
 
 ## How does the deposit build my credit, and will the bureau reporting work the same as with an SSN?
 
@@ -78,7 +78,7 @@ ITIN holders sometimes worry that their credit file is a second-class version of
 
 What matters most is choosing a card whose issuer reports to all three bureaus: Experian, TransUnion, and Equifax. Not every secured card does this. OpenSky [reports to all three major credit bureaus every month](11-35). Capital One [also reports secured card accounts to all three](21-37). Always confirm this detail before you apply.
 
-[You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months](11-7,11-8). That score range opens the door to [unsecured credit cards](/unsecured-credit-card-itin-holders) and, eventually, cards with meaningful rewards.
+[You will typically have a scoreable credit file after six months of account activity. From there, consistent on-time payments and low utilization can get you to a score of 650-700 within 12-18 months](11-7,11-8). That score range opens the door to [unsecured credit cards](/articles/unsecured-credit-card-itin-holders) and, eventually, cards with meaningful rewards.
 
 To protect your deposit and your progress, set up autopay for at least the minimum payment each month. A single late payment can erase weeks of positive history.
 
@@ -94,13 +94,13 @@ This is the part most people find most reassuring: the deposit is not gone forev
 
 [Some issuers also refund the deposit after a periodic account review, searching for on-time payments, spending within the credit limit, and keeping the account in good standing, with reviews beginning as early as six or seven months](19-17,19-18,19-19).
 
-Once your secured card graduates, check our guide on [how to get a credit limit increase with an ITIN](/credit-limit-increase-itin-credit-card) so you know the next step for growing your credit line on the new unsecured account.
+Once your secured card graduates, check our guide on [how to get a credit limit increase with an ITIN](/articles/credit-limit-increase-itin-credit-card) so you know the next step for growing your credit line on the new unsecured account.
 
 ## Secured vs. unsecured: when does it make sense to switch?
 
 How do I know when I am ready to move on from a secured card?
 
-The right time to pursue an unsecured card is typically when you have held your secured card for at least 12 months, have made every payment on time, and your score has reached the mid-600s or higher. At that point, the pool of ITIN-friendly [unsecured cards](/unsecured-credit-card-itin-holders) opens up meaningfully, and you can start earning real rewards without tying up cash in a deposit.
+The right time to pursue an unsecured card is typically when you have held your secured card for at least 12 months, have made every payment on time, and your score has reached the mid-600s or higher. At that point, the pool of ITIN-friendly [unsecured cards](/articles/unsecured-credit-card-itin-holders) opens up meaningfully, and you can start earning real rewards without tying up cash in a deposit.
 
 | Feature | Secured Card | Unsecured Card |
 |---|---|---|
@@ -124,4 +124,4 @@ Three mistakes trip up ITIN holders more than others:
 
 **Applying to issuers who no longer accept ITINs.** Issuer policies change. [Call the issuer's customer service line directly to confirm their current ITIN policy before applying, because published policies and branch-level execution are not always the same](4-6). A rejected application leaves a hard inquiry on your report for up to two years, according to Experian. Use pre-qualification tools where available to check eligibility with a soft pull before committing to a full application.
 
-For a broader look at which issuers are currently ITIN-friendly, see our guide on [which banks accept ITIN for credit cards](/which-banks-accept-itin-for-credit-cards).
+For a broader look at which issuers are currently ITIN-friendly, see our guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).

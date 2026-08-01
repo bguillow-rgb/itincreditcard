@@ -201,7 +201,7 @@ If the answer is no, start with a secured card. The deposit lowers the lender's 
 
 If you have some U.S. credit history (say, six or more months of a reporting account), check Capital One's pre-qualification tool. Capital One offers the Platinum Secured with a $49, $99, or $200 deposit opening a $200 credit line, but it also offers the unsecured Platinum for thin-file applicants: no deposit, approximately 29.99% variable APR, no annual fee, and an automatic credit line review after six months on time.
 
-Running the pre-qualify check costs nothing in terms of your credit file and tells you exactly which product you qualify for before you formally apply. Our guide on [how to pre-qualify for a credit card with an ITIN](https://itincreditcard.com/credit-card-prequalification-itin) walks through this process step by step.
+Running the pre-qualify check costs nothing in terms of your credit file and tells you exactly which product you qualify for before you formally apply. Our guide on [how to pre-qualify for a credit card with an ITIN](/articles/credit-card-prequalification-itin) walks through this process step by step.
 
 ---
 
@@ -209,7 +209,7 @@ Running the pre-qualify check costs nothing in terms of your credit file and tel
 
 Yes. Both card types build credit through on-time payments and low balances. The credit bureaus do not distinguish between secured and unsecured when calculating your score. What matters is the reporting, not the collateral structure behind the card.
 
-Credit scores typically appear after 3-6 months of responsible card use. Once your score is established, the same rules apply regardless of card type: pay on time, keep utilization below 30% (below 10% is better for score optimization), and avoid closing your oldest account. For a closer look at how ITIN credit cards report to the bureaus and what actually shows on your file, see our guide on [whether your ITIN credit card reports to all three bureaus](https://itincreditcard.com/itin-credit-card-credit-bureau-reporting).
+Credit scores typically appear after 3-6 months of responsible card use. Once your score is established, the same rules apply regardless of card type: pay on time, keep utilization below 30% (below 10% is better for score optimization), and avoid closing your oldest account. For a closer look at how ITIN credit cards report to the bureaus and what actually shows on your file, see our guide on [whether your ITIN credit card reports to all three bureaus](/articles/itin-credit-card-credit-bureau-reporting).
 
 According to OpenSky's own cardholder data, cardholders typically see an average 47-point increase in their credit score within the first six months. That kind of early progress is achievable with either a secured or unsecured card, provided payments are on time and balances stay low.
 
@@ -229,7 +229,7 @@ For secured cards, have a U.S. bank or fintech account with routing and account 
 
 For Bank of America specifically, ITIN applicants must apply in person at a local branch, so bring originals of all documents. For Capital One, Citi, and OpenSky, the full application can be completed online.
 
-For a step-by-step walkthrough of the full application process, see our guide on [how to apply for a credit card with an ITIN](https://itincreditcard.com/how-to-apply-for-credit-card-with-itin). If your application gets declined, our guide on [what to do when your credit card is denied with an ITIN](https://itincreditcard.com/credit-card-denied-itin-what-to-do) covers the next steps.
+For a step-by-step walkthrough of the full application process, see our guide on [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin). If your application gets declined, our guide on [what to do when your credit card is denied with an ITIN](/articles/credit-card-denied-itin-what-to-do) covers the next steps.
 
 ---
 

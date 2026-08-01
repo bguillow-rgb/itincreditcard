@@ -130,7 +130,7 @@ Si te niegan, el emisor está obligado por ley a enviarte un aviso de acción ad
 - **Espera al menos seis meses antes de volver a solicitar.** Cada solicitud genera una consulta dura que baja temporalmente tu puntaje. Espaciar las solicitudes al menos seis meses le da tiempo a tu expediente de recuperarse y fortalece tu historial de pagos.
 - **Considera convertirte primero en usuario autorizado.** Si un familiar o amigo de confianza con buen crédito en EE. UU. te agrega a su cuenta, su historial positivo puede comenzar a aparecer en tu reporte de crédito, creando un perfil que les resulta más fácil evaluar a los emisores cuando apliques por tu cuenta.
 
-Para ver con más detalle qué tarjetas específicas considerar, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards) y nuestro análisis completo de [tarjetas de crédito aseguradas para titulares de ITIN](/secured-credit-card-with-itin).
+Para ver con más detalle qué tarjetas específicas considerar, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) y nuestro análisis completo de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
 
 ---
 
@@ -150,4 +150,4 @@ El historial de pagos representa el **35% de tu puntaje FICO**, el factor indivi
 
 También considera diversificar tu estrategia de construcción de crédito desde temprano. Un préstamo de construcción de crédito, disponible en muchas cooperativas de crédito y prestamistas en línea que aceptan ITIN, agrega una cuenta de cuotas a tu expediente junto con tu tarjeta de crédito, algo que los modelos de puntaje crediticio recompensan. Según datos de Firstcard, alcanzar un puntaje de crédito regular (580-669) generalmente toma entre 4 y 6 meses de pagos a tiempo desde cero, mientras que llegar a un puntaje bueno (670-739) suele tomar entre 12 y 18 meses de comportamiento consistente.
 
-Una vez que hayas construido esa base, es posible que puedas [transferir tu historial de crédito con ITIN a un nuevo SSN](/transfer-itin-credit-history-to-ssn) si llegas a ser elegible para uno, conservando cada mes de historial que tanto trabajo te costó construir.
+Una vez que hayas construido esa base, es posible que puedas [transferir tu historial de crédito con ITIN a un nuevo SSN](/es/articles/itin-to-ssn-credit-card-history-transfer) si llegas a ser elegible para uno, conservando cada mes de historial que tanto trabajo te costó construir.

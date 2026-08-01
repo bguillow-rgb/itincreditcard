@@ -44,7 +44,7 @@ Capital One is widely considered the most ITIN-friendly major issuer. Its Quicks
 
 Travel rewards cards tend to have stricter approval requirements than basic secured cards. Most entry-level travel cards target applicants in the fair-to-good range (580-669 for fair, 670 and above for good, per standard FICO definitions). Premium travel cards, the kind with airport lounge access and large sign-up bonuses, usually require a good-to-excellent score of 670 or higher. According to CNBC Select, the best rewards credit cards often require an excellent credit score even for applicants who do not need an SSN.
 
-For most ITIN holders starting from zero U.S. credit, a realistic timeline looks like this: open a secured card that accepts an ITIN (see our [secured credit card guide](/secured-credit-card-with-itin)), make on-time payments for 12-18 months while keeping your balance below 30% of your limit, then apply for an entry-level travel card. You can typically reach a scoreable credit file within six months of opening your first account, and consistent on-time payments plus low utilization can bring you to a 650-700 score within 12-18 months, according to data compiled by Firstcard.
+For most ITIN holders starting from zero U.S. credit, a realistic timeline looks like this: open a secured card that accepts an ITIN (see our [secured credit card guide](/articles/secured-credit-card-with-itin)), make on-time payments for 12-18 months while keeping your balance below 30% of your limit, then apply for an entry-level travel card. You can typically reach a scoreable credit file within six months of opening your first account, and consistent on-time payments plus low utilization can bring you to a 650-700 score within 12-18 months, according to data compiled by Firstcard.
 
 ## Which travel cards are most realistic for ITIN holders right now?
 
@@ -85,7 +85,7 @@ If you apply online and the form does not show an ITIN field, look for an altern
 
 Yes, briefly. Submitting a credit card application triggers a hard inquiry, which typically lowers your score by a few points temporarily. According to Capital One, a hard inquiry can temporarily lower your scores slightly, while pre-approval checks use only a soft inquiry and have no effect on your score.
 
-This matters strategically. If you have just opened your first ITIN credit card to start building history, wait at least six to twelve months before applying for a travel card. Multiple hard inquiries in a short window signal risk to issuers and can hurt your approval odds precisely when you are trying to graduate to a better card. Use the pre-qualification tools that Capital One, Chase, and other issuers offer to check your odds with no score impact before you formally apply. Our [credit card pre-qualification guide](/credit-card-prequalification-itin) walks through this step in detail.
+This matters strategically. If you have just opened your first ITIN credit card to start building history, wait at least six to twelve months before applying for a travel card. Multiple hard inquiries in a short window signal risk to issuers and can hurt your approval odds precisely when you are trying to graduate to a better card. Use the pre-qualification tools that Capital One, Chase, and other issuers offer to check your odds with no score impact before you formally apply. Our [credit card pre-qualification guide](/articles/credit-card-prequalification-itin) walks through this step in detail.
 
 ## What travel perks can I realistically expect on an ITIN-accessible card?
 
@@ -101,7 +101,7 @@ According to CNBC Select, regardless of the type of credit card rewards you want
 
 ## Can I use a travel card abroad without extra fees?
 
-Most travel-oriented credit cards waive foreign transaction fees entirely, which is one of the biggest practical advantages for ITIN holders who send remittances or travel internationally. A typical foreign transaction fee runs 2%-3% per purchase, so on $5,000 of international spending per year, a no-foreign-transaction-fee card saves $100-$150 annually. For a deeper look at this feature across all card types available to ITIN holders, see our [no foreign transaction fee credit card guide](/no-foreign-transaction-fee-credit-card-itin).
+Most travel-oriented credit cards waive foreign transaction fees entirely, which is one of the biggest practical advantages for ITIN holders who send remittances or travel internationally. A typical foreign transaction fee runs 2%-3% per purchase, so on $5,000 of international spending per year, a no-foreign-transaction-fee card saves $100-$150 annually. For a deeper look at this feature across all card types available to ITIN holders, see our [no foreign transaction fee credit card guide](/articles/no-foreign-transaction-fee-credit-card-itin).
 
 When you travel internationally and use your ITIN-linked credit card, it works exactly like any other credit card. Your ITIN status is irrelevant at the point of sale. Merchants and foreign banks process the transaction the same way regardless of how you were approved.
 

@@ -105,7 +105,7 @@ The OpenSky Secured Credit Card is one of the few secured cards that openly appr
 
 A new wave of fintech companies is building products specifically for newcomers to the U.S., with online-first application processes designed from the ground up to handle ITIN holders. According to data cited by tax and ITIN-filing services, roughly 3.8 million people file U.S. taxes with an ITIN each year, which explains why this market has expanded so quickly.
 
-If you want to see how your card activity will report to the bureaus once approved, our guide to [does your ITIN credit card report to all 3 bureaus](https://itincreditcard.com/itin-credit-card-credit-bureau-reporting) walks through bureau reporting by issuer.
+If you want to see how your card activity will report to the bureaus once approved, our guide to [does your ITIN credit card report to all 3 bureaus](/articles/itin-credit-card-credit-bureau-reporting) walks through bureau reporting by issuer.
 
 ---
 
@@ -122,7 +122,7 @@ Try these steps in order:
 
 Be strategic. Wasting time on applications that are guaranteed rejections only stacks unnecessary hard inquiries on your new credit file.
 
-For a broader look at how to stack your application strategy across issuers, see our [ITIN credit card issuer-by-issuer comparison](https://itincreditcard.com/itin-credit-card-issuer-comparison-2026) and our guide to [how to improve credit card approval odds with an ITIN](https://itincreditcard.com/improve-credit-card-approval-odds-itin).
+For a broader look at how to stack your application strategy across issuers, see our [ITIN credit card issuer-by-issuer comparison](/articles/itin-credit-card-issuer-comparison-2026) and our guide to [how to improve credit card approval odds with an ITIN](/articles/improve-credit-card-approval-odds-itin).
 
 ---
 

@@ -84,7 +84,7 @@ Sí, y este es el punto más importante. Que no haya verificación de crédito d
 
 Cuando abres una cuenta de crédito con un ITIN y realizas pagos, el prestamista reporta esa actividad a los burós de crédito, igual que lo haría con alguien que tiene un SSN. Con el tiempo, construyes un historial crediticio y, eventualmente, obtienes un puntaje de crédito.
 
-Los modelos de puntuación no distinguen entre un ITIN y un SSN. Un historial de pagos sólido tiene el mismo peso en cualquiera de los dos casos. Según FICO, el historial de pagos es el factor individual más importante en tu puntaje, y representa aproximadamente el 35% del cálculo. Cada pago puntual que haces con una tarjeta sin verificación de crédito que sí reporta se suma al expediente que eventualmente te dará acceso a tarjetas no aseguradas, tarjetas con recompensas y mejores condiciones. Puedes leer más sobre este proceso en nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito con ITIN](/build-credit-with-itin-credit-card).
+Los modelos de puntuación no distinguen entre un ITIN y un SSN. Un historial de pagos sólido tiene el mismo peso en cualquiera de los dos casos. Según FICO, el historial de pagos es el factor individual más importante en tu puntaje, y representa aproximadamente el 35% del cálculo. Cada pago puntual que haces con una tarjeta sin verificación de crédito que sí reporta se suma al expediente que eventualmente te dará acceso a tarjetas no aseguradas, tarjetas con recompensas y mejores condiciones. Puedes leer más sobre este proceso en nuestra guía sobre [cómo construir crédito rápido con una tarjeta de crédito con ITIN](/es/articles/build-credit-with-itin-credit-card).
 
 Una advertencia importante: algunas tarjetas aseguradas y tarjetas de tiendas no reportan a los tres burós de crédito. Si tu historial de pagos no se está reportando, no estás construyendo crédito. Siempre confírmalo antes de solicitar.
 
@@ -101,7 +101,7 @@ Para la mayoría de las solicitudes de tarjetas con ITIN y sin verificación de 
 
 Al momento de solicitar, ten a la mano tu ITIN, una identificación válida como pasaporte o identificación consular, comprobante de domicilio y comprobante de ingresos. Reunir estos documentos antes de comenzar la solicitud evita retrasos y reduce la posibilidad de un rechazo por documentación incompleta, en lugar de por tu perfil financiero real.
 
-Para un recorrido paso a paso por el proceso completo de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/how-to-apply-for-credit-card-with-itin).
+Para un recorrido paso a paso por el proceso completo de solicitud, consulta nuestra guía sobre [cómo solicitar una tarjeta de crédito con un ITIN](/es/articles/how-to-apply-for-credit-card-with-itin).
 
 ## Me han rechazado antes. ¿Una tarjeta sin verificación de crédito finalmente me aprobará?
 
@@ -109,12 +109,12 @@ La razón más común por la que se rechaza a los titulares de ITIN no es fraude
 
 Una tarjeta asegurada sin verificación de crédito elimina esta barrera específica porque el emisor no consulta tu expediente de crédito para tomar la decisión. La aprobación se basa casi por completo en si puedes fondear el depósito y pasar la verificación de identidad. El depósito reduce drásticamente el riesgo del banco. Cuando el banco se siente seguro, es mucho más probable que apruebe a un solicitante sin un expediente de crédito tradicional.
 
-Si los rechazos anteriores vinieron de emisores que no aceptan ITINs en absoluto, ese es un problema aparte. Nuestra guía sobre [qué bancos aceptan un ITIN para tarjetas de crédito](/which-banks-accept-itin-for-credit-cards) lista emisores verificados que trabajan con ITIN, para que no desperdicies hard inquiries en solicitudes que fallarán sin importar tu perfil.
+Si los rechazos anteriores vinieron de emisores que no aceptan ITINs en absoluto, ese es un problema aparte. Nuestra guía sobre [qué bancos aceptan un ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) lista emisores verificados que trabajan con ITIN, para que no desperdicies hard inquiries en solicitudes que fallarán sin importar tu perfil.
 
 ## ¿Qué pasa con mi tarjeta sin verificación de crédito una vez que construyo suficiente crédito para calificar a mejores opciones?
 
 Las tarjetas aseguradas sin verificación de crédito son un punto de partida, no un destino permanente. Después de demostrar un uso responsable con tu tarjeta asegurada, es posible que califiques para tarjetas no aseguradas de otros emisores que no requieren un depósito de seguridad.
 
-La mayoría de los emisores revisan tu cuenta automáticamente después de 6 a 12 meses de pagos puntuales. Las cuentas pueden revisarse con el tiempo para aumentar límites o para una mejora a tarjeta no asegurada dentro de 6 a 12 meses si los pagos puntuales son constantes. Al hacer la mejora, te regresan el depósito y tu historial de cuenta (incluyendo la fecha original de apertura) generalmente se transfiere a la nueva tarjeta, lo que preserva la antigüedad de tu historial crediticio. Para un análisis detallado de esta transición, consulta nuestra guía sobre [cómo pasar de una tarjeta de crédito asegurada a una no asegurada con un ITIN](/upgrade-secured-to-unsecured-credit-card-itin).
+La mayoría de los emisores revisan tu cuenta automáticamente después de 6 a 12 meses de pagos puntuales. Las cuentas pueden revisarse con el tiempo para aumentar límites o para una mejora a tarjeta no asegurada dentro de 6 a 12 meses si los pagos puntuales son constantes. Al hacer la mejora, te regresan el depósito y tu historial de cuenta (incluyendo la fecha original de apertura) generalmente se transfiere a la nueva tarjeta, lo que preserva la antigüedad de tu historial crediticio. Para un análisis detallado de esta transición, consulta nuestra guía sobre [cómo pasar de una tarjeta de crédito asegurada a una no asegurada con un ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin).
 
 El camino es claro: abre una tarjeta sin verificación de crédito, paga puntualmente cada mes, mantén tu saldo muy por debajo del límite de crédito y deja que los burós registren tu historial. En 12 a 24 meses, la mayoría de los titulares de ITIN que siguen esta secuencia califican para tarjetas no aseguradas con recompensas y sin requisito de depósito.

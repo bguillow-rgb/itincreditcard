@@ -91,7 +91,7 @@ Aquí tienes un ejemplo concreto. Supón que tienes un saldo de $150 en una tarj
 
 Si pagas tu tarjeta de crédito en su totalidad y a tiempo cada mes, aumentar tu límite te da más flexibilidad y puede mejorar tu puntaje al reducir tu tasa de utilización. Combinar un aumento de límite con el hábito de pagar el saldo completo cada mes significa que obtienes el beneficio de la utilización sin acumular cargos por intereses.
 
-Una vez que tu puntaje haya alcanzado un rango sólido, también serás elegible para los tipos de tarjetas que cubrimos en nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](https://itincreditcard.com/unsecured-credit-card-itin-holders), que generalmente ofrecen límites más altos desde el inicio.
+Una vez que tu puntaje haya alcanzado un rango sólido, también serás elegible para los tipos de tarjetas que cubrimos en nuestra guía de [tarjetas de crédito no aseguradas para titulares de ITIN](/es/articles/unsecured-credit-card-itin-holders), que generalmente ofrecen límites más altos desde el inicio.
 
 ## ¿Qué pasa si me niegan la solicitud?
 
@@ -104,7 +104,7 @@ Las soluciones son directas:
 - **Agrega un depósito (tarjetas aseguradas).** Si tienes una tarjeta asegurada, depositar fondos adicionales es una forma garantizada de aumentar el límite sin ninguna decisión de suscripción.
 - **Actualiza tus ingresos.** Si has ganado más desde que solicitaste originalmente, asegúrate de que tu perfil refleje eso antes de volver a pedir el aumento.
 
-Para titulares de tarjetas que han acumulado 12 a 24 meses de historial con una tarjeta asegurada y están listos para pasar a una tarjeta con un límite base más alto, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](https://itincreditcard.com/which-banks-accept-itin-for-credit-cards) explica todos los emisores principales y sus políticas actuales.
+Para titulares de tarjetas que han acumulado 12 a 24 meses de historial con una tarjeta asegurada y están listos para pasar a una tarjeta con un límite base más alto, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) explica todos los emisores principales y sus políticas actuales.
 
 ## Comparación rápida: cómo manejan los aumentos de límite los principales emisores que aceptan ITIN
 

@@ -89,7 +89,7 @@ If you're starting from scratch, it will generally take between two to six month
 
 ## How do I graduate from a secured card to an unsecured card with an ITIN?
 
-If you currently hold a [secured credit card with your ITIN](/secured-credit-card-with-itin), the graduation process is more straightforward than most people expect, it's largely a matter of time and behavior, not paperwork.
+If you currently hold a [secured credit card with your ITIN](/articles/secured-credit-card-with-itin), the graduation process is more straightforward than most people expect, it's largely a matter of time and behavior, not paperwork.
 
 **The standard graduation timeline:**
 
@@ -134,6 +134,6 @@ One important maintenance note: SSNs don't expire or need to be renewed, but ITI
 
 This is a great problem to have. When you receive an SSN after years of building credit with an ITIN, your credit history does not start over. Give both numbers to banks and credit bureaus; they can merge your histories so your hard-earned credit follows you.
 
-In practice: notify your card issuers in writing, then send written requests to Experian, Equifax, and TransUnion asking them to link your ITIN-based file to your new SSN. Keep copies of all correspondence. Once merged, you'll have access to the full range of credit products that were previously unavailable, and all the years you spent [building credit with your ITIN](/how-to-build-credit-with-itin) count toward that new chapter.
+In practice: notify your card issuers in writing, then send written requests to Experian, Equifax, and TransUnion asking them to link your ITIN-based file to your new SSN. Keep copies of all correspondence. Once merged, you'll have access to the full range of credit products that were previously unavailable, and all the years you spent [building credit with your ITIN](/build-credit-with-itin) count toward that new chapter.
 
 The broader takeaway for anyone reading this guide: the path from "no credit, no deposit card" to a rewards-earning unsecured card typically takes 12-18 months of disciplined use. Expect 40-80 point improvements within 12 months of consistent, responsible card use, enough to unlock genuinely competitive products. Start with what's available today. Upgrade when the numbers support it.

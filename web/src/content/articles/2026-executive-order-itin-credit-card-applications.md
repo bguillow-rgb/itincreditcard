@@ -114,7 +114,7 @@ The new compliance environment rewards preparation. If a bank's system flags you
 
 Institutions that accept ITIN documents should assess whether existing customer identification procedures address the risk indicators identified by the order, and potential enhancements may include supplemental non-documentary verification and additional review of employment authorization where risk indicators are present. Giving the bank more documentation up front shortens that review process for you.
 
-For a detailed walkthrough of which documents each major issuer actually requests at the application screen, see our guide to [how to apply for a credit card with an ITIN](/how-to-apply-for-credit-card-with-itin).
+For a detailed walkthrough of which documents each major issuer actually requests at the application screen, see our guide to [how to apply for a credit card with an ITIN](/articles/how-to-apply-for-credit-card-with-itin).
 
 ---
 
@@ -126,7 +126,7 @@ Do not panic, and do not preemptively close your account. Banks have not yet rec
 
 That said, a few protective steps make sense now. Keep your account in good standing with on-time payments and low utilization. Gather and store copies of all account statements, any tax returns filed with your ITIN, and documentation of your lawful status if you have it. If you hold an account at a large national bank and you notice unexpected communications about account review, respond promptly and with full documentation rather than ignoring the notice.
 
-If you are concerned about issuer-specific risk, credit unions and community development financial institutions (CDFIs) that have historically served immigrant communities tend to have deeper existing relationships with ITIN borrowers and may handle any compliance adjustments more collaboratively. Our guide to [credit union credit cards for ITIN holders](/credit-union-credit-card-itin) covers the best credit unions currently accepting ITIN applications.
+If you are concerned about issuer-specific risk, credit unions and community development financial institutions (CDFIs) that have historically served immigrant communities tend to have deeper existing relationships with ITIN borrowers and may handle any compliance adjustments more collaboratively. Our guide to [credit union credit cards for ITIN holders](/articles/credit-union-credit-card-itin) covers the best credit unions currently accepting ITIN applications.
 
 ---
 
@@ -134,7 +134,7 @@ If you are concerned about issuer-specific risk, credit unions and community dev
 
 No. The executive order does not touch reporting mechanics. Your ITIN-linked credit card will continue reporting to Equifax, Experian, and TransUnion exactly as it did before, provided your issuer continues to accept ITIN accounts. The order is a compliance and due-diligence directive aimed at bank underwriting and anti-money-laundering processes, not at bureau reporting rules.
 
-If your card is eventually closed by an issuer (a voluntary choice by the issuer, not a mandate of the order), that closure would show on your credit file and the account's positive history would remain for up to 10 years. To understand exactly how issuer-level bureau reporting works for ITIN accounts, see our article on [whether your ITIN credit card reports to all three credit bureaus](/itin-credit-card-credit-bureau-reporting).
+If your card is eventually closed by an issuer (a voluntary choice by the issuer, not a mandate of the order), that closure would show on your credit file and the account's positive history would remain for up to 10 years. To understand exactly how issuer-level bureau reporting works for ITIN accounts, see our article on [whether your ITIN credit card reports to all three credit bureaus](/articles/itin-credit-card-credit-bureau-reporting).
 
 ---
 
@@ -144,4 +144,4 @@ If you have been considering applying for a new credit card with your ITIN and y
 
 After July 18, applications will still be legal and many will still be approved. But bank compliance workflows may take longer as teams integrate the new Treasury typologies into their review processes. Applying with strong documentation and an issuer that has historically been ITIN-friendly gives you the best approval odds regardless of timing.
 
-For a current, side-by-side look at which issuers accept ITIN applications and what each card's terms look like, visit our [2026 ITIN credit card issuer comparison](/itin-credit-card-issuer-comparison-2026).
+For a current, side-by-side look at which issuers accept ITIN applications and what each card's terms look like, visit our [2026 ITIN credit card issuer comparison](/articles/itin-credit-card-issuer-comparison-2026).
