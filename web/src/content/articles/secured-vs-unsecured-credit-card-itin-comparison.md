@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "unsecured-credit-card-itin-holders"
+  - "get-secured-credit-card-deposit-back-itin"
   - "best-starter-credit-cards-itin-zero-credit-history"
   - "itin-credit-card-issuer-comparison-2026"
-  - "upgrade-secured-to-unsecured-credit-card-itin"
 faqs:
   - q: "Can I get a secured credit card in the U.S. with only an ITIN?"
     a: "Yes. Multiple major issuers accept an ITIN for secured cards, including Capital One, Citi, Bank of America, and OpenSky. No SSN is required. You will need a valid photo ID, proof of address, and a funded U.S. bank account to cover the security deposit."

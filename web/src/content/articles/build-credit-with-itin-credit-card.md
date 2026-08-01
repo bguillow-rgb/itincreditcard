@@ -14,10 +14,10 @@ publishedAt: "2026-06-18"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "get-secured-credit-card-deposit-back-itin"
   - "no-foreign-transaction-fee-credit-card-itin"
   - "upgrade-secured-to-unsecured-credit-card-itin"
   - "best-starter-credit-cards-itin-zero-credit-history"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "Can I build a U.S. credit score using only an ITIN?"
     a: "Yes. The three major credit bureaus (Equifax, Experian, TransUnion) use your ITIN as a file identifier the same way they use an SSN. Once a card issuer reports your payment activity under your ITIN, your credit file opens and a score can be calculated. The scoring math is identical regardless of which number identifies your file."

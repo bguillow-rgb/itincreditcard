@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-international-students-itin"
+  - "get-secured-credit-card-deposit-back-itin"
   - "travel-credit-card-itin-holders"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "credit-card-prequalification-itin"
 faqs:
   - q: "¿Solicitar una tarjeta de crédito con ITIN revela mi estatus migratorio?"
     a: "No. Los emisores de tarjetas de crédito verifican tu identidad para prevenir fraude, no para fines migratorios. No reportan tu solicitud ni la información de tu cuenta a autoridades de inmigración como USCIS o ICE. Además, la Ley de Igualdad de Oportunidades de Crédito (ECOA) prohíbe a los emisores discriminar por origen nacional."

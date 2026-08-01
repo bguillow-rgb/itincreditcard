@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "get-secured-credit-card-deposit-back-itin"
   - "no-credit-check-credit-card-itin"
   - "travel-credit-card-itin-holders"
-  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "Can I pre-qualify for a credit card using an ITIN instead of an SSN?"
     a: "Yes. Capital One's pre-qualification tool explicitly accepts an ITIN in place of an SSN. American Express, Chase, and several others also allow ITIN entry on their pre-qualification or pre-approval pages. The soft pull used during pre-qualification does not affect your credit score."

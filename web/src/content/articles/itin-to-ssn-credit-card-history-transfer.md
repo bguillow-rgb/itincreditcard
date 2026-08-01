@@ -17,7 +17,7 @@ relatedSlugs:
   - "balance-transfer-credit-card-itin"
   - "unsecured-credit-card-itin-holders"
   - "credit-card-international-students-itin"
-  - "rewards-credit-card-itin-holders"
+  - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "Will my credit card account close automatically when I get an SSN?"
     a: "No. Credit card accounts opened with an ITIN remain open when you receive an SSN. The account itself is not tied to a specific identification number in a way that triggers closure. You simply need to call or log into each issuer's account portal and update your identification number from your ITIN to your new SSN."
