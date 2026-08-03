@@ -30,11 +30,22 @@ jobs:
         with:
           node-version: '20'
 
+      # No build step, and none needed: indexnow.mjs falls back to the LIVE
+      # sitemap when dist/ is absent (dist/ is gitignored, so it always is here).
+      # This job runs after /docs is already published, so the live sitemap is
+      # the correct source anyway.
       - name: Install dependencies
         run: npm ci
 
       - name: Ping IndexNow
         # Key is public by design (served at public/62731beede9e26ca35e66e302b5fc506.txt)
+        #
+        # Deliberately NOT `|| true`. Pinging is this workflow's only job, so a
+        # failure here is a real failure and must surface. The swallowed exit
+        # code is what let this run "successfully" for months while submitting
+        # nothing (ENOENT on the then-required dist/sitemap-0.xml).
+        # daily-content.yml keeps its `|| true` — there the ping is a non-blocking
+        # step at the end of a publish job that must not be failed by it.
         env:
           PUBLIC_INDEXNOW_KEY: 62731beede9e26ca35e66e302b5fc506
-        run: node scripts/indexnow.mjs || true
+        run: node scripts/indexnow.mjs

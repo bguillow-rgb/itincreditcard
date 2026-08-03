@@ -1,0 +1,78 @@
+name: Recrawl ping (manual)
+
+# Push a chosen set of URLs at Google's Indexing API on demand.
+#
+# Why this exists: daily-content.yml pings the Indexing API with
+# `--article <slug>`, so ONLY the newest daily article's two URLs are ever
+# submitted. The money pages and the whole /es section have never been sent —
+# they depend entirely on Google rediscovering them via the sitemap. The same
+# gap was measured on itincreditscore.com on 2026-08-03, where the daily
+# articles were crawled and ranking while the commercial pages and /es sat
+# weeks stale.
+#
+# Use this after any deploy that changes a money page, a hub page, or the ES
+# section — i.e. any time the daily-content job is not the thing that changed it.
+#
+# IndexNow (Bing/Yandex/etc.) is handled separately and automatically by
+# indexnow.yml on every push to docs/**; it submits the full sitemap, so it does
+# not have this gap. This job is Google-only.
+
+on:
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: 'Space- or newline-separated paths (/foo) or full URLs. Leave blank for the priority set below.'
+        required: false
+        default: ''
+
+permissions:
+  contents: read
+
+concurrency:
+  group: recrawl
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: web
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # The priority set is the commercial + Spanish surface that the daily
+      # article ping never touches: the card-vertical money pages, the pillar,
+      # and the ES twins of the highest-intent pages. Google's Indexing API
+      # quota is 200 URLs/day, so this list stays deliberately short rather than
+      # resubmitting all 118 sitemap URLs.
+      - name: Ping Google Indexing API
+        env:
+          GOOGLE_INDEXING_SA_KEY: ${{ secrets.GOOGLE_INDEXING_SA_KEY }}
+          URLS: ${{ inputs.urls }}
+        run: |
+          set -euo pipefail
+          if [ -z "${URLS// /}" ]; then
+            URLS="/best-itin-credit-cards
+          /credit-cards-that-accept-itin
+          /secured-credit-cards
+          /unsecured-credit-cards
+          /itin-credit-cards-guide
+          /business-credit-cards
+          /build-credit-with-itin
+          /how-to-get-an-itin
+          /es
+          /es/best-itin-credit-cards
+          /es/credit-cards-that-accept-itin
+          /es/itin-credit-cards-guide
+          /es/secured-credit-cards
+          /es/unsecured-credit-cards
+          /about
+          /articles"
+          fi
+          # shellcheck disable=SC2086
+          node scripts/google-index.mjs $URLS
