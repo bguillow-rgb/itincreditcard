@@ -53,9 +53,10 @@ const enHref = abs(altPath(pathname, 'en'));
 const esHref = abs(altPath(pathname, 'es'));
 
 const tagline = isEs ? SITE.taglineEs : SITE.tagline;
+const homeTitle = isEs ? SITE.homeTitleEs : SITE.homeTitle;
 const fullTitle =
   title === SITE.name
-    ? `${SITE.name} | ${tagline}`
+    ? `${SITE.name} | ${homeTitle}`
     : `${title} | ${SITE.name}`;
 ---
 <!doctype html>

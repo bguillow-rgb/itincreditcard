@@ -2,6 +2,7 @@ import { defineConfig } from 'astro/config';
 import { loadEnv } from 'vite';
 import fs from 'node:fs';
 import nodePath from 'node:path';
+import { execFileSync } from 'node:child_process';
 import { fileURLToPath } from 'node:url';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
@@ -11,10 +12,76 @@ import rehypeAffiliateLinks, { buildAffiliateRules } from './src/lib/affiliate-a
 // with the build time, so all 114 URLs "change" on every daily-content deploy.
 // Google learns to distrust that and stops reading the sitemap. Instead we give
 // each article a STABLE lastmod from its committed frontmatter date (updatedAt,
-// else publishedAt). File mtime and `git log` both churn under CI's shallow
-// checkout, so frontmatter is the only date that survives a rebuild unchanged.
-// Static pages get no lastmod (Google recrawls them on its own cadence).
+// else publishedAt) — the only date that survives a rebuild unchanged.
+//
+// Static pages have no frontmatter, so they originally got no lastmod at all.
+// That turned out to be its own bug (found in the 2026-08-03 audit): with no
+// freshness signal, Google parked them at the back of the crawl queue and left
+// the entire commercial surface — /credit-cards-that-accept-itin, the pillar,
+// /secured-credit-cards — uncrawled from Jun 6 to Aug 3, so a month of shipped
+// changes was never seen. They now take the commit date of their own source
+// file, which is stable across rebuilds and moves only on a real edit.
+//
+// This needs full git history, and the shallow-checkout failure mode is worse
+// than it looks. `actions/checkout` defaults to fetch-depth 1; that single
+// commit has no parent, so `git log --name-only` reports EVERY file as added
+// in it and all ~38 pages would get the same deploy-day date — the exact
+// all-URLs-changed-at-once signal this whole mechanism exists to kill. So the
+// two workflows that build the site (daily-content, seed-content)
+// pin `fetch-depth: 0`, AND we re-check at build time — belt and braces, so a
+// new workflow that forgets the flag degrades to "no lastmod" (the previous
+// behaviour) instead of poisoning every URL.
 const __dirname = nodePath.dirname(fileURLToPath(import.meta.url));
+const REPO_ROOT = nodePath.join(__dirname, '..');
+
+// web/src/pages/foo.astro -> /foo, index.astro -> /, es/index.astro -> /es.
+// Dynamic routes ([...slug]) are article pages; those come from frontmatter.
+function pageUrlPath(file) {
+  const m = file.match(/^web\/src\/pages\/(.+)\.astro$/);
+  if (!m || m[1].includes('[')) return null;
+  const p = m[1].replace(/(^|\/)index$/, '');
+  return '/' + p.replace(/\/$/, '');
+}
+
+function buildStaticLastmodMap() {
+  const map = {};
+  // Refuse to date anything from a shallow clone — see above. Verified: a
+  // `git clone --depth 1` of this repo yields all 38 pages on one date.
+  try {
+    const shallow = execFileSync('git', ['rev-parse', '--is-shallow-repository'], {
+      cwd: REPO_ROOT,
+      encoding: 'utf8',
+    }).trim();
+    if (shallow !== 'false') return map;
+  } catch {
+    return map;
+  }
+  let log = '';
+  try {
+    // One pass over history, newest first: NUL + commit date, then its files.
+    log = execFileSync(
+      'git',
+      ['log', '--format=%x00%cI', '--name-only', '--', 'web/src/pages'],
+      { cwd: REPO_ROOT, encoding: 'utf8', maxBuffer: 64 * 1024 * 1024 },
+    );
+  } catch {
+    return map; // no git, not a repo, or nothing tracked yet
+  }
+  for (const commit of log.split('\0').slice(1)) {
+    const lines = commit.split('\n');
+    const date = (lines.shift() || '').trim().slice(0, 10);
+    if (!date) continue;
+    for (const line of lines) {
+      const file = line.trim();
+      if (!file) continue;
+      const url = pageUrlPath(file);
+      // Newest commit wins: git log is reverse-chronological, so the first
+      // time a path appears is the last time it actually changed.
+      if (url && !map[url]) map[url] = date;
+    }
+  }
+  return map;
+}
 function buildArticleLastmodMap() {
   const map = {};
   const collections = [
@@ -39,6 +106,7 @@ function buildArticleLastmodMap() {
   return map;
 }
 const ARTICLE_LASTMOD = buildArticleLastmodMap();
+const STATIC_LASTMOD = buildStaticLastmodMap();
 
 // In-content affiliate auto-linking runs in production builds only (mirrors the
 // PROD gate on the display ads), so `astro dev` shows clean editorial copy.
@@ -83,8 +151,10 @@ export default defineConfig({
           { lang: 'es', url: esUrl },
           { lang: 'x-default', url: enUrl },
         ];
-        // Stable per-article lastmod from frontmatter; unset for static pages.
-        const lm = ARTICLE_LASTMOD[path];
+        // Articles from frontmatter, static pages from their source file's
+        // commit date. Anything we can't date ships without a lastmod rather
+        // than with a made-up one.
+        const lm = ARTICLE_LASTMOD[path] || STATIC_LASTMOD[path];
         if (lm) item.lastmod = lm;
         else delete item.lastmod;
         return item;

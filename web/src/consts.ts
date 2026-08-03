@@ -7,6 +7,15 @@ export const SITE = {
   legalName: 'ITINCreditCard.com',
   tagline: 'Credit Cards & Credit Building for ITIN Holders',
   taglineEs: 'Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN',
+  // Homepage <title> only — deliberately NOT the tagline. The tagline reads as
+  // a direct answer to "credit cards for itin holders", which had the homepage
+  // outranking the purpose-built money pages on their own terms: as of the
+  // 2026-08-03 audit the homepage took 147 of 181 impressions and served
+  // "credit cards that accept itin" at pos 86 while /credit-cards-that-accept-itin
+  // sat at pos 7. This framing says publisher, not product. The footer still
+  // uses `tagline`.
+  homeTitle: 'Independent Card Matching & Guides',
+  homeTitleEs: 'Comparador Independiente y Guías',
   description:
     'ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.',
   descriptionEs:
