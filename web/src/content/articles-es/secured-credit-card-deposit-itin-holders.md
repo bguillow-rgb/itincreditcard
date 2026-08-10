@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
   - "secured-vs-unsecured-credit-card-itin-comparison"
+  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
-  - "upgrade-secured-to-unsecured-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada solo con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Emisores como Capital One, Bank of America, Citi, Wells Fargo y OpenSky aceptan un ITIN en lugar de un SSN. Como tu depósito funciona como garantía, la mayoría de estas tarjetas no requieren ningún historial crediticio previo en EE. UU. para aprobarte."

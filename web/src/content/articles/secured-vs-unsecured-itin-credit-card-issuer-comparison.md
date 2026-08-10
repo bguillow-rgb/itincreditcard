@@ -14,10 +14,10 @@ publishedAt: "2026-08-10"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "get-secured-credit-card-deposit-back-itin"
   - "unsecured-credit-card-itin-holders"
-  - "best-starter-credit-cards-itin-zero-credit-history"
 faqs:
   - q: "Can I get an unsecured credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but your options are limited. Chase Freedom Rise, Zolve, and the Capital One Savor Student all accept ITINs and require little to no prior U.S. credit history. Chase Freedom Rise approval odds improve significantly if you hold at least $250 in a Chase checking account. Zolve accepts an ITIN or passport with no credit check at all."

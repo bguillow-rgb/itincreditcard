@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
+  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "unsecured-credit-card-itin-holders"
-  - "upgrade-secured-to-unsecured-credit-card-itin"
 faqs:
   - q: "Can I get a secured credit card with just an ITIN and no U.S. credit history?"
     a: "Yes. Issuers like Capital One, Bank of America, Citi, Wells Fargo, and OpenSky accept an ITIN in place of an SSN. Because your deposit acts as collateral, most of these cards do not require any prior U.S. credit history to approve you."

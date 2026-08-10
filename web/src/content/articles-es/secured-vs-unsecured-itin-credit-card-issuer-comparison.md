@@ -14,10 +14,10 @@ publishedAt: "2026-08-10"
 author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "build-credit-with-itin-credit-card"
   - "get-secured-credit-card-deposit-back-itin"
-  - "best-starter-credit-cards-itin-zero-credit-history"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito no garantizada con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, pero las opciones son limitadas. Chase Freedom Rise, Zolve y la Capital One Savor Student aceptan ITIN y requieren poco o ningún historial crediticio previo en EE. UU. Las probabilidades de aprobación para Chase Freedom Rise mejoran considerablemente si tienes al menos $250 en una cuenta de cheques de Chase. Zolve acepta un ITIN o pasaporte sin verificar tu historial crediticio."
