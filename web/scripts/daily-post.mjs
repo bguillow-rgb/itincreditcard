@@ -13,6 +13,7 @@ import { fileURLToPath } from 'node:url';
 import { dirname, resolve, join } from 'node:path';
 import { loadSite, generateArticle } from './lib/generate.mjs';
 import { readArticleMeta } from './lib/articles.mjs';
+import { loadRoutes } from './lib/links.mjs';
 import { publishArticle, relinkDir } from './lib/publish.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
@@ -30,11 +31,23 @@ if (!API_KEY) {
 const SITE = loadSite(join(WEB_DIR, 'src/consts.ts'));
 
 // Existing articles: dedupe + give the model the current cluster map.
+// The list leads with the REAL URL (/articles/<slug>), not the bare slug: the
+// model links to whatever shape it sees here, and a bare slug is what produced
+// the /<slug> 404s that failed the build and discarded two articles. See
+// scripts/lib/links.mjs — that repairs what slips through, this prevents it.
 const existing = readArticleMeta(ARTICLES_DIR);
 const existingSlugs = new Set(existing.map((a) => a.slug));
 const existingList =
-  existing.map((a) => `- ${a.slug} | "${a.title}" | target: ${a.targetQuery}`).join('\n') ||
+  existing.map((a) => `- /articles/${a.slug} | "${a.title}" | target: ${a.targetQuery}`).join('\n') ||
   '(none yet)';
+
+// The static (non-article) routes the model is allowed to link to, straight
+// from src/pages so the list can never drift from what Astro actually builds.
+const staticPages = [...loadRoutes(WEB_DIR)]
+  .filter((p) => !p.startsWith('/articles/') && !p.startsWith('/es/'))
+  .sort()
+  .map((p) => `- ${p}`)
+  .join('\n');
 
 const today = new Date().toISOString().slice(0, 10);
 
@@ -73,6 +86,7 @@ try {
     tier,
     topicHint,
     existingList,
+    staticPages,
     existingSlugs,
     today,
   });

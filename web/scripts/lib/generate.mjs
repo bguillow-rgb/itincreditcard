@@ -69,6 +69,7 @@ MANDATORY article structure:
 - ${longform ? '8+' : '5+'} FAQs (these become the faqs field for FAQPage schema).
 - ${pillar ? '3000-5000 words for a comprehensive PILLAR overview that links down to every subtopic' : flagship ? '2500-4000 words: an in-depth, original FLAGSHIP built to earn links and AI-engine citations' : '1000-1600 words total for a detail/cluster article'}. Original wording only, never copy phrasing from sources.
 - Internal-link naturally in prose to relevant existing pages on this site when it makes sense.
+- INTERNAL LINK URLS (strict): every article lives at \`/articles/<slug>\`, never at \`/<slug>\`. Link to an existing article as \`[anchor text](/articles/its-slug)\` using a slug from the "Articles we ALREADY have" list below, and to a static page using the exact path shown there. Do NOT invent a path, and do NOT link to an article that is not on that list — a link to a page that does not exist fails the build. If no listed page fits, write the sentence without a link.
 - PUNCTUATION (strict): Never use em dashes or en dashes, nor their code/HTML forms (\\u2014, \\u2013, &mdash;, &ndash;). Use commas, colons, parentheses, or separate sentences instead. For numeric ranges use a plain hyphen, e.g. "12-24 months" or "15%-20%".${flagship ? `
 
 FLAGSHIP MANDATE (this piece must have "legs": be the reference others link to and AI engines cite):
@@ -79,7 +80,7 @@ FLAGSHIP MANDATE (this piece must have "legs": be the reference others link to a
 - Write it evergreen, so it can be re-verified and re-dated quarterly instead of going stale.` : ''}`;
 }
 
-function userPrompt(site, { tier, existingList, existingSlugs, today, topicHint }) {
+function userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint }) {
   const pillar = tier === 'pillar';
   const flagship = tier === 'flagship';
   const scope = scopeOf(site);
@@ -89,9 +90,12 @@ ${scope.rule}
 
 STEP 1, Research. Use web search to find current, high-intent${pillar || flagship ? '' : ', LOW-competition'} keyword opportunities in this site's vertical (ITIN holders / immigrants navigating U.S. ${scope.vertical}). Look for questions real people ask in 2026 that we do NOT already cover.
 
-Articles we ALREADY have (do NOT duplicate these target queries or topics):
+Articles we ALREADY have (do NOT duplicate these target queries or topics). The path shown is the ONLY correct URL for linking to that article:
 ${existingList}
-
+${staticPages ? `
+Static pages you may also link to (exact paths, these are the only ones that exist):
+${staticPages}
+` : ''}
 STEP 2, ${
     pillar
       ? 'Pick the single BROADEST canonical query for this site (the pillar topic that all our detail articles ladder up to).'
@@ -205,7 +209,7 @@ export function validateArticle(a) {
 
 // Generate one article. Returns the parsed+validated article object (no files
 // written, callers handle relatedSlugs, ES translation, and disk writes).
-async function callOnce({ apiKey, model, site, tier, existingList, existingSlugs, today, topicHint }) {
+async function callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint }) {
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -219,7 +223,7 @@ async function callOnce({ apiKey, model, site, tier, existingList, existingSlugs
       system: systemPrompt(site, tier),
       tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: tier === 'flagship' || tier === 'pillar' ? 12 : 6 }],
       messages: [
-        { role: 'user', content: userPrompt(site, { tier, existingList, existingSlugs, today, topicHint }) },
+        { role: 'user', content: userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint }) },
       ],
     }),
   });
@@ -261,6 +265,7 @@ export async function generateArticle({
   site,
   tier = 'detail',
   existingList,
+  staticPages,
   existingSlugs,
   today,
   topicHint,
@@ -269,7 +274,7 @@ export async function generateArticle({
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
     try {
-      const draft = await callOnce({ apiKey, model, site, tier, existingList, existingSlugs, today, topicHint });
+      const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint });
       return await humanizeArticle({ apiKey, model, article: draft });
     } catch (e) {
       lastErr = e;
