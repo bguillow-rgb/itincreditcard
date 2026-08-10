@@ -39,6 +39,17 @@ const NOT_LINKABLE = new Set(['/404', '/es/404']);
 // it stays correct without needing a build to have run first.
 export function loadRoutes(webDir) {
   const routes = new Set(['/']);
+  // Directories served by a dynamic [param].astro route whose real URLs we
+  // cannot enumerate without running getStaticPaths. Anything under one of these
+  // is treated as "cannot disprove" and left completely alone.
+  //
+  // This is not hypothetical: itinlending serves ~50 state pages from
+  // src/pages/itin-loans/[state].astro. Skipping [ ] filenames without recording
+  // the prefix made every one of them invisible to the route table, and an
+  // earlier build of this module unwrapped live links to /itin-loans/texas and
+  // /itin-loans/california — both real, both returning 200. Deleting a valid
+  // link is far worse than leaving a bad one for check-links to catch.
+  const wildcards = new Set();
   const pagesDir = join(webDir, 'src/pages');
 
   const walkPages = (dir, prefix = '') => {
@@ -48,15 +59,23 @@ export function loadRoutes(webDir) {
         walkPages(join(dir, entry.name), `${prefix}/${entry.name}`);
         continue;
       }
-      // [...slug].astro is the dynamic article route; its real URLs come from
-      // the content collection below. rss.xml.js is an asset, not a page.
-      if (entry.name.startsWith('[')) continue;
+      // rss.xml.js is an asset, not a page.
+      if (entry.name.startsWith('[')) {
+        if (entry.name.endsWith('.astro')) wildcards.add(prefix || '/');
+        continue;
+      }
       if (!entry.name.endsWith('.astro')) continue;
       const base = entry.name.replace(/\.astro$/, '');
       routes.add(base === 'index' ? prefix || '/' : `${prefix}/${base}`);
     }
   };
   walkPages(pagesDir);
+
+  // The article routes are the one dynamic case we CAN enumerate, straight from
+  // the content collections below, so they stay strict: a link to a nonexistent
+  // /articles/<slug> should still be caught, not waved through as a wildcard.
+  wildcards.delete('/articles');
+  wildcards.delete('/es/articles');
 
   const addArticles = (dir, prefix) => {
     if (!existsSync(dir)) return;
@@ -68,6 +87,9 @@ export function loadRoutes(webDir) {
   addArticles(join(webDir, 'src/content/articles-es'), '/es/articles');
 
   for (const dead of NOT_LINKABLE) routes.delete(dead);
+  // Carried as a property, not as members: callers spread this Set to build the
+  // prompt's static-page list, and a "/itin-loans/*" entry there would be noise.
+  Object.defineProperty(routes, 'wildcards', { value: wildcards, enumerable: false });
   return routes;
 }
 
@@ -88,6 +110,24 @@ function resolvePath(rawPath, routes, locale) {
 
   const esTwin = (p) => (p === '/' ? '/es' : `/es${p}`);
   const isEsPath = clean === '/es' || clean.startsWith('/es/');
+
+  // Under a dynamic [param] route we cannot know which slugs exist, so we make
+  // no claim about existence: never unwrap it, never treat it as a bare article
+  // slug. But locale still applies — itinlending mirrors its state pages at
+  // es/itin-loans/[state].astro, and leaving an ES article pointing at
+  // /itin-loans/texas is exactly the locale leak the gate rejects. So localize
+  // when the ES side of the same wildcard exists, then stop.
+  const wildcards = routes.wildcards;
+  if (wildcards && wildcards.size) {
+    for (const w of wildcards) {
+      const base = w === '/' ? '' : w;
+      if (!clean.startsWith(`${base}/`)) continue;
+      if (locale === 'es' && !isEsPath && (wildcards.has(esTwin(w)) || routes.has(esTwin(w)))) {
+        return keep(esTwin(clean));
+      }
+      return keep(clean);
+    }
+  }
 
   // 1. Already real. On an ES page, prefer the Spanish twin when one exists —
   //    this is the "ES page linking to its English twin" leak the gate rejects.
@@ -169,9 +209,19 @@ export function normalizeLinks(markdown, { routes, locale = 'en' } = {}) {
   return { text, fixed, dropped };
 }
 
-// Normalize a whole article object in place (body + FAQ answers, the two fields
-// that carry prose links). Logs a one-line summary per article so a CI run
-// shows what was repaired instead of silently rewriting content.
+// Every field on an article that can carry a prose link. This list is the union
+// of what the three repos used to cover separately: publish.mjs repaired the
+// body (and quickAnswer on itinlending), while translate.mjs's
+// localizeInternalLinks covered the body, quickAnswer, description and BOTH FAQ
+// fields on the ES side. Converging on one implementation means covering all of
+// them in both locales, or the merge would silently drop coverage that existed.
+//
+// Guarded on typeof string rather than truthiness: an absent faq.q must stay
+// absent, not become the string "undefined".
+const LINKABLE_FIELDS = ['bodyMarkdown', 'quickAnswer', 'description'];
+
+// Normalize a whole article object in place. Logs a one-line summary per article
+// so a CI run shows what was repaired instead of silently rewriting content.
 export function normalizeArticleLinks(article, { routes, locale = 'en', label = '' } = {}) {
   const all = { fixed: [], dropped: [] };
 
@@ -182,9 +232,15 @@ export function normalizeArticleLinks(article, { routes, locale = 'en', label = 
     return text;
   };
 
-  if (article.bodyMarkdown) article.bodyMarkdown = run(article.bodyMarkdown);
+  for (const field of LINKABLE_FIELDS) {
+    if (typeof article[field] === 'string') article[field] = run(article[field]);
+  }
   if (Array.isArray(article.faqs)) {
-    article.faqs = article.faqs.map((f) => ({ ...f, a: run(f.a) }));
+    article.faqs = article.faqs.map((f) => ({
+      ...f,
+      ...(typeof f?.q === 'string' ? { q: run(f.q) } : {}),
+      ...(typeof f?.a === 'string' ? { a: run(f.a) } : {}),
+    }));
   }
 
   const tag = `links${label ? `(${label})` : ''}`;
