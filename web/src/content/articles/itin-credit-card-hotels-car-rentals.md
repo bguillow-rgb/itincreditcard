@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "best-starter-credit-cards-itin-zero-credit-history"
   - "no-foreign-transaction-fee-credit-card-itin"
+  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "travel-credit-card-itin-holders"
-  - "authorized-user-credit-card-itin"
 faqs:
   - q: "Do hotels check whether I used an ITIN or SSN to get my credit card?"
     a: "No. Hotels only verify that your card is valid, has sufficient available credit, and matches your name on the ID you present at check-in. Your tax ID number is never part of that process."

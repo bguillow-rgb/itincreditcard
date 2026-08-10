@@ -14,10 +14,10 @@ publishedAt: "2026-07-27"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "first-credit-card-itin-no-us-credit-history"
   - "itin-credit-card-hotels-car-rentals"
-  - "itin-credit-card-issuer-comparison-2026"
 faqs:
   - q: "Can I get a starter credit card with only an ITIN and no U.S. credit history?"
     a: "Yes. Several issuers, including Capital One, Citi, OpenSky, and Chase, explicitly accept an ITIN in place of an SSN. Secured cards are the easiest entry point because approval depends on your deposit, not on a prior U.S. credit file."
