@@ -1,35 +1,21 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import LeadForm from '../../components/LeadForm.astro';
-import Icon from '../../components/Icon.astro';
 
-const title = 'Encuentra tu Tarjeta de Crédito con ITIN';
+const title = 'Encuentra Tarjetas de Crédito para ITIN';
 const description =
-  'Conéctate con emisores de tarjetas que aceptan ITIN, tarjetas con garantía, tarjetas sin garantía y tarjetas de negocio. Sin Seguro Social. Gratis y revisar no afecta tu crédito.';
+  'Explora nuestras guías independientes para encontrar emisores de tarjetas que aceptan un ITIN en lugar del Seguro Social.';
 ---
 <BaseLayout title={title} description={description} path="/es/apply" noindex={true}>
   <section class="section">
-    <div class="container hero-grid">
-      <div>
-        <span class="eyebrow">Gratis y sin afectar tu crédito</span>
-        <h1>Encuentra tu tarjeta de crédito con ITIN</h1>
-        <p class="lede">
-          Cuéntanos un poco sobre lo que buscas y te conectamos con emisores de
-          tarjetas que aceptan un ITIN. Sin Seguro Social, sin compromiso, y
-          revisar tus opciones nunca afecta tu puntaje de crédito.
-        </p>
-        <ul class="lead-list" style="color:var(--muted)">
-          <li><strong style="color:var(--text)">Hecho para personas con ITIN</strong>, aquí los emisores aceptan el ITIN en lugar de un Seguro Social.</li>
-          <li><strong style="color:var(--text)">Todos los tipos de tarjeta</strong>, con garantía, sin garantía y de negocio.</li>
-          <li><strong style="color:var(--text)">Sin presión</strong>, compara opciones y decide a tu propio ritmo.</li>
-        </ul>
-        <p style="display:inline-flex;align-items:center;gap:8px;color:var(--accent-dark);font-weight:600">
-          <Icon name="shield" size={20} /> Tu información se mantiene privada.
-        </p>
-      </div>
-      <div>
-        <LeadForm heading="Conéctate con una tarjeta que acepta ITIN" />
-      </div>
+    <div class="container narrow" style="text-align:center;padding:48px 0">
+      <h1>Encuentra tarjetas de crédito para ITIN</h1>
+      <p class="lede" style="margin:0 auto 24px;max-width:36em">
+        Explora nuestras guías para encontrar emisores de tarjetas que aceptan
+        un ITIN en lugar del Seguro Social, tarjetas con garantía, sin garantía
+        y de negocio.
+      </p>
+      <a class="btn btn-primary btn-lg" href="/es/itin-credit-cards-guide">Ver guías de tarjetas con ITIN</a>
+      <p style="margin-top:20px"><a href="/es/articles">Ver todas las guías &rarr;</a></p>
     </div>
   </section>
 </BaseLayout>
