@@ -1,35 +1,41 @@
 ---
-import { getLangFromUrl, localizedHref } from '../i18n/ui';
+import { getLangFromUrl } from '../i18n/ui';
 
-// FHA-for-ITIN partner promo. A partner offers an FHA home-loan program open to
-// ITIN borrowers with just 3.5% down — a strong hook to drive lead-form fills.
-// `href` defaults to the localized /apply; on the homepage pass "#lead" to jump
-// to the embedded hero form instead of navigating away.
+// FHA-for-ITIN explainer promo. Editorial signposting, NOT an application:
+// this site collects no borrower information, and there is no partner funnel to
+// send anyone to. Both the CTA and the "learn more" link point at the explainer
+// article on the sister lending site, which is the only place the program is
+// actually written up. Copy was rewritten 2026-08-11 because the old version
+// ("See if you qualify in under a minute") promised a form that no longer
+// exists and landed on an unrelated cards/score page.
 interface Props { href?: string; }
 const lang = getLangFromUrl(Astro.url);
-const { href = localizedHref('/apply', lang) } = Astro.props;
 const t =
   lang === 'es'
     ? {
-        eyebrow: 'Nuevo para compradores con ITIN',
+        eyebrow: 'Préstamos FHA y prestatarios con ITIN',
         h: 'Compra una casa con solo 3.5% de enganche*',
-        p: 'Nuestro socio ofrece un programa de préstamo FHA para prestatarios con ITIN. Sin Seguro Social, con solo 3.5% de enganche.* Verifica si calificas en menos de un minuto.',
-        cta: 'Verifica si calificas',
+        p: 'Algunos prestamistas manejan un programa de préstamo FHA que acepta el ITIN en lugar del Seguro Social. El enganche empieza cerca del 3.5%.* En nuestro sitio de préstamos explicamos quién suele calificar y qué hacer si no calificas.',
+        cta: 'Cómo funciona el programa',
         badge: 'Solo 3.5% de enganche*',
-        note: '* Programa FHA ofrecido por un socio prestamista externo. Sujeto a aprobación crediticia, verificación de ingresos y requisitos del programa. No es una garantía de aprobación, tasa ni condiciones.',
+        note: '* Programa FHA ofrecido por prestamistas externos. Sujeto a aprobación crediticia, verificación de ingresos y requisitos del programa. No es una garantía de aprobación, tasa ni condiciones.',
         learnMore: 'Cómo funciona este programa',
-        learnMoreHref: 'https://itinlending.net/es/itin-fha-loan-3-5-down',
+        learnMoreHref: 'https://itinlending.net/es/articles/itin-fha-loan-3-5-down',
       }
     : {
-        eyebrow: 'New for ITIN home buyers',
+        eyebrow: 'FHA loans and ITIN borrowers',
         h: 'Buy a home with just 3.5% down*',
-        p: 'Our partner offers an FHA home-loan program open to ITIN borrowers. No SSN required, only 3.5% down.* See if you qualify in under a minute.',
-        cta: 'See if you qualify',
+        p: 'Some lenders run an FHA home-loan program that takes an ITIN in place of a Social Security number. Down payments start around 3.5%.* Our lending site covers who tends to qualify, and what your options are if you don\'t.',
+        cta: 'How the program works',
         badge: 'Only 3.5% down*',
-        note: '* FHA program offered by a third-party lending partner. Subject to credit approval, income verification, and program eligibility requirements. Not a guarantee of approval, rate, or terms.',
+        note: '* FHA program offered by third-party lenders. Subject to credit approval, income verification, and program eligibility requirements. Not a guarantee of approval, rate, or terms.',
         learnMore: 'How this program works',
-        learnMoreHref: 'https://itinlending.net/itin-fha-loan-3-5-down',
+        learnMoreHref: 'https://itinlending.net/articles/itin-fha-loan-3-5-down',
       };
+// Defaults to the explainer article; `href` still overridable per page.
+const { href = t.learnMoreHref } = Astro.props;
+// The CTA and the note link now share a destination, so drop the duplicate.
+const showLearnMore = href !== t.learnMoreHref;
 ---
 <section class="fha-promo">
   <div class="container fha-promo-inner">
@@ -40,7 +46,7 @@ const t =
     </div>
     <div class="fha-promo-cta">
       <a href={href} class="btn btn-lg fha-cta">{t.cta} &rarr;</a>
-      <p class="fha-promo-note">{t.note} <a href={t.learnMoreHref}>{t.learnMore} &rarr;</a></p>
+      <p class="fha-promo-note">{t.note}{showLearnMore && <> <a href={t.learnMoreHref}>{t.learnMore} &rarr;</a></>}</p>
     </div>
   </div>
 </section>

@@ -3,7 +3,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Icon from '../../components/Icon.astro';
 import CreditKarmaAd from '../../components/CreditKarmaAd.astro';
 import FAQ from '../../components/FAQ.astro';
-import AdSlot from '../../components/AdSlot.astro';
 import FhaPromo from '../../components/FhaPromo.astro';
 import { SITE, PRODUCTS } from '../../consts';
 
@@ -54,13 +53,12 @@ const faqs = [
           <span class="proof-pill"><span class="check">&#10003;</span> Opciones con y sin garantía</span>
         </div>
       </div>
-      <!-- Former lead-form slot. Lead gen was removed 2026-08-11; this prime
-           above-fold space now runs a display unit. Reuses the moneyFooter ad
-           unit rather than a new one, so AdSense reporting aggregates the two
-           positions. No `id="lead"` here on purpose: nothing should anchor a
-           CTA at an ad unit. -->
-      <div class="spotlight-aside ihero-form ihero-ad">
-        <AdSlot slot={SITE.monetize.adSlots.moneyFooter} />
+      <!-- Antiguo espacio del formulario (captación eliminada el 2026-08-11).
+           Muestra la unidad de Credit Karma (Awin), NO AdSense: AdSense salía en
+           blanco y dejaba un recuadro vacío en el espacio principal. Sin
+           `id="lead"`: ningún CTA debe apuntar a un anuncio. -->
+      <div class="spotlight-aside ihero-form">
+        <CreditKarmaAd creativeId="3641203" cta="Compra nuestras tarjetas asociadas aquí" alt="Credit Karma, todo para hacer crecer tus finanzas" />
       </div>
     </div>
   </section>
@@ -68,13 +66,6 @@ const faqs = [
   <!-- Promo FHA-para-ITIN. Usa el destino por defecto del componente; nunca
        debe apuntar al espacio publicitario. -->
   <FhaPromo />
-
-  <!-- Anuncio de socio reubicado bajo el pliegue para que la portada empiece con el formulario. -->
-  <section class="section-tight">
-    <div class="container narrow" style="text-align:center">
-      <CreditKarmaAd creativeId="3641203" cta="Compra nuestras tarjetas asociadas aquí" alt="Credit Karma, todo para hacer crecer tus finanzas" inline={true} />
-    </div>
-  </section>
 
   <!-- Products deck -->
   <section class="section">
