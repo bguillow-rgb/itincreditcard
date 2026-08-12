@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
-  - "low-apr-credit-card-itin-holders"
+  - "credit-card-h1b-visa-itin"
 faqs:
   - q: "¿Los hoteles verifican si usé un ITIN o un SSN para obtener mi tarjeta de crédito?"
     a: "No. Los hoteles solo comprueban que tu tarjeta sea válida, tenga suficiente crédito disponible y coincida con el nombre en la identificación que presentas al hacer el check-in. Tu número de identificación fiscal nunca forma parte de ese proceso."
