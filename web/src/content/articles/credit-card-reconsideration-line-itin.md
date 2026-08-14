@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-denied-itin-what-to-do"
+  - "credit-card-h1b-visa-itin"
   - "credit-card-prequalification-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "foreign-credit-history-credit-card-itin"
 faqs:
   - q: "Will calling a reconsideration line trigger another hard inquiry on my credit report?"
     a: "Generally no. When you call within the standard 30-day window after your original application, most issuers review the existing inquiry rather than pulling a new one. Confirm this with the representative before they begin any new review."

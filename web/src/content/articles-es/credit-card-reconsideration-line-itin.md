@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-denied-itin-what-to-do"
   - "itin-credit-card-bank-by-bank-application-guide"
   - "travel-credit-card-itin-holders"
-  - "credit-card-prequalification-itin"
+  - "credit-card-h1b-visa-itin"
 faqs:
   - q: "¿Llamar a la línea de reconsideración genera otra consulta dura en mi reporte de crédito?"
     a: "Por lo general, no. Cuando llamas dentro del período estándar de 30 días después de tu solicitud original, la mayoría de los emisores revisan la consulta existente en lugar de hacer una nueva. Confirma esto con el representante antes de que comience cualquier revisión."
