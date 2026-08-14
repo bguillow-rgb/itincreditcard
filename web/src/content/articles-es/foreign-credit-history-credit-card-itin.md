@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-h1b-visa-itin"
   - "improve-credit-card-approval-odds-itin"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "credit-card-itin-non-residents"
+  - "credit-card-daca-recipients-itin"
 faqs:
   - q: "¿Puedo usar mi historial crediticio de otro país para que me aprueben una tarjeta de crédito en EE. UU. con ITIN?"
     a: "Sí, pero solo a través de programas específicos. El programa Global Card Relationship de American Express acepta a los titulares de tarjetas Amex existentes usando su pasaporte o ITIN. Nova Credit traduce datos de burós de países compatibles para un número reducido de emisores en EE. UU. Fuera de esos programas, los prestamistas en EE. UU. no ven automáticamente tu historial crediticio extranjero."

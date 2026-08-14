@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
+  - "credit-card-daca-recipients-itin"
   - "credit-card-international-students-itin"
   - "credit-card-undocumented-immigrants-itin"
-  - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "¿Puedo precalificarme para una tarjeta de crédito usando mi ITIN en lugar del SSN?"
     a: "Sí. La herramienta de precalificación de Capital One acepta explícitamente el ITIN en lugar del SSN. American Express, Chase y varios otros emisores también permiten ingresar el ITIN en sus páginas de precalificación o preaprobación. La consulta suave que se usa durante la precalificación no afecta tu puntaje de crédito."
