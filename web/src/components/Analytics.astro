@@ -44,8 +44,10 @@ const enableAds = isProd && Boolean(adsense);
 {/* Event tracking. Centralized + delegated so it works on every page without
     editing each bespoke component. All calls no-op until GA4 is live (gtag
     absent => itrack does nothing), so this is safe in dev and pre-launch.
-    Events: lead_form_start, generate_lead (+ thank_you_view), affiliate_click,
-    cta_click. generate_lead/affiliate_click are marked Key Events in GA4. */}
+    Events: affiliate_click, cta_click, cross_site_click. affiliate_click is
+    marked a Key Event in GA4. (Lead events removed 2026-08-17 — the lead forms
+    themselves were removed from all three sites on 2026-08-11 for compliance,
+    so this tracking had been dead code since. See project-docs/CHANGELOG.md.) */}
 <script is:inline>
   (function () {
     function itrack(name, params) {
@@ -53,26 +55,7 @@ const enableAds = isProd && Boolean(adsense);
     }
     window.itrack = itrack;
 
-    // Conversion: the thank-you page is the lead-submit destination. Fire the
-    // conversion here (robust even if the submit handler changes), reading the
-    // product the user picked from ?for=<money-page-slug>.
-    if (location.pathname.indexOf('thank-you') > -1) {
-      var product = new URLSearchParams(location.search).get('for') || '';
-      itrack('thank_you_view', { product: product });
-      itrack('generate_lead', { product: product });
-    }
-
-    // Lead-form engagement: first focus into a lead form, once per page.
-    var leadStarted = false;
-    document.addEventListener('focusin', function (e) {
-      if (leadStarted || !e.target.closest) return;
-      if (e.target.closest('form[data-leadform]')) {
-        leadStarted = true;
-        itrack('lead_form_start', { page_path: location.pathname });
-      }
-    });
-
-    // Outbound affiliate clicks (CJ deep links carry rel="sponsored") and the
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
     // primary apply CTA. page_path gives per-product attribution on money pages.
     document.addEventListener('click', function (e) {
       var a = e.target.closest && e.target.closest('a[href]');
@@ -81,6 +64,16 @@ const enableAds = isProd && Boolean(adsense);
       var href = a.getAttribute('href') || '';
       if (rel.indexOf('sponsored') > -1) {
         itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
       } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
         itrack('cta_click', { link_url: href, page_path: location.pathname });
       }
