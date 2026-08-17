@@ -1,5 +1,5 @@
 ---
-title: "Tarjeta de Crédito Empresarial con ITIN (Guía 2026)"
+title: "Tarjeta de crédito empresarial con ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden obtener una tarjeta de crédito empresarial. Descubre qué emisores aceptan ITIN, qué documentos necesitas y cómo construir crédito empresarial sin SSN."
 tier: detail
 targetQuery: "tarjeta de crédito empresarial con ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito Sin Cuota Anual para Titulares de ITIN (2026)"
+title: "Tarjetas de crédito con ITIN sin cuota anual (2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito sin cuota anual. Compara las mejores opciones de $0 de Capital One, OpenSky y más, sin necesidad de SSN."
 tier: detail
 targetQuery: "tarjeta de crédito sin cuota anual para titulares de ITIN"

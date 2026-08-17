@@ -1,5 +1,5 @@
 ---
-title: "Cómo usar tu tarjeta de crédito ITIN en hoteles y alquiler de autos"
+title: "Cómo usar tu tarjeta ITIN en hoteles y renta de autos"
 description: "Sí, puedes usar una tarjeta de crédito ITIN para reservar hoteles y rentar autos. Aprende cómo funcionan los cargos de autorización, qué tarjetas convienen más y cómo evitar problemas comunes."
 tier: detail
 targetQuery: "puedo usar mi tarjeta de crédito ITIN para reservar hotel o rentar un auto"

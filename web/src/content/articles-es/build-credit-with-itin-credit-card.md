@@ -1,5 +1,5 @@
 ---
-title: "Cómo construir crédito rápido con una tarjeta de crédito con ITIN (2026)"
+title: "Cómo construir crédito rápido con una tarjeta ITIN"
 description: "Sí, los titulares de ITIN pueden construir crédito en EE. UU. rápidamente. Aprende los hábitos exactos con tarjetas, el tiempo que toma y los errores que debes evitar para alcanzar un puntaje de 700+ en 12-18 meses."
 tier: detail
 targetQuery: "cómo construir crédito rápido con una tarjeta de crédito con ITIN"

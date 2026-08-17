@@ -1,5 +1,5 @@
 ---
-title: "Cómo mejorar tus posibilidades de aprobación de tarjeta de crédito con un ITIN"
+title: "Cómo mejorar tus probabilidades de aprobación con ITIN"
 description: "Sí, los titulares de ITIN pueden aumentar sus probabilidades de aprobación eligiendo la tarjeta correcta, construyendo una relación bancaria y usando herramientas de precalificación. Guía completa 2026."
 tier: detail
 targetQuery: "cómo mejorar posibilidades de aprobación de tarjeta de crédito con ITIN"

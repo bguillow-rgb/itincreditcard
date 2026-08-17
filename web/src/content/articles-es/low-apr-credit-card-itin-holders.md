@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito con APR bajo para titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito con ITIN y APR bajo (2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito con APR bajo o del 0%. Compara tus mejores opciones, conoce qué tasas puedes esperar y cómo evitar pagar intereses por completo."
 tier: detail
 targetQuery: "tarjeta de crédito con APR bajo para titulares de ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Tarjeta de Crédito Conjunta con ITIN: Todo Lo Que Necesitas Saber"
+title: "Tarjeta de crédito conjunta con ITIN: cómo funciona"
 description: "¿Puedes abrir una tarjeta de crédito conjunta con un ITIN? La mayoría de los grandes emisores no lo permiten, pero algunos bancos sí. Aquí te explicamos quién califica, qué documentos necesitas y cuáles son las mejores alternativas."
 tier: detail
 targetQuery: "puedo obtener una tarjeta de crédito conjunta con ITIN"

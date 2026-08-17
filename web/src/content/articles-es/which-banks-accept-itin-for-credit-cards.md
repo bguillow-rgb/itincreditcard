@@ -1,5 +1,5 @@
 ---
-title: "¿Qué bancos aceptan el ITIN para tarjetas de crédito? (Guía 2026)"
+title: "¿Qué bancos aceptan ITIN para tarjetas de crédito?"
 description: "Sí, Chase, Amex, Capital One, Bank of America y más aceptan el ITIN en solicitudes de tarjetas de crédito. Descubre exactamente qué emisores y tarjetas aceptan el ITIN en 2026."
 tier: detail
 targetQuery: "qué bancos aceptan el ITIN para tarjetas de crédito"

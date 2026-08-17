@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito con ITIN: Guía por Banco para Solicitantes (2026)"
+title: "Tarjetas de crédito con ITIN: guía banco por banco"
 description: "Guía verificada 2026: qué bancos y cooperativas de crédito aceptan el ITIN para tarjetas de crédito, requisitos exactos, montos de depósito, solicitud en línea vs. en sucursal, y las mejores tarjetas disponibles."
 tier: flagship
 targetQuery: "qué bancos permiten solicitar una tarjeta de crédito con ITIN"

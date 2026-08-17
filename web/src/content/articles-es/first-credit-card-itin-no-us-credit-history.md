@@ -1,5 +1,5 @@
 ---
-title: "Primera Tarjeta de Crédito con ITIN y Sin Historial Crediticio en EE.UU."
+title: "Primera tarjeta de crédito con ITIN y sin historial"
 description: "Sí puedes obtener tu primera tarjeta de crédito en EE.UU. con un ITIN y sin historial crediticio. Descubre qué tarjetas aprueban a recién llegados, qué documentos necesitas y cómo solicitarla."
 tier: detail
 targetQuery: "primera tarjeta de crédito con itin sin historial crediticio en estados unidos"

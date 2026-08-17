@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito con Recompensas para Titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito con recompensas y ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden ganar reembolso en efectivo y recompensas de viaje. Descubre qué tarjetas ofrecen beneficios sin SSN, cómo calificar y cómo aprovechar cada dólar al máximo."
 tier: detail
 targetQuery: "tarjeta de crédito con recompensas para titulares de ITIN"

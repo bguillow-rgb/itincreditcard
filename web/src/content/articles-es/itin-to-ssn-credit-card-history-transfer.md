@@ -1,5 +1,5 @@
 ---
-title: "ITIN a SSN: ¿Qué pasa con tus tarjetas de crédito? (2026)"
+title: "ITIN a SSN: ¿qué pasa con tus tarjetas de crédito?"
 description: "¿Recibiste un SSN después de usar un ITIN? Tus tarjetas de crédito y tu historial crediticio no desaparecen. Aprende exactamente cómo proteger tus tarjetas y transferir tu expediente."
 tier: detail
 targetQuery: "qué pasa con mi tarjeta de crédito cuando obtengo un SSN después de tener ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Tarjeta de crédito asegurada con ITIN: Las mejores opciones y cómo solicitarla"
+title: "Tarjeta de crédito asegurada con ITIN: cómo solicitarla"
 description: "Sí, puedes obtener una tarjeta de crédito asegurada con tu ITIN, sin necesidad de SSN. Compara las mejores tarjetas que aceptan ITIN y sigue nuestra guía paso a paso para aplicar."
 tier: detail
 targetQuery: "tarjeta de crédito asegurada con ITIN"

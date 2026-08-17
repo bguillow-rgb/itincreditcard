@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para estudiantes internacionales con ITIN (2026)"
+title: "Tarjetas de crédito con ITIN para estudiantes (2026)"
 description: "Sí, los estudiantes internacionales pueden obtener una tarjeta de crédito en EE. UU. con un ITIN en lugar de un SSN. Descubre qué tarjetas aceptan ITIN, qué documentos necesitas y cómo construir crédito rápido."
 tier: detail
 targetQuery: "tarjeta de crédito para estudiantes internacionales con ITIN"

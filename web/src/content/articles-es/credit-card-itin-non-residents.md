@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito con ITIN para no residentes (Guía 2026)"
+title: "Tarjetas de crédito con ITIN para no residentes 2026"
 description: "Sí, los no residentes pueden obtener una tarjeta de crédito de EE. UU. con un ITIN. Descubre qué tarjetas aceptan ITIN sin dirección en EE. UU., qué documentos necesitas y cómo solicitarla desde el extranjero."
 tier: detail
 targetQuery: "tarjeta de crédito con ITIN para no residentes"

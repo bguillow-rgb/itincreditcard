@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para inmigrantes indocumentados con ITIN (2026)"
+title: "Tarjetas de crédito con ITIN para indocumentados"
 description: "Sí, los inmigrantes indocumentados pueden obtener una tarjeta de crédito usando un ITIN. Descubre qué emisores aceptan ITIN, qué documentos necesitas y qué tarjetas son más fáciles de aprobar."
 tier: detail
 targetQuery: "pueden los inmigrantes indocumentados obtener una tarjeta de crédito con ITIN"

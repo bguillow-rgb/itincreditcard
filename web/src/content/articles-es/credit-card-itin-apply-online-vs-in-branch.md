@@ -1,5 +1,5 @@
 ---
-title: "Solicitar una tarjeta de crédito con ITIN: ¿en línea o en sucursal?"
+title: "Tarjeta con ITIN: ¿solicitar en línea o en sucursal?"
 description: "Sí, puedes solicitar una tarjeta de crédito en línea con tu ITIN, pero algunos bancos exigen que vayas a una sucursal. Esta guía 2026 te dice exactamente qué método funciona con cada emisor."
 tier: detail
 targetQuery: "puedo solicitar una tarjeta de crédito con ITIN en línea o tengo que ir a la sucursal"

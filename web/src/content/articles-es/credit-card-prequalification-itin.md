@@ -1,5 +1,5 @@
 ---
-title: "Precalificación de tarjetas de crédito con ITIN (Guía 2026)"
+title: "Precalificación de tarjetas de crédito con ITIN 2026"
 description: "Sí, los titulares de ITIN pueden precalificarse para tarjetas de crédito sin una consulta dura. Aprende qué emisores aceptan el ITIN en el paso de precalificación y cómo proteger tu crédito."
 tier: detail
 targetQuery: "cómo precalificarme para una tarjeta de crédito con ITIN"

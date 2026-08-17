@@ -1,5 +1,5 @@
 ---
-title: "Depósitos para tarjetas de crédito aseguradas con ITIN (2026)"
+title: "Depósito de tarjetas aseguradas con ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden abrir tarjetas aseguradas con depósitos desde $49. Aprende exactamente cómo funciona el depósito, cuándo te lo devuelven y qué tarjetas aceptan ITIN."
 tier: detail
 targetQuery: "cómo funciona el depósito de una tarjeta de crédito asegurada con ITIN"

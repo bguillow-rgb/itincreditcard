@@ -1,5 +1,5 @@
 ---
-title: "¿Puedes obtener una tarjeta de crédito con un ITIN? (Sí, así se hace)"
+title: "¿Se puede obtener una tarjeta de crédito con ITIN?"
 description: "Sí, los titulares de ITIN pueden obtener una tarjeta de crédito sin SSN. Descubre qué emisores aceptan un ITIN, cómo solicitar paso a paso y cómo empezar a construir crédito en EE. UU. de inmediato."
 tier: detail
 targetQuery: "puedo obtener una tarjeta de crédito con ITIN"

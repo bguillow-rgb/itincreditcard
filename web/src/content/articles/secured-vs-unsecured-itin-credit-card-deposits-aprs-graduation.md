@@ -1,5 +1,5 @@
 ---
-title: "Secured vs. Unsecured ITIN Credit Cards: Deposits, APRs & Graduation"
+title: "Secured vs. Unsecured ITIN Credit Cards: Deposits & APRs"
 description: "Real issuer data on secured vs. unsecured credit cards for ITIN holders: exact deposits, APRs, and graduation timelines compared across 8 cards in 2026."
 tier: flagship
 targetQuery: "secured vs unsecured credit card with ITIN deposits APRs and graduation timelines compared"

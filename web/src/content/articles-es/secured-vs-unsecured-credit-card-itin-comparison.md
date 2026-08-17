@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito aseguradas vs. no aseguradas con ITIN: Comparación 2026"
+title: "Tarjeta con ITIN: asegurada vs. no asegurada (2026)"
 description: "¿Tarjeta asegurada o no asegurada con ITIN? Compara emisores reales, depósitos ($49-$5,000), APRs, plazos para graduarte (6-18 meses) y cuál tarjeta elegir en 2026."
 tier: flagship
 targetQuery: "tarjeta de crédito asegurada vs no asegurada con ITIN cuál es mejor"

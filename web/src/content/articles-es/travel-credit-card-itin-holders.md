@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito de Viaje para Titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito de viaje con ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito de viaje. Descubre qué emisores aceptan un ITIN, las mejores tarjetas disponibles y cómo maximizar millas sin un SSN."
 tier: detail
 targetQuery: "tarjeta de crédito de viaje para titulares de ITIN"

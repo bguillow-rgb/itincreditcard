@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito con Transferencia de Saldo para Titulares de ITIN (2026)"
+title: "Tarjetas con ITIN y transferencia de saldo (2026)"
 description: "Sí, los titulares de ITIN pueden hacer transferencias de saldo. Conoce qué tarjetas aceptan un ITIN, cómo funciona el proceso y cómo ahorrar en intereses sin tener un SSN."
 tier: detail
 targetQuery: "tarjeta de crédito para transferencia de saldo con ITIN"

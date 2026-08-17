@@ -1,5 +1,5 @@
 ---
-title: "¿Te rechazaron una tarjeta de crédito con tu ITIN? Esto es lo que debes hacer"
+title: "¿Te rechazaron la tarjeta de crédito con ITIN? Qué hacer"
 description: "¿Te negaron una tarjeta de crédito usando tu ITIN? Descubre las razones exactas, cómo llamar a la línea de reconsideración y qué tarjetas solicitar después. Guía paso a paso."
 tier: detail
 targetQuery: "rechazaron tarjeta de crédito con itin qué hacer"

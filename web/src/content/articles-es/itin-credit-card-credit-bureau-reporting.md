@@ -1,5 +1,5 @@
 ---
-title: "¿Tu tarjeta de crédito con ITIN reporta a los 3 burós? (2026)"
+title: "¿Tu tarjeta con ITIN reporta a los 3 burós? (2026)"
 description: "Sí, la mayoría de las tarjetas de crédito con ITIN reportan a Experian, Equifax y TransUnion. Descubre qué tarjetas reportan a los tres, cómo verificarlo antes de aplicar y cómo obtener tu reporte de crédito siendo titular de un ITIN."
 tier: detail
 targetQuery: "mi tarjeta de crédito con ITIN reporta a los tres burós de crédito"

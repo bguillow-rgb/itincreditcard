@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito aseguradas vs. no aseguradas con ITIN: depósitos, APR y graduación"
+title: "Tarjetas aseguradas con ITIN: depósito, APR y graduación"
 description: "Datos reales de emisores sobre tarjetas de crédito aseguradas y no aseguradas para titulares de ITIN: depósitos exactos, APR y plazos de graduación comparados en 8 tarjetas para 2026."
 tier: flagship
 targetQuery: "tarjeta de crédito asegurada vs no asegurada con ITIN depósitos APR y plazos de graduación comparados"

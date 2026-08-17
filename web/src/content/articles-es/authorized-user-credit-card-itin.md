@@ -1,5 +1,5 @@
 ---
-title: "Conviértete en usuario autorizado con un ITIN (Guía 2026)"
+title: "Conviértete en usuario autorizado con un ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden convertirse en usuarios autorizados en tarjetas de crédito de EE. UU., sin necesidad de SSN en la mayoría de los emisores. Descubre qué bancos lo permiten, qué se reporta y cómo usarlo para construir crédito rápido."
 tier: detail
 targetQuery: "convertirse en usuario autorizado en tarjeta de crédito con ITIN"

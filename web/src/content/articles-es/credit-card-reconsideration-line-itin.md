@@ -1,5 +1,5 @@
 ---
-title: "Línea de Reconsideración de Tarjetas de Crédito para Titulares de ITIN (2026)"
+title: "Línea de reconsideración de tarjetas con ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden llamar a las líneas de reconsideración después de un rechazo. Descubre qué emisores las ofrecen, qué decir y cómo convertir un «no» en una aprobación."
 tier: detail
 targetQuery: "cómo llamar a la línea de reconsideración de tarjeta de crédito con ITIN"

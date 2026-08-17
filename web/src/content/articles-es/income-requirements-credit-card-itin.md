@@ -1,5 +1,5 @@
 ---
-title: "Requisitos de ingresos para una tarjeta de crédito con ITIN (Guía 2026)"
+title: "Requisitos de ingresos para una tarjeta con ITIN 2026"
 description: "Sí, los titulares de ITIN necesitan demostrar ingresos para la mayoría de las tarjetas de crédito. Descubre qué cuenta como ingreso, cuánto piden, qué emisores lo verifican y cómo solicitar con confianza."
 tier: detail
 targetQuery: "qué ingresos necesito para obtener una tarjeta de crédito con ITIN"

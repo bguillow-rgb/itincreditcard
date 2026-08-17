@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para titulares de visa H-1B con ITIN (2026)"
+title: "Tarjetas de crédito con ITIN para visa H-1B (2026)"
 description: "Sí, los titulares de visa H-1B pueden obtener una tarjeta de crédito con un ITIN. Descubre qué emisores te aprueban, qué documentos necesitas y cómo construir crédito en EE. UU. rápidamente."
 tier: detail
 targetQuery: "tarjeta de crédito para visa H-1B con ITIN"

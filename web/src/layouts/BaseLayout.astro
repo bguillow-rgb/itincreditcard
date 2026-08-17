@@ -54,10 +54,28 @@ const esHref = abs(altPath(pathname, 'es'));
 
 const tagline = isEs ? SITE.taglineEs : SITE.tagline;
 const homeTitle = isEs ? SITE.homeTitleEs : SITE.homeTitle;
+
+// Brand suffix is appended ONLY when the finished title still fits Google's
+// ~60-character cut. Unconditional appending is what broke this site: ` | ITIN
+// Credit Card` is 19 characters, and the 2026-08-17 audit found that 96 of 96
+// article titles (48 EN + 48 ES) and 7 of 8 money pages rendered over 60 — the
+// Spanish set at a median of 87 — so the words that actually distinguish each
+// page were being truncated out of every SERP snippet. The same defect on
+// itinlending.net produced four consecutive audits of page-1 ES rankings with
+// zero clicks, and shortening the titles there produced that site's first ES
+// click within a week.
+//
+// A guard beats a one-time cleanup: this makes it impossible for a future title
+// to be pushed over the cut by the suffix. The brand is still in the domain,
+// which Google renders beside the title anyway.
+const TITLE_MAX = 60;
+const brandSuffix = ` | ${SITE.name}`;
 const fullTitle =
   title === SITE.name
     ? `${SITE.name} | ${homeTitle}`
-    : `${title} | ${SITE.name}`;
+    : title.length + brandSuffix.length <= TITLE_MAX
+      ? `${title}${brandSuffix}`
+      : title;
 ---
 <!doctype html>
 <html lang={isEs ? 'es' : 'en'}>

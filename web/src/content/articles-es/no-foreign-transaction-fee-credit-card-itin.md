@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito sin Cargo por Transacción Extranjera para Titulares de ITIN"
+title: "Tarjetas con ITIN sin cargo por transacción extranjera"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito sin cargo por transacción extranjera. Compara tarjetas amigables con ITIN que eliminan ese cobro y descubre qué emisores aprueban sin SSN."
 tier: detail
 targetQuery: "tarjeta de crédito sin cargo por transacción extranjera para titulares de ITIN"

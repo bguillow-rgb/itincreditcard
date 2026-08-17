@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito de Tiendas que Aceptan ITIN (Guía 2026)"
+title: "Tarjetas de crédito de tiendas que aceptan ITIN 2026"
 description: "Sí, algunas tarjetas de crédito de tiendas aceptan un ITIN en lugar de un SSN. Descubre cuáles tarjetas funcionan para titulares de ITIN, consejos para que te aprueben y cómo usarlas para construir crédito en EE. UU."
 tier: detail
 targetQuery: "tarjeta de crédito de tienda con ITIN"

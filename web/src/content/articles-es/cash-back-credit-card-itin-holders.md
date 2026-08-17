@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito con Cash Back para Titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito con cash back y ITIN (2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito con cash back. Descubre qué emisores aceptan un ITIN, qué tarjetas devuelven más dinero y cómo elegir la correcta."
 tier: detail
 targetQuery: "tarjeta de crédito con cash back para titulares de ITIN"

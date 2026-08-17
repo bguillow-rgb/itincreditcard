@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito sin Verificación de Crédito para Titulares de ITIN (2026)"
+title: "Tarjetas con ITIN sin verificación de crédito (2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito sin verificación de crédito. Descubre cuáles tarjetas evitan el hard pull, qué puedes esperar y cómo empezar a construir tu historial crediticio en EE. UU. hoy."
 tier: detail
 targetQuery: "tarjeta de crédito sin verificación de crédito para titulares de ITIN"

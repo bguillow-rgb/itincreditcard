@@ -1,5 +1,5 @@
 ---
-title: "Orden Ejecutiva 2026 y Tarjetas de Crédito con ITIN: Qué Cambia Ahora"
+title: "Orden ejecutiva 2026 y tarjetas con ITIN: qué cambia"
 description: "Sí, todavía puedes solicitar una tarjeta de crédito con ITIN en 2026, pero la EO 14406 añade un escrutinio adicional. Aquí te explicamos exactamente qué cambia, qué no, y qué hacer ahora."
 tier: detail
 targetQuery: "cómo afecta la orden ejecutiva 2026 a las solicitudes de tarjeta de crédito con ITIN"

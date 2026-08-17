@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para beneficiarios de DACA con ITIN (2026)"
+title: "Tarjetas de crédito con ITIN para DACA (2026)"
 description: "Sí, los beneficiarios de DACA pueden obtener tarjetas de crédito usando un ITIN o SSN. Descubre qué emisores aprueban a Dreamers, qué documentos necesitas y cómo construir crédito en EE. UU."
 tier: detail
 targetQuery: "tarjeta de crédito para beneficiarios de DACA con ITIN"

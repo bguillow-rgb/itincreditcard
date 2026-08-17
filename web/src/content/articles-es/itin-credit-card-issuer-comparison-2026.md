@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito con ITIN 2026: comparación banco por banco"
+title: "Comparación de tarjetas de crédito con ITIN (2026)"
 description: "Sí puedes obtener una tarjeta de crédito con tu ITIN. Compara todos los emisores importantes que aceptan ITIN en 2026, con límites reales, comisiones, APR y probabilidades de aprobación lado a lado."
 tier: flagship
 targetQuery: "qué tarjetas de crédito aceptan número ITIN 2026 comparación"

@@ -1,5 +1,5 @@
 ---
-title: "Cómo Recuperar el Depósito de tu Tarjeta Asegurada con un ITIN"
+title: "Recuperar el depósito de tu tarjeta asegurada con ITIN"
 description: "Sí, los titulares de ITIN recuperan su depósito. Conoce las dos formas de hacerlo, los plazos según el emisor y la advertencia clave de Citi que afecta a quienes solo tienen ITIN."
 tier: detail
 targetQuery: "cómo recuperar el depósito de mi tarjeta de crédito asegurada con ITIN"

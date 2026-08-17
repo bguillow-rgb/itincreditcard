@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito con ITIN: garantizadas vs. no garantizadas con datos reales de emisores"
+title: "Con ITIN: garantizada vs. no garantizada, por emisor"
 description: "Compara tarjetas de crédito garantizadas y no garantizadas para titulares de ITIN: depósitos reales, APR y tiempos de graduación. Datos verificados 2026 de Capital One, Citi, OpenSky, Chase, Zolve y más."
 tier: flagship
 targetQuery: "tarjeta de crédito garantizada vs no garantizada con ITIN depósitos APR y tiempos de graduación comparados"

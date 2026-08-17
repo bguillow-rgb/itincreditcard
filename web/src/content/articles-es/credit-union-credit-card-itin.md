@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito en Cooperativas de Crédito para Titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito con ITIN en cooperativas 2026"
 description: "Sí, muchas cooperativas de crédito aceptan el ITIN para tarjetas de crédito. Descubre cuáles, por qué aprueban más que los grandes bancos y cómo unirte sin SSN."
 tier: detail
 targetQuery: "tarjeta de crédito en cooperativa de crédito con ITIN"

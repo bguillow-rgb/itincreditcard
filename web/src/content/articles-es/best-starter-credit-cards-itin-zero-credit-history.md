@@ -1,5 +1,5 @@
 ---
-title: "Las Mejores Tarjetas de Crédito para Comenzar con ITIN: Ranking desde Cero Historial"
+title: "Mejores tarjetas con ITIN sin historial crediticio"
 description: "7 tarjetas de crédito iniciales verificadas que aceptan ITIN sin historial crediticio en EE.UU. Compara depósitos, comisiones, APR y opciones de mejora. Última verificación: 27 de julio de 2026."
 tier: flagship
 targetQuery: "mejores tarjetas de crédito para construir historial con ITIN desde cero"

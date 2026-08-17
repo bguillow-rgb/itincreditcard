@@ -1,5 +1,5 @@
 ---
-title: "Usa tu historial crediticio extranjero para obtener una tarjeta de crédito en EE. UU. con ITIN"
+title: "Historial crediticio extranjero para tarjeta con ITIN"
 description: "Sí, algunos emisores permiten que los titulares de ITIN usen su historial crediticio extranjero para solicitar una tarjeta en EE. UU. Descubre qué programas funcionan, qué documentos necesitas y cómo construir tu crédito desde ahí."
 tier: detail
 targetQuery: "puedo usar mi historial crediticio extranjero para obtener una tarjeta de crédito con ITIN"

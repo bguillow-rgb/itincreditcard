@@ -1,5 +1,5 @@
 ---
-title: "Cómo pasar de una tarjeta de crédito asegurada a una no asegurada con ITIN (2026)"
+title: "Cómo pasar de tarjeta asegurada a no asegurada con ITIN"
 description: "Sí, los titulares de ITIN pueden graduarse de una tarjeta asegurada a una no asegurada. Conoce qué emisores ofrecen esa opción, cuándo solicitarla y cómo recuperar tu depósito."
 tier: detail
 targetQuery: "cómo pasar de tarjeta de crédito asegurada a no asegurada con ITIN"

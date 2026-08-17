@@ -1,5 +1,5 @@
 ---
-title: "ITIN Vencido y Tu Tarjeta de Crédito: Qué Pasa (2026)"
+title: "ITIN vencido y tu tarjeta de crédito: qué pasa (2026)"
 description: "Tus tarjetas de crédito actuales permanecen abiertas cuando tu ITIN vence. Pero solicitar una tarjeta nueva puede ser bloqueado. Aprende exactamente qué hacer para proteger tu crédito."
 tier: detail
 targetQuery: "qué pasa con mi tarjeta de crédito si mi ITIN vence"
