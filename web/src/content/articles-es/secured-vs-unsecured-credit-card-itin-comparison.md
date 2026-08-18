@@ -15,8 +15,8 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "build-credit-with-itin-credit-card"
+  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada en EE.UU. solo con ITIN?"

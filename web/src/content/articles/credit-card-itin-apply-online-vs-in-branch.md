@@ -14,10 +14,10 @@ publishedAt: "2026-07-17"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "itin-credit-card-bank-by-bank-application-guide"
   - "how-to-apply-for-credit-card-with-itin"
   - "which-banks-accept-itin-for-credit-cards"
-  - "credit-card-h1b-visa-itin"
 faqs:
   - q: "Can I apply for a credit card with my ITIN number online?"
     a: "Yes, many issuers including Capital One and American Express accept ITIN on fully online applications. You typically enter your ITIN in the same field where the form asks for a Social Security number. Fintechs like OpenSky and Firstcard are also built for fully online ITIN applications."

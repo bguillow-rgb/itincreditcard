@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-credit-card-deposit-itin-holders"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
-  - "upgrade-secured-to-unsecured-credit-card-itin"
+  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN retrasa el reembolso de mi depósito?"
     a: "No. El plazo del reembolso depende de la política de graduación del emisor, no de si usaste un ITIN o un SSN. Una vez que cumples los requisitos del emisor (pagos a tiempo, utilización baja, cuenta al día), recibes tu depósito en el mismo plazo que cualquier otro tarjetahabiente."

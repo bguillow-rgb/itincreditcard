@@ -14,8 +14,8 @@ publishedAt: "2026-08-10"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
   - "get-secured-credit-card-deposit-back-itin"
   - "build-credit-with-itin-credit-card"
 faqs:

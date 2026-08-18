@@ -14,10 +14,10 @@ publishedAt: "2026-07-20"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "credit-card-itin-apply-online-vs-in-branch"
   - "itin-credit-card-issuer-comparison-2026"
   - "which-banks-accept-itin-for-credit-cards"
-  - "credit-card-denied-itin-what-to-do"
 faqs:
   - q: "¿Qué bancos aceptan el ITIN en lugar del SSN para una tarjeta de crédito?"
     a: "Bank of America, Capital One, Chase, American Express, Citibank y Wells Fargo aceptan el ITIN para solicitudes de tarjetas de crédito. U.S. Bank acepta el ITIN solo para tarjetas aseguradas. Discover y USAA requieren un SSN."
