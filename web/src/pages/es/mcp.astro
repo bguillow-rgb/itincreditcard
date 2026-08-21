@@ -1,0 +1,101 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+// Página de descubrimiento MCP (ES). Un solo servidor cubre los tres sitios ITIN;
+// esta página lo presenta para el público de tarjetas de crédito y enlaza el
+// mismo endpoint que documenta el sitio de préstamos.
+
+const title = 'Datos de Tarjetas ITIN para Asistentes de IA (Servidor MCP)';
+const description =
+  'Conecta Claude, ChatGPT o cualquier cliente MCP a un directorio verificado de emisores que aceptan ITIN, más 290+ guías bilingües. Gratis, solo lectura, sin API key.';
+
+const REMOTE = 'https://qnthujurzakdmngcidsg.supabase.co/functions/v1/mcp';
+const CLAUDE_INSTALL =
+  'https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=ITIN%20Finance&connectorUrl=https%3A%2F%2Fqnthujurzakdmngcidsg.supabase.co%2Ffunctions%2Fv1%2Fmcp';
+---
+
+<BaseLayout title={title} description={description} path="/es/mcp">
+  <section class="section">
+    <div class="container narrow">
+      <span class="tag">Para desarrolladores y usuarios de IA</span>
+      <h1 style="margin-top:10px">Pregúntale a tu IA qué tarjetas aceptan ITIN de verdad</h1>
+
+      <p>
+        La mayoría de los asistentes de IA responden preguntas sobre tarjetas de
+        crédito con ITIN usando lo que encontraron por ahí. Este servidor les da
+        algo mejor: un directorio de emisores que hemos verificado que aceptan un
+        ITIN en lugar de un número de Seguro Social, además de 290+ guías y 1,800+
+        preguntas frecuentes en inglés y español. Conéctalo una vez y tu asistente
+        podrá nombrar emisores concretos, citar el artículo de donde salió la
+        información y decirte cuándo se verificó por última vez.
+      </p>
+
+      <p>
+        <strong>No somos un prestamista, un bróker ni un emisor de tarjetas.</strong>
+        Cada respuesta lleva un aviso editorial, las fichas del directorio no se
+        pagan y aquí no se ofrece ninguna solicitud.
+      </p>
+
+      <h2>Conéctalo en un minuto</h2>
+
+      <p><strong>Claude</strong>: un clic y luego confirma el conector:</p>
+      <p>
+        <a class="btn" href={CLAUDE_INSTALL} rel="noopener">Conectar con Claude</a>
+      </p>
+
+      <p><strong>Cualquier cliente que acepte una URL</strong> (modo desarrollador de ChatGPT, Cursor y otros): pega el endpoint. Sin instalación ni API key:</p>
+      <pre><code>{REMOTE}</code></pre>
+
+      <p><strong>Claude Desktop</strong> y otros clientes que ejecutan servidores locales: agrega esto a tu configuración MCP:</p>
+      <pre is:raw><code>{
+  "mcpServers": {
+    "itin-finance": { "command": "npx", "args": ["-y", "itin-finance-mcp"] }
+  }
+}</code></pre>
+
+      <h2>¿Qué puede responder?</h2>
+      <ul>
+        <li>&laquo;&iquest;Qu&eacute; bancos aprueban una tarjeta de cr&eacute;dito con ITIN y sin historial?&raquo;</li>
+        <li>&laquo;&iquest;Me conviene m&aacute;s una tarjeta asegurada o una sin dep&oacute;sito ahora mismo?&raquo;</li>
+        <li>&laquo;&iquest;Qu&eacute; documentos me piden en la sucursal y cu&aacute;les en l&iacute;nea?&raquo;</li>
+        <li>&laquo;&iquest;C&oacute;mo saco un ITIN con el Formulario W-7?&raquo;</li>
+      </ul>
+
+      <h2>Las herramientas que expone</h2>
+      <table>
+        <thead><tr><th>Herramienta</th><th>Qu&eacute; hace</th></tr></thead>
+        <tbody>
+          <tr><td><code>search_guides</code></td><td>Busca en las 290+ gu&iacute;as (EN/ES); devuelve respuestas r&aacute;pidas y URLs can&oacute;nicas</td></tr>
+          <tr><td><code>get_guide</code></td><td>Una gu&iacute;a por slug: respuesta r&aacute;pida, preguntas frecuentes y gu&iacute;as relacionadas</td></tr>
+          <tr><td><code>faq_lookup</code></td><td>Respuestas directas de 1,800+ preguntas frecuentes editoriales</td></tr>
+          <tr><td><code>find_itin_lenders</code></td><td>Instituciones que aceptan ITIN por tipo de tarjeta o pr&eacute;stamo, con filtro por estado</td></tr>
+          <tr><td><code>get_lender_details</code></td><td>Perfil verificado completo de una instituci&oacute;n</td></tr>
+          <tr><td><code>can_i_get_this_loan</code></td><td>&laquo;&iquest;Puedo obtener X con ITIN?&raquo;: respuesta m&aacute;s instituciones verificadas</td></tr>
+          <tr><td><code>itin_state_info</code></td><td>Contexto sobre impuestos estatales y licencias de conducir</td></tr>
+          <tr><td><code>how_to_get_an_itin</code></td><td>El proceso del Formulario W-7 del IRS, en ingl&eacute;s y espa&ntilde;ol</td></tr>
+        </tbody>
+      </table>
+
+      <h2>Acceso, privacidad y atribuci&oacute;n</h2>
+      <p>
+        Todas las herramientas son de solo lectura y p&uacute;blicas: no hace falta
+        cuenta, API key ni inicio de sesi&oacute;n. Cada respuesta incluye la fuente,
+        la URL can&oacute;nica del art&iacute;culo y la fecha de consulta; puedes citar
+        libremente con atribuci&oacute;n a la red ITIN (itinlending.net,
+        itincreditcard.com, itincreditscore.com). Registramos telemetr&iacute;a
+        an&oacute;nima de uso (nombre de la herramienta, argumentos, nombre del cliente
+        y tiempos) para operar el servicio y la borramos a los 90 d&iacute;as; no
+        recopilamos identidad del usuario ni el contenido de la conversaci&oacute;n.
+        Los t&eacute;rminos de las tarjetas cambian: confirma con el emisor antes de
+        solicitar.
+      </p>
+
+      <h2>Para desarrolladores</h2>
+      <ul>
+        <li>Paquete npm: <a href="https://www.npmjs.com/package/itin-finance-mcp">itin-finance-mcp</a></li>
+        <li>GitHub (README y ejemplos): <a href="https://github.com/bguillow-rgb/itin-finance-mcp">bguillow-rgb/itin-finance-mcp</a></li>
+        <li>Registro oficial MCP: <code>io.github.bguillow-rgb/itin-finance</code></li>
+      </ul>
+    </div>
+  </section>
+</BaseLayout>
