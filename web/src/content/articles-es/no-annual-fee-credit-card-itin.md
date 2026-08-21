@@ -17,7 +17,7 @@ relatedSlugs:
   - "no-foreign-transaction-fee-credit-card-itin"
   - "cash-back-credit-card-itin-holders"
   - "credit-union-credit-card-itin"
-  - "rewards-credit-card-itin-holders"
+  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito sin cuota anual usando solo un ITIN?"
     a: "Sí. Varios emisores importantes, entre ellos Capital One y OpenSky, aceptan un ITIN en lugar de un SSN y ofrecen tarjetas con cuota anual de $0. Aun así, debes cumplir otros requisitos, como verificación de ingresos y tener una dirección en EE. UU."

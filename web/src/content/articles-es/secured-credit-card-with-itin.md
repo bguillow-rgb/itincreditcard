@@ -17,7 +17,7 @@ relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "first-credit-card-itin-no-us-credit-history"
-  - "store-credit-card-with-itin"
+  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada solo con ITIN y sin SSN?"
     a: "Sí. Capital One, Bank of America, Citi, Wells Fargo, OpenSky y varios emisores fintech aceptan el ITIN en lugar del SSN para solicitudes de tarjetas de crédito aseguradas. Tus mejores probabilidades de aprobación son con un banco donde ya tengas una cuenta de cheques o de ahorros."

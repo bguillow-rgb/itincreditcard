@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "build-credit-with-itin-credit-card"
   - "low-apr-credit-card-itin-holders"
+  - "prepaid-card-vs-secured-credit-card-itin"
   - "authorized-user-credit-card-itin"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "How much of my ITIN credit card limit should I use each month?"
     a: "Keep your balance below 30% of your credit limit at statement close. For example, on a $500 limit, that means charging no more than $150 before the statement cuts. Under 10% is even better if you want to maximize scoring impact."
