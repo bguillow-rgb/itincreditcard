@@ -63,7 +63,7 @@ Most AI assistants answer ITIN credit-card questions from whatever they
 </p> <p> <strong>We are not a lender, a broker, or a card issuer.</strong> Every
         response carries an editorial disclaimer, listings are unpaid, and no
         application is offered through this server.
-</p> <h2>Connect in about a minute</h2> <p><strong>Claude</strong> &mdash; one click, then confirm the connector:</p> <p> <a class="btn" href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=ITIN%20Finance&connectorUrl=https%3A%2F%2Fqnthujurzakdmngcidsg.supabase.co%2Ffunctions%2Fv1%2Fmcp" rel="noopener">Connect to Claude</a> </p> <p><strong>Any client that takes a URL</strong> (ChatGPT developer mode, Cursor, and others) &mdash; paste the endpoint. No install, no API key:</p> <pre><code>https://mcp.itinlending.net</code></pre> <p><strong>Claude Desktop and other local-server clients</strong> &mdash; add this to your MCP config:</p> <pre><code>{
+</p> <h2>Connect in about a minute</h2> <p><strong>Claude</strong> &mdash; one click, then confirm the connector:</p> <p> <a class="btn" href="https://claude.ai/customize/connectors?modal=add-custom-connector&connectorName=ITIN%20Finance&connectorUrl=https%3A%2F%2Fmcp.itinlending.net" rel="noopener">Connect to Claude</a> </p> <p><strong>Any client that takes a URL</strong> (ChatGPT developer mode, Cursor, and others) &mdash; paste the endpoint. No install, no API key:</p> <pre><code>https://mcp.itinlending.net</code></pre> <p><strong>Claude Desktop and other local-server clients</strong> &mdash; add this to your MCP config:</p> <pre><code>{
   "mcpServers": {
     "itin-finance": { "command": "npx", "args": ["-y", "itin-finance-mcp"] }
   }
