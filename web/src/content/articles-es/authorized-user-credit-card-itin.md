@@ -14,10 +14,10 @@ publishedAt: "2026-06-13"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "add-authorized-user-itin-credit-card"
   - "can-you-get-a-credit-card-with-an-itin"
   - "credit-card-international-students-itin"
   - "credit-card-prequalification-itin"
-  - "travel-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo convertirme en usuario autorizado en una tarjeta de crédito si solo tengo un ITIN?"
     a: "Sí. La mayoría de los grandes emisores, incluyendo Chase, Capital One y Bank of America, no exigen un SSN para agregar a un usuario autorizado. Por lo general, solo piden nombre, fecha de nacimiento y dirección postal. Proporcionar tu ITIN (donde se acepta) aumenta las probabilidades de que la cuenta aparezca en tu reporte de crédito."
