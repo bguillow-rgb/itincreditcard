@@ -17,7 +17,7 @@ relatedSlugs:
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "get-secured-credit-card-deposit-back-itin"
-  - "unsecured-credit-card-itin-holders"
+  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
 faqs:
   - q: "Can I get an unsecured credit card with an ITIN and no U.S. credit history?"
     a: "Yes. Chase Freedom Rise, Zolve, and the Capital One Platinum (unsecured) all accept an ITIN and are available to applicants with limited or no U.S. credit history, though approval odds improve when you have an existing bank relationship with the issuer."

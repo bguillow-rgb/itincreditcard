@@ -16,8 +16,8 @@ category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
   - "rewards-credit-card-itin-holders"
-  - "business-credit-card-with-itin"
 faqs:
   - q: "¿Puedo hacer una transferencia de saldo con un ITIN en lugar de un SSN?"
     a: "Sí. Varios emisores, entre ellos Wells Fargo y Citi, aceptan el ITIN en lugar del SSN en las solicitudes de tarjetas de crédito. Si te aprueban una tarjeta que incluye una oferta de transferencia de saldo, puedes usarla sin importar si aplicaste con ITIN o con SSN."
