@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
+  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "build-credit-with-itin-credit-card"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
-  - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada en EE.UU. solo con ITIN?"
     a: "Sí. Varios emisores importantes aceptan el ITIN para tarjetas aseguradas, entre ellos Capital One, Citi, Bank of America y OpenSky. No se necesita SSN. Necesitarás una identificación con foto vigente, comprobante de domicilio y una cuenta bancaria en EE.UU. con fondos suficientes para cubrir el depósito de seguridad."

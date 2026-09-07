@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "itin-credit-card-issuer-comparison-2026"
+  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
 faqs:
   - q: "Can I really get a credit card with just an ITIN and no U.S. credit history?"
     a: "Yes. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured, and Zolve all approve applicants with an ITIN and zero U.S. credit history. Each requires a refundable security deposit (except Zolve), but none require a prior U.S. credit file."

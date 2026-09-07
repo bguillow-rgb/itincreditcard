@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-deposit-itin-holders"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
-  - "unsecured-credit-card-itin-holders"
 faqs:
   - q: "Does having an ITIN instead of an SSN delay my secured card deposit refund?"
     a: "No. The refund timeline is governed by your issuer's graduation policy, not by whether you used an ITIN or SSN. Once you meet the issuer's requirements (on-time payments, low utilization, good standing), your deposit is refunded on the same schedule as any other cardholder."
