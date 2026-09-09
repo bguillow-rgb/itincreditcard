@@ -14,10 +14,10 @@ publishedAt: "2026-08-12"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "credit-card-opt-visa-holder-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "itin-credit-card-issuer-comparison-2026"
   - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "Can an H-1B visa holder get a credit card without an SSN?"
     a: "Yes. Several issuers, including Capital One, Bank of America, Citibank, and credit unions, accept an ITIN in place of an SSN on credit card applications. Secured cards and fintech cards (like OpenSky and Zolve) are the easiest to get approved for with only an ITIN."

@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-card-h1b-visa-itin"
   - "credit-card-international-students-itin"
+  - "credit-card-opt-visa-holder-itin"
   - "first-credit-card-itin-no-us-credit-history"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "Does applying for a credit card with an ITIN reveal my immigration status?"
     a: "No. Credit card issuers verify identity for fraud prevention purposes, not immigration enforcement. They do not report your application or account information to immigration authorities such as USCIS or ICE. Banks are legally prohibited from discriminating based on national origin under the Equal Credit Opportunity Act."

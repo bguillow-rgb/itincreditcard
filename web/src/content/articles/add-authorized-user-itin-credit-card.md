@@ -17,7 +17,7 @@ relatedSlugs:
   - "authorized-user-credit-card-itin"
   - "credit-card-h1b-visa-itin"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-bank-by-bank-application-guide"
+  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "Can an ITIN holder add an authorized user to their credit card?"
     a: "Yes. Being the primary cardholder with an ITIN does not prevent you from adding an authorized user. The issuer's authorized user rules apply the same way they do for SSN holders. Requirements vary by bank, but most only need the user's name and date of birth."

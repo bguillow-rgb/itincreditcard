@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-h1b-visa-itin"
+  - "credit-card-opt-visa-holder-itin"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "cash-back-credit-card-itin-holders"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "Can a TN visa holder get a credit card without an SSN?"
     a: "Yes. While TN visa primary holders who are authorized to work can obtain an SSN, many arrive in the U.S. before their SSN is processed. During that window, and in some cases permanently, an ITIN works as a substitute at issuers such as Capital One, Discover, and OpenSky."
