@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-undocumented-immigrants-itin"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
+  - "credit-card-f1-visa-holders-itin"
   - "credit-card-h1b-visa-itin"
-  - "credit-card-prequalification-itin"
 faqs:
   - q: "¿Puede un beneficiario de DACA solicitar una tarjeta de crédito con un ITIN?"
     a: "Sí. Varios emisores, entre ellos Capital One, Bank of America y OpenSky, aceptan un ITIN en lugar de un SSN en las solicitudes de tarjeta de crédito. Los beneficiarios de DACA con un EAD activo también pueden obtener un SSN y usarlo en su lugar."

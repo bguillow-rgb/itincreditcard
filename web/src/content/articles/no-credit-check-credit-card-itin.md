@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
+  - "credit-card-f1-visa-holders-itin"
   - "credit-card-h1b-visa-itin"
   - "credit-card-prequalification-itin"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "Can I get a credit card with an ITIN and no U.S. credit history?"
     a: "Yes. Several issuers, including OpenSky, Firstcard, and the Current Build Card, approve ITIN holders without requiring any U.S. credit history. They rely on a security deposit or a linked bank account instead of a credit file review."

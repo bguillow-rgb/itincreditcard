@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-h1b-visa-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-issuer-comparison-2026"
+  - "credit-card-f1-visa-holders-itin"
 faqs:
   - q: "Can I apply for a credit card while on OPT if I only have an ITIN, not an SSN?"
     a: "Yes. Several issuers, including Capital One and Discover, accept an ITIN in place of an SSN. Your EAD and ITIN together are enough to start a U.S. credit file. Once you receive an SSN, you can update your account and unlock more card options."

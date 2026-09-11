@@ -14,10 +14,10 @@ publishedAt: "2026-09-09"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "credit-card-f1-visa-holders-itin"
   - "credit-card-h1b-visa-itin"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "multiple-credit-cards-itin-holders"
-  - "credit-card-tn-visa-itin"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito mientras estoy en OPT si solo tengo un ITIN y no un SSN?"
     a: "Sí. Varios emisores, incluidos Capital One y Discover, aceptan un ITIN en lugar de un SSN. Tu EAD y tu ITIN juntos son suficientes para comenzar un historial crediticio en EE. UU. Una vez que recibas tu SSN, puedes actualizarlo en tu cuenta y acceder a más opciones de tarjetas."

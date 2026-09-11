@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-card-issuer-comparison-2026"
   - "credit-card-opt-visa-holder-itin"
   - "credit-card-tn-visa-itin"
-  - "itin-starter-credit-cards-ranked-zero-history"
+  - "credit-card-f1-visa-holders-itin"
 faqs:
   - q: "¿Puede un titular de visa H-1B obtener una tarjeta de crédito sin SSN?"
     a: "Sí. Varios emisores, entre ellos Capital One, Bank of America, Citibank y cooperativas de crédito, aceptan un ITIN en lugar de un SSN en las solicitudes de tarjeta de crédito. Las tarjetas aseguradas y las tarjetas fintech como OpenSky y Zolve son las más fáciles de obtener con solo un ITIN."

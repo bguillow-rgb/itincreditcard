@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-opt-visa-holder-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "credit-card-h1b-visa-itin"
+  - "credit-card-f1-visa-holders-itin"
 faqs:
   - q: "Can a DACA recipient apply for a credit card with an ITIN?"
     a: "Yes. Multiple issuers, including Capital One, Bank of America, and OpenSky, accept an ITIN in place of an SSN on credit card applications. DACA recipients with an active EAD can also obtain an SSN and use that instead."
