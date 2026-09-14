@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-card-bank-by-bank-application-guide"
   - "itin-credit-card-issuer-comparison-2026"
   - "credit-card-itin-apply-online-vs-in-branch"
-  - "credit-card-denied-itin-what-to-do"
+  - "itin-credit-card-issuer-verified-application-guide-2026"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito solo con ITIN y sin SSN?"
     a: "Sí. Capital One, Chase, Bank of America, Citi, Wells Fargo, Discover y otros bancos aceptan el ITIN en lugar del SSN en las solicitudes de tarjeta de crédito. También necesitarás una dirección física en EE. UU., comprobante de ingresos y una identificación oficial vigente, como un pasaporte extranjero."

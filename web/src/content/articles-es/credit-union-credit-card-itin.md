@@ -16,8 +16,8 @@ category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "itin-credit-card-issuer-verified-application-guide-2026"
   - "store-credit-card-with-itin"
-  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "¿Puedo unirme a una cooperativa de crédito solo con un ITIN y sin SSN?"
     a: "Sí. Muchas cooperativas aceptan expresamente el ITIN como identificación principal para la membresía. También necesitarás una identificación oficial con foto (como pasaporte o identificación consular), comprobante de domicilio en EE. UU. y un depósito inicial, generalmente entre $5 y $25. Las políticas varían según la institución, así que confirma antes de solicitar."
