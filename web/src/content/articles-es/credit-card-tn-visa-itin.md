@@ -14,10 +14,10 @@ publishedAt: "2026-08-26"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "credit-card-j1-visa-itin"
   - "credit-card-h1b-visa-itin"
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-opt-visa-holder-itin"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "¿Puede un titular de visa TN obtener una tarjeta de crédito sin SSN?"
     a: "Sí. Aunque los titulares principales de visa TN que están autorizados a trabajar pueden obtener un SSN, muchos llegan a EE. UU. antes de que ese SSN sea procesado. Durante ese tiempo, y en algunos casos de forma permanente, el ITIN funciona como sustituto con emisores como Capital One, Discover y OpenSky."

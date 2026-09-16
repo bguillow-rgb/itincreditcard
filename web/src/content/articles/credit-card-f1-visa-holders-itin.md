@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-international-students-itin"
+  - "credit-card-j1-visa-itin"
   - "credit-card-opt-visa-holder-itin"
   - "credit-card-h1b-visa-itin"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "Can I apply for a credit card on an F-1 visa with only an ITIN and no U.S. credit history?"
     a: "Yes. Secured cards like the Capital One Platinum Secured and the Discover it Secured accept ITIN applications and do not require an existing U.S. credit history. The security deposit reduces issuer risk, which is why approval rates are higher for these products."

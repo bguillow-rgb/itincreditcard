@@ -14,10 +14,10 @@ publishedAt: "2026-09-11"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "credit-card-j1-visa-itin"
   - "credit-card-opt-visa-holder-itin"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "credit-card-h1b-visa-itin"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito con visa F-1 teniendo solo un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Las tarjetas aseguradas como la Capital One Platinum Secured y la Discover it Secured aceptan solicitudes con ITIN y no requieren historial crediticio previo en EE. UU. El depósito de seguridad reduce el riesgo para el emisor, por eso las tasas de aprobación son más altas en estos productos."

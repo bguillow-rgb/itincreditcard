@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-opt-visa-holder-itin"
+  - "credit-card-j1-visa-itin"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "build-credit-with-itin-credit-card"
-  - "credit-card-f1-visa-holders-itin"
 faqs:
   - q: "¿Existe un límite legal sobre cuántas tarjetas de crédito puedo tener con un ITIN?"
     a: "No. La ley de EE.UU. no limita la cantidad de tarjetas de crédito que una persona puede tener, ya sea que use un SSN o un ITIN. Los únicos límites son los que cada emisor establece según tu solvencia crediticia y tus ingresos."
