@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "itin-starter-credit-cards-ranked-zero-history"
   - "credit-card-f1-visa-holders-itin"
+  - "credit-utilization-itin-credit-card"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "¿Puedo obtener mi primera tarjeta de crédito solo con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Varios emisores, entre ellos Capital One, Bank of America, Citi, OpenSky, Firstcard y Current Build Card, aceptan un ITIN en lugar de un SSN y no exigen historial crediticio previo en EE. UU. para aprobar tu solicitud."
