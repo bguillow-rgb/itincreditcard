@@ -14,10 +14,10 @@ publishedAt: "2026-08-24"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "best-starter-credit-cards-itin-zero-credit-history"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "prepaid-card-vs-secured-credit-card-itin"
-  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "Can I get a credit card with an ITIN and no U.S. credit history at all?"
     a: "Yes. Several issuers, including Capital One, OpenSky, Citi, and Zolve, accept ITINs and approve applicants with no U.S. credit file. Secured cards are the easiest entry point because your refundable deposit removes most of the issuer's risk."

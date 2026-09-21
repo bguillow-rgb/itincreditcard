@@ -14,10 +14,10 @@ publishedAt: "2026-08-24"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "best-starter-credit-cards-itin-zero-credit-history"
   - "credit-card-j1-visa-itin"
   - "credit-card-f1-visa-holders-itin"
-  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con ITIN y sin ningún historial crediticio en EE. UU.?"
     a: "Sí. Varios emisores, entre ellos Capital One, OpenSky, Citi y Zolve, aceptan ITIN y aprueban solicitantes sin historial crediticio en EE. UU. Las tarjetas aseguradas son el punto de entrada más fácil, porque tu depósito reembolsable elimina la mayor parte del riesgo para el emisor."

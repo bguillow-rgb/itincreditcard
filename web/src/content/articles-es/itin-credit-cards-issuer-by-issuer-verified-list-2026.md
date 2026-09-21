@@ -16,8 +16,8 @@ category: "Tarjetas de Crédito"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "itin-credit-card-issuer-comparison-2026"
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "cash-back-credit-card-itin-holders"
-  - "store-credit-card-with-itin"
 faqs:
   - q: "¿De verdad puedo obtener una tarjeta de crédito solo con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured y Zolve aprueban solicitantes con un ITIN y ningún historial crediticio en EE. UU. Cada una requiere un depósito de seguridad reembolsable (excepto Zolve), pero ninguna exige un historial crediticio previo en EE. UU."

@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "best-starter-credit-cards-itin-zero-credit-history"
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "cash-back-credit-card-itin-holders"
   - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito no asegurada con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, aunque las opciones son limitadas si estás empezando desde cero. Tarjetas como la Zolve Classic y la Current Build Card usan métodos alternativos de evaluación, como verificación de ingresos o historial de cuenta bancaria, en lugar de un puntaje crediticio tradicional, por lo que no se necesita historial previo en EE. UU."

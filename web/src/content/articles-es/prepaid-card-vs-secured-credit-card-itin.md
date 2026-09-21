@@ -14,10 +14,10 @@ publishedAt: "2026-08-21"
 author: "Editorial Staff"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "secured-credit-card-with-itin"
   - "store-credit-card-with-itin"
-  - "best-starter-credit-cards-itin-zero-credit-history"
 faqs:
   - q: "¿Una tarjeta prepagada ayuda a construir crédito con un ITIN?"
     a: "No. Las tarjetas prepagadas no son productos de crédito y no se reportan a Equifax, Experian ni TransUnion. No pueden generar un historial crediticio en EE. UU., sin importar cuánto tiempo o con qué frecuencia las uses."

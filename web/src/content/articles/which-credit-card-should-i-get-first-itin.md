@@ -14,10 +14,10 @@ publishedAt: "2026-09-04"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "best-starter-credit-cards-itin-zero-credit-history"
 faqs:
   - q: "Can I get my first credit card with just an ITIN and no U.S. credit history?"
     a: "Yes. Several issuers, including Capital One, Bank of America, Citi, OpenSky, Firstcard, and Current Build Card, accept an ITIN in place of an SSN and do not require any prior U.S. credit history for approval."
