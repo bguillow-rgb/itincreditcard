@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-opt-visa-holder-itin"
   - "multiple-credit-cards-itin-holders"
+  - "virtual-credit-card-itin-holders"
   - "credit-card-j1-visa-itin"
-  - "credit-card-undocumented-immigrants-itin"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito de EE. UU. con un ITIN si vivo fuera del país?"
     a: "Sí, algunos emisores aceptan solicitudes con ITIN de personas no residentes. Necesitarás un ITIN vigente, un pasaporte extranjero para verificar tu identidad y una dirección postal en EE. UU. para recibir la tarjeta. Las tarjetas de Capital One, Bank of America, OpenSky y Firstcard son un buen punto de partida. Confirma la política actual del emisor antes de aplicar, ya que los requisitos pueden cambiar."

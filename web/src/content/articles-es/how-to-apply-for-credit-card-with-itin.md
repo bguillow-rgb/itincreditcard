@@ -17,8 +17,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "income-requirements-credit-card-itin"
   - "itin-credit-card-issuer-verified-application-guide-2026"
+  - "virtual-credit-card-itin-holders"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "can-you-get-a-credit-card-with-an-itin"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito en línea usando mi ITIN?"
     a: "Sí, muchos emisores, incluidos Capital One y Bank of America, aceptan solicitudes con ITIN en línea. Cuando el formulario te pida el SSN, busca una opción para ingresar un número de identificación fiscal alternativo. Algunos formularios solo muestran esa opción después de que seleccionas 'otro' o 'ITIN' como tipo de identificación. Si el formulario en línea rechaza tu ITIN, llama al emisor y solicita la tarjeta por teléfono."

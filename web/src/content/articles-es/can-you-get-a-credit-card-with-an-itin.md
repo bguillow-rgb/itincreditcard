@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-international-students-itin"
+  - "virtual-credit-card-itin-holders"
   - "credit-card-prequalification-itin"
   - "credit-card-undocumented-immigrants-itin"
-  - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "¿En qué campo escribo mi ITIN en la solicitud de tarjeta de crédito?"
     a: "La mayoría de las solicitudes tienen un campo que dice 'Social Security Number' o 'Tax ID Number'. Escribe ahí tu ITIN de nueve dígitos. Algunos sistemas en línea validan el número y pueden rechazar un ITIN, si eso ocurre, intenta solicitar en una sucursal o por teléfono, donde un agente puede ingresarlo manualmente."
