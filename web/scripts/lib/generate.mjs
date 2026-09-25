@@ -2,6 +2,7 @@
 // daily-post.mjs (one detail article/day) and seed-content.mjs (one-shot batch
 // backfill + pillar). Keeps the prompt and validation in one place so all three
 // produce schema-compliant, AEO-optimized content.
+import { enforceSerpLimits } from './serp.mjs';
 import { readFileSync } from 'node:fs';
 import { humanizeArticle } from './humanize.mjs';
 
@@ -112,8 +113,8 @@ PART 1, a single fenced code block tagged json with ONLY these metadata fields (
 \`\`\`json
 {
   "slug": "kebab-case-url-slug",
-  "title": "55-65 char SEO title",
-  "description": "150-160 char meta description, leads with the answer",
+  "title": "45-58 char SEO title, HARD MAX 60 characters (longer titles get cut off in search results)",
+  "description": "150-160 char meta description, HARD MAX 160, leads with the answer",
   "tier": "${tier}",
   "targetQuery": "the exact target query",
   "relatedQueries": ["3-5 secondary queries this also targets"],
@@ -275,7 +276,19 @@ export async function generateArticle({
   for (let i = 1; i <= attempts; i++) {
     try {
       const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint });
-      return await humanizeArticle({ apiKey, model, article: draft });
+      const article = await humanizeArticle({ apiKey, model, article: draft });
+      // The prompt asks for <=60-char titles; this enforces it (and the 160-char
+      // description cap) after humanize, which can rewrite both. Without it the
+      // live site drifted to 14 over-60 titles by 2026-09-21 (up from 12 the week
+      // before). Ported from itincreditscore's lib/serp.mjs 2026-09-25.
+      return await enforceSerpLimits({
+        apiKey,
+        model,
+        meta: article,
+        siteName: site.name,
+        lang: 'en',
+        label: `generate(${article.slug || '?'})`,
+      });
     } catch (e) {
       lastErr = e;
       if (isUnretryable(e)) {
