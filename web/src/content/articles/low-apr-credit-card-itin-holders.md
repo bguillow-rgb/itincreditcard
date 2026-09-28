@@ -14,10 +14,10 @@ publishedAt: "2026-06-19"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
   - "no-annual-fee-credit-card-itin"
   - "no-foreign-transaction-fee-credit-card-itin"
   - "travel-credit-card-itin-holders"
-  - "virtual-credit-card-itin-holders"
 faqs:
   - q: "What is the average APR on a credit card for ITIN holders?"
     a: "ITIN holders applying for starter or secured cards typically see APRs between 24% and 29%. According to SoFi, the average APR on a secured credit card in early 2026 is 26.13%. Some fintech cards built for immigrants advertise 0% APR, which removes interest risk entirely for new cardholders."

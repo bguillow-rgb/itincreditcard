@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"
   - "secured-credit-card-with-itin"
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "itin-credit-card-issuer-comparison-2026"
 faqs:
   - q: "Can I get a cash back credit card with an ITIN and no U.S. credit history?"
     a: "Yes. Cards like the Capital One Quicksilver Secured and OpenSky Secured Visa accept an ITIN with no U.S. credit history required. The Capital One Quicksilver Secured earns 1.5% cash back on every purchase and 5% on Capital One Travel bookings, making it one of the best cash-back entry points for new ITIN holders."

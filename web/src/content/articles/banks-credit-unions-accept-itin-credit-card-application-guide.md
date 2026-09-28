@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-card-issuer-verified-application-guide-2026"
   - "itin-credit-card-bank-by-bank-application-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
 faqs:
   - q: "Can I apply for a credit card with only an ITIN and no SSN?"
     a: "Yes. Capital One, Chase, Bank of America, Citi, Wells Fargo, Discover, and others all accept an ITIN in place of an SSN on credit card applications. You will also need a physical U.S. address, proof of income, and a valid government-issued ID such as a foreign passport."

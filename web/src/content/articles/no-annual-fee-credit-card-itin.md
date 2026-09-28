@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "no-foreign-transaction-fee-credit-card-itin"
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
   - "low-apr-credit-card-itin-holders"
   - "travel-credit-card-itin-holders"
-  - "virtual-credit-card-itin-holders"
 faqs:
   - q: "Can I get a credit card with no annual fee using only an ITIN?"
     a: "Yes. Several major issuers, including Capital One and OpenSky, accept an ITIN in place of an SSN and offer cards with a $0 annual fee. You still need to meet other requirements such as income verification and a U.S. address."

@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-h1b-visa-itin"
   - "credit-card-international-students-itin"
   - "credit-card-opt-visa-holder-itin"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
 faqs:
   - q: "Can I do a balance transfer with an ITIN instead of an SSN?"
     a: "Yes. Several issuers, including Wells Fargo and Citi, accept an ITIN in place of an SSN on credit card applications. If you are approved for a card that carries a balance transfer offer, you can use that offer regardless of whether you applied with an ITIN or an SSN."
