@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-reconsideration-line-itin"
+  - "chase-credit-card-itin"
   - "credit-card-prequalification-itin"
   - "credit-limit-increase-itin-credit-card"
-  - "improve-credit-card-approval-odds-itin"
 faqs:
   - q: "Does a credit card denial hurt my credit score?"
     a: "The denial itself does not lower your score. The hard inquiry from the application can reduce it by a few points and stays on your credit report for up to two years, but the impact fades after a few months of responsible credit use."
