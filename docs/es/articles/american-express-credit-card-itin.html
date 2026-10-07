@@ -1,0 +1,240 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tarjeta American Express con ITIN (2026) | ITIN Credit Card</title><meta name="description" content="American Express acepta el ITIN en todas sus tarjetas de consumidor en EE. UU. Conoce qué tarjetas Amex puedes obtener con ITIN y cómo mejorar tus"><link rel="canonical" href="https://itincreditcard.com/es/articles/american-express-credit-card-itin"><link rel="alternate" hreflang="en" href="https://itincreditcard.com/articles/american-express-credit-card-itin"><link rel="alternate" hreflang="es" href="https://itincreditcard.com/es/articles/american-express-credit-card-itin"><link rel="alternate" hreflang="x-default" href="https://itincreditcard.com/articles/american-express-credit-card-itin"><meta property="og:type" content="website"><meta property="og:title" content="Tarjeta American Express con ITIN (2026) | ITIN Credit Card"><meta property="og:description" content="American Express acepta el ITIN en todas sus tarjetas de consumidor en EE. UU. Conoce qué tarjetas Amex puedes obtener con ITIN y cómo mejorar tus"><meta property="og:url" content="https://itincreditcard.com/es/articles/american-express-credit-card-itin"><meta property="og:site_name" content="ITIN Credit Card"><meta property="og:image" content="https://itincreditcard.com/og/american-express-credit-card-itin.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Tarjeta American Express con ITIN (2026) | ITIN Credit Card"><meta name="twitter:description" content="American Express acepta el ITIN en todas sus tarjetas de consumidor en EE. UU. Conoce qué tarjetas Amex puedes obtener con ITIN y cómo mejorar tus"><meta name="twitter:image" content="https://itincreditcard.com/og/american-express-credit-card-itin.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#22505A"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Card | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditcard.com/#organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":"https://itincreditcard.com/icon-512.png","description":"ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.","sameAs":["https://www.wikidata.org/wiki/Q140083128","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Card","url":"https://itincreditcard.com","description":"ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditcard.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><meta name="google-site-verification" content="pxWBVK2JLcqCm9SiLFhVnJzHIWa1ifynMkxnbY0V8hA"><script async src="https://www.googletagmanager.com/gtag/js?id=G-TFJMHQLHMX"></script><script>(function(){const ga4Id = "G-TFJMHQLHMX";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      // Astro wraps a `define:vars` inline script in an IIFE, so the function
+      // declaration above is scoped, not global. gtag('config') still worked
+      // (it only pushes to dataLayer, which gtag.js reads), so page_view and
+      // session_start looked healthy while `window.gtag` stayed undefined and
+      // itrack() below silently dropped EVERY custom event. affiliate_click,
+      // cta_click and cross_site_click recorded zero from launch until
+      // 2026-09-01. Publish it explicitly.
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Tarjeta American Express con ITIN (2026)","description":"American Express acepta el ITIN en todas sus tarjetas de consumidor en EE. UU. Conoce qué tarjetas Amex puedes obtener con ITIN y cómo mejorar tus","url":"https://itincreditcard.com/es/articles/american-express-credit-card-itin","inLanguage":"es-419","datePublished":"2026-10-07T00:00:00.000Z","dateModified":"2026-10-07T00:00:00.000Z","author":{"@type":"Organization","name":"Research Desk","url":"https://itincreditcard.com/about","parentOrganization":{"@id":"https://itincreditcard.com/#organization"}},"publisher":{"@type":"Organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":{"@type":"ImageObject","url":"https://itincreditcard.com/icon-512.png"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":["#quick-answer"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itincreditcard.com/es/articles/american-express-credit-card-itin"}}</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itincreditcard.com"},{"@type":"ListItem","position":2,"name":"Guías","item":"https://itincreditcard.com/es/articles"},{"@type":"ListItem","position":3,"name":"Tarjeta American Express con ITIN (2026)","item":"https://itincreditcard.com/es/articles/american-express-credit-card-itin"}]}</script> <link rel="stylesheet" href="/_astro/_slug_.D8mdHOEz.css">
+<style>.related-links[data-astro-cid-xmiqtmid]{margin:36px 0 8px}.related-links[data-astro-cid-xmiqtmid] h2[data-astro-cid-xmiqtmid]{margin:0 0 14px;font-size:1.25rem}.related-links[data-astro-cid-xmiqtmid] ul[data-astro-cid-xmiqtmid]{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-weight:600;text-decoration:none;line-height:1.3;transition:border-color .15s ease,background .15s ease}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]:hover{border-color:var(--primary);background:var(--surface-alt)}.sources-note[data-astro-cid-6jinirix]{margin:26px 0;padding:16px 18px;border:1px solid var(--border, #E7E2F2);border-left:4px solid var(--primary, #5B21B6);border-radius:var(--radius);background:var(--surface, #F7F5FC)}.sources-note-h[data-astro-cid-6jinirix]{margin:0 0 6px;font-weight:700;font-size:.95rem;color:var(--primary-dark, #4C1D95)}.sources-note-b[data-astro-cid-6jinirix]{margin:0;font-size:.92rem;line-height:1.55;color:var(--muted, #5C5470)}
+.author-bio[data-astro-cid-zm77yjld]{margin:28px 0;padding:18px 20px;border:1px solid var(--border, #e2e6ee);border-radius:var(--radius);background:var(--surface-2, #f7f9fc)}.author-bio-name[data-astro-cid-zm77yjld]{margin:0 0 6px;font-weight:700}.author-bio-role[data-astro-cid-zm77yjld]{font-weight:400;color:var(--muted, #5a6473)}.author-bio-text[data-astro-cid-zm77yjld]{margin:0 0 8px;font-size:.95rem;line-height:1.55}.author-bio-link[data-astro-cid-zm77yjld]{margin:0;font-size:.9rem}
+</style></head> <body> <div class="announce-bar"> Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a> </div> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Card<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/articles/american-express-credit-card-itin.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>   <article class="container narrow" style="padding-top:18px;padding-bottom:24px" data-astro-cid-zm77yjld> <p class="crumbs" data-astro-cid-zm77yjld> <a href="/" data-astro-cid-zm77yjld>Home</a> &rsaquo;
+<a href="https://itincreditcard.com/es/articles" data-astro-cid-zm77yjld>Guías</a> &rsaquo;  <span data-astro-cid-zm77yjld>Tarjeta American Express con ITIN (2026)</span> </p> <span class="tag" data-astro-cid-zm77yjld>Tarjetas de crédito</span> <h1 style="margin-top:10px" data-astro-cid-zm77yjld>Tarjeta American Express con ITIN (2026)</h1> <p class="byline" data-astro-cid-zm77yjld>
+By <a href="/about" data-astro-cid-zm77yjld>Research Desk</a> &middot; Issuers &amp; Approval &middot;
+Published October 7, 2026 </p> <p class="disclosure"><strong>Aviso para anunciantes:</strong>ITIN Credit Card es un recurso
+    independiente. Algunos enlaces en esta página son de socios que nos
+    compensan, lo cual puede influir en qué productos mostramos y dónde. Esto no
+    cambia nuestra guía editorial y nunca tiene costo para ti. Consulta nuestro
+<a href="/es/disclosure">aviso completo</a>.
+</p> <section class="quick-answer" id="quick-answer"> <span class="label">Respuesta rápida</span> <p>Sí. American Express acepta el ITIN en lugar del SSN en todas sus solicitudes de tarjetas de crédito de consumidor en EE. UU. Escribe tu ITIN en el campo de SSN al aplicar. La aprobación depende de tu historial crediticio en EE. UU. y de tus ingresos, no de tu estatus migratorio. Los titulares de ITIN con 12 meses o más de historial crediticio en EE. UU. tienen las mejores probabilidades.</p> <p class="qa-sources"> <span class="qa-check" aria-hidden="true">&#10003;</span> <span>Verificado con:</span> <span>IRS ·</span><span>CFPB ·</span><span>Issuer disclosures</span> </p> </section> <!-- Highest-visibility article slot: above the fold, after the Quick Answer.
+         Credit Karma creative auto-matched to the article topic via its path. --> <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Famerican-express-credit-card-itin" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Famerican-express-credit-card-itin" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="article-body" data-astro-cid-zm77yjld>  <p>American Express acepta el ITIN en todas sus solicitudes de tarjetas de crédito de consumidor en EE. UU., lo que lo convierte en uno de los emisores importantes más accesibles para inmigrantes y personas que no son ciudadanos. Dicho esto, la aceptación es estructural, no automática. La solicitud te permite ingresar tu ITIN, pero la aprobación sigue dependiendo de tu historial crediticio y tus ingresos en EE. UU. Esta guía explica qué esperar, qué tarjetas son realistas y cómo encaja el programa Amex Global Card Relationship.</p>
+<h2 id="american-express-realmente-acepta-el-itin-en-sus-solicitudes">¿American Express realmente acepta el ITIN en sus solicitudes?</h2>
+<p><em>Una pregunta frecuente:</em> si la opción de ITIN en Amex es real o solo es lenguaje de marketing para inmigrantes que terminan siendo rechazados de todas formas.</p>
+<p>Es real. El campo de SSN en la solicitud de tarjeta de consumidor de Amex indica expresamente que puedes ingresar tu ITIN si no tienes SSN. El sistema está diseñado para procesarlo.</p>
+<p>Puedes obtener una tarjeta de crédito American Express sin SSN, porque Amex acepta el ITIN en lugar del número de Seguro Social.</p>
+<p>Lo importante que debes saber: aceptar y aprobar son dos cosas distintas. Amex acepta el ITIN como alternativa de identificación fiscal al SSN, pero las tasas de aprobación para solicitudes directas con ITIN son menores que en Discover o Capital One, porque el proceso de evaluación de Amex depende más de tu historial crediticio en EE. UU. Si tienes poco o ningún historial en EE. UU., la aprobación es más difícil, pero el camino está abierto. Para saber cómo construir ese historial primero, consulta nuestra guía sobre <a href="/es/articles/build-credit-with-itin-credit-card">cómo construir crédito rápido con una tarjeta de crédito con ITIN</a>.</p>
+<h2 id="qué-tarjetas-amex-puedo-obtener-de-forma-realista-con-un-itin">¿Qué tarjetas Amex puedo obtener de forma realista con un ITIN?</h2>
+<p><em>Esta pregunta surge con frecuencia.</em> No todas las tarjetas Amex son igualmente accesibles para los titulares de ITIN, y la diferencia entre las tarjetas básicas y los productos premium es grande.</p>
+<p>La Blue Cash Everyday Card de American Express es el objetivo directo más realista para los titulares de ITIN. Sin cuota anual, requisitos de crédito más moderados que la línea premium de Amex, y después de 12 meses o más de historial crediticio establecido en EE. UU., se vuelve genuinamente alcanzable.</p>
+<p>Así se comparan los principales niveles de tarjetas Amex para quienes aplican con ITIN:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tarjeta Amex</th><th>Cuota anual</th><th>Ruta realista con ITIN</th><th>Historial en EE. UU. aproximado necesario</th></tr></thead><tbody><tr><td>Blue Cash Everyday</td><td>$0</td><td>Solicitud directa con ITIN</td><td>12+ meses</td></tr><tr><td>Blue Cash Preferred</td><td>$95</td><td>Solicitud directa con ITIN</td><td>12-18 meses</td></tr><tr><td>Gold Card</td><td>$325</td><td>ITIN directo o Global Transfer</td><td>18-24 meses</td></tr><tr><td>Platinum Card</td><td>$695</td><td>Se prefiere Global Transfer</td><td>24+ meses, ingresos altos</td></tr><tr><td>Green Card</td><td>$150</td><td>Solicitud directa con ITIN</td><td>12-18 meses</td></tr></tbody></table>
+<p>La aprobación directa con ITIN para la Amex Platinum es rara, menos del 10%, sin al menos 24 meses de historial crediticio establecido en EE. UU. e ingresos altos. A través de Global Transfer, si tu tarjeta no estadounidense es un producto equivalente de nivel Platinum, la transferencia puede aplicarse a la Platinum en EE. UU.</p>
+<p>Si todavía estás eligiendo tu primera tarjeta antes de construir historial, nuestra <a href="/es/articles/best-itin-starter-credit-cards-ranked-zero-to-score">guía de las mejores tarjetas iniciales con ITIN</a> cubre opciones con menos requisitos para empezar.</p>
+<h2 id="qué-es-el-programa-amex-global-card-relationship-y-necesito-itin-para-usarlo">¿Qué es el programa Amex Global Card Relationship y necesito ITIN para usarlo?</h2>
+<p><em>Los lectores preguntan con frecuencia</em> sobre este programa porque parece una forma de evitar completamente el requisito de historial crediticio en EE. UU.</p>
+<p>El programa Amex Global Card Relationship (antes llamado Global Transfer) permite a los titulares de una tarjeta Amex activa en un país elegible obtener una tarjeta Amex en EE. UU. sin número de Seguro Social, sin ITIN y sin historial crediticio en EE. UU. La tarjeta debe haber estado activa al menos seis meses y estar al corriente de pagos.</p>
+<p>Hay un detalle importante para quienes quieren construir crédito. El Global Transfer usa tu historial interno de Amex y no necesita identificación fiscal, pero la tarjeta que obtienes puede no reportar a las agencias de crédito de EE. UU. Consigues una tarjeta Amex en EE. UU., pero no comienzas a acumular automáticamente un puntaje crediticio en EE. UU. Una tarjeta asegurada o inicial abierta con ITIN, en cambio, reporta a las tres agencias desde el primer día.</p>
+<p>La estrategia práctica: usa la tarjeta de Global Transfer como tu punto de entrada, luego obtén un ITIN y solicita una segunda tarjeta Amex con él para que tus pagos queden registrados en un reporte crediticio real en EE. UU.</p>
+<p>Para más información sobre cómo funciona el reporte a las agencias con distintos emisores, consulta <a href="/es/articles/itin-credit-card-credit-bureau-reporting">¿mi tarjeta de crédito con ITIN reporta a las tres agencias de crédito?</a>.</p>
+<h2 id="qué-documentos-necesito-para-solicitar-una-tarjeta-amex-con-itin">¿Qué documentos necesito para solicitar una tarjeta Amex con ITIN?</h2>
+<p>Las razones más comunes por las que American Express rechaza solicitudes con ITIN son: un historial crediticio escaso en EE. UU., un ITIN que no puede verificarse (frecuentemente porque fue emitido recientemente), una dirección en EE. UU. que activa una alerta de agente de correo comercial o agente registrado, y documentación de ingresos insuficiente.</p>
+<p>Para tener las mejores probabilidades, reúne estos documentos antes de aplicar:</p>
+<ul>
+<li><strong>Carta de asignación de ITIN (IRS CP-565):</strong> Prueba de que tu número es válido y no ha expirado. Si tu ITIN fue emitido en 2021 o antes y no lo has usado recientemente en una declaración de impuestos, confirma con el IRS que no ha vencido.</li>
+<li><strong>Identificación oficial con foto:</strong> Un pasaporte es el documento más ampliamente aceptado. A algunos solicitantes también se les pide para verificar su identidad después de enviar la solicitud.</li>
+<li><strong>Dirección residencial verificable en EE. UU.:</strong> Una dirección residencial real, no un apartado postal ni un servicio de reenvío de correo. Los filtros antifraude de Amex marcan las direcciones de agentes comerciales de correo.</li>
+<li><strong>Documentación de ingresos:</strong> Talones de pago, estados de cuenta bancarios o declaraciones de impuestos. Amex es más exigente con los ingresos que algunos otros emisores.</li>
+</ul>
+<p>Según datos compilados por la CFPB, la verificación de ingresos se cita en una proporción significativa de rechazos de tarjetas de crédito para solicitantes sin historial establecido en EE. UU., por lo que documentar tus ingresos con claridad importa más aquí que para alguien con años de historial en EE. UU. Si quieres entender mejor el tema de los ingresos, consulta <a href="/es/articles/income-requirements-credit-card-itin">¿qué ingresos necesitas para obtener una tarjeta de crédito con ITIN?</a>.</p>
+<h2 id="cómo-se-compara-solicitar-una-tarjeta-amex-con-itin-frente-a-otros-emisores-importantes">¿Cómo se compara solicitar una tarjeta Amex con ITIN frente a otros emisores importantes?</h2>
+<p><em>Una pregunta frecuente:</em> si Amex es mejor o peor que Capital One, Citi o Bank of America para un titular de ITIN.</p>
+<p>Algunos emisores importantes de tarjetas de crédito, entre ellos American Express y Capital One, aceptan el ITIN en lugar del SSN para cumplir con los requisitos federales de verificación de identidad. La diferencia está en cómo evalúan tu solicitud después de aceptarla.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Emisor</th><th>Acepta ITIN</th><th>Opción sin historial en EE. UU.</th><th>Dificultad de aprobación (ITIN, historial escaso)</th></tr></thead><tbody><tr><td>American Express</td><td>Sí (todas las tarjetas de consumidor)</td><td>Solo vía Global Transfer</td><td>Media-Alta</td></tr><tr><td>Capital One</td><td>Sí</td><td>Tarjeta asegurada disponible</td><td>Media</td></tr><tr><td>Bank of America</td><td>Sí</td><td>Existe ruta en sucursal</td><td>Media</td></tr><tr><td>Citi</td><td>Sí</td><td>Existe ruta en sucursal</td><td>Media</td></tr><tr><td>Chase</td><td>Sí (tarjetas seleccionadas)</td><td>No</td><td>Alta</td></tr><tr><td>OpenSky</td><td>Sí</td><td>Sin verificación de crédito</td><td>Baja</td></tr></tbody></table>
+<p>Algunos emisores de tarjetas en EE. UU. aceptan el ITIN en lugar del SSN, y un subgrupo más pequeño acepta pasaporte más otros documentos de identidad. La aceptación varía según el emisor y no está garantizada por ley. Vale la pena llamar directamente a la línea de servicio al cliente del emisor para confirmar su política actual sobre el ITIN antes de aplicar, porque las políticas publicadas y la ejecución a nivel de sucursal no siempre coinciden.</p>
+<p>Para una comparación completa entre emisores, consulta <a href="/es/articles/credit-cards-that-accept-itin-verified-issuer-list">tarjetas de crédito que aceptan ITIN: lista verificada de emisores 2026</a>.</p>
+<h2 id="qué-pasa-después-de-que-me-aprueban-una-tarjeta-amex-con-itin">¿Qué pasa después de que me aprueban una tarjeta Amex con ITIN?</h2>
+<p>La aprobación es el comienzo, no el final. Amex es conocido por su modelo de relación interna, lo que significa que el uso responsable de una tarjeta Amex puede abrirte las puertas a otros productos de Amex mediante lo que los tarjetahabientes llaman el proceso de “puerta trasera” o “pop-up”. Hay algunas cosas que vale la pena tener en cuenta:</p>
+<p>Tu ITIN está vinculado a tu perfil de Amex. Después de obtener tu ITIN, puedes solicitar una segunda tarjeta Amex en EE. UU. e ingresar tu ITIN en el campo de SSN de la nueva solicitud. Cada tarjeta adicional reporta a las agencias de EE. UU. y acelera tu progreso en la construcción de crédito.</p>
+<p>Mantén tu utilización baja. Amex reporta tu saldo mensual a las agencias, así que pagar tu saldo completo y mantener el gasto por debajo del 30% de tu límite protege el puntaje que estás trabajando para construir. Nuestra guía sobre <a href="/es/articles/credit-utilization-itin-credit-card">utilización de crédito con una tarjeta ITIN</a> explica los detalles.</p>
+<p>Piensa en mejorar tu tarjeta con el tiempo. A diferencia de algunas tarjetas aseguradas, las tarjetas no aseguradas de Amex no tienen una ruta formal de graduación de asegurada a no asegurada. Comienzas con una tarjeta no asegurada y trabajas hacia mejores productos dentro de la línea de Amex. Para el proceso de tarjeta asegurada a no asegurada con otros emisores, consulta <a href="/es/articles/upgrade-secured-to-unsecured-credit-card-itin">cómo pasar de una tarjeta asegurada a una no asegurada con ITIN</a>.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<p><strong>¿American Express acepta el ITIN en lugar del SSN?</strong>
+Sí. El campo de SSN en la solicitud de tarjeta de consumidor de Amex te permite expresamente ingresar tu ITIN, y el sistema de solicitudes está diseñado para procesar envíos con ITIN.</p>
+<p><strong>¿Qué tarjeta American Express es más fácil de obtener con ITIN?</strong></p>
+<p>La Blue Cash Everyday Card de American Express es la opción más accesible para quienes aplican directamente con ITIN. Sin cuota anual y con requisitos de crédito moderados, es una meta realista para los titulares de ITIN después de 12 meses o más de historial crediticio establecido en EE. UU.</p>
+<p><strong>¿Puedo obtener la Amex Platinum con ITIN?</strong></p>
+<p>La aprobación directa con ITIN para la Platinum es rara sin 24 meses o más de historial crediticio sólido en EE. UU. e ingresos altos. A través del programa Global Transfer, si tu tarjeta no estadounidense es un producto equivalente de nivel Platinum, la transferencia puede aplicarse a la Platinum en EE. UU.</p>
+<p><strong>¿Qué es el programa Amex Global Card Relationship y requiere ITIN?</strong></p>
+<p>El programa permite a los tarjetahabientes de Amex de países elegibles obtener una tarjeta Amex en EE. UU. sin número de Seguro Social, sin ITIN y sin historial crediticio en EE. UU. Sin embargo, esa tarjeta puede no reportar a las agencias de EE. UU., así que haz un seguimiento con una solicitud vinculada a tu ITIN para comenzar a construir un historial crediticio verificable en EE. UU.</p>
+<p><strong>¿Por qué American Express rechazaría mi solicitud con ITIN?</strong></p>
+<p>Las razones más comunes son: un historial crediticio escaso en EE. UU., un ITIN que no puede verificarse (frecuentemente por emisión reciente), una falla en la verificación de dirección en EE. UU. como una alerta de agente comercial de correo o agente registrado, y documentación de ingresos insuficiente. Resolver estos cuatro puntos antes de aplicar marca una diferencia real.</p> <section> <h2>Guías relacionadas</h2> <ul class="lead-list"> <li><a href="/es/articles/foreign-credit-history-credit-card-itin">foreign credit history credit card itin</a></li><li><a href="/es/articles/itin-credit-card-issuer-comparison-2026">itin credit card issuer comparison 2026</a></li><li><a href="/es/articles/can-you-get-a-credit-card-with-an-itin">can you get a credit card with an itin</a></li><li><a href="/es/articles/credit-card-daca-recipients-itin">credit card daca recipients itin</a></li> </ul> </section> </div> <aside class="sources-note" data-astro-cid-6jinirix> <p class="sources-note-h" data-astro-cid-6jinirix>Cómo investigamos esta página</p> <p class="sources-note-b" data-astro-cid-6jinirix>
+Esta guía la escribió y revisó nuestro equipo editorial a partir de fuentes
+      primarias, el IRS, la CFPB, la FTC, FICO, Experian, Equifax y TransUnion, los materiales publicados por los emisores de tarjetas, en lugar de otros blogs. Las cifras, tarifas y
+      requisitos se cotejan con esa documentación antes de publicar; los términos
+      específicos de cada tarjeta cambian, así que verifícalos con el emisor. No
+      inventamos estadísticas, probabilidades de aprobación ni términos de
+      producto. Lee nuestra <a href="/es/editorial-policy" data-astro-cid-6jinirix>política editorial</a> completa.
+</p> </aside>  <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Famerican-express-credit-card-itin" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Famerican-express-credit-card-itin" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="inline-cta"> <h3>¿Listo para explorar tus opciones?</h3> <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">Conéctate con emisores de tarjetas que aceptan ITIN. Sin Seguro Social y revisar no afecta tu crédito.</p> <a class="btn btn-primary btn-lg" href="/es/apply">Encuentra tu tarjeta</a> </div> <aside class="author-bio" data-astro-cid-zm77yjld> <p class="author-bio-name" data-astro-cid-zm77yjld>Research Desk<span class="author-bio-role" data-astro-cid-zm77yjld> &middot; Issuers &amp; Approval</span></p> <p class="author-bio-text" data-astro-cid-zm77yjld>El equipo de investigación de ITIN Credit Card cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN. Investigamos las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Publicamos en inglés y español.</p> <p class="author-bio-link" data-astro-cid-zm77yjld><a href="/es/about" data-astro-cid-zm77yjld>Sobre nuestro equipo editorial</a></p> </aside> <nav class="related-links" aria-label="Related guides" data-astro-cid-xmiqtmid> <h2 data-astro-cid-xmiqtmid>Related guides</h2> <ul data-astro-cid-xmiqtmid> <li data-astro-cid-xmiqtmid><a href="/es/itin-credit-cards-guide" data-astro-cid-xmiqtmid>Guía de Tarjetas de Crédito ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/secured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas con Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/best-itin-credit-cards" data-astro-cid-xmiqtmid>Mejores Tarjetas ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/credit-cards-that-accept-itin" data-astro-cid-xmiqtmid>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/unsecured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas sin Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/build-credit-with-itin" data-astro-cid-xmiqtmid>Construir Crédito</a></li><li data-astro-cid-xmiqtmid><a href="/es/business-credit-cards" data-astro-cid-xmiqtmid>Tarjetas de Negocio</a></li><li data-astro-cid-xmiqtmid><a href="/es/how-to-get-an-itin" data-astro-cid-xmiqtmid>Cómo Obtener un ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/articles" data-astro-cid-xmiqtmid>Todas las Guías</a></li> </ul> </nav>  <section class="faq"><h2>Preguntas frecuentes</h2><details class="faq-item"><summary>¿American Express acepta el ITIN en lugar del SSN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí. El campo de SSN en cada solicitud de tarjeta de consumidor de Amex en EE. UU. indica expresamente que puedes ingresar tu ITIN si no tienes SSN. El sistema de solicitudes de Amex está diseñado para procesar envíos con ITIN.</p></details><details class="faq-item"><summary>¿Qué tarjeta American Express es más fácil de obtener con ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">La Blue Cash Everyday Card de American Express es ampliamente reconocida como la opción más realista para quienes aplican directamente con ITIN. No tiene cuota anual y sus requisitos de crédito son menores que los de las tarjetas premium de Amex. La mayoría de los titulares de ITIN la solicitan después de 12 meses o más de historial crediticio establecido en EE. UU.</p></details><details class="faq-item"><summary>¿Puedo obtener la Amex Platinum con ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Es posible, pero poco común. La aprobación directa con ITIN para la Amex Platinum es rara si no tienes al menos 24 meses de historial crediticio sólido en EE. UU. e ingresos altos documentados. La ruta del programa Amex Global Card Relationship (Global Transfer) es una mejor opción si ya tienes una tarjeta Amex de nivel Platinum equivalente en un país elegible.</p></details><details class="faq-item"><summary>¿Qué es el programa Amex Global Card Relationship (Global Transfer) y requiere ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">El programa Amex Global Card Relationship permite a los tarjetahabientes de Amex de países elegibles obtener una tarjeta Amex en EE. UU. usando su historial de Amex en su país de origen, sin SSN ni ITIN al momento de la solicitud. Sin embargo, una tarjeta obtenida por esta vía generalmente no reporta a las agencias de crédito de EE. UU. hasta que agregues un ITIN en una solicitud posterior.</p></details><details class="faq-item"><summary>¿Por qué American Express rechazaría una solicitud con ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Las razones más comunes son: un historial crediticio en EE. UU. escaso o inexistente, un ITIN que no puede verificarse (frecuentemente porque fue emitido recientemente), una dirección en EE. UU. que activa una alerta de buzón comercial o agente registrado, y documentación de ingresos insuficiente. Tener 12 meses o más de historial crediticio e ingresos verificables mejora significativamente tus probabilidades.</p></details><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿American Express acepta el ITIN en lugar del SSN?","acceptedAnswer":{"@type":"Answer","text":"Sí. El campo de SSN en cada solicitud de tarjeta de consumidor de Amex en EE. UU. indica expresamente que puedes ingresar tu ITIN si no tienes SSN. El sistema de solicitudes de Amex está diseñado para procesar envíos con ITIN."}},{"@type":"Question","name":"¿Qué tarjeta American Express es más fácil de obtener con ITIN?","acceptedAnswer":{"@type":"Answer","text":"La Blue Cash Everyday Card de American Express es ampliamente reconocida como la opción más realista para quienes aplican directamente con ITIN. No tiene cuota anual y sus requisitos de crédito son menores que los de las tarjetas premium de Amex. La mayoría de los titulares de ITIN la solicitan después de 12 meses o más de historial crediticio establecido en EE. UU."}},{"@type":"Question","name":"¿Puedo obtener la Amex Platinum con ITIN?","acceptedAnswer":{"@type":"Answer","text":"Es posible, pero poco común. La aprobación directa con ITIN para la Amex Platinum es rara si no tienes al menos 24 meses de historial crediticio sólido en EE. UU. e ingresos altos documentados. La ruta del programa Amex Global Card Relationship (Global Transfer) es una mejor opción si ya tienes una tarjeta Amex de nivel Platinum equivalente en un país elegible."}},{"@type":"Question","name":"¿Qué es el programa Amex Global Card Relationship (Global Transfer) y requiere ITIN?","acceptedAnswer":{"@type":"Answer","text":"El programa Amex Global Card Relationship permite a los tarjetahabientes de Amex de países elegibles obtener una tarjeta Amex en EE. UU. usando su historial de Amex en su país de origen, sin SSN ni ITIN al momento de la solicitud. Sin embargo, una tarjeta obtenida por esta vía generalmente no reporta a las agencias de crédito de EE. UU. hasta que agregues un ITIN en una solicitud posterior."}},{"@type":"Question","name":"¿Por qué American Express rechazaría una solicitud con ITIN?","acceptedAnswer":{"@type":"Answer","text":"Las razones más comunes son: un historial crediticio en EE. UU. escaso o inexistente, un ITIN que no puede verificarse (frecuentemente porque fue emitido recientemente), una dirección en EE. UU. que activa una alerta de buzón comercial o agente registrado, y documentación de ingresos insuficiente. Tener 12 meses o más de historial crediticio e ingresos verificables mejora significativamente tus probabilidades."}}]}</script></section> </article>  </main> <footer class="site-footer" data-astro-cid-sz7xmlte> <div class="container" data-astro-cid-sz7xmlte> <div class="footer-grid" data-astro-cid-sz7xmlte> <div data-astro-cid-sz7xmlte> <div class="footer-brand" data-astro-cid-sz7xmlte>ITIN Credit Card<span style="color:var(--accent)" data-astro-cid-sz7xmlte>.</span></div> <p data-astro-cid-sz7xmlte>Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4 data-astro-cid-sz7xmlte>Por qué confiar en nosotros</h4> <ul class="footer-trust" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Independientes, no somos emisor de tarjetas ni banco</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Siempre gratis</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Tu información se mantiene privada</li> </ul>  <p class="footer-operator" data-astro-cid-sz7xmlte> Operado por <strong data-astro-cid-sz7xmlte>Timberline Ventures LLC</strong><br data-astro-cid-sz7xmlte> <a href="mailto:info@timberlineventuresllc.com" data-astro-cid-sz7xmlte>info@timberlineventuresllc.com</a> </p> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Tarjetas</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/secured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas con Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/best-itin-credit-cards" data-astro-cid-sz7xmlte>Mejores Tarjetas ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/credit-cards-that-accept-itin" data-astro-cid-sz7xmlte>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/unsecured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas sin Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/build-credit-with-itin" data-astro-cid-sz7xmlte>Construir Crédito</a></li><li data-astro-cid-sz7xmlte><a href="/es/business-credit-cards" data-astro-cid-sz7xmlte>Tarjetas de Negocio</a></li><li data-astro-cid-sz7xmlte><a href="/es/how-to-get-an-itin" data-astro-cid-sz7xmlte>Cómo Obtener un ITIN</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Recursos</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/itin-credit-cards-guide" data-astro-cid-sz7xmlte>Guía de Tarjetas</a></li><li data-astro-cid-sz7xmlte><a href="/es/articles" data-astro-cid-sz7xmlte>Todas las Guías</a></li><li data-astro-cid-sz7xmlte><a href="/es/apply" data-astro-cid-sz7xmlte>Encuentra tu tarjeta</a></li><li data-astro-cid-sz7xmlte><a href="/es/about" data-astro-cid-sz7xmlte>Nosotros</a></li><li data-astro-cid-sz7xmlte><a href="/es/contact" data-astro-cid-sz7xmlte>Contacto</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Legal</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/editorial-policy" data-astro-cid-sz7xmlte>Política Editorial</a></li><li data-astro-cid-sz7xmlte><a href="/es/privacy" data-astro-cid-sz7xmlte>Política de Privacidad</a></li><li data-astro-cid-sz7xmlte><a href="/es/terms" data-astro-cid-sz7xmlte>Términos de Uso</a></li><li data-astro-cid-sz7xmlte><a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-network" data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Más Recursos para Personas con ITIN</h4> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="https://itinlending.net" data-astro-cid-sz7xmlte>Préstamos e Hipotecas ITIN</a> <span data-astro-cid-sz7xmlte>Préstamos de auto, personales y de negocio e hipotecas con ITIN</span> </li><li data-astro-cid-sz7xmlte> <a href="https://itincreditscore.com" data-astro-cid-sz7xmlte>Puntaje de Crédito con ITIN</a> <span data-astro-cid-sz7xmlte>Consulta, construye y mejora tu crédito con un ITIN</span> </li> </ul> </div> <div class="footer-disclaimer" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+&copy; 2026 ITINCreditCard.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Card es un recurso independiente de información y referencia. No
+          somos un banco, emisor de tarjetas ni organización de reparación de
+          crédito, y no tomamos decisiones de crédito ni emitimos tarjetas. La
+          información de este sitio tiene fines educativos generales y no
+          constituye asesoría financiera, legal ni fiscal. Los productos de
+          tarjetas de crédito y los términos de aprobación los establecen emisores
+          externos y están sujetos a su aprobación y a la ley aplicable. Podemos
+          recibir compensación cuando haces clic en ciertos enlaces o te
+          conectamos con un emisor, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a>.
+</p> <p class="fha-legal" data-astro-cid-sz7xmlte>
+* El programa de préstamo FHA con 3.5% de enganche es ofrecido por un
+          socio prestamista externo, no por ITIN Credit Card. No es una garantía de
+          aprobación, tasa ni condiciones. Todo financiamiento está sujeto a
+          suscripción del prestamista, aprobación crediticia, verificación de
+          ingresos y requisitos de elegibilidad del programa, los cuales varían
+          según el estado y pueden cambiar sin previo aviso.
+</p> </div> </div> </footer>  </body></html> 
