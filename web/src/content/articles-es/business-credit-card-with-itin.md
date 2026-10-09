@@ -16,8 +16,8 @@ category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "discover-credit-card-itin"
   - "balance-transfer-credit-card-itin"
-  - "credit-union-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito empresarial con ITIN y sin SSN?"
     a: "Sí. Varios emisores importantes, entre ellos Capital One y Chase, aceptan el ITIN en lugar del SSN en las solicitudes de tarjetas de crédito empresariales. Aun así necesitarás un EIN para la parte empresarial de la solicitud, además de documentos de identidad como pasaporte y comprobante de dirección en EE. UU."

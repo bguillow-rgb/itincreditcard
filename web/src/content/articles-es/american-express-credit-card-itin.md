@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "foreign-credit-history-credit-card-itin"
+  - "discover-credit-card-itin"
   - "itin-credit-card-issuer-comparison-2026"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "credit-card-daca-recipients-itin"
 faqs:
   - q: "¿American Express acepta el ITIN en lugar del SSN?"
     a: "Sí. El campo de SSN en cada solicitud de tarjeta de consumidor de Amex en EE. UU. indica expresamente que puedes ingresar tu ITIN si no tienes SSN. El sistema de solicitudes de Amex está diseñado para procesar envíos con ITIN."
