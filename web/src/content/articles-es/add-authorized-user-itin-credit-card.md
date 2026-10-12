@@ -17,7 +17,7 @@ relatedSlugs:
   - "authorized-user-credit-card-itin"
   - "credit-card-opt-visa-holder-itin"
   - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "itin-credit-card-bank-credit-union-verified-guide-2026"
 faqs:
   - q: "¿Puede un titular de ITIN agregar un usuario autorizado a su tarjeta de crédito?"
     a: "Sí. Ser el titular principal con un ITIN no te impide agregar un usuario autorizado. Las reglas del emisor para usuarios autorizados aplican de la misma manera que para los titulares con SSN. Los requisitos varían según el banco, pero la mayoría solo necesita el nombre y la fecha de nacimiento del usuario."

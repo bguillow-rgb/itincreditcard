@@ -14,10 +14,10 @@ publishedAt: "2026-09-14"
 author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
+  - "itin-credit-card-bank-credit-union-verified-guide-2026"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "how-to-apply-for-credit-card-with-itin"
-  - "itin-credit-card-bank-by-bank-application-guide"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito en línea solo con mi ITIN y sin SSN?"
     a: "Sí, aunque depende del emisor. Capital One, Wells Fargo y Citi permiten solicitudes completamente en línea con ITIN. Bank of America y Chase generalmente requieren una visita a la sucursal para quienes solo tienen ITIN, aunque con Bank of America a veces es posible hacer la solicitud por teléfono si ya tienes una cuenta con ellos."

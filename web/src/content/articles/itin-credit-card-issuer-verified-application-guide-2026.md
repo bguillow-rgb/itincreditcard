@@ -14,10 +14,10 @@ publishedAt: "2026-09-14"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-credit-card-bank-credit-union-verified-guide-2026"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "itin-credit-card-bank-by-bank-application-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
 faqs:
   - q: "Can I apply for a credit card online with just an ITIN and no SSN?"
     a: "Yes, but it depends on the issuer. Capital One, Wells Fargo, and Citi allow fully online ITIN applications. Bank of America and Chase typically require an in-branch visit for ITIN-only applicants, though phone applications are sometimes possible with Bank of America if you already have an account with them."
