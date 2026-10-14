@@ -14,10 +14,10 @@ publishedAt: "2026-10-09"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "capital-one-credit-card-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
   - "secured-credit-card-with-itin"
-  - "credit-card-h1b-visa-itin"
 faqs:
   - q: "Does Discover accept an ITIN instead of an SSN?"
     a: "Yes. Discover's application has a field for either an SSN or ITIN. You enter your ITIN in that field and proceed normally. This applies to all current Discover consumer card applications."

@@ -14,10 +14,10 @@ publishedAt: "2026-10-09"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "capital-one-credit-card-itin"
   - "foreign-credit-history-credit-card-itin"
   - "business-credit-card-with-itin"
   - "credit-card-prequalification-itin"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "¿Discover acepta un ITIN en lugar de un SSN?"
     a: "Sí. La solicitud de Discover tiene un campo para ingresar tu SSN o ITIN. Solo escribe tu ITIN en ese campo y continúa con el proceso de manera normal. Esto aplica a todas las solicitudes actuales de tarjetas de consumo de Discover."

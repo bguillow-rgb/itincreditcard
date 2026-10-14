@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "discover-credit-card-itin"
+  - "capital-one-credit-card-itin"
   - "cash-back-credit-card-itin-holders"
   - "credit-limit-increase-itin-credit-card"
-  - "secured-credit-card-with-itin"
 faqs:
   - q: "Can I get a business credit card with an ITIN and no SSN?"
     a: "Yes. Several major issuers, including Capital One and Chase, accept an ITIN in place of an SSN on business credit card applications. You'll still need an EIN for the business side of the application, plus identity documents like a passport and proof of a U.S. address."
