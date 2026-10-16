@@ -14,10 +14,10 @@ publishedAt: "2026-06-26"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "citi-credit-card-itin"
   - "how-to-apply-for-credit-card-with-itin"
   - "credit-card-itin-non-residents"
   - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "multiple-credit-cards-itin-holders"
 faqs:
   - q: "¿Existe un ingreso mínimo requerido para obtener una tarjeta de crédito con ITIN?"
     a: "Ninguna ley federal establece un mínimo. Cada emisor fija sus propios umbrales internos. En la práctica, la mayoría de las tarjetas que aceptan ITIN buscan aproximadamente entre $500 y $2,000 al mes, aunque las tarjetas aseguradas sin verificación de crédito, como OpenSky, suelen aprobar solicitantes independientemente del monto de ingresos, siempre que puedas depositar el monto de garantía."

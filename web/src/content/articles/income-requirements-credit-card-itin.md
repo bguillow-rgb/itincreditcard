@@ -14,10 +14,10 @@ publishedAt: "2026-06-26"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "citi-credit-card-itin"
   - "how-to-apply-for-credit-card-with-itin"
   - "itin-credit-card-bank-credit-union-verified-guide-2026"
   - "itin-credit-card-issuer-verified-application-guide-2026"
-  - "capital-one-credit-card-itin"
 faqs:
   - q: "Is there a minimum income required to get a credit card with an ITIN?"
     a: "No federal law sets a minimum. Issuers set their own internal thresholds. In practice, most ITIN-accepting cards look for roughly $500-$2,000 per month, though no-credit-check secured cards like OpenSky often approve applicants regardless of income amount, as long as you can fund the deposit."
