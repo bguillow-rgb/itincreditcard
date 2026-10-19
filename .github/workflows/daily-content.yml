@@ -142,7 +142,10 @@ jobs:
   # This job makes every failure land somewhere a human sees it.
   notify:
     needs: publish
-    if: failure()
+    # failure() alone missed the 2026-10-05 run: the publish job was CANCELLED
+    # (queue/infra), not failed, so notify was SKIPPED and the slot died silently.
+    # Fire on both, and say which it was.
+    if: always() && (needs.publish.result == 'failure' || needs.publish.result == 'cancelled')
     runs-on: ubuntu-latest
     permissions:
       issues: write
@@ -183,7 +186,7 @@ jobs:
                 'build on purpose — fix the links, do not disable the gate), or a push conflict.';
 
             const body = [
-              `The \`Daily SEO content\` workflow failed on ${new Date().toISOString().slice(0, 10)}.`,
+              `The \`Daily SEO content\` workflow ${'${{ needs.publish.result }}' === 'cancelled' ? 'was cancelled' : 'failed'} on ${new Date().toISOString().slice(0, 10)}.`,
               '',
               `**Run:** ${runUrl}`,
               failedSteps.length ? `**Failed steps:**\n${failedSteps.map((s) => `- ${s}`).join('\n')}` : '',

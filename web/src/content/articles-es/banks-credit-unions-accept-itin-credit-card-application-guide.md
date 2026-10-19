@@ -1,5 +1,5 @@
 ---
-title: "Bancos y cooperativas de crédito que aceptan ITIN para tarjetas de crédito (2026)"
+title: "Bancos y cooperativas que aceptan ITIN para tarjetas (2026)"
 description: "Verificado: más de 10 bancos y cooperativas de crédito que aceptan ITIN para solicitar tarjetas de crédito en 2026, con requisitos exactos, método de solicitud y la mejor tarjeta en cada institución."
 tier: flagship
 targetQuery: "qué bancos y cooperativas de crédito te dejan solicitar una tarjeta de crédito con ITIN"

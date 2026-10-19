@@ -1,5 +1,5 @@
 ---
-title: "Las mejores tarjetas de crédito iniciales con ITIN (2026): clasificadas desde cero"
+title: "Tarjetas de crédito iniciales con ITIN: desde cero (2026)"
 description: "¿Tienes ITIN y ningún historial crediticio en EE. UU.? Estas 7 tarjetas iniciales verificadas se clasifican por facilidad de aprobación, depósito, comisiones y velocidad de graduación. Comparadas y ordenadas para 2026."
 tier: flagship
 targetQuery: "mejores tarjetas de crédito iniciales para construir crédito con ITIN desde cero"

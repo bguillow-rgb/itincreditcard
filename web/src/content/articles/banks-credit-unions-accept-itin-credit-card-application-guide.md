@@ -1,5 +1,5 @@
 ---
-title: "Banks & Credit Unions That Accept ITIN for Credit Cards (2026)"
+title: "Banks & Credit Unions That Accept ITIN Credit Cards (2026)"
 description: "Verified: 10+ banks and credit unions that accept an ITIN for credit card applications in 2026, with exact requirements, application method, and best card at each."
 tier: flagship
 targetQuery: "which banks and credit unions let you apply for a credit card with an ITIN"

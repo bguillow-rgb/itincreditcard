@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para titulares de visa TN con ITIN (2026)"
+title: "Tarjetas de crédito con visa TN e ITIN (2026)"
 description: "Los titulares de visa TN y TD pueden obtener una tarjeta de crédito con un ITIN. Descubre qué emisores aceptan ITIN, qué documentos necesitas y cómo empezar a construir crédito en EE. UU. rápidamente."
 tier: detail
 targetQuery: "tarjeta de crédito para visa TN con ITIN"

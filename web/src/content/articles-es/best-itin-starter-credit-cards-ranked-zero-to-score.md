@@ -1,5 +1,5 @@
 ---
-title: "Las Mejores Tarjetas de Crédito para Comenzar con ITIN (2026): Clasificadas desde Cero"
+title: "Mejores tarjetas de crédito para empezar con ITIN (2026)"
 description: "Seis tarjetas para principiantes que aceptan ITIN, clasificadas con datos reales de depósito, APR y graduación. No necesitas historial crediticio en EE. UU. Encuentra la tarjeta ideal para empezar a construir tu puntaje hoy."
 tier: flagship
 targetQuery: "mejores tarjetas de crédito para construir crédito con ITIN desde cero"

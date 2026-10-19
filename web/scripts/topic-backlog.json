@@ -1,12 +1,14 @@
 {
-  "_comment": "Topic hints for daily-post.mjs. Seeded 2026-07-05 from GSC content-gap queries (real search demand where itincreditcard.com ranks pos 53-87). 'flagship' = Monday deep original-data pieces (cluster owners); 'cluster' = Wed/Fri detail posts. Rotated weekly by daily-post.mjs; existingList dedup prevents repeats. Update as GSC reveals new buried-but-real-demand queries.",
+  "_comment": "Topic hints for daily-post.mjs. 'flagship' = Monday deep pieces; 'detail' = Wed/Fri detail posts, ORDERED: daily-post picks the FIRST entry not already covered by an existing article (clicked clusters first, per the 10/19 audit). NEVER seed grounding-query targets that show impressions but no clicks: Wells Fargo verdict CLOSED 10/19 (118 Bing impr, 0 clicks), Non-resident inherits the caveat. Citi shipped 10/16 (0 clicks so far). Keep the 8/14 accuracy gates: Self = SSN-only, Wells Fargo has no secured card.",
   "flagship": [
     "The credit cards that actually accept an ITIN in 2026: a verified issuer-by-issuer list with limits, fees, and approval odds",
     "Secured vs unsecured ITIN credit cards compared across real issuers, with deposits, APRs, and graduation timelines",
     "Which banks and credit unions let you apply for a credit card with an ITIN (verified, with application details)",
     "Best starter credit cards for building credit with an ITIN from zero: ranked and tested"
   ],
-  "cluster": [
+  "detail": [
+    "what is the ITIN number on a credit card, explained (definitional: 63 impr, 3 clicks and growing)",
+    "bank of america credit card with itin (41 impr, 2 clicks)",
     "credit card with itin",
     "itin credit card",
     "best itin credit cards",

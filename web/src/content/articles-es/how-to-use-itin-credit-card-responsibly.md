@@ -1,5 +1,5 @@
 ---
-title: "Cómo usar una tarjeta de crédito con ITIN de forma responsable (2026)"
+title: "Cómo usar tu tarjeta de crédito con ITIN responsablemente"
 description: "Aprende exactamente cómo usar tu tarjeta de crédito con ITIN para construir crédito en EE. UU. rápido: reglas de utilización, fechas de pago, autopago y los errores que te atrasan."
 tier: detail
 targetQuery: "cómo usar una tarjeta de crédito con ITIN de forma responsable para construir crédito"

@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para titulares de visa OPT con ITIN (2026)"
+title: "Tarjetas de crédito con visa OPT e ITIN (2026)"
 description: "Sí, los titulares de visa OPT pueden obtener una tarjeta de crédito usando un ITIN. Descubre qué emisores aceptan titulares de EAD, qué documentos necesitas y cómo construir crédito en EE. UU. rápido."
 tier: detail
 targetQuery: "tarjeta de crédito para visa OPT con ITIN"

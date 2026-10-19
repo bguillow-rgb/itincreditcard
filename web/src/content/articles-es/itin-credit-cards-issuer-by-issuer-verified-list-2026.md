@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de Crédito con ITIN 2026: Lista Verificada de Emisores con Datos Reales"
+title: "Tarjetas de crédito con ITIN 2026: emisores verificados"
 description: "Todos los emisores importantes que aceptan un ITIN para una tarjeta de crédito en 2026, con depósitos verificados, APRs, límites de crédito, tarifas y probabilidades de aprobación ordenadas por perfil."
 tier: flagship
 targetQuery: "qué tarjetas de crédito aceptan número ITIN en 2026 lista completa de emisores"

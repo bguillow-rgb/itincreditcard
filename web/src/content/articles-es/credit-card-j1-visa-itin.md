@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para titulares de visa J-1 con ITIN (2026)"
+title: "Tarjetas de crédito con visa J-1 e ITIN (2026)"
 description: "Sí, los titulares de visa J-1 pueden obtener una tarjeta de crédito en EE. UU. con un ITIN. Descubre qué emisores aprueban solicitudes J-1, qué documentos necesitas y cómo construir crédito rápidamente."
 tier: detail
 targetQuery: "tarjeta de crédito para visa J-1 con ITIN"

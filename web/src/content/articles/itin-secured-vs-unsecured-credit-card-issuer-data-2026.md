@@ -1,5 +1,5 @@
 ---
-title: "ITIN Secured vs. Unsecured Credit Cards: Real Issuer Data (2026)"
+title: "ITIN Secured vs Unsecured Credit Cards: Issuer Data 2026"
 description: "Secured and unsecured ITIN credit cards compared across 8 real issuers with verified deposits, APRs, annual fees, and graduation timelines for 2026."
 tier: flagship
 targetQuery: "secured vs unsecured credit card with ITIN which issuers accept each type with real deposit APR and graduation data 2026"

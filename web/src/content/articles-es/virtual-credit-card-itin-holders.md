@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito virtuales para titulares de ITIN (Guía 2026)"
+title: "Tarjetas de crédito virtuales con ITIN (Guía 2026)"
 description: "Sí, los titulares de ITIN pueden obtener tarjetas de crédito virtuales. Descubre qué emisores las ofrecen, cómo calificar sin SSN y cuáles generan números virtuales al instante."
 tier: detail
 targetQuery: "puedo obtener una tarjeta de crédito virtual con ITIN"

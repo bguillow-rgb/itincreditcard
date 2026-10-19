@@ -1,5 +1,5 @@
 ---
-title: "Cómo agregar un usuario autorizado a tu tarjeta de crédito con ITIN"
+title: "Agregar un usuario autorizado a tu tarjeta con ITIN"
 description: "Sí, los titulares de tarjetas con ITIN pueden agregar usuarios autorizados. Descubre qué emisores lo permiten, qué información necesitas y cómo afecta el crédito de ambos en 2026."
 tier: detail
 targetQuery: "puedo agregar un usuario autorizado a mi tarjeta de crédito si tengo ITIN"

@@ -1,5 +1,5 @@
 ---
-title: "Tarjeta Prepagada vs. Tarjeta de Crédito Asegurada para Titulares de ITIN"
+title: "Tarjeta prepagada vs. tarjeta asegurada con ITIN"
 description: "Las tarjetas prepagadas no construyen crédito en EE. UU. Las tarjetas aseguradas sí. Compara ambas para titulares de ITIN: costos, aprobación, reporte a burós y cuál conviene obtener primero."
 tier: detail
 targetQuery: "tarjeta prepagada vs tarjeta de crédito asegurada para titulares de ITIN"

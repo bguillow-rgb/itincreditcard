@@ -1,5 +1,5 @@
 ---
-title: "Tarjetas de crédito para titulares de visa F-1 con ITIN (2026)"
+title: "Tarjetas de crédito con visa F-1 e ITIN (2026)"
 description: "Sí, los estudiantes con visa F-1 pueden obtener una tarjeta de crédito en EE. UU. con un ITIN. Conoce qué emisores lo aceptan, qué documentos necesitas y cómo construir crédito desde cero."
 tier: detail
 targetQuery: "tarjeta de crédito para visa F-1 con ITIN"
