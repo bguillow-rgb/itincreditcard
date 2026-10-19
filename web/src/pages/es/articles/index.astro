@@ -11,9 +11,12 @@ const es = await getCollection('articles-es', pub);
 const esBySlug = new Map(es.map((e) => [e.slug, e]));
 // One card per EN slug, preferring the es-419 translation's title/description
 // when it exists (falls back to EN until backfill fills the gap).
-const posts = en
-  .map((entry) => esBySlug.get(entry.slug) ?? entry)
-  .sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
+const enSlugs = new Set(en.map((e) => e.slug));
+const posts = [
+  ...en.map((entry) => esBySlug.get(entry.slug) ?? entry),
+  // ES-first articles (no EN twin) belong in the Spanish index too.
+  ...es.filter((e) => !enSlugs.has(e.slug)),
+].sort((a, b) => b.data.publishedAt.getTime() - a.data.publishedAt.getTime());
 
 const title = 'Guías de Tarjetas de Crédito con ITIN';
 const description =

@@ -6,7 +6,10 @@ const lang = getLangFromUrl(Astro.url);
 const t = useTranslations(lang);
 const ctaLabel = lang === 'es' ? NAV_CTA.labelEs : NAV_CTA.label;
 const otherLang = lang === 'es' ? 'en' : 'es';
-const toggleHref = altPath(Astro.url.pathname, otherLang);
+// ES-first pages have no EN twin; send the EN toggle to the English guides
+// index instead of a URL that does not exist.
+const { esOnly = false } = Astro.props;
+const toggleHref = esOnly && otherLang === 'en' ? '/articles' : altPath(Astro.url.pathname, otherLang);
 const items = NAV.map((item) => ({
   label: lang === 'es' ? item.labelEs : item.label,
   href: localizedHref(item.href, lang),

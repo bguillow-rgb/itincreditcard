@@ -39,13 +39,19 @@ for (const m of prodBlock.matchAll(/slug:\s*'([^']+)'[\s\S]*?label:\s*'([^']+)'/
   pages.push({ slug: m[1], title: m[2] });
 }
 
-// Articles: titles from markdown frontmatter.
-const artDir = path.join(root, 'src/content/articles');
-if (fs.existsSync(artDir)) {
+// Articles: titles from markdown frontmatter. ES-first articles (articles-es
+// entries with no EN twin, 2026-10-19) need OG cards too; EN wins on a tie.
+const seen = new Set();
+for (const dir of ['src/content/articles', 'src/content/articles-es']) {
+  const artDir = path.join(root, dir);
+  if (!fs.existsSync(artDir)) continue;
   for (const f of fs.readdirSync(artDir).filter((f) => /\.mdx?$/.test(f))) {
+    const slug = f.replace(/\.mdx?$/, '');
+    if (seen.has(slug)) continue;
+    seen.add(slug);
     const fm = fs.readFileSync(path.join(artDir, f), 'utf8').match(/^---([\s\S]*?)---/);
     const title = fm && (fm[1].match(/\ntitle:\s*['"]?(.+?)['"]?\s*\n/) || [])[1];
-    pages.push({ slug: f.replace(/\.mdx?$/, ''), title: title || f });
+    pages.push({ slug, title: title || f });
   }
 }
 

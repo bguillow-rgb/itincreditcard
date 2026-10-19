@@ -13,25 +13,38 @@ export async function getStaticPaths() {
   const esBySlug = new Map(es.map((e) => [e.slug, e]));
   // One ES page per EN slug. Use the es-419 translation when it exists; until
   // backfill fills a gap, fall back to the EN entry so the URL never 404s.
-  return en.map((entry) => {
+  const enSlugs = new Set(en.map((e) => e.slug));
+  const paired = en.map((entry) => {
     const translated = esBySlug.get(entry.slug);
     return {
       params: { slug: entry.slug },
-      props: { entry: translated ?? entry },
+      props: { entry: translated ?? entry, esOnly: false },
     };
   });
+  // ES-FIRST pages (2026-10-19): articles written in Spanish with no EN twin.
+  // They get their own route; esOnly suppresses the EN hreflang alternate so
+  // we never advertise an English URL that does not exist.
+  const esFirst = es
+    .filter((e) => !enSlugs.has(e.slug))
+    .map((entry) => ({
+      params: { slug: entry.slug },
+      props: { entry, esOnly: true },
+    }));
+  return [...paired, ...esFirst];
 }
 
 interface Props {
   entry: CollectionEntry<'articles'> | CollectionEntry<'articles-es'>;
+  esOnly?: boolean;
 }
 
-const { entry } = Astro.props;
+const { entry, esOnly = false } = Astro.props;
 const { Content } = await entry.render();
 const data = entry.data;
 const path = `/es/articles/${entry.slug}`;
 ---
 <ArticleLayout
+  esOnly={esOnly}
   title={data.title}
   description={data.description}
   path={path}

@@ -13,6 +13,7 @@ import HowToSchema from '../components/schema/HowToSchema.astro';
 import { SITE } from '../consts';
 
 interface Props {
+  esOnly?: boolean;
   title: string;
   description: string;
   path: string;
@@ -30,6 +31,7 @@ interface Props {
 }
 
 const {
+  esOnly = false,
   title,
   description,
   path,
@@ -64,7 +66,7 @@ const bioMember =
 const bioText = bioMember ? (isEs ? bioMember.bioEs : bioMember.bio) : '';
 const bioRole = bioMember?.role || '';
 ---
-<BaseLayout title={title} description={description} path={path} ogImage={`/og/${ogSlug}.png`}>
+<BaseLayout title={title} description={description} path={path} ogImage={`/og/${ogSlug}.png`} esOnly={esOnly}>
   <Fragment slot="head">
     <ArticleSchema
       title={title}

@@ -16,6 +16,8 @@ import '@fontsource-variable/public-sans';
 import '../styles/global.css';
 
 interface Props {
+  // ES-first page with no EN twin: emit only the es hreflang (x-default = es).
+  esOnly?: boolean;
   title: string;
   description?: string;
   // Canonical path on this site, e.g. '/about'. Empty on homepage.
@@ -38,6 +40,7 @@ const {
   noindex = false,
   suppressGlobalSchema = false,
   ogImage = '/og.png',
+  esOnly = false,
 } = Astro.props;
 const ogImageUrl = `${SITE.url}${ogImage}`;
 
@@ -86,9 +89,9 @@ const fullTitle =
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
     <link rel="canonical" href={canonical} />
-    <link rel="alternate" hreflang="en" href={enHref} />
+    {!esOnly && <link rel="alternate" hreflang="en" href={enHref} />}
     <link rel="alternate" hreflang="es" href={esHref} />
-    <link rel="alternate" hreflang="x-default" href={enHref} />
+    <link rel="alternate" hreflang="x-default" href={esOnly ? esHref : enHref} />
     {noindex && <meta name="robots" content="noindex,follow" />}
 
     <meta property="og:type" content="website" />
@@ -121,7 +124,7 @@ const fullTitle =
         ? <>Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a></>
         : <>FHA home loans for ITIN buyers, with 3.5% down.* <a href="/apply">See if you qualify</a></>}
     </div>
-    <Nav />
+    <Nav esOnly={esOnly} />
     <main>
       <slot />
     </main>
