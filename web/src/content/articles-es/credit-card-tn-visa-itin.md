@@ -14,8 +14,8 @@ publishedAt: "2026-08-26"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "credit-card-j1-visa-itin"
   - "credit-card-h1b-visa-itin"
+  - "credit-card-j1-visa-itin"
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-opt-visa-holder-itin"
 faqs:

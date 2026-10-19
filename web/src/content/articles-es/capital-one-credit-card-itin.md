@@ -17,7 +17,7 @@ relatedSlugs:
   - "discover-credit-card-itin"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "foreign-credit-history-credit-card-itin"
-  - "credit-card-f1-visa-holders-itin"
+  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "¿Capital One acepta un ITIN en lugar de un SSN para tarjetas de crédito?"
     a: "Sí. Capital One acepta expresamente un ITIN en lugar de un SSN en todos sus productos de tarjeta de crédito para consumidores, incluyendo tarjetas aseguradas y no aseguradas. Que acepten el ITIN no garantiza la aprobación: los requisitos de ingresos y solvencia crediticia siguen aplicando."

@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-card-j1-visa-itin"
   - "credit-card-opt-visa-holder-itin"
+  - "itin-credit-cards-ranked-zero-credit-history-2026"
   - "itin-starter-credit-cards-ranked-zero-history"
-  - "authorized-user-credit-card-itin"
 faqs:
   - q: "Can I apply for a U.S. credit card with an ITIN if I live outside the United States?"
     a: "Yes, some issuers accept ITIN applications from non-residents. You will need a valid ITIN, a foreign passport for identity verification, and a U.S. mailing address for card delivery. Cards from Capital One, Bank of America, OpenSky, and Firstcard are common starting points. Confirm the issuer's current non-resident policy before applying, as requirements can change."

@@ -13,10 +13,10 @@ publishedAt: "2026-10-19"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "which-banks-accept-itin-for-credit-cards"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "american-express-credit-card-itin"
+  - "itin-credit-card-issuer-comparison-2026"
+  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
+  - "itin-credit-card-bank-by-bank-application-guide"
 faqs:
   - q: "¿Qué banco es más fácil para obtener una tarjeta con ITIN?"
     a: "Capital One. Permite completar toda la solicitud en línea con un ITIN, y su tarjeta Platinum Secured acepta solicitantes sin historial de crédito con depósitos desde $49. OpenSky ni siquiera revisa tu historial: aprueba con un depósito desde $200."

@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-card-j1-visa-itin"
   - "credit-card-opt-visa-holder-itin"
+  - "itin-credit-cards-ranked-zero-credit-history-2026"
   - "itin-starter-credit-cards-ranked-zero-history"
-  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "Is there a legal limit to how many credit cards I can have with an ITIN?"
     a: "No. U.S. law does not cap the number of credit cards any person can hold, whether they use an SSN or an ITIN. The only limits are the ones each issuer sets based on your creditworthiness and income."

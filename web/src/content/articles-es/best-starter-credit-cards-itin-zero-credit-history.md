@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "best-itin-starter-credit-cards-ranked-zero-to-score"
+  - "itin-credit-cards-ranked-zero-credit-history-2026"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "unsecured-credit-card-itin-holders"
-  - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito inicial con solo un ITIN y sin historial crediticio en EE.UU.?"
     a: "Sí. Varios emisores, entre ellos Capital One, Citi, OpenSky y Chase, aceptan explícitamente un ITIN en lugar de un SSN. Las tarjetas aseguradas son el punto de entrada más fácil porque la aprobación depende de tu depósito, no de un historial crediticio previo en EE.UU."
