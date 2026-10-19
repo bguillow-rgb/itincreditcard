@@ -9,8 +9,9 @@ relatedQueries:
   - "best credit cards for ITIN holders no SSN needed"
   - "secured credit cards that accept ITIN number"
   - "unsecured credit cards accept ITIN 2026"
-quickAnswer: "Capital One, Chase, American Express, Bank of America, Citi, Wells Fargo, OpenSky, Zolve, Self, and Kikoff all accept an ITIN for at least one credit card in 2026. Deposits range from $0 to $5,000. No U.S. credit history is required for secured and fintech options; established credit (670+) is needed for most rewards cards."
+quickAnswer: "Capital One, Chase, American Express, Bank of America, Citi, OpenSky, Zolve, and Kikoff all accept an ITIN for at least one credit card in 2026. Deposits range from $0 to $5,000. No U.S. credit history is required for secured and fintech options; established credit (670+) is needed for most rewards cards."
 publishedAt: "2026-08-31"
+updatedAt: "2026-10-19"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
@@ -20,9 +21,9 @@ relatedSlugs:
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
 faqs:
   - q: "Can I really get a credit card with just an ITIN and no U.S. credit history?"
-    a: "Yes. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured, and Zolve all approve applicants with an ITIN and zero U.S. credit history. Each requires a refundable security deposit (except Zolve), but none require a prior U.S. credit file."
+    a: "Yes. Capital One Platinum Secured, OpenSky Secured, Kikoff Secured, and Zolve all approve applicants with an ITIN and zero U.S. credit history. Each requires a refundable security deposit (except Zolve), but none require a prior U.S. credit file."
   - q: "Which major banks accept an ITIN for a credit card application?"
-    a: "Capital One, Chase, American Express, Bank of America, Citi, and Wells Fargo all accept an ITIN on at least some credit card applications. Capital One allows full online applications with an ITIN; Bank of America and Citi may route ITIN-only applicants through a branch or phone verification."
+    a: "Capital One, Chase, American Express, Bank of America, and Citi all accept an ITIN on at least some credit card applications. Capital One allows full online applications with an ITIN; Bank of America and Citi may route ITIN-only applicants through a branch or phone verification."
   - q: "How much of a deposit do I need for an ITIN secured credit card?"
     a: "Deposits vary widely. Capital One Platinum Secured starts as low as $49. OpenSky starts at $200 (up to $3,000). Bank of America Secured accepts $200 to $5,000. Citi Secured accepts $200 to $2,500. The deposit typically equals your starting credit limit."
   - q: "Is the Discover it Secured still available for ITIN holders in 2026?"
@@ -59,11 +60,9 @@ The table below is the reference. Detailed issuer sections follow for applicants
 | OpenSky Secured Visa | Secured | $35 | $200 | $200-$3,000 | No | Yes | No-credit-check fallback |
 | OpenSky Plus Secured Visa | Secured | $0 | $300 | $300-$3,000 | No | Yes | No-fee, no-check option |
 | Zolve Classic | Unsecured | $0 | None | $1,000-$15,000 | No (income-based) | Yes | No deposit, newcomers |
-| Self Visa | Secured | $0 yr 1 / $25 after | $100 | Varies | No hard pull | Yes | Credit mix (loan + card) |
 | Kikoff Secured | Secured | $0 | Low (varies) | Low | Soft pull | Yes | Ultra-low barrier entry |
 | Citi Secured Mastercard | Secured | $0 | $200-$2,500 | $200-$2,500 | Yes | Partial (branch often needed) | Deposit flexibility |
 | Bank of America Secured | Secured | $0 | $200-$5,000 | $200-$5,000 | Yes | Branch required for ITIN | High deposit ceiling |
-| Wells Fargo Secured | Secured | $0 | $300 | Matches deposit | Yes | Branch often needed | Bureau reporting |
 | Chase Freedom Unlimited | Unsecured | $0 | None | Varies | Yes | Branch preferred | Established credit (700+) |
 | Capital One Savor | Unsecured | $0 | None | Varies | Yes | Yes | Established credit (650-680+) |
 | Bank of America Customized Cash | Unsecured | $0 | None | Varies | Yes | Branch for ITIN | Established credit (700+) |
@@ -81,7 +80,7 @@ Issuers that accept an ITIN typically ask for your ITIN assignment letter from t
 
 Use a real U.S. mobile number. Issuers text a one-time verification code during the application, and a VoIP number such as Google Voice will fail this check.
 
-One practical tip that makes a real difference: having a checking or savings account at the same institution where you are applying dramatically improves your chances. This matters most at Chase, Bank of America, and Wells Fargo, where a pre-existing banking relationship signals stability to the underwriter.
+One practical tip that makes a real difference: having a checking or savings account at the same institution where you are applying dramatically improves your chances. This matters most at Chase and Bank of America, where a pre-existing banking relationship signals stability to the underwriter.
 
 ---
 
@@ -135,15 +134,11 @@ The honest caveat is the APR. The card carries a variable rate in the range of a
 
 ---
 
-## Self Visa and Kikoff: credit-builder cards for ITIN holders
+## Kikoff: the lowest-barrier credit-builder card for ITIN holders
 
-*A question we hear often:* what if I want to build both an installment and a revolving credit history at the same time? Self addresses that directly.
+For applicants who want the absolute lowest barrier to entry, the Kikoff Secured Credit Card has a low refundable deposit, no hard pull, and accepts an ITIN during account opening. It is best for first-time borrowers who want a small line to practice responsible use. Both Current Build and Kikoff report to Equifax, Experian, and TransUnion.
 
-The Self Visa Credit Card has a $25 annual fee after the first year and accepts ITIN applicants who already have a Self Credit Builder Account. It reports to all three credit bureaus. As of January 2025, you can also fund a $100 minimum security deposit directly with a debit card or bank account and get the card right away without the loan. Or you can still open a Self Credit Builder Account first, make at least three on-time payments, reach $100 or more in savings progress, and use that balance to secure the Visa.
-
-The strategic benefit: FICO scoring rewards borrowers who carry both installment and revolving accounts, and most ITIN holders start with neither. Self gives you both inside a single app.
-
-For applicants who want the absolute lowest barrier to entry, the Kikoff Secured Credit Card has a low refundable deposit, no hard pull, and accepts an ITIN during account opening. It is best for first-time borrowers who want a small line to practice responsible use. All three of these cards (Current Build, Self Visa, and Kikoff) report to Equifax, Experian, and TransUnion.
+**A correction from our lender re-check:** earlier versions of this guide listed the Self Visa Credit Card as an ITIN option. Our account-opening re-verification found that Self requires a Social Security Number, so it has been removed from this list. The same re-check confirmed Wells Fargo no longer offers its secured card to new applicants; our [Wells Fargo with an ITIN guide](/articles/wells-fargo-credit-card-itin) has the details.
 
 ---
 
@@ -195,7 +190,6 @@ Carrying a balance on any of these cards is expensive. Paying in full every mont
 | OpenSky Plus Secured | 28.24% | $0 | $0/yr |
 | Capital One Platinum Secured | 29.99% | $0 | $0/yr |
 | Citi Secured Mastercard | 26.49% | $0 | $0/yr |
-| Self Visa | 27.49% | $0 yr 1, $25 after | $25/yr |
 | Zolve Classic | 19.50%-39.50% | $0 | $0/yr |
 | Chase Freedom Unlimited | Variable | $0 | $0/yr |
 
@@ -217,7 +211,7 @@ The pathway from zero to a mainstream rewards card typically looks like this:
 |---|---|---|---|
 | Zero history | Month 0 | Capital One Platinum Secured or OpenSky | No score yet |
 | Early building | Month 1-6 | Keep using the same card, low utilization | 580-640 |
-| Mid-building | Month 6-12 | Request credit limit review, add Self Visa | 640-680 |
+| Mid-building | Month 6-12 | Request a credit limit review, consider a second card | 640-680 |
 | Rewards-ready | Month 12-18 | Capital One Savor, Chase Freedom Unlimited | 680-720+ |
 | Premium tier | Month 24+ | Chase Sapphire Preferred, Amex Gold | 720+ |
 
@@ -237,7 +231,7 @@ For the broadest set of card options, though, having an ITIN gives you access to
 
 Among the features that determine how useful a card is for ITIN holders: whether it accepts ITINs, reports to all three major credit bureaus, offers credit limit increase opportunities, provides refundable security deposits, and gives free credit score access.
 
-The good news: every major card on this list reports to all three bureaus (Equifax, Experian, and TransUnion). Both Discover and Capital One report to all three every month. Some secured cards from other issuers only report to one or two bureaus, but every card on this list confirms tri-bureau reporting, including OpenSky, Self, Kikoff, and Zolve.
+The good news: every major card on this list reports to all three bureaus (Equifax, Experian, and TransUnion). Both Discover and Capital One report to all three every month. Some secured cards from other issuers only report to one or two bureaus, but every card on this list confirms tri-bureau reporting, including OpenSky, Kikoff, and Zolve.
 
 For a deeper look at how reporting works across specific issuers, see [does my ITIN credit card report to all three credit bureaus](/articles/itin-credit-card-credit-bureau-reporting).
 
@@ -261,10 +255,10 @@ Even with the right card in mind, common errors cause unnecessary denials. Here 
 ## Frequently asked questions
 
 Can I really get a credit card with just an ITIN and no U.S. credit history?
-Yes. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured, and Zolve all approve applicants with an ITIN and zero U.S. credit history. Each requires a refundable security deposit (except Zolve), but none require a prior U.S. credit file.
+Yes. Capital One Platinum Secured, OpenSky Secured, Kikoff Secured, and Zolve all approve applicants with an ITIN and zero U.S. credit history. Each requires a refundable security deposit (except Zolve), but none require a prior U.S. credit file.
 
 Which major banks accept an ITIN for a credit card application?
-Capital One, Chase, American Express, Bank of America, Citi, and Wells Fargo all accept an ITIN on at least some credit card applications. Capital One allows full online applications with an ITIN; Bank of America and Citi may route ITIN-only applicants through a branch or phone verification.
+Capital One, Chase, American Express, Bank of America, and Citi all accept an ITIN on at least some credit card applications. Capital One allows full online applications with an ITIN; Bank of America and Citi may route ITIN-only applicants through a branch or phone verification.
 
 How much of a deposit do I need for an ITIN secured credit card?
 Deposits vary widely. Capital One Platinum Secured starts as low as $49. OpenSky starts at $200 (up to $3,000). Bank of America Secured accepts $200 to $5,000. Citi Secured accepts $200 to $2,500. The deposit typically equals your starting credit limit.

@@ -9,8 +9,9 @@ relatedQueries:
   - "mejores tarjetas de crédito para personas con ITIN sin SSN"
   - "tarjetas de crédito aseguradas que aceptan número ITIN"
   - "tarjetas de crédito no aseguradas que aceptan ITIN 2026"
-quickAnswer: "Capital One, Chase, American Express, Bank of America, Citi, Wells Fargo, OpenSky, Zolve, Self y Kikoff aceptan un ITIN para al menos una tarjeta de crédito en 2026. Los depósitos van desde $0 hasta $5,000. Las opciones aseguradas y de fintech no requieren historial crediticio en EE. UU.; la mayoría de las tarjetas con recompensas sí requieren crédito establecido (670+)."
+quickAnswer: "Capital One, Chase, American Express, Bank of America, Citi, OpenSky, Zolve y Kikoff aceptan un ITIN para al menos una tarjeta de crédito en 2026. Los depósitos van desde $0 hasta $5,000. Las opciones aseguradas y de fintech no requieren historial crediticio en EE. UU.; la mayoría de las tarjetas con recompensas sí requieren crédito establecido (670+)."
 publishedAt: "2026-08-31"
+updatedAt: "2026-10-19"
 author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
@@ -20,9 +21,9 @@ relatedSlugs:
   - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "¿De verdad puedo obtener una tarjeta de crédito solo con un ITIN y sin historial crediticio en EE. UU.?"
-    a: "Sí. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured y Zolve aprueban solicitantes con un ITIN y ningún historial crediticio en EE. UU. Cada una requiere un depósito de seguridad reembolsable (excepto Zolve), pero ninguna exige un historial crediticio previo en EE. UU."
+    a: "Sí. Capital One Platinum Secured, OpenSky Secured, Kikoff Secured y Zolve aprueban solicitantes con un ITIN y ningún historial crediticio en EE. UU. Cada una requiere un depósito de seguridad reembolsable (excepto Zolve), pero ninguna exige un historial crediticio previo en EE. UU."
   - q: "¿Qué bancos importantes aceptan un ITIN para solicitar una tarjeta de crédito?"
-    a: "Capital One, Chase, American Express, Bank of America, Citi y Wells Fargo aceptan un ITIN en al menos algunas solicitudes de tarjetas de crédito. Capital One permite solicitudes completamente en línea con un ITIN; Bank of America y Citi pueden redirigir a los solicitantes que solo tienen ITIN a una sucursal o a verificación telefónica."
+    a: "Capital One, Chase, American Express, Bank of America y Citi aceptan un ITIN en al menos algunas solicitudes de tarjetas de crédito. Capital One permite solicitudes completamente en línea con un ITIN; Bank of America y Citi pueden redirigir a los solicitantes que solo tienen ITIN a una sucursal o a verificación telefónica."
   - q: "¿Cuánto depósito necesito para una tarjeta de crédito asegurada con ITIN?"
     a: "Los depósitos varían mucho. Capital One Platinum Secured comienza desde $49. OpenSky comienza en $200 (hasta $3,000). Bank of America Secured acepta de $200 a $5,000. Citi Secured acepta de $200 a $2,500. El depósito generalmente equivale a tu límite de crédito inicial."
   - q: "¿La Discover it Secured sigue disponible para titulares de ITIN en 2026?"
@@ -59,11 +60,9 @@ La tabla a continuación es la referencia principal. Las secciones detalladas po
 | OpenSky Secured Visa | Asegurada | $35 | $200 | $200-$3,000 | No | Sí | Alternativa sin verificación de crédito |
 | OpenSky Plus Secured Visa | Asegurada | $0 | $300 | $300-$3,000 | No | Sí | Sin tarifa y sin verificación |
 | Zolve Classic | No asegurada | $0 | Ninguno | $1,000-$15,000 | No (basada en ingresos) | Sí | Sin depósito, para recién llegados |
-| Self Visa | Asegurada | $0 año 1 / $25 después | $100 | Varía | Sin consulta formal | Sí | Combina crédito de préstamo y tarjeta |
 | Kikoff Secured | Asegurada | $0 | Bajo (varía) | Bajo | Consulta suave | Sí | Acceso con la barrera más baja |
 | Citi Secured Mastercard | Asegurada | $0 | $200-$2,500 | $200-$2,500 | Sí | Parcial (suele requerir sucursal) | Flexibilidad en el depósito |
 | Bank of America Secured | Asegurada | $0 | $200-$5,000 | $200-$5,000 | Sí | Requiere sucursal para ITIN | Límite de depósito alto |
-| Wells Fargo Secured | Asegurada | $0 | $300 | Equivale al depósito | Sí | Suele requerir sucursal | Reporte a burós |
 | Chase Freedom Unlimited | No asegurada | $0 | Ninguno | Varía | Sí | Sucursal preferida | Crédito establecido (700+) |
 | Capital One Savor | No asegurada | $0 | Ninguno | Varía | Sí | Sí | Crédito establecido (650-680+) |
 | Bank of America Customized Cash | No asegurada | $0 | Ninguno | Varía | Sí | Sucursal para ITIN | Crédito establecido (700+) |
@@ -81,7 +80,7 @@ Los emisores que aceptan un ITIN generalmente piden tu carta de asignación de I
 
 Usa un número de teléfono móvil real de EE. UU. Los emisores envían un código de verificación de un solo uso durante la solicitud, y un número de VoIP como Google Voice no pasará esta verificación.
 
-Un consejo práctico que marca una diferencia real: tener una cuenta de cheques o ahorros en la misma institución donde estás solicitando mejora considerablemente tus posibilidades. Esto es especialmente importante en Chase, Bank of America y Wells Fargo, donde una relación bancaria preexistente le indica al evaluador que eres un cliente estable.
+Un consejo práctico que marca una diferencia real: tener una cuenta de cheques o ahorros en la misma institución donde estás solicitando mejora considerablemente tus posibilidades. Esto es especialmente importante en Chase y Bank of America, donde una relación bancaria preexistente le indica al evaluador que eres un cliente estable.
 
 ---
 
@@ -135,15 +134,11 @@ La advertencia honesta es el APR. La tarjeta tiene una tasa variable en el rango
 
 ---
 
-## Self Visa y Kikoff: tarjetas para construir crédito con ITIN
+## Kikoff: la tarjeta de entrada más accesible para construir crédito con ITIN
 
-*Una pregunta que escuchamos con frecuencia:* ¿qué pasa si quiero construir historial de crédito de cuotas (installment) y crédito rotativo al mismo tiempo? Self atiende esa necesidad directamente.
+Para quienes quieren la barrera de entrada absolutamente más baja, la Kikoff Secured Credit Card tiene un depósito reembolsable bajo, no hace una consulta formal y acepta un ITIN durante la apertura de la cuenta. Es la mejor opción para quienes solicitan crédito por primera vez y quieren una línea pequeña para practicar el uso responsable. Tanto Current Build como Kikoff reportan a Equifax, Experian y TransUnion.
 
-La Self Visa Credit Card tiene una tarifa anual de $25 después del primer año y acepta solicitantes con ITIN que ya tienen una Self Credit Builder Account. Reporta a los tres burós de crédito. Desde enero de 2025, también puedes financiar un depósito de seguridad mínimo de $100 directamente con una tarjeta de débito o cuenta bancaria y recibir la tarjeta de inmediato, sin necesidad del préstamo. O puedes abrir primero una Self Credit Builder Account, hacer al menos tres pagos a tiempo, alcanzar $100 o más en progreso de ahorros y usar ese saldo para garantizar la Visa.
-
-El beneficio estratégico: el sistema de puntuación FICO premia a quienes tienen tanto cuentas de cuotas como cuentas rotativas, y la mayoría de los titulares de ITIN comienzan sin ninguna de las dos. Self te da ambas dentro de una sola aplicación.
-
-Para quienes quieren la barrera de entrada absolutamente más baja, la Kikoff Secured Credit Card tiene un depósito reembolsable bajo, no hace una consulta formal y acepta un ITIN durante la apertura de la cuenta. Es la mejor opción para quienes solicitan crédito por primera vez y quieren una línea pequeña para practicar el uso responsable. Las tres tarjetas (Current Build, Self Visa y Kikoff) reportan a Equifax, Experian y TransUnion.
+**Una corrección de nuestra re-verificación de emisores:** versiones anteriores de esta guía incluían la Self Visa Credit Card como opción con ITIN. Al re-verificar el proceso de apertura encontramos que Self exige un número de Seguro Social, así que la retiramos de esta lista. La misma revisión confirmó que Wells Fargo ya no ofrece su tarjeta asegurada a nuevos solicitantes; los detalles están en nuestra [guía de Wells Fargo con ITIN](/es/articles/wells-fargo-credit-card-itin).
 
 ---
 
@@ -195,7 +190,6 @@ Tener un saldo pendiente en cualquiera de estas tarjetas es costoso. Pagar el to
 | OpenSky Plus Secured | 28.24% | $0 | $0/año |
 | Capital One Platinum Secured | 29.99% | $0 | $0/año |
 | Citi Secured Mastercard | 26.49% | $0 | $0/año |
-| Self Visa | 27.49% | $0 año 1, $25 después | $25/año |
 | Zolve Classic | 19.50%-39.50% | $0 | $0/año |
 | Chase Freedom Unlimited | Variable | $0 | $0/año |
 
@@ -217,7 +211,7 @@ El camino desde cero hasta una tarjeta de recompensas convencional generalmente 
 |---|---|---|---|
 | Sin historial | Mes 0 | Capital One Platinum Secured u OpenSky | Sin puntaje aún |
 | Inicio de construcción | Meses 1-6 | Continúa usando la misma tarjeta, utilización baja | 580-640 |
-| Construcción media | Meses 6-12 | Solicita revisión de límite de crédito, añade Self Visa | 640-680 |
+| Construcción media | Meses 6-12 | Solicita una revisión de límite de crédito, considera una segunda tarjeta | 640-680 |
 | Listo para recompensas | Meses 12-18 | Capital One Savor, Chase Freedom Unlimited | 680-720+ |
 | Nivel premium | Mes 24+ | Chase Sapphire Preferred, Amex Gold | 720+ |
 
@@ -237,7 +231,7 @@ Sin embargo, para acceder al conjunto más amplio de opciones de tarjetas, tener
 
 Entre las características que determinan qué tan útil es una tarjeta para los titulares de ITIN están: si acepta ITINs, si reporta a los tres principales burós de crédito, si ofrece oportunidades de aumento de límite de crédito, si proporciona depósitos de seguridad reembolsables y si da acceso gratuito al puntaje de crédito.
 
-La buena noticia: todas las tarjetas principales en esta lista reportan a los tres burós (Equifax, Experian y TransUnion). Tanto Discover como Capital One reportan a los tres cada mes. Algunas tarjetas aseguradas de otros emisores solo reportan a uno o dos burós, pero todas las tarjetas de esta lista confirman el reporte a los tres burós, incluyendo OpenSky, Self, Kikoff y Zolve.
+La buena noticia: todas las tarjetas principales en esta lista reportan a los tres burós (Equifax, Experian y TransUnion). Tanto Discover como Capital One reportan a los tres cada mes. Algunas tarjetas aseguradas de otros emisores solo reportan a uno o dos burós, pero todas las tarjetas de esta lista confirman el reporte a los tres burós, incluyendo OpenSky, Kikoff y Zolve.
 
 Para un análisis más detallado sobre cómo funciona el reporte en emisores específicos, consulta [si mi tarjeta de crédito con ITIN reporta a los tres burós de crédito](/es/articles/itin-credit-card-credit-bureau-reporting).
 
@@ -261,10 +255,10 @@ Incluso con la tarjeta correcta en mente, los errores comunes provocan rechazos 
 ## Preguntas frecuentes
 
 ¿De verdad puedo obtener una tarjeta de crédito solo con un ITIN y sin historial crediticio en EE. UU.?
-Sí. Capital One Platinum Secured, OpenSky Secured, Self Visa, Kikoff Secured y Zolve aprueban solicitantes con un ITIN y ningún historial crediticio en EE. UU. Cada una requiere un depósito de seguridad reembolsable (excepto Zolve), pero ninguna exige un historial crediticio previo en EE. UU.
+Sí. Capital One Platinum Secured, OpenSky Secured, Kikoff Secured y Zolve aprueban solicitantes con un ITIN y ningún historial crediticio en EE. UU. Cada una requiere un depósito de seguridad reembolsable (excepto Zolve), pero ninguna exige un historial crediticio previo en EE. UU.
 
 ¿Qué bancos importantes aceptan un ITIN para solicitar una tarjeta de crédito?
-Capital One, Chase, American Express, Bank of America, Citi y Wells Fargo aceptan un ITIN en al menos algunas solicitudes de tarjetas de crédito. Capital One permite solicitudes completamente en línea con un ITIN; Bank of America y Citi pueden redirigir a los solicitantes que solo tienen ITIN a una sucursal o a verificación telefónica.
+Capital One, Chase, American Express, Bank of America y Citi aceptan un ITIN en al menos algunas solicitudes de tarjetas de crédito. Capital One permite solicitudes completamente en línea con un ITIN; Bank of America y Citi pueden redirigir a los solicitantes que solo tienen ITIN a una sucursal o a verificación telefónica.
 
 ¿Cuánto depósito necesito para una tarjeta de crédito asegurada con ITIN?
 Los depósitos varían mucho. Capital One Platinum Secured comienza desde $49. OpenSky comienza en $200 (hasta $3,000). Bank of America Secured acepta de $200 a $5,000. Citi Secured acepta de $200 a $2,500. El depósito generalmente equivale a tu límite de crédito inicial.
