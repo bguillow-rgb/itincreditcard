@@ -14,10 +14,10 @@ publishedAt: "2026-10-21"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-number-format-credit-card-application"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "itin-credit-card-bank-by-bank-application-guide"
   - "itin-credit-card-credit-bureau-reporting"
-  - "credit-card-prequalification-itin"
 faqs:
   - q: "¿Qué significa ITIN en una solicitud de tarjeta de crédito?"
     a: "ITIN significa Individual Taxpayer Identification Number (Número de Identificación Personal del Contribuyente). En una solicitud de tarjeta de crédito funciona como tu identificador fiscal en lugar del número de Seguro Social, lo que le permite al emisor verificar tu identidad y reportar la actividad de tu cuenta a las agencias de crédito."
