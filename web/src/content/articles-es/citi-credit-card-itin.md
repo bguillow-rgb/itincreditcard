@@ -14,10 +14,10 @@ publishedAt: "2026-10-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-credit-card-complete-issuer-guide-2026"
   - "income-requirements-credit-card-itin"
   - "capital-one-credit-card-itin"
   - "discover-credit-card-itin"
-  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "¿Citi acepta el ITIN en lugar del SSN para tarjetas de crédito?"
     a: "Sí. El formulario de solicitud en línea de Citi etiqueta el campo de identificación como 'Número de Seguro Social o ITIN', y la página del producto Citi Secured Mastercard lista expresamente el ITIN como identificador aceptado. Algunas tarjetas sin garantía también aceptan ITIN, especialmente si ya tienes una cuenta bancaria en Citi."

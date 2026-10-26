@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-credit-card-issuer-comparison-2026"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "foreign-credit-history-credit-card-itin"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
+  - "itin-credit-card-complete-issuer-guide-2026"
 faqs:
   - q: "Does American Express accept an ITIN instead of an SSN?"
     a: "Yes. The SSN field on every U.S. Amex consumer card application explicitly states that you may enter an ITIN if you do not have an SSN. Amex's application system is built to handle ITIN submissions."

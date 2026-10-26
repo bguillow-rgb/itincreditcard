@@ -14,10 +14,10 @@ publishedAt: "2026-06-24"
 author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-credit-card-complete-issuer-guide-2026"
   - "itin-credit-card-issuer-comparison-2026"
   - "multiple-credit-cards-itin-holders"
   - "capital-one-credit-card-itin"
-  - "citi-credit-card-itin"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN me perjudica automáticamente en la solicitud?"
     a: "No. El ITIN no reduce tus probabilidades de aprobación con los emisores que explícitamente lo aceptan. Los factores decisivos son tus ingresos, tu historial crediticio (si tienes) y la tarjeta específica a la que aplicas. Solicitar con un emisor que acepta ITIN te pone en igualdad de condiciones con los solicitantes que tienen SSN para esa misma tarjeta."

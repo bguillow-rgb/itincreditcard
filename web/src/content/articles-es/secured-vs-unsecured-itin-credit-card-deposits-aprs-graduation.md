@@ -17,7 +17,7 @@ relatedSlugs:
   - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "get-secured-credit-card-deposit-back-itin"
+  - "itin-credit-card-complete-issuer-guide-2026"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito no asegurada con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Chase Freedom Rise, Zolve y la Capital One Platinum (no asegurada) aceptan un ITIN y están disponibles para solicitantes con historial crediticio limitado o inexistente en EE. UU., aunque las probabilidades de aprobación mejoran si ya tienes una relación bancaria con el emisor."

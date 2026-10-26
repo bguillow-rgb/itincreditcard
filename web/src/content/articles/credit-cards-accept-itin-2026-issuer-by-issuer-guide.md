@@ -14,10 +14,10 @@ publishedAt: "2026-09-28"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-credit-card-complete-issuer-guide-2026"
   - "credit-card-h1b-visa-itin"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "itin-credit-card-issuer-comparison-2026"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
 faqs:
   - q: "Can I get a credit card with just an ITIN and no U.S. credit history?"
     a: "Yes. Capital One Platinum Secured, OpenSky Secured, and fintech options like Firstcard and Zolve all approve applicants with an ITIN and no prior U.S. credit history. Secured cards are the most reliable starting point because your deposit reduces the issuer's risk."

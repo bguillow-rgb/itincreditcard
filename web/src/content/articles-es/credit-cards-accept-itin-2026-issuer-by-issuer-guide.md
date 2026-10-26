@@ -14,10 +14,10 @@ publishedAt: "2026-09-28"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-credit-card-complete-issuer-guide-2026"
   - "itin-credit-card-issuer-comparison-2026"
   - "credit-card-h1b-visa-itin"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito solo con ITIN y sin historial crediticio en Estados Unidos?"
     a: "Sí. La Capital One Platinum Secured, la OpenSky Secured y opciones fintech como Firstcard y Zolve aprueban solicitantes con ITIN y sin historial crediticio previo en EE. UU. Las tarjetas aseguradas son el punto de partida más confiable porque tu depósito reduce el riesgo para el emisor."

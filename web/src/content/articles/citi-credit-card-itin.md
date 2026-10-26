@@ -14,10 +14,10 @@ publishedAt: "2026-10-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-credit-card-complete-issuer-guide-2026"
   - "discover-credit-card-itin"
   - "credit-card-prequalification-itin"
   - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
-  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "Does Citi accept an ITIN instead of an SSN for credit cards?"
     a: "Yes. Citi's live application form labels the identity field 'Social Security Number or ITIN,' and the Citi Secured Mastercard product page explicitly lists ITIN as an accepted identifier. Some unsecured cards also accept ITINs, especially for applicants with an existing Citi banking relationship."
