@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "what-is-itin-number-credit-card"
+  - "itin-instead-of-ssn-credit-card-application"
   - "chase-credit-card-itin"
   - "credit-card-prequalification-itin"
-  - "discover-credit-card-itin"
 faqs:
   - q: "¿Cómo es un número ITIN?"
     a: "El ITIN es un número de 9 dígitos con formato 9XX-XX-XXXX, igual en estructura a un SSN, pero siempre comienza con el dígito 9. Lo emite el IRS y nunca aparece en una tarjeta física."

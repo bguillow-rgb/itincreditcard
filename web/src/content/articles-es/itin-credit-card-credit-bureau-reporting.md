@@ -14,10 +14,10 @@ publishedAt: "2026-06-21"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "itin-instead-of-ssn-credit-card-application"
   - "travel-credit-card-itin-holders"
   - "virtual-credit-card-itin-holders"
   - "what-is-itin-number-credit-card"
-  - "authorized-user-credit-card-itin"
 faqs:
   - q: "¿Usar un ITIN en lugar de un SSN cambia la manera en que se reporta mi actividad de tarjeta de crédito?"
     a: "No. Una vez que tu cuenta está abierta, el emisor reporta tu historial de pagos, saldo, límite de crédito y antigüedad de la cuenta a los burós de crédito exactamente igual que con los titulares de SSN. El ITIN simplemente identifica tu expediente; no afecta qué se reporta ni cómo lo evalúan los modelos de puntuación."
