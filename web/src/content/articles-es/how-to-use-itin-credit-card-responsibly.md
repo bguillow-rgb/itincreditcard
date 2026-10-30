@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-utilization-itin-credit-card"
   - "build-credit-with-itin-credit-card"
+  - "how-itin-works-credit-card-application"
   - "improve-credit-card-approval-odds-itin"
-  - "low-apr-credit-card-itin-holders"
 faqs:
   - q: "¿Qué porcentaje de mi límite de crédito debo usar cada mes con mi tarjeta ITIN?"
     a: "Mantén tu saldo por debajo del 30% de tu límite de crédito al cierre del estado de cuenta. Por ejemplo, con un límite de $500, eso significa no cargar más de $150 antes de que cierre el período. Por debajo del 10% es aún mejor si quieres maximizar el impacto en tu puntaje."

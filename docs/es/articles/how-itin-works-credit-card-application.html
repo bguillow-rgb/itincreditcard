@@ -1,0 +1,221 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Cómo funciona un ITIN en una solicitud de tarjeta de crédito</title><meta name="description" content="Tu ITIN va en el campo SSN de la solicitud. Descubre cómo funciona, qué emisores lo aceptan y qué pasa después de aplicar."><link rel="canonical" href="https://itincreditcard.com/es/articles/how-itin-works-credit-card-application"><link rel="alternate" hreflang="en" href="https://itincreditcard.com/articles/how-itin-works-credit-card-application"><link rel="alternate" hreflang="es" href="https://itincreditcard.com/es/articles/how-itin-works-credit-card-application"><link rel="alternate" hreflang="x-default" href="https://itincreditcard.com/articles/how-itin-works-credit-card-application"><meta property="og:type" content="website"><meta property="og:title" content="Cómo funciona un ITIN en una solicitud de tarjeta de crédito"><meta property="og:description" content="Tu ITIN va en el campo SSN de la solicitud. Descubre cómo funciona, qué emisores lo aceptan y qué pasa después de aplicar."><meta property="og:url" content="https://itincreditcard.com/es/articles/how-itin-works-credit-card-application"><meta property="og:site_name" content="ITIN Credit Card"><meta property="og:image" content="https://itincreditcard.com/og/how-itin-works-credit-card-application.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Cómo funciona un ITIN en una solicitud de tarjeta de crédito"><meta name="twitter:description" content="Tu ITIN va en el campo SSN de la solicitud. Descubre cómo funciona, qué emisores lo aceptan y qué pasa después de aplicar."><meta name="twitter:image" content="https://itincreditcard.com/og/how-itin-works-credit-card-application.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#22505A"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Card | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditcard.com/#organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":"https://itincreditcard.com/icon-512.png","description":"ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.","sameAs":["https://www.wikidata.org/wiki/Q140083128","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Card","url":"https://itincreditcard.com","description":"ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditcard.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><meta name="google-site-verification" content="pxWBVK2JLcqCm9SiLFhVnJzHIWa1ifynMkxnbY0V8hA"><script async src="https://www.googletagmanager.com/gtag/js?id=G-TFJMHQLHMX"></script><script>(function(){const ga4Id = "G-TFJMHQLHMX";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      // Astro wraps a `define:vars` inline script in an IIFE, so the function
+      // declaration above is scoped, not global. gtag('config') still worked
+      // (it only pushes to dataLayer, which gtag.js reads), so page_view and
+      // session_start looked healthy while `window.gtag` stayed undefined and
+      // itrack() below silently dropped EVERY custom event. affiliate_click,
+      // cta_click and cross_site_click recorded zero from launch until
+      // 2026-09-01. Publish it explicitly.
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Cómo funciona un ITIN en una solicitud de tarjeta de crédito","description":"Tu ITIN va en el campo SSN de la solicitud. Descubre cómo funciona, qué emisores lo aceptan y qué pasa después de aplicar.","url":"https://itincreditcard.com/es/articles/how-itin-works-credit-card-application","inLanguage":"es-419","datePublished":"2026-10-30T00:00:00.000Z","dateModified":"2026-10-30T00:00:00.000Z","author":{"@type":"Organization","name":"Editorial Staff","url":"https://itincreditcard.com/about","parentOrganization":{"@id":"https://itincreditcard.com/#organization"}},"publisher":{"@type":"Organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":{"@type":"ImageObject","url":"https://itincreditcard.com/icon-512.png"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":["#quick-answer"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itincreditcard.com/es/articles/how-itin-works-credit-card-application"}}</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itincreditcard.com"},{"@type":"ListItem","position":2,"name":"Guías","item":"https://itincreditcard.com/es/articles"},{"@type":"ListItem","position":3,"name":"Cómo funciona un ITIN en una solicitud de tarjeta de crédito","item":"https://itincreditcard.com/es/articles/how-itin-works-credit-card-application"}]}</script> <link rel="stylesheet" href="/_astro/_slug_.D8mdHOEz.css">
+<style>.related-links[data-astro-cid-xmiqtmid]{margin:36px 0 8px}.related-links[data-astro-cid-xmiqtmid] h2[data-astro-cid-xmiqtmid]{margin:0 0 14px;font-size:1.25rem}.related-links[data-astro-cid-xmiqtmid] ul[data-astro-cid-xmiqtmid]{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-weight:600;text-decoration:none;line-height:1.3;transition:border-color .15s ease,background .15s ease}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]:hover{border-color:var(--primary);background:var(--surface-alt)}.sources-note[data-astro-cid-6jinirix]{margin:26px 0;padding:16px 18px;border:1px solid var(--border, #E7E2F2);border-left:4px solid var(--primary, #5B21B6);border-radius:var(--radius);background:var(--surface, #F7F5FC)}.sources-note-h[data-astro-cid-6jinirix]{margin:0 0 6px;font-weight:700;font-size:.95rem;color:var(--primary-dark, #4C1D95)}.sources-note-b[data-astro-cid-6jinirix]{margin:0;font-size:.92rem;line-height:1.55;color:var(--muted, #5C5470)}
+.author-bio[data-astro-cid-zm77yjld]{margin:28px 0;padding:18px 20px;border:1px solid var(--border, #e2e6ee);border-radius:var(--radius);background:var(--surface-2, #f7f9fc)}.author-bio-name[data-astro-cid-zm77yjld]{margin:0 0 6px;font-weight:700}.author-bio-role[data-astro-cid-zm77yjld]{font-weight:400;color:var(--muted, #5a6473)}.author-bio-text[data-astro-cid-zm77yjld]{margin:0 0 8px;font-size:.95rem;line-height:1.55}.author-bio-link[data-astro-cid-zm77yjld]{margin:0;font-size:.9rem}
+</style></head> <body> <div class="announce-bar"> Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a> </div> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Card<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/articles/how-itin-works-credit-card-application.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>   <article class="container narrow" style="padding-top:18px;padding-bottom:24px" data-astro-cid-zm77yjld> <p class="crumbs" data-astro-cid-zm77yjld> <a href="/" data-astro-cid-zm77yjld>Home</a> &rsaquo;
+<a href="https://itincreditcard.com/es/articles" data-astro-cid-zm77yjld>Guías</a> &rsaquo;  <span data-astro-cid-zm77yjld>Cómo funciona un ITIN en una solicitud de tarjeta de crédito</span> </p> <span class="tag" data-astro-cid-zm77yjld>Tarjetas de crédito</span> <h1 style="margin-top:10px" data-astro-cid-zm77yjld>Cómo funciona un ITIN en una solicitud de tarjeta de crédito</h1> <p class="byline" data-astro-cid-zm77yjld>
+By <a href="/about" data-astro-cid-zm77yjld>Editorial Staff</a> &middot; Secured &amp; Starter Cards &middot;
+Published October 30, 2026 </p> <p class="disclosure"><strong>Aviso para anunciantes:</strong>ITIN Credit Card es un recurso
+    independiente. Algunos enlaces en esta página son de socios que nos
+    compensan, lo cual puede influir en qué productos mostramos y dónde. Esto no
+    cambia nuestra guía editorial y nunca tiene costo para ti. Consulta nuestro
+<a href="/es/disclosure">aviso completo</a>.
+</p> <section class="quick-answer" id="quick-answer"> <span class="label">Respuesta rápida</span> <p>Tu ITIN va directamente en el campo SSN de la solicitud de tarjeta de crédito. Los emisores que aceptan ITIN lo tratan como un ID fiscal válido, realizan una verificación de crédito bajo ese número y reportan tu cuenta a los tres burós igual que lo harían con un titular de SSN.</p> <p class="qa-sources"> <span class="qa-check" aria-hidden="true">&#10003;</span> <span>Verificado con:</span> <span>IRS ·</span><span>CFPB ·</span><span>Issuer disclosures</span> </p> </section> <!-- Highest-visibility article slot: above the fold, after the Quick Answer.
+         Credit Karma creative auto-matched to the article topic via its path. --> <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fhow-itin-works-credit-card-application" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fhow-itin-works-credit-card-application" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="article-body" data-astro-cid-zm77yjld>  <p>Tu ITIN es un número fiscal del IRS de nueve dígitos con el formato 9XX-XX-XXXX, y en una solicitud de tarjeta de crédito funciona como sustituto directo del Número de Seguro Social (SSN). El proceso de solicitud es esencialmente el mismo: escribes el ITIN de nueve dígitos donde el formulario pide el SSN de nueve dígitos. Lo que la mayoría de las guías no explican es todo lo que ocurre después de ingresar ese número: cómo lo verifica el emisor, qué hacen los burós con él y dónde puede haber problemas. Esta página lo explica todo, paso a paso.</p>
+<hr>
+<h2 id="qué-es-exactamente-un-itin-y-por-qué-le-importa-a-un-emisor-de-tarjetas">¿Qué es exactamente un ITIN y por qué le importa a un emisor de tarjetas?</h2>
+<p>El ITIN es un número de procesamiento fiscal emitido por el IRS. Siempre tiene nueve dígitos, siempre empieza con 9 y siempre tiene el formato 9XX-XX-XXXX. Un SSN sigue el mismo patrón de nueve dígitos, pero generalmente comienza con 1 al 8, así que un analista experimentado puede distinguirlos de inmediato.</p>
+<p>Los emisores se interesan en el número por dos razones. Primero, las reglas federales de Conozca a su Cliente (Know Your Customer) les exigen confirmar tu identidad antes de abrir una cuenta de crédito. Los bancos y emisores pueden aceptar legalmente un ITIN bajo las reglas KYC de la Ley Patriota, aunque no todos lo hacen. Segundo, necesitan un ID fiscal para reportar tu cuenta a los burós de crédito. Sin uno, no tienen a dónde enviar la información que eventualmente se convierte en tu historial crediticio en EE. UU.</p>
+<p>A octubre de 2025, el IRS ha emitido aproximadamente 31 millones de ITINs desde que el programa comenzó en 1996, con cerca de 5 millones activos y casi 470,000 nuevos emitidos solo en 2025. Eso representa un gran grupo de posibles tarjetahabientes, lo que explica en parte por qué más emisores han ampliado silenciosamente su aceptación de ITIN en los últimos años.</p>
+<hr>
+<h2 id="dónde-exactamente-va-mi-itin-en-el-formulario-de-solicitud-de-tarjeta-de-crédito">¿Dónde exactamente va mi ITIN en el formulario de solicitud de tarjeta de crédito?</h2>
+<p><em>Una pregunta que escuchamos seguido:</em> los solicitantes no saben si dejar el campo SSN en blanco, poner otro número o escribir el ITIN directamente.</p>
+<p>Si el emisor acepta ITIN, escríbelo directamente en el campo SSN o “Taxpayer ID”. Algunos emisores no aceptan ITINs. Para los que sí lo hacen, los detalles varían según la plataforma:</p>
+<ul>
+<li>Formularios en línea de emisores que aceptan ITIN: escribe tu ITIN directamente en el campo SSN o “Taxpayer ID”. Algunos formularios muestran la opción de ITIN solo después de seleccionar un tipo de ID alternativo, así que busca un menú desplegable o casilla antes de asumir que el formulario rechaza ITINs.</li>
+<li>Formularios en línea de otros emisores: si el formulario no acepta tu ITIN, llama a la línea de atención del emisor y aplica por teléfono. También puedes ir a una sucursal, donde los agentes suelen estar mejor preparados para manejar solicitudes no estándar.</li>
+<li>Capital One específicamente: Capital One te permite aplicar con un ITIN; ingrésalo en el campo SSN.</li>
+</ul>
+<p>Nunca dejes el campo en blanco a menos que el formulario ofrezca explícitamente una casilla de “sin SSN”. Un campo vacío generalmente provoca un rechazo automático antes de que algún agente revise tu solicitud.</p>
+<hr>
+<h2 id="qué-hace-el-emisor-con-mi-itin-después-de-enviar-la-solicitud">¿Qué hace el emisor con mi ITIN después de enviar la solicitud?</h2>
+<p><em>Esto surge con frecuencia:</em> la gente se pregunta si su ITIN se verifica contra una base de datos del IRS o si los emisores simplemente aceptan cualquier número que ingreses.</p>
+<p>El emisor procesa tu ITIN a través de su sistema estándar de verificación de identidad, el mismo que usa para solicitantes con SSN. Comprueba tu nombre, dirección y fecha de nacimiento con sus fuentes de datos y, si tienes algún historial crediticio en EE. UU., obtiene tu reporte de crédito. Los no residentes pueden enfrentar requisitos de verificación adicionales, incluso cuando el proceso es similar al de una solicitud estándar.</p>
+<p>Si aún no tienes historial crediticio en EE. UU., muchos emisores pedirán documentos adicionales. Tenerlos listos antes de empezar agiliza considerablemente el proceso:</p>
+<ul>
+<li>Tu carta de asignación de ITIN del IRS (CP-565)</li>
+<li>Una identificación oficial con foto (el pasaporte es el más aceptado universalmente)</li>
+<li>Comprobante de dirección en EE. UU. (contrato de arrendamiento, recibo de servicios o estado de cuenta bancario reciente)</li>
+<li>Comprobante de ingresos (talones de pago recientes o declaración de impuestos del año anterior)</li>
+</ul>
+<p>Confirma que una tarjeta específica acepta ITIN antes de aplicar. Un producto anunciado como “compatible con ITIN” por el banco principal puede igualmente requerir SSN en una tarjeta de marca compartida.</p>
+<hr>
+<h2 id="cómo-afecta-una-solicitud-con-itin-a-mi-expediente-en-los-tres-burós">¿Cómo afecta una solicitud con ITIN a mi expediente en los tres burós?</h2>
+<p><em>Los lectores preguntan con frecuencia:</em> si un ITIN genera un expediente de crédito “inferior” o uno que puntúa diferente.</p>
+<p>No es así. Cuando abres una cuenta de crédito con tu ITIN, el prestamista reporta tu actividad de pagos a los burós bajo ese número. Los burós crean un expediente vinculado a tu ITIN, y tu <a href="https://www.awin1.com/cread.php?s=3597059&#x26;v=66532&#x26;q=475588&#x26;r=2931103&#x26;clickref=iccweb_body_score&#x26;clickref2=%2Fes%2Farticles%2Fhow-itin-works-credit-card-application" rel="sponsored nofollow" target="_blank" class="aff-link" data-aff="ck-body" data-aff-topic="score">puntaje de crédito</a> se calcula a partir de ese expediente usando el mismo modelo FICO que se aplica a las cuentas con SSN. No existe un sistema de puntuación separado para titulares de ITIN.</p>
+<p>El proceso de coincidencia de datos también es más robusto de lo que la mayoría imagina. La Oficina de Protección Financiera del Consumidor (CFPB) explica que los burós relacionan cada cuenta reportada con el expediente correcto usando datos como nombre, dirección y fecha de nacimiento, no solo el SSN o ITIN. Esa coincidencia por múltiples factores es una buena noticia: un cambio de dirección menor no dejará tu historial sin asignar.</p>
+<p>En la práctica esto significa que cada pago a tiempo que hagas con una tarjeta de crédito con ITIN está construyendo un historial crediticio real y puntuable en EE. UU. Con un uso responsable y constante, la mayoría de las personas alcanza un puntaje de 650 o más en 12-18 meses, según datos recopilados por recursos financieros para inmigrantes. Una vez que tienes un expediente, pasar de una <a href="/es/articles/upgrade-secured-to-unsecured-credit-card-itin">tarjeta asegurada a una no asegurada</a> se convierte en un paso siguiente realista.</p>
+<hr>
+<h2 id="qué-emisores-aceptan-actualmente-un-itin-en-su-solicitud">¿Qué emisores aceptan actualmente un ITIN en su solicitud?</h2>
+<p>Aquí tienes una tabla de referencia rápida de los principales emisores y su postura respecto al ITIN hasta finales de 2026. Para detalles completos de solicitud y condiciones actuales, consulta nuestra <a href="/es/articles/credit-cards-accept-itin-2026-issuer-by-issuer-guide">comparación completa de emisores</a>.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Emisor</th><th>¿Acepta ITIN?</th><th>Notas</th></tr></thead><tbody><tr><td>Bank of America</td><td>Sí</td><td>Tarjeta asegurada; puede requerir visita a sucursal para solicitantes solo con ITIN</td></tr><tr><td>Capital One</td><td>Sí</td><td>Ingresa el ITIN en el campo SSN en línea</td></tr><tr><td>Chase</td><td>Sí</td><td>Acepta ITIN; Freedom Rise es la tarjeta inicial más accesible</td></tr><tr><td>American Express</td><td>Sí</td><td>Usa el ITIN en el campo SSN; vincula el número a tu expediente de crédito en EE. UU.</td></tr><tr><td>Citi</td><td>Sí</td><td>SSN o ITIN en los campos de identidad; el paso a tarjeta no asegurada puede requerir SSN</td></tr><tr><td>Wells Fargo</td><td>Sí</td><td>Tarjeta asegurada; reporta a los tres burós</td></tr><tr><td>Discover</td><td>No</td><td>Requiere SSN a partir de mediados de 2026</td></tr><tr><td>OpenSky</td><td>Sí</td><td>Sin verificación de crédito; no requiere SSN</td></tr><tr><td>Self (Visa)</td><td>Sí</td><td>Tarjeta para construir crédito; no requiere SSN</td></tr></tbody></table>
+<p>Algunos emisores aceptan ITIN solo en ciertas tarjetas, así que siempre verifica el producto específico antes de aplicar. Si quieres comparar montos de depósito, APR y plazos de actualización lado a lado, nuestra <a href="/es/articles/secured-vs-unsecured-credit-card-itin-comparison">comparación de tarjetas aseguradas vs. no aseguradas con ITIN</a> lo cubre todo.</p>
+<hr>
+<h2 id="qué-hago-si-el-formulario-en-línea-rechaza-mi-itin-o-dice-que-el-número-no-es-válido">¿Qué hago si el formulario en línea rechaza mi ITIN o dice que el número no es válido?</h2>
+<p><em>Una pregunta que escuchamos seguido:</em> el error generalmente no tiene nada que ver con que tu ITIN sea incorrecto.</p>
+<p>A veces los formularios de solicitud en línea validan el campo SSN con un formato que excluye números que comienzan con 9. Eso es un problema de diseño del formulario, no una política del emisor. Tres formas de resolverlo:</p>
+<ol>
+<li>Llama a la línea de solicitudes del emisor. Los agentes pueden ingresar notas específicas de ITIN y procesar la solicitud a través de un flujo de trabajo no estándar. La mayoría de los grandes emisores tiene esta capacidad.</li>
+<li>Aplica en una sucursal. El personal de sucursal maneja identificaciones no estándar de manera rutinaria y puede marcar la solicitud para revisión manual.</li>
+<li>Prueba con una tarjeta diferente del mismo emisor. Algunos emisores han actualizado ciertas solicitudes de tarjeta para aceptar ITINs mientras que páginas de productos más antiguos aún tienen el campo de solo SSN.</li>
+</ol>
+<p>Si ya aplicaste y te rechazaron por una razón distinta a tu ITIN, nuestra guía sobre <a href="/es/articles/credit-card-reconsideration-line-itin">reconsideración de tarjetas de crédito para titulares de ITIN</a> explica cómo solicitar una revisión.</p>
+<hr>
+<h2 id="qué-pasa-con-mi-tarjeta-de-crédito-con-itin-si-después-obtengo-un-ssn">¿Qué pasa con mi tarjeta de crédito con ITIN si después obtengo un SSN?</h2>
+<p>Tu cuenta de tarjeta de crédito permanece abierta y al corriente. Lo que cambia es el identificador vinculado a tu expediente de crédito. Una vez que tienes un Número de Seguro Social, debes cancelar tu ITIN, y hay que notificar a los burós de crédito para transferir tu historial crediticio del ITIN al SSN.</p>
+<p>La fecha en que comenzó tu historial de crédito no cambia. Cada mes de pagos a tiempo que hiciste con tu ITIN se transfiere contigo. Sin reinicio, sin historial perdido. Para una guía completa de esa transición, consulta nuestra guía dedicada sobre <a href="/es/articles/itin-to-ssn-credit-card-history-transfer">cómo pasar de un ITIN a un SSN en tus tarjetas de crédito</a>.</p>
+<hr>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<p><strong>¿Escribo mi ITIN en el campo SSN de la solicitud de tarjeta de crédito?</strong>
+Sí. La mayoría de los emisores que aceptan ITIN te piden que lo ingreses directamente en el campo SSN o ID fiscal. Algunos formularios en línea muestran la opción de ITIN solo después de seleccionar un tipo de identificación alternativa, y algunos requieren que apliques por teléfono o en sucursal.</p>
+<p><strong>¿Una solicitud de tarjeta de crédito con ITIN genera una consulta dura (hard inquiry)?</strong>
+Sí, si el emisor hace una verificación completa de crédito. La consulta aparece en tu historial igual que aparecería para un solicitante con SSN. Algunas tarjetas aseguradas, como OpenSky, no realizan ninguna consulta de crédito, lo cual es útil si aún no tienes historial crediticio en EE. UU.</p>
+<p><strong>¿Solicitar una tarjeta de crédito con ITIN afecta mi estatus migratorio?</strong>
+No. El IRS ha declarado reiteradamente que el ITIN no genera ninguna inferencia sobre el estatus migratorio de una persona. El emisor lo usa únicamente para verificar tu identidad y reportar tu cuenta a los burós de crédito.</p>
+<p><strong>¿Cómo se vincula mi actividad de tarjeta de crédito a mi ITIN en los burós?</strong>
+El emisor reporta los detalles de tu cuenta, incluidos tu ITIN, nombre, dirección e historial de pagos, a Equifax, Experian y TransUnion. Según el CFPB, los burós vinculan esa información a tu expediente usando múltiples identificadores, no solo tu ITIN.</p>
+<p><strong>¿Qué pasa con mi cuenta de tarjeta de crédito si mi ITIN vence?</strong>
+Un ITIN vencido no cierra tu cuenta automáticamente ni detiene el reporte a los burós. Renovarlo a tiempo mantiene tu registro fiscal en orden y evita complicaciones si el emisor vuelve a verificar tu identidad. Consulta nuestra guía sobre <a href="/es/articles/expired-itin-credit-card-what-happens">ITINs vencidos y tarjetas de crédito</a> para más detalles.</p> <section> <h2>Guías relacionadas</h2> <ul class="lead-list"> <li><a href="/es/articles/itin-instead-of-ssn-credit-card-application">itin instead of ssn credit card application</a></li><li><a href="/es/articles/what-is-itin-number-credit-card">what is itin number credit card</a></li><li><a href="/es/articles/banks-credit-unions-accept-itin-credit-card-application-guide">banks credit unions accept itin credit card application guide</a></li><li><a href="/es/articles/credit-card-denied-itin-what-to-do">credit card denied itin what to do</a></li> </ul> </section> </div> <aside class="sources-note" data-astro-cid-6jinirix> <p class="sources-note-h" data-astro-cid-6jinirix>Cómo investigamos esta página</p> <p class="sources-note-b" data-astro-cid-6jinirix>
+Esta guía la escribió y revisó nuestro equipo editorial a partir de fuentes
+      primarias, el IRS, la CFPB, la FTC, FICO, Experian, Equifax y TransUnion, los materiales publicados por los emisores de tarjetas, en lugar de otros blogs. Las cifras, tarifas y
+      requisitos se cotejan con esa documentación antes de publicar; los términos
+      específicos de cada tarjeta cambian, así que verifícalos con el emisor. No
+      inventamos estadísticas, probabilidades de aprobación ni términos de
+      producto. Lee nuestra <a href="/es/editorial-policy" data-astro-cid-6jinirix>política editorial</a> completa.
+</p> </aside>  <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fhow-itin-works-credit-card-application" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fhow-itin-works-credit-card-application" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="inline-cta"> <h3>¿Listo para explorar tus opciones?</h3> <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">Conéctate con emisores de tarjetas que aceptan ITIN. Sin Seguro Social y revisar no afecta tu crédito.</p> <a class="btn btn-primary btn-lg" href="/es/apply">Encuentra tu tarjeta</a> </div> <aside class="author-bio" data-astro-cid-zm77yjld> <p class="author-bio-name" data-astro-cid-zm77yjld>Editorial Staff<span class="author-bio-role" data-astro-cid-zm77yjld> &middot; Secured &amp; Starter Cards</span></p> <p class="author-bio-text" data-astro-cid-zm77yjld>Nuestro equipo editorial cubre tarjetas con garantía y para principiantes, las reglas de depósito y límite de crédito, y qué emisores aprueban a solicitantes con un ITIN. Construimos cada guía a partir de los requisitos de solicitud publicados por los emisores y las guías del CFPB. Publicamos en inglés y español.</p> <p class="author-bio-link" data-astro-cid-zm77yjld><a href="/es/about" data-astro-cid-zm77yjld>Sobre nuestro equipo editorial</a></p> </aside> <nav class="related-links" aria-label="Related guides" data-astro-cid-xmiqtmid> <h2 data-astro-cid-xmiqtmid>Related guides</h2> <ul data-astro-cid-xmiqtmid> <li data-astro-cid-xmiqtmid><a href="/es/itin-credit-cards-guide" data-astro-cid-xmiqtmid>Guía de Tarjetas de Crédito ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/secured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas con Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/best-itin-credit-cards" data-astro-cid-xmiqtmid>Mejores Tarjetas ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/credit-cards-that-accept-itin" data-astro-cid-xmiqtmid>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/unsecured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas sin Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/build-credit-with-itin" data-astro-cid-xmiqtmid>Construir Crédito</a></li><li data-astro-cid-xmiqtmid><a href="/es/business-credit-cards" data-astro-cid-xmiqtmid>Tarjetas de Negocio</a></li><li data-astro-cid-xmiqtmid><a href="/es/how-to-get-an-itin" data-astro-cid-xmiqtmid>Cómo Obtener un ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/articles" data-astro-cid-xmiqtmid>Todas las Guías</a></li> </ul> </nav>  <section class="faq"><h2>Preguntas frecuentes</h2><details class="faq-item"><summary>¿Escribo mi ITIN en el campo SSN de la solicitud de tarjeta de crédito?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí. La mayoría de los emisores que aceptan ITIN te piden que lo ingreses directamente en el campo SSN o ID fiscal. Algunos formularios en línea muestran la opción de ITIN solo después de que seleccionas un tipo de identificación alternativa, y algunos requieren que apliques por teléfono o en sucursal.</p></details><details class="faq-item"><summary>¿Una solicitud de tarjeta de crédito con ITIN genera una consulta dura (hard inquiry)?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí, si el emisor hace una verificación completa de crédito. La consulta aparece en tu historial igual que aparecería para un solicitante con SSN. Algunas tarjetas aseguradas, como OpenSky, no realizan ninguna consulta de crédito, lo cual es útil si aún no tienes historial crediticio en EE. UU.</p></details><details class="faq-item"><summary>¿Solicitar una tarjeta de crédito con ITIN afecta mi estatus migratorio?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">No. El IRS ha declarado reiteradamente que el ITIN no genera ninguna inferencia sobre el estatus migratorio de una persona. El emisor lo usa únicamente para verificar tu identidad y reportar tu cuenta a los burós de crédito.</p></details><details class="faq-item"><summary>¿Cómo se vincula mi actividad de tarjeta de crédito a mi ITIN en los burós?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">El emisor reporta los detalles de tu cuenta, incluidos tu ITIN, nombre, dirección e historial de pagos, a Equifax, Experian y TransUnion. Según el CFPB, los burós vinculan esa información a tu expediente usando múltiples identificadores, no solo tu ITIN.</p></details><details class="faq-item"><summary>¿Qué pasa con mi cuenta de tarjeta de crédito si mi ITIN vence?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Un ITIN vencido no cierra tu cuenta automáticamente ni detiene el reporte a los burós. Renovarlo a tiempo mantiene tu registro fiscal en orden y evita complicaciones si el emisor vuelve a verificar tu identidad. Consulta nuestra guía sobre ITINs vencidos y tarjetas de crédito para más detalles.</p></details><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Escribo mi ITIN en el campo SSN de la solicitud de tarjeta de crédito?","acceptedAnswer":{"@type":"Answer","text":"Sí. La mayoría de los emisores que aceptan ITIN te piden que lo ingreses directamente en el campo SSN o ID fiscal. Algunos formularios en línea muestran la opción de ITIN solo después de que seleccionas un tipo de identificación alternativa, y algunos requieren que apliques por teléfono o en sucursal."}},{"@type":"Question","name":"¿Una solicitud de tarjeta de crédito con ITIN genera una consulta dura (hard inquiry)?","acceptedAnswer":{"@type":"Answer","text":"Sí, si el emisor hace una verificación completa de crédito. La consulta aparece en tu historial igual que aparecería para un solicitante con SSN. Algunas tarjetas aseguradas, como OpenSky, no realizan ninguna consulta de crédito, lo cual es útil si aún no tienes historial crediticio en EE. UU."}},{"@type":"Question","name":"¿Solicitar una tarjeta de crédito con ITIN afecta mi estatus migratorio?","acceptedAnswer":{"@type":"Answer","text":"No. El IRS ha declarado reiteradamente que el ITIN no genera ninguna inferencia sobre el estatus migratorio de una persona. El emisor lo usa únicamente para verificar tu identidad y reportar tu cuenta a los burós de crédito."}},{"@type":"Question","name":"¿Cómo se vincula mi actividad de tarjeta de crédito a mi ITIN en los burós?","acceptedAnswer":{"@type":"Answer","text":"El emisor reporta los detalles de tu cuenta, incluidos tu ITIN, nombre, dirección e historial de pagos, a Equifax, Experian y TransUnion. Según el CFPB, los burós vinculan esa información a tu expediente usando múltiples identificadores, no solo tu ITIN."}},{"@type":"Question","name":"¿Qué pasa con mi cuenta de tarjeta de crédito si mi ITIN vence?","acceptedAnswer":{"@type":"Answer","text":"Un ITIN vencido no cierra tu cuenta automáticamente ni detiene el reporte a los burós. Renovarlo a tiempo mantiene tu registro fiscal en orden y evita complicaciones si el emisor vuelve a verificar tu identidad. Consulta nuestra guía sobre ITINs vencidos y tarjetas de crédito para más detalles."}}]}</script></section> </article>  </main> <footer class="site-footer" data-astro-cid-sz7xmlte> <div class="container" data-astro-cid-sz7xmlte> <div class="footer-grid" data-astro-cid-sz7xmlte> <div data-astro-cid-sz7xmlte> <div class="footer-brand" data-astro-cid-sz7xmlte>ITIN Credit Card<span style="color:var(--accent)" data-astro-cid-sz7xmlte>.</span></div> <p data-astro-cid-sz7xmlte>Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4 data-astro-cid-sz7xmlte>Por qué confiar en nosotros</h4> <ul class="footer-trust" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Independientes, no somos emisor de tarjetas ni banco</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Siempre gratis</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Tu información se mantiene privada</li> </ul>  <p class="footer-operator" data-astro-cid-sz7xmlte> Operado por <strong data-astro-cid-sz7xmlte>Timberline Ventures LLC</strong><br data-astro-cid-sz7xmlte> <a href="mailto:info@timberlineventuresllc.com" data-astro-cid-sz7xmlte>info@timberlineventuresllc.com</a> </p> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Tarjetas</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/secured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas con Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/best-itin-credit-cards" data-astro-cid-sz7xmlte>Mejores Tarjetas ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/credit-cards-that-accept-itin" data-astro-cid-sz7xmlte>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/unsecured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas sin Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/build-credit-with-itin" data-astro-cid-sz7xmlte>Construir Crédito</a></li><li data-astro-cid-sz7xmlte><a href="/es/business-credit-cards" data-astro-cid-sz7xmlte>Tarjetas de Negocio</a></li><li data-astro-cid-sz7xmlte><a href="/es/how-to-get-an-itin" data-astro-cid-sz7xmlte>Cómo Obtener un ITIN</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Recursos</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/itin-credit-cards-guide" data-astro-cid-sz7xmlte>Guía de Tarjetas</a></li><li data-astro-cid-sz7xmlte><a href="/es/articles" data-astro-cid-sz7xmlte>Todas las Guías</a></li><li data-astro-cid-sz7xmlte><a href="/es/apply" data-astro-cid-sz7xmlte>Encuentra tu tarjeta</a></li><li data-astro-cid-sz7xmlte><a href="/es/about" data-astro-cid-sz7xmlte>Nosotros</a></li><li data-astro-cid-sz7xmlte><a href="/es/contact" data-astro-cid-sz7xmlte>Contacto</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Legal</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/editorial-policy" data-astro-cid-sz7xmlte>Política Editorial</a></li><li data-astro-cid-sz7xmlte><a href="/es/privacy" data-astro-cid-sz7xmlte>Política de Privacidad</a></li><li data-astro-cid-sz7xmlte><a href="/es/terms" data-astro-cid-sz7xmlte>Términos de Uso</a></li><li data-astro-cid-sz7xmlte><a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-network" data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Más Recursos para Personas con ITIN</h4> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="https://itinlending.net" data-astro-cid-sz7xmlte>Préstamos e Hipotecas ITIN</a> <span data-astro-cid-sz7xmlte>Préstamos de auto, personales y de negocio e hipotecas con ITIN</span> </li><li data-astro-cid-sz7xmlte> <a href="https://itincreditscore.com" data-astro-cid-sz7xmlte>Puntaje de Crédito con ITIN</a> <span data-astro-cid-sz7xmlte>Consulta, construye y mejora tu crédito con un ITIN</span> </li> </ul> </div> <div class="footer-disclaimer" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+&copy; 2026 ITINCreditCard.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Card es un recurso independiente de información y referencia. No
+          somos un banco, emisor de tarjetas ni organización de reparación de
+          crédito, y no tomamos decisiones de crédito ni emitimos tarjetas. La
+          información de este sitio tiene fines educativos generales y no
+          constituye asesoría financiera, legal ni fiscal. Los productos de
+          tarjetas de crédito y los términos de aprobación los establecen emisores
+          externos y están sujetos a su aprobación y a la ley aplicable. Podemos
+          recibir compensación cuando haces clic en ciertos enlaces o te
+          conectamos con un emisor, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a>.
+</p> <p class="fha-legal" data-astro-cid-sz7xmlte>
+* El programa de préstamo FHA con 3.5% de enganche es ofrecido por un
+          socio prestamista externo, no por ITIN Credit Card. No es una garantía de
+          aprobación, tasa ni condiciones. Todo financiamiento está sujeto a
+          suscripción del prestamista, aprobación crediticia, verificación de
+          ingresos y requisitos de elegibilidad del programa, los cuales varían
+          según el estado y pueden cambiar sin previo aviso.
+</p> </div> </div> </footer>  </body></html> 

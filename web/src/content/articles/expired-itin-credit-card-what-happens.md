@@ -17,7 +17,7 @@ relatedSlugs:
   - "2026-executive-order-itin-credit-card-applications"
   - "improve-credit-card-approval-odds-itin"
   - "credit-card-f1-visa-holders-itin"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
+  - "how-itin-works-credit-card-application"
 faqs:
   - q: "Will my current credit card be closed if my ITIN expires?"
     a: "No. Card issuers verify your identity at the time of application, not on an ongoing basis. An ITIN expiration does not trigger an automatic account closure. Your card stays open, continues to report payment history to the credit bureaus, and works normally for purchases."

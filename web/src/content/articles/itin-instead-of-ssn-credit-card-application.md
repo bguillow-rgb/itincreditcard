@@ -14,10 +14,10 @@ publishedAt: "2026-10-28"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "how-itin-works-credit-card-application"
   - "what-is-itin-number-credit-card"
   - "itin-number-format-credit-card-application"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "itin-credit-card-hotels-car-rentals"
 faqs:
   - q: "Can I enter my ITIN in the SSN field on a credit card application?"
     a: "Yes. When an issuer accepts an ITIN, you simply type your 9-digit ITIN into the SSN field on the application form. Some issuers label the field 'SSN/ITIN' to make this clear. Always confirm the specific card accepts an ITIN before applying."

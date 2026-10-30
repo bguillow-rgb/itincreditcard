@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "itin-instead-of-ssn-credit-card-application"
+  - "how-itin-works-credit-card-application"
   - "itin-number-format-credit-card-application"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "credit-card-daca-recipients-itin"
 faqs:
   - q: "What does ITIN stand for on a credit card application?"
     a: "ITIN stands for Individual Taxpayer Identification Number. On a credit card application it serves as your taxpayer identifier in place of a Social Security Number, allowing the issuer to verify your identity and report your account activity to the credit bureaus."

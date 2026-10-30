@@ -14,10 +14,10 @@ publishedAt: "2026-10-28"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "how-itin-works-credit-card-application"
   - "what-is-itin-number-credit-card"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "itin-credit-card-credit-bureau-reporting"
 faqs:
   - q: "¿Puedo escribir mi ITIN en el campo de SSN de una solicitud de tarjeta de crédito?"
     a: "Sí. Cuando un emisor acepta ITIN, simplemente escribes tu ITIN de 9 dígitos en el campo de SSN del formulario. Algunos emisores etiquetan ese campo como 'SSN/ITIN' para dejarlo claro. Confirma siempre que la tarjeta específica acepta ITIN antes de aplicar, porque un rechazo igual genera una consulta dura en tu historial."
