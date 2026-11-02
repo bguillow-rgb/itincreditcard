@@ -14,10 +14,10 @@ publishedAt: "2026-09-07"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
 faqs:
   - q: "Can I get a secured credit card with just an ITIN and no SSN?"
     a: "Yes. Capital One, Discover, Citi, OpenSky, and the Amazon Secured Card (Synchrony) all accept an ITIN in place of an SSN on secured card applications. Some, like OpenSky, do not even require a credit check."

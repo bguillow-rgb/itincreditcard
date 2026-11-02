@@ -14,10 +14,10 @@ publishedAt: "2026-09-18"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "prepaid-card-vs-secured-credit-card-itin"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "which-credit-card-should-i-get-first-itin"
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
 faqs:
   - q: "What is a good credit utilization rate for an ITIN holder with a new secured card?"
     a: "Aim for 1%-10% utilization. That means spending $10-$30 on a $300 card and paying it in full. Staying in single digits typically produces the fastest score growth when you have a short credit history."

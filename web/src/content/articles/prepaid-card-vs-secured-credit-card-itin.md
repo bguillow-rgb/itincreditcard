@@ -14,10 +14,10 @@ publishedAt: "2026-08-21"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "credit-card-j1-visa-itin"
-  - "credit-utilization-itin-credit-card"
 faqs:
   - q: "Does a prepaid card help build credit with an ITIN?"
     a: "No. Prepaid cards are not credit products and are not reported to Equifax, Experian, or TransUnion. They cannot generate a U.S. credit history regardless of how long or how often you use them."

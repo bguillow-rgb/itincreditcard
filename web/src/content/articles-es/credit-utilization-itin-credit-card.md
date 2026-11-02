@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "build-credit-with-itin-credit-card"
+  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "¿Cuál es una buena tasa de utilización de crédito para un titular de ITIN con una tarjeta asegurada nueva?"
     a: "Apunta a una utilización del 1% al 10%. Eso significa gastar entre $10 y $30 en una tarjeta de $300 y pagarla en su totalidad. Mantenerte en un solo dígito suele producir el crecimiento de puntaje más rápido cuando tienes un historial de crédito corto."
