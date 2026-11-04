@@ -15,9 +15,9 @@ author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "itin-instead-of-ssn-credit-card-application"
+  - "itin-on-physical-credit-card-explained"
   - "what-is-itin-number-credit-card"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "itin-credit-card-issuer-verified-application-guide-2026"
 faqs:
   - q: "What does an ITIN number look like?"
     a: "An ITIN is a 9-digit number formatted 9XX-XX-XXXX, identical in structure to a Social Security Number but always beginning with the digit 9. The IRS issues it and it is never found on a physical card."
