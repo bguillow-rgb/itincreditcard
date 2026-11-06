@@ -17,7 +17,7 @@ relatedSlugs:
   - "low-apr-credit-card-itin-holders"
   - "travel-credit-card-itin-holders"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "credit-card-opt-visa-holder-itin"
+  - "credit-card-green-card-applicant-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito virtual con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Tarjetas como la Zolve Azpire y la Current Build Card aceptan ITIN (o incluso solo un pasaporte, en el caso de Zolve) y emiten números de tarjeta virtual sin requerir historial crediticio en EE. UU. Ambas reportan a las tres principales agencias de crédito."
