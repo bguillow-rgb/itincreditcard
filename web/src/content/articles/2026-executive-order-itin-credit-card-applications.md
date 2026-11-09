@@ -17,7 +17,7 @@ relatedSlugs:
   - "expired-itin-credit-card-what-happens"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "how-itin-works-credit-card-application"
-  - "itin-credit-card-bank-by-bank-application-guide"
+  - "itin-credit-card-application-bank-credit-union-verified-guide"
 faqs:
   - q: "Does the 2026 executive order ban ITIN credit card applications?"
     a: "No. EO 14406 does not ban ITIN credit card applications. It instructs banks to flag ITIN use as a potential enhanced due-diligence trigger, particularly when the applicant lacks verified lawful immigration status. Issuers still decide individually whether to approve or deny applications."

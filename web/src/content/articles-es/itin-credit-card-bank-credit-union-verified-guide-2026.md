@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "itin-credit-card-issuer-verified-application-guide-2026"
   - "banks-credit-unions-accept-itin-credit-card-application-guide"
+  - "itin-credit-card-application-bank-credit-union-verified-guide"
   - "how-to-apply-for-credit-card-with-itin"
-  - "itin-credit-card-bank-by-bank-application-guide"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito solo con un ITIN y sin SSN?"
     a: "Sí. Al menos 12 emisores aceptan un ITIN en lugar de un SSN, entre ellos Capital One, Citi, American Express, Chase, Bank of America y Wells Fargo. Algunos requieren visitar una sucursal, pero Capital One y Citi aceptan ITINs completamente en línea."
