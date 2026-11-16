@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-denied-itin-what-to-do"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "itin-credit-card-bank-by-bank-application-guide"
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
+  - "credit-card-prequalification-itin"
+  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "¿Llamar a la línea de reconsideración genera otra consulta dura en mi reporte de crédito?"
     a: "Por lo general, no. Cuando llamas dentro del período estándar de 30 días después de tu solicitud original, la mayoría de los emisores revisan la consulta existente en lugar de hacer una nueva. Confirma esto con el representante antes de que comience cualquier revisión."
@@ -127,7 +127,7 @@ En la práctica, llamar dentro de las 48 a 72 horas posteriores al rechazo te da
 
 Si te rechazaron por demasiadas consultas duras, esperar al menos cuatro o seis meses antes de volver a solicitar es la decisión más inteligente en lugar de llamar a la línea de reconsideración, ya que ese motivo de rechazo en particular es difícil de rebatir en una llamada. Enfoca las llamadas de reconsideración en rechazos por verificación de identidad o "expediente delgado", donde la explicación del ITIN sí tiene peso.
 
-Si la reconsideración no funciona y necesitas considerar una nueva solicitud, nuestra [comparación emisor por emisor de tarjetas de crédito con ITIN](/es/articles/itin-credit-card-issuer-comparison-2026) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación con un ITIN](/es/articles/improve-credit-card-approval-odds-itin) son buenos siguientes pasos.
+Si la reconsideración no funciona y necesitas considerar una nueva solicitud, nuestra [comparación emisor por emisor de tarjetas de crédito con ITIN](/es/articles/credit-cards-that-accept-itin-verified-issuer-list) y nuestra guía sobre [cómo mejorar las probabilidades de aprobación con un ITIN](/es/articles/improve-credit-card-approval-odds-itin) son buenos siguientes pasos.
 
 ---
 

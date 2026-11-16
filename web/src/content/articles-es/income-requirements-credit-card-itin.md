@@ -17,7 +17,7 @@ relatedSlugs:
   - "citi-credit-card-itin"
   - "how-to-apply-for-credit-card-with-itin"
   - "credit-card-green-card-applicant-itin"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
+  - "credit-card-itin-non-residents"
 faqs:
   - q: "¿Existe un ingreso mínimo requerido para obtener una tarjeta de crédito con ITIN?"
     a: "Ninguna ley federal establece un mínimo. Cada emisor fija sus propios umbrales internos. En la práctica, la mayoría de las tarjetas que aceptan ITIN buscan aproximadamente entre $500 y $2,000 al mes, aunque las tarjetas aseguradas sin verificación de crédito, como OpenSky, suelen aprobar solicitantes independientemente del monto de ingresos, siempre que puedas depositar el monto de garantía."
@@ -87,7 +87,7 @@ La siguiente tabla compara las principales opciones que aceptan ITIN según la f
 
 Entre los 10 principales emisores de tarjetas de crédito, siete aceptan ITIN, incluyendo Bank of America y Capital One. Eso les da a los titulares de ITIN opciones reales en lugar de un único camino.
 
-Para un análisis más detallado de qué emisores específicos aceptan ITIN y qué requiere cada tarjeta más allá de los ingresos, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
+Para un análisis más detallado de qué emisores específicos aceptan ITIN y qué requiere cada tarjeta más allá de los ingresos, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## ¿Puedo calificar si acabo de empezar a trabajar en Estados Unidos y solo tengo uno o dos talones de pago?
 

@@ -11,6 +11,7 @@ relatedQueries:
   - "qué bancos aceptan ITIN para tarjeta de crédito con visa OPT"
 quickAnswer: "Sí, los titulares de visa OPT pueden obtener una tarjeta de crédito en EE. UU. usando un ITIN antes de recibir un SSN. Varios emisores, incluidos Capital One, Discover y OpenSky, aceptan un ITIN de titulares de EAD. Las tarjetas aseguradas son el punto de partida más accesible y reportan a las tres burós de crédito para construir tu historial."
 publishedAt: "2026-09-09"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -71,7 +72,8 @@ La tabla a continuación cubre las tarjetas con mejor historial para solicitante
 | Capital One Platinum Secured | Asegurada | Sí | Sí (pre-calificación suave) | $0 | Sí |
 | Discover it Secured | Asegurada | Sí | Sí | $0 | Sí |
 | Citi Secured Mastercard | Asegurada | Sí | Sí | $0 | Sí |
-| Self Visa Credit Card | Asegurada (de construcción) | Sí | Solo suave | $25 | Sí |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 La OpenSky Secured Credit Card aprueba abiertamente a solicitantes sin un SSN, acepta un ITIN y no realiza una verificación de crédito durante la solicitud. Eso la hace accesible cuando tu historial crediticio en EE. UU. es escaso o inexistente.
 

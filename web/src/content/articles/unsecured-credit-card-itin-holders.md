@@ -11,13 +11,14 @@ relatedQueries:
   - "itin credit card no security deposit"
 quickAnswer: "ITIN holders can qualify for unsecured credit cards, cards that require no security deposit, through issuers like Capital One, Petal, and Zolve. Most applicants start with a secured card, build 6-12 months of on-time payments, then upgrade. A few fintech cards skip the deposit requirement entirely from day one."
 publishedAt: "2026-06-09"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "get-secured-credit-card-deposit-back-itin"
+  - "itin-starter-credit-cards-ranked-zero-history"
+  - "upgrade-secured-to-unsecured-credit-card-itin"
 faqs:
   - q: "Can I get an unsecured credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but options are limited if you're starting from zero. Cards like the Zolve Classic and the Current Build Card use alternative underwriting, such as income verification or bank account history, instead of a traditional credit score, so no prior U.S. credit history is required."
@@ -103,7 +104,9 @@ With Capital One's Quicksilver Secured, you can get your deposit back eventually
 
 - **Keep utilization below 30%.** Your payment history is 35% of your credit score. This is where you make the biggest impact fast. But utilization, how much of your limit you use, is a close second. If your limit is $300, keep your balance under $90.
 - **Don't close your secured card immediately after graduating.** The length of your credit history matters. Keep your first card open even after you qualify for better options.
-- **Add a credit-builder loan around month 6.** Once you have a secured card for 6-12 months, apply for a credit builder loan. Self and Ava both offer excellent credit builder loans for ITIN holders. These loans are designed specifically for credit building and help diversify your credit profile. Credit mix counts in FICO scoring, and adding an installment account accelerates your timeline.
+- **Add a credit-builder loan around month 6.** Once you have a secured card for 6-12 months, apply for a credit builder loan. Ask your bank or credit union whether its credit builder loan accepts an ITIN before you apply; Self's Credit Builder Account is not an option here, because Self requires a Social Security Number. These loans are designed specifically for credit building and help diversify your credit profile. Credit mix counts in FICO scoring, and adding an installment account accelerates your timeline.
+
+**Correction (November 16, 2026):** an earlier version of this article recommended Self's credit builder loan for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 ---
 

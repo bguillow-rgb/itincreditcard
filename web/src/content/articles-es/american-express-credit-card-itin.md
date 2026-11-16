@@ -17,7 +17,7 @@ relatedSlugs:
   - "foreign-credit-history-credit-card-itin"
   - "citi-credit-card-itin"
   - "discover-credit-card-itin"
-  - "itin-credit-card-complete-issuer-guide-2026"
+  - "aplicar-american-express-con-numero-itin"
 faqs:
   - q: "¿American Express acepta el ITIN en lugar del SSN?"
     a: "Sí. El campo de SSN en cada solicitud de tarjeta de consumidor de Amex en EE. UU. indica expresamente que puedes ingresar tu ITIN si no tienes SSN. El sistema de solicitudes de Amex está diseñado para procesar envíos con ITIN."
@@ -62,7 +62,7 @@ Así se comparan los principales niveles de tarjetas Amex para quienes aplican c
 
 La aprobación directa con ITIN para la Amex Platinum es rara, menos del 10%, sin al menos 24 meses de historial crediticio establecido en EE. UU. e ingresos altos. A través de Global Transfer, si tu tarjeta no estadounidense es un producto equivalente de nivel Platinum, la transferencia puede aplicarse a la Platinum en EE. UU.
 
-Si todavía estás eligiendo tu primera tarjeta antes de construir historial, nuestra [guía de las mejores tarjetas iniciales con ITIN](/es/articles/best-itin-starter-credit-cards-ranked-zero-to-score) cubre opciones con menos requisitos para empezar.
+Si todavía estás eligiendo tu primera tarjeta antes de construir historial, nuestra [guía de las mejores tarjetas iniciales con ITIN](/es/articles/itin-starter-credit-cards-ranked-zero-history) cubre opciones con menos requisitos para empezar.
 
 ## ¿Qué es el programa Amex Global Card Relationship y necesito ITIN para usarlo?
 

@@ -115,7 +115,7 @@ Because, for most people, joint accounts simply are not available at their prefe
 
 **Authorized user.** The closest practical alternative. The primary cardholder adds the ITIN holder as an authorized user. The ITIN holder gets a card and builds credit history, but has no legal repayment responsibility. See our detailed guide on [becoming an authorized user with an ITIN](/articles/authorized-user-credit-card-itin).
 
-**Two separate cards.** Each person applies for their own ITIN-accepted card. More upfront work, but it avoids shared-liability risk entirely. Our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists the current issuers to start with.
+**Two separate cards.** Each person applies for their own ITIN-accepted card. More upfront work, but it avoids shared-liability risk entirely. Our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) lists the current issuers to start with.
 
 **Secured card for the ITIN holder.** If one partner already has established credit and the other is starting from zero, the most efficient path is often for the ITIN holder to open a [secured credit card](/articles/secured-credit-card-with-itin) independently. Secured credit cards represent the most accessible option for ITIN holders. These cards require a cash deposit that typically serves as the credit limit. After 12-24 months of on-time payments, many issuers will graduate the account to an unsecured card and return the deposit.
 

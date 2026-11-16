@@ -1,0 +1,285 @@
+{
+  "_comment": "Articles merged into a canonical page and 301'd (GitHub Pages: Astro meta-refresh + canonical stub) on the date shown. astro.config.mjs builds the EN + ES redirects from this file, and scripts/daily-post.mjs treats every entry as an already-covered topic so the generator cannot write it again. Add an entry here (and delete the .md in articles/ AND articles-es/) to retire a page; never delete one without an entry.",
+  "articles": [
+    {
+      "slug": "best-itin-starter-credit-cards-ranked-zero-to-score",
+      "redirectTo": "itin-starter-credit-cards-ranked-zero-history",
+      "retiredOn": "2026-11-16",
+      "title": "Best ITIN Starter Credit Cards (2026): Ranked from Zero",
+      "targetQuery": "best starter credit cards for building credit with an ITIN from zero",
+      "relatedQueries": [
+        "which credit card should I get first with an ITIN",
+        "easiest credit card to get approved for with ITIN no credit history",
+        "secured credit card ITIN no credit check",
+        "how to get a credit card with an ITIN for the first time",
+        "ITIN credit card zero credit history approval"
+      ]
+    },
+    {
+      "slug": "best-starter-credit-cards-itin-zero-credit-history",
+      "redirectTo": "itin-starter-credit-cards-ranked-zero-history",
+      "retiredOn": "2026-11-16",
+      "title": "Best Starter ITIN Credit Cards: Ranked From Zero History",
+      "targetQuery": "best starter credit cards for building credit with an ITIN from zero",
+      "relatedQueries": [
+        "best credit card for ITIN holder with no US credit history",
+        "easiest credit card to get approved with ITIN no credit",
+        "how to start building credit with ITIN number",
+        "which credit card should I get first with an ITIN",
+        "ITIN credit card no credit check no deposit"
+      ]
+    },
+    {
+      "slug": "itin-credit-cards-ranked-zero-credit-history-2026",
+      "redirectTo": "itin-starter-credit-cards-ranked-zero-history",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Cards Ranked: Start From Zero (2026)",
+      "targetQuery": "best starter credit cards for building credit with an ITIN from zero",
+      "relatedQueries": [
+        "easiest credit card to get with ITIN and no credit history",
+        "which secured card accepts ITIN for zero credit history",
+        "how to build credit from zero with ITIN",
+        "ITIN credit card no credit check 2026",
+        "first credit card ITIN no US credit history ranked"
+      ]
+    },
+    {
+      "slug": "credit-cards-accept-itin-2026-issuer-by-issuer-guide",
+      "redirectTo": "credit-cards-that-accept-itin-verified-issuer-list",
+      "retiredOn": "2026-11-16",
+      "title": "Credit Cards That Accept an ITIN (2026 Guide)",
+      "targetQuery": "what credit cards actually accept an ITIN in 2026",
+      "relatedQueries": [
+        "credit cards for ITIN holders 2026",
+        "which banks accept ITIN for credit card applications",
+        "best credit card for immigrants with ITIN no SSN",
+        "ITIN credit card approval requirements",
+        "credit card with ITIN no US credit history"
+      ]
+    },
+    {
+      "slug": "itin-credit-card-complete-issuer-guide-2026",
+      "redirectTo": "credit-cards-that-accept-itin-verified-issuer-list",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Cards 2026: Every Issuer, Ranked",
+      "targetQuery": "credit cards that accept ITIN number 2026 issuer list approval requirements",
+      "relatedQueries": [
+        "which credit card can I get with an ITIN and no US credit history",
+        "ITIN credit card approval odds by issuer 2026",
+        "best ITIN credit card for immigrants no SSN",
+        "secured credit card with ITIN deposit requirements",
+        "unsecured credit card ITIN no credit history"
+      ]
+    },
+    {
+      "slug": "itin-credit-card-issuer-comparison-2026",
+      "redirectTo": "credit-cards-that-accept-itin-verified-issuer-list",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Cards 2026: Issuer-by-Issuer Comparison",
+      "targetQuery": "which credit cards accept ITIN number 2026 comparison",
+      "relatedQueries": [
+        "best credit card for ITIN holders no SSN 2026",
+        "credit card issuers that accept ITIN instead of SSN",
+        "easiest credit card to get with ITIN number",
+        "ITIN credit card approval odds by bank",
+        "credit card with ITIN no US credit history"
+      ]
+    },
+    {
+      "slug": "itin-credit-cards-issuer-by-issuer-verified-list-2026",
+      "redirectTo": "credit-cards-that-accept-itin-verified-issuer-list",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Cards 2026: Verified Issuer List With Real Data",
+      "targetQuery": "which credit cards accept an ITIN number in 2026 complete issuer list",
+      "relatedQueries": [
+        "what credit cards can I get with an ITIN no US credit history",
+        "ITIN credit card approval odds by issuer 2026",
+        "best credit cards for ITIN holders no SSN needed",
+        "secured credit cards that accept ITIN number",
+        "unsecured credit cards accept ITIN 2026"
+      ]
+    },
+    {
+      "slug": "itin-secured-vs-unsecured-credit-card-complete-guide",
+      "redirectTo": "secured-vs-unsecured-credit-card-itin-comparison",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Secured vs. Unsecured Credit Cards (2026)",
+      "targetQuery": "secured vs unsecured credit card with ITIN which issuers accept each type with real deposit APR and graduation data 2026",
+      "relatedQueries": [
+        "what is the difference between secured and unsecured credit cards for ITIN holders",
+        "how long does it take to graduate from secured to unsecured credit card with ITIN",
+        "which unsecured credit cards accept an ITIN with no US credit history",
+        "best secured credit card for ITIN holders no credit check",
+        "when should ITIN holder switch from secured to unsecured credit card"
+      ]
+    },
+    {
+      "slug": "itin-secured-vs-unsecured-credit-card-issuer-data-2026",
+      "redirectTo": "secured-vs-unsecured-credit-card-itin-comparison",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Secured vs Unsecured Credit Cards: Issuer Data 2026",
+      "targetQuery": "secured vs unsecured credit card with ITIN which issuers accept each type with real deposit APR and graduation data 2026",
+      "relatedQueries": [
+        "which secured credit cards accept ITIN 2026",
+        "how long to graduate from secured to unsecured credit card with ITIN",
+        "unsecured credit cards for ITIN holders no deposit",
+        "best secured card ITIN lowest deposit",
+        "ITIN credit card APR comparison secured unsecured"
+      ]
+    },
+    {
+      "slug": "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation",
+      "redirectTo": "secured-vs-unsecured-credit-card-itin-comparison",
+      "retiredOn": "2026-11-16",
+      "title": "Secured vs. Unsecured ITIN Credit Cards: Deposits & APRs",
+      "targetQuery": "secured vs unsecured credit card with ITIN deposits APRs and graduation timelines compared",
+      "relatedQueries": [
+        "which secured credit card is best for ITIN holders 2026",
+        "how long to graduate from secured to unsecured card with ITIN",
+        "unsecured credit cards that accept ITIN no deposit",
+        "secured credit card deposit requirements ITIN holders",
+        "ITIN credit card APR comparison 2026"
+      ]
+    },
+    {
+      "slug": "secured-vs-unsecured-itin-credit-card-issuer-comparison",
+      "redirectTo": "secured-vs-unsecured-credit-card-itin-comparison",
+      "retiredOn": "2026-11-16",
+      "title": "Secured vs. Unsecured ITIN Credit Cards: Real Issuer Data",
+      "targetQuery": "secured vs unsecured credit card with ITIN deposits APRs and graduation timelines compared",
+      "relatedQueries": [
+        "which secured credit card is best for ITIN holders 2026",
+        "how long to graduate from secured to unsecured card with ITIN",
+        "unsecured credit card no SSN no deposit 2026",
+        "best ITIN credit card for building credit from zero",
+        "secured credit card deposit requirements ITIN holders"
+      ]
+    },
+    {
+      "slug": "what-is-itin-number-credit-card",
+      "redirectTo": "itin-instead-of-ssn-credit-card-application",
+      "retiredOn": "2026-11-16",
+      "title": "What Is an ITIN Number on a Credit Card? (2026)",
+      "targetQuery": "what is the ITIN number on a credit card",
+      "relatedQueries": [
+        "what is an ITIN and how does it work for credit cards",
+        "ITIN number vs SSN for credit card application",
+        "where do I put my ITIN on a credit card application",
+        "does ITIN work like SSN on credit card application",
+        "what does ITIN stand for on a credit card"
+      ]
+    },
+    {
+      "slug": "itin-number-format-credit-card-application",
+      "redirectTo": "itin-instead-of-ssn-credit-card-application",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Number Format: What It Looks Like & Where to Enter It",
+      "targetQuery": "what does an ITIN number look like on a credit card application",
+      "relatedQueries": [
+        "ITIN number format explained",
+        "where do I enter my ITIN on a credit card application",
+        "what does an ITIN number look like",
+        "ITIN vs SSN on credit card application",
+        "how to enter ITIN instead of SSN credit card"
+      ]
+    },
+    {
+      "slug": "how-itin-works-credit-card-application",
+      "redirectTo": "itin-instead-of-ssn-credit-card-application",
+      "retiredOn": "2026-11-16",
+      "title": "How an ITIN Works on a Credit Card Application",
+      "targetQuery": "how does an ITIN work on a credit card application",
+      "relatedQueries": [
+        "what do I put in the SSN field if I have an ITIN",
+        "how does a credit card issuer verify an ITIN",
+        "does an ITIN build credit the same way as an SSN",
+        "what happens after I submit a credit card application with an ITIN",
+        "can I use my ITIN number to apply for a credit card online"
+      ]
+    },
+    {
+      "slug": "itin-on-physical-credit-card-explained",
+      "redirectTo": "itin-instead-of-ssn-credit-card-application",
+      "retiredOn": "2026-11-16",
+      "title": "Is Your ITIN on Your Credit Card? (2026 Answer)",
+      "targetQuery": "does your ITIN appear on your credit card",
+      "relatedQueries": [
+        "where is my ITIN on my credit card",
+        "is ITIN printed on credit card",
+        "what does a credit card with ITIN look like",
+        "ITIN on credit card application vs physical card",
+        "does credit card show ITIN number"
+      ]
+    },
+    {
+      "slug": "banks-credit-unions-accept-itin-credit-card-application-guide",
+      "redirectTo": "itin-credit-card-bank-by-bank-application-guide",
+      "retiredOn": "2026-11-16",
+      "title": "Banks & Credit Unions That Accept ITIN Credit Cards (2026)",
+      "targetQuery": "which banks and credit unions let you apply for a credit card with an ITIN",
+      "relatedQueries": [
+        "banks that accept ITIN for credit card applications 2026",
+        "credit card application with ITIN no SSN which banks",
+        "credit union credit card ITIN verified list",
+        "major bank ITIN credit card online or in branch",
+        "best credit card to apply for with ITIN first"
+      ]
+    },
+    {
+      "slug": "itin-credit-card-application-bank-credit-union-verified-guide",
+      "redirectTo": "itin-credit-card-bank-by-bank-application-guide",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Card Applications: Bank & CU Guide (2026)",
+      "targetQuery": "which banks and credit unions let you apply for a credit card with an ITIN verified with application details",
+      "relatedQueries": [
+        "credit cards that accept ITIN number 2026",
+        "can I apply for a credit card with an ITIN online",
+        "credit union credit card with ITIN",
+        "best bank to get a credit card with an ITIN",
+        "how to apply for a credit card with an ITIN no SSN"
+      ]
+    },
+    {
+      "slug": "itin-credit-card-bank-credit-union-verified-guide-2026",
+      "redirectTo": "itin-credit-card-bank-by-bank-application-guide",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Cards: Verified Bank & CU Guide (2026)",
+      "targetQuery": "which banks and credit unions let you apply for a credit card with an ITIN verified with application details",
+      "relatedQueries": [
+        "which banks accept ITIN for credit card applications 2026",
+        "credit union credit card with ITIN no SSN",
+        "how to apply for a credit card with an ITIN number step by step",
+        "what documents do I need to apply for a credit card with an ITIN",
+        "ITIN credit card online vs in branch application"
+      ]
+    },
+    {
+      "slug": "itin-credit-card-issuer-verified-application-guide-2026",
+      "redirectTo": "itin-credit-card-bank-by-bank-application-guide",
+      "retiredOn": "2026-11-16",
+      "title": "ITIN Credit Card Applications: Verified Bank Guide (2026)",
+      "targetQuery": "which banks and credit unions let you apply for a credit card with an ITIN verified with application details",
+      "relatedQueries": [
+        "banks that accept ITIN for credit card 2026",
+        "how to apply for a credit card with an ITIN number",
+        "credit union credit card with ITIN no SSN",
+        "what documents do I need to apply for a credit card with an ITIN",
+        "which banks accept ITIN instead of SSN for credit cards"
+      ]
+    },
+    {
+      "slug": "which-banks-accept-itin-for-credit-cards",
+      "redirectTo": "itin-credit-card-bank-by-bank-application-guide",
+      "retiredOn": "2026-11-16",
+      "title": "Which Banks Accept ITIN for Credit Cards? (2026 Guide)",
+      "targetQuery": "which banks accept itin for credit cards",
+      "relatedQueries": [
+        "credit cards that accept itin number",
+        "can i apply for a credit card with an itin",
+        "capital one itin credit card",
+        "chase credit card with itin",
+        "bank of america itin credit card"
+      ]
+    }
+  ]
+}

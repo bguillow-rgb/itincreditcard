@@ -11,13 +11,14 @@ relatedQueries:
   - "tarjeta de crédito con itin sin historial crediticio aprobación"
 quickAnswer: "Puedes obtener tu primera tarjeta de crédito en EE.UU. con un ITIN y sin historial crediticio americano solicitando una tarjeta asegurada o una tarjeta de crédito sin verificación crediticia de emisores que aceptan ITIN, como Capital One, OpenSky o Citi. Espera un requisito de depósito de $200 a $500 y aprobación en pocos días. Tu historial crediticio en EE.UU. se abre en el momento en que tu tarjeta queda registrada en los burós."
 publishedAt: "2026-06-18"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "secured-credit-card-with-itin"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "prepaid-card-vs-secured-credit-card-itin"
+  - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con un ITIN y absolutamente ningún historial crediticio en EE.UU.?"
     a: "Sí. Las tarjetas de crédito aseguradas y las tarjetas de crédito sin verificación crediticia están diseñadas para personas sin historial en EE.UU. Emisores como Capital One, OpenSky y Citi aceptan ITIN y no exigen historial crediticio previo en EE.UU. para aprobarte."
@@ -61,7 +62,8 @@ No todos los emisores que aceptan un ITIN aprobarán un historial completamente 
 | Citi Secured Mastercard | $200-$2,500 (reembolsable) | Consulta dura | $0 | Ninguna | Sí |
 | OpenSky Secured Visa | $200+ (reembolsable) | Ninguna | $35/año | Ninguna | Sí |
 | Petal 2 Visa | Ninguno | Suave (revisión de flujo de caja) | $0 | 1%-1.5% reembolso en efectivo | Sí |
-| Self Visa Credit Card | Depósito mediante cuenta de ahorros | Suave | $25/año | Ninguna | Sí |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 La Capital One Platinum Credit Card es una de las mejores tarjetas de crédito para principiantes sin requisito de SSN, porque los solicitantes pueden usar un ITIN en su lugar y pueden calificar incluso con historial crediticio limitado o inexistente.
 
@@ -69,7 +71,7 @@ La OpenSky Secured Credit Card es una de las pocas tarjetas de crédito asegurad
 
 La Petal 2 Visa Credit Card es una de las mejores opciones sin requisito de SSN porque los titulares ganan 1% de reembolso en efectivo en todas las compras elegibles, hasta 1.25% después de 6 meses de pagos a tiempo y 1.5% de reembolso después de 12 meses consecutivos pagando puntualmente. Los solicitantes con historial crediticio limitado y un ITIN pueden ser aprobados, y no tiene cuota anual.
 
-Para un análisis más detallado del panorama completo de emisores que aceptan ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
+Para un análisis más detallado del panorama completo de emisores que aceptan ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ---
 

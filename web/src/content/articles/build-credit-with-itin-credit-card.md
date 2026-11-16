@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "itin-starter-credit-cards-ranked-zero-history"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "prepaid-card-vs-secured-credit-card-itin"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "credit-card-j1-visa-itin"
+  - "credit-utilization-itin-credit-card"
 faqs:
   - q: "Can I build a U.S. credit score using only an ITIN?"
     a: "Yes. The three major credit bureaus (Equifax, Experian, TransUnion) use your ITIN as a file identifier the same way they use an SSN. Once a card issuer reports your payment activity under your ITIN, your credit file opens and a score can be calculated. The scoring math is identical regardless of which number identifies your file."
@@ -65,7 +65,7 @@ Here is a comparison of cards commonly used by ITIN holders for credit building 
 | Petal 2 Visa | None (unsecured) | Yes | $0 | Yes | No deposit, income-based approval |
 | Chase Freedom Rise | None (unsecured) | Yes | $0 | Yes | Upgrade path to Freedom Unlimited |
 
-For more detail on which issuers accept an ITIN and how their policies work, see our full guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards). If you are starting with zero U.S. history and want the lowest barrier to entry, our [secured credit card with ITIN guide](/articles/secured-credit-card-with-itin) walks through deposit requirements and approval odds card by card.
+For more detail on which issuers accept an ITIN and how their policies work, see our full guide on [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide). If you are starting with zero U.S. history and want the lowest barrier to entry, our [secured credit card with ITIN guide](/articles/secured-credit-card-with-itin) walks through deposit requirements and approval odds card by card.
 
 ## What card habits actually move my credit score the fastest?
 

@@ -11,13 +11,14 @@ relatedQueries:
   - "credit card reporting bureaus ITIN holders 2026"
 quickAnswer: "Yes. When a credit card issuer accepts your ITIN, it reports your payment history to credit bureaus the same way it does for SSN holders. Most major ITIN-friendly cards, including secured cards from Capital One, Citi, and Bank of America, report to all three bureaus: Experian, Equifax, and TransUnion. Always confirm before you apply."
 publishedAt: "2026-06-21"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "authorized-user-credit-card-itin"
   - "credit-card-opt-visa-holder-itin"
-  - "itin-credit-cards-ranked-zero-credit-history-2026"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
+  - "itin-starter-credit-cards-ranked-zero-history"
+  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "Does using an ITIN instead of an SSN change how my credit card activity is reported?"
     a: "No. Once your account is open, the issuer reports your payment history, balance, credit limit, and account age to the credit bureaus exactly the same way it does for SSN holders. The ITIN simply identifies your file; it does not affect what gets reported or how scoring models evaluate it."
@@ -56,8 +57,9 @@ Here is a snapshot of popular ITIN-accepting cards and their bureau reporting as
 | Wells Fargo Secured Credit Card | Yes | Yes | $0 | Yes |
 | OpenSky Secured Visa | Yes (no credit check) | Yes | $35/yr | Yes |
 | Current Build Card | Yes (no credit check) | Yes | $0 | Debit-style |
-| Self Visa Credit Card | Yes | Yes | $25/yr | Yes (savings-linked) |
 | Chase Freedom Rise | Yes | Yes | $0 | No |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Five of the most popular secured cards, those from Discover, Capital One, Citi, Wells Fargo, and Bank of America, report to all three credit bureaus, according to Discover's website. For ITIN holders choosing among these issuers, you can feel confident that your on-time payments will land on all three files.
 

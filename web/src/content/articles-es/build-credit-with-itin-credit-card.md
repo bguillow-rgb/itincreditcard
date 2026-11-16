@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-utilization-itin-credit-card"
   - "secured-vs-unsecured-credit-card-itin-comparison"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "itin-starter-credit-cards-ranked-zero-history"
+  - "get-secured-credit-card-deposit-back-itin"
 faqs:
   - q: "¿Puedo construir un puntaje de crédito en EE. UU. usando solo mi ITIN?"
     a: "Sí. Los tres principales burós de crédito (Equifax, Experian, TransUnion) usan tu ITIN como identificador de archivo de la misma manera en que usan un SSN. Una vez que el emisor de tu tarjeta reporta tu actividad de pagos con tu ITIN, tu historial crediticio se abre y se puede calcular un puntaje. El cálculo del puntaje es idéntico sin importar qué número identifica tu archivo."
@@ -65,7 +65,7 @@ Aquí tienes una comparación de las tarjetas que comúnmente usan los titulares
 | Petal 2 Visa | Ninguno (no asegurada) | Sí | $0 | Sí | Sin depósito, aprobación basada en ingresos |
 | Chase Freedom Rise | Ninguno (no asegurada) | Sí | $0 | Sí | Camino de actualización a Freedom Unlimited |
 
-Para más detalles sobre qué emisores aceptan un ITIN y cómo funcionan sus políticas, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards). Si estás comenzando sin historial en EE. UU. y quieres la opción más accesible, nuestra [guía de tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) explica los requisitos de depósito y las probabilidades de aprobación tarjeta por tarjeta.
+Para más detalles sobre qué emisores aceptan un ITIN y cómo funcionan sus políticas, consulta nuestra guía completa sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide). Si estás comenzando sin historial en EE. UU. y quieres la opción más accesible, nuestra [guía de tarjetas de crédito aseguradas con ITIN](/es/articles/secured-credit-card-with-itin) explica los requisitos de depósito y las probabilidades de aprobación tarjeta por tarjeta.
 
 ## ¿Qué hábitos con tarjetas realmente mueven mi puntaje de crédito más rápido?
 

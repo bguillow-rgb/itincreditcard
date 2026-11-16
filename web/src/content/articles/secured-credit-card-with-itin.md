@@ -11,13 +11,14 @@ relatedQueries:
   - "capital one secured card itin"
 quickAnswer: "Yes, you can get a secured credit card with an ITIN instead of an SSN. Several major issuers, including Capital One, Bank of America, Citi, and OpenSky, accept ITIN on secured card applications. You'll need a refundable deposit (usually $200-$500), a valid photo ID, and proof of a U.S. address."
 publishedAt: "2026-06-07"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-credit-card-complete-issuer-guide-2026"
   - "cash-back-credit-card-itin-holders"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
+  - "credit-card-f1-visa-holders-itin"
+  - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "discover-credit-card-itin"
 faqs:
   - q: "Can I get a secured credit card with only an ITIN and no SSN?"
     a: "Yes. Capital One, Bank of America, Citi, Wells Fargo, OpenSky, and several fintech issuers all accept an ITIN in place of an SSN for secured credit card applications. Your best odds come from starting at a bank where you already have a checking or savings account."
@@ -59,8 +60,9 @@ Not every "secured card" list online tells you which ones specifically allow an 
 | Citi Secured Mastercard | Citi | $200 | $0 | Yes | Yes |
 | Bank of America Customized Cash Secured | Bank of America | $300 | $0 | Yes | Yes |
 | OpenSky Secured Visa | Capital Bank | $200 | $35/yr | Yes | Yes |
-| Self Visa® Credit Card | Self | ~$100+ | $25/yr | Yes | Yes |
 | Wells Fargo Secured Card | Wells Fargo | $300 | $0 | Yes | Branch only |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 > **Always verify directly with the issuer before applying**, ITIN acceptance policies can change at the product level, and branch staff don't always follow the same process as online applications.
 
@@ -142,7 +144,6 @@ For most ITIN holders, though, the practical path is simpler: get a secured card
 A few options blur the line between "secured" and "credit-builder" products in ways that may work for ITIN holders who don't want to tie up $200+ in a deposit:
 
 - **Current Build Card**, Accepts ITIN, charges no annual fee, no minimum deposit required, and carries 0% APR. Your spending is funded from your linked Current account, and the activity is reported to all three bureaus. It functions more like a charge card than a traditional credit card, but the bureau reporting is real.
-- **Self Visa® Credit Card**, Pairs a savings-backed credit builder loan with a secured card. As you make monthly loan payments, those savings unlock your card's credit limit. Your effective "deposit" is the savings you're building. ITIN is accepted.
 - **Kikoff**, A credit-builder account with no hard credit check and no interest. It doesn't function like a traditional card but reports to the major bureaus, making it a low-risk first step for ITIN holders who aren't ready for even a small deposit.
 
 None of these options are identical to a traditional secured card, and some are more limited in where they can be used. But for ITIN holders who need to start building a file with minimal upfront cash, they're worth knowing about.

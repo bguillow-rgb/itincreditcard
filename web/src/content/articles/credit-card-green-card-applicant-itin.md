@@ -11,13 +11,14 @@ relatedQueries:
   - "credit card for immigrants with pending I-485 and ITIN"
 quickAnswer: "Yes. If you are waiting for a green card and hold an ITIN, you can apply for a credit card today. Capital One, OpenSky, and several credit unions accept ITINs without requiring a Social Security number. Getting a card now means your credit history is already growing by the time your green card is approved."
 publishedAt: "2026-11-06"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
-  - "best-starter-credit-cards-itin-zero-credit-history"
   - "credit-card-undocumented-immigrants-itin"
   - "virtual-credit-card-itin-holders"
+  - "credit-card-opt-visa-holder-itin"
+  - "first-credit-card-itin-no-us-credit-history"
 faqs:
   - q: "Can I get a credit card with an ITIN while my green card application is pending?"
     a: "Yes. Your ITIN is accepted by multiple major issuers including Capital One and OpenSky. You do not need to wait for your green card or SSN to apply."
@@ -58,7 +59,8 @@ An ITIN remains a valid identifying number under Customer Identification Program
 | OpenSky Secured Visa | Secured | $200 | $35 | None | Yes |
 | OpenSky Plus Secured Visa | Secured | $300 | $0 | None | Yes |
 | Bank of America Secured (in-branch) | Secured | $200 | $0 | Yes | Yes |
-| Self Visa Credit Card | Secured | $0 deposit req. | $25 (year 2+) | Soft | Yes |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Two OpenSky options are worth comparing directly. The standard OpenSky Secured Visa charges a $35 annual fee, carries a variable APR of about 23.89%, and requires a minimum $200 deposit. The OpenSky Plus Secured Visa drops the annual fee to $0 but runs a higher variable APR of about 28.24% and requires a $300 minimum deposit.
 

@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-utilization-itin-credit-card"
   - "build-credit-with-itin-credit-card"
   - "credit-card-green-card-applicant-itin"
-  - "how-itin-works-credit-card-application"
+  - "improve-credit-card-approval-odds-itin"
 faqs:
   - q: "¿Qué porcentaje de mi límite de crédito debo usar cada mes con mi tarjeta ITIN?"
     a: "Mantén tu saldo por debajo del 30% de tu límite de crédito al cierre del estado de cuenta. Por ejemplo, con un límite de $500, eso significa no cargar más de $150 antes de que cierre el período. Por debajo del 10% es aún mejor si quieres maximizar el impacto en tu puntaje."
@@ -97,7 +97,7 @@ Algunos titulares de ITIN se preocupan por si usar la tarjeta en el extranjero l
 
 Cuando llegue el momento, una segunda tarjeta añade lo que los modelos de puntaje llaman mezcla de crédito: varias cuentas que demuestran un uso responsable. Con uno o dos años de historial positivo, muchos inmigrantes alcanzan el rango "bueno" (670+), y en ese punto las opciones se abren considerablemente: mejores recompensas, tasas más bajas, aprobaciones de apartamento más fáciles. Si empezaste con una tarjeta asegurada y quieres pasar a un producto no asegurado, nuestro artículo sobre [cómo pasar de una tarjeta asegurada a una no asegurada con ITIN](/es/articles/upgrade-secured-to-unsecured-credit-card-itin) explica exactamente cuándo y cómo hacer ese cambio.
 
-Para una visión más amplia de qué tarjetas apuntar a medida que crece tu crédito, consulta nuestra [comparación de emisores de tarjetas de crédito con ITIN](/es/articles/itin-credit-card-issuer-comparison-2026) y el resumen de las [mejores tarjetas de crédito con ITIN](/es/best-itin-credit-cards).
+Para una visión más amplia de qué tarjetas apuntar a medida que crece tu crédito, consulta nuestra [comparación de emisores de tarjetas de crédito con ITIN](/es/articles/credit-cards-that-accept-itin-verified-issuer-list) y el resumen de las [mejores tarjetas de crédito con ITIN](/es/best-itin-credit-cards).
 
 ---
 

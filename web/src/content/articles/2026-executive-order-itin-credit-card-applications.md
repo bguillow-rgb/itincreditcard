@@ -11,13 +11,14 @@ relatedQueries:
   - "what happens to my ITIN credit card after new banking rules 2026"
 quickAnswer: "You can still apply for a credit card with an ITIN in 2026. Executive Order 14406 (signed May 19, 2026) instructs banks to treat ITIN use as a potential due-diligence trigger, not an automatic denial. Key regulatory guidance from Treasury is due July 18, 2026. Lawful-status ITIN holders face the least risk; strong documentation helps most."
 publishedAt: "2026-07-08"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "expired-itin-credit-card-what-happens"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "how-itin-works-credit-card-application"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
+  - "itin-credit-card-bank-by-bank-application-guide"
+  - "itin-instead-of-ssn-credit-card-application"
+  - "itin-to-ssn-credit-card-history-transfer"
 faqs:
   - q: "Does the 2026 executive order ban ITIN credit card applications?"
     a: "No. EO 14406 does not ban ITIN credit card applications. It instructs banks to flag ITIN use as a potential enhanced due-diligence trigger, particularly when the applicant lacks verified lawful immigration status. Issuers still decide individually whether to approve or deny applications."
@@ -93,8 +94,9 @@ Based on publicly available policies and what community advocates report, the cu
 | Bank of America (Customized Cash Secured) | Yes | Existing banking relationship improves odds significantly |
 | Citi (Secured Mastercard) | Yes | Stronger odds with existing Citi relationship |
 | OpenSky Secured Visa | Yes | No credit check; ITIN accepted; strong pick if lawful status uncertain |
-| Self Visa (Credit Builder) | Yes | No hard pull at application; good for thin-file applicants |
 | Credit unions / CDFIs | Varies | May implement new federal guidance more slowly than big banks |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Credit unions and community banks that serve immigrant communities may be slower to implement restrictive guidance, though advocates recommend monitoring their communications carefully.
 
@@ -144,4 +146,4 @@ If you have been considering applying for a new credit card with your ITIN and y
 
 After July 18, applications will still be legal and many will still be approved. But bank compliance workflows may take longer as teams integrate the new Treasury typologies into their review processes. Applying with strong documentation and an issuer that has historically been ITIN-friendly gives you the best approval odds regardless of timing.
 
-For a current, side-by-side look at which issuers accept ITIN applications and what each card's terms look like, visit our [2026 ITIN credit card issuer comparison](/articles/itin-credit-card-issuer-comparison-2026).
+For a current, side-by-side look at which issuers accept ITIN applications and what each card's terms look like, visit our [2026 ITIN credit card issuer comparison](/articles/credit-cards-that-accept-itin-verified-issuer-list).

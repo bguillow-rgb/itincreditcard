@@ -11,13 +11,14 @@ relatedQueries:
   - "ITIN credit card online vs in-branch application"
 quickAnswer: "At least seven of the top 10 U.S. credit card issuers accept an ITIN, including Bank of America, Capital One, Chase, American Express, Citibank, and Wells Fargo. Discover and USAA do not. You will need your ITIN letter, a valid passport, proof of U.S. address, and proof of income. Many large banks require an in-branch visit; online fintech lenders and some issuers accept ITIN fully online."
 publishedAt: "2026-07-20"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "itin-credit-card-issuer-verified-application-guide-2026"
+  - "credit-card-itin-apply-online-vs-in-branch"
+  - "credit-card-opt-visa-holder-itin"
+  - "credit-cards-that-accept-itin-verified-issuer-list"
+  - "add-authorized-user-itin-credit-card"
 faqs:
   - q: "Which banks accept an ITIN instead of an SSN for a credit card?"
     a: "Bank of America, Capital One, Chase, American Express, Citibank, and Wells Fargo all accept an ITIN for credit card applications. U.S. Bank accepts ITINs for secured cards only. Discover and USAA require an SSN."
@@ -26,9 +27,9 @@ faqs:
   - q: "What documents do I need to apply for a credit card with an ITIN?"
     a: "You typically need: your IRS ITIN confirmation letter, a valid government-issued photo ID (passport is ideal), proof of U.S. address (utility bill or lease), and proof of income (pay stubs or tax returns)."
   - q: "Do credit unions accept ITIN for credit card applications?"
-    a: "Yes. Many credit unions accept ITINs, and they often have more flexible requirements than large banks. Self-Help Credit Union, Latino Credit Union, Bay Federal Credit Union, and La Capitol FCU are among those that serve ITIN holders. Membership eligibility rules vary by institution."
+    a: "Yes. Many credit unions accept ITINs, and they often have more flexible requirements than large banks. Latino Community Credit Union and Bay Federal Credit Union are among those that serve ITIN holders. Membership rules and card access vary by institution, so confirm the specific card before you apply."
   - q: "What is the easiest credit card to get with an ITIN and no U.S. credit history?"
-    a: "OpenSky Secured Visa is among the easiest because it requires no credit check, accepts ITIN, and has a $200-$3,000 deposit range. Capital One Platinum Secured (minimum $49-$200 deposit) and the Self Visa are also strong no-history options."
+    a: "OpenSky Secured Visa is among the easiest because it requires no credit check, accepts ITIN, and has a $200-$3,000 deposit range. Capital One Platinum Secured (minimum $49-$200 deposit) is another strong no-history option."
   - q: "Does Chase accept ITIN for credit card applications?"
     a: "Yes. Chase accepts ITIN on credit card applications including the Chase Freedom Rise, which is its entry-level card designed for limited credit history. Chase may also require a Chase checking or savings account with at least $250 to improve approval odds."
   - q: "Does Discover accept an ITIN for credit card applications?"
@@ -39,12 +40,20 @@ faqs:
     a: "Yes. All American Express cards accept an ITIN in place of an SSN. You can apply online or by phone. Amex also offers a Global Transfer program if you already have a non-U.S. Amex card, which can make approval easier even without a U.S. credit history."
   - q: "How long does it take to get approved for a credit card with an ITIN?"
     a: "Online applications with issuers like Capital One or American Express can result in near-instant decisions. In-branch applications at banks like Bank of America or Citibank may take several days. Some applications require additional document review, which can extend the timeline."
+  - q: "If a bank accepts ITINs, does every card it offers accept my ITIN?"
+    a: "No. ITIN acceptance is card by card, not bank-wide. U.S. Bank, for example, accepts an ITIN only on its secured card. Confirm with the issuer that the specific card you want accepts an ITIN before you submit a full application and take a hard inquiry."
+  - q: "Will applying for a credit card with an ITIN affect my immigration status?"
+    a: "Card issuers report your application and account activity to the credit bureaus, not to immigration authorities. Issuers use your ITIN to verify your identity and look up your credit file. If you have a specific immigration concern, ask an immigration attorney."
+  - q: "Can I apply for a credit card if my ITIN has expired?"
+    a: "Expect the application to be declined or held for review. Renew your ITIN with IRS Form W-7 first. IRS processing takes several weeks and runs longer during tax season, so plan ahead."
+  - q: "What is a Juntos Avanzamos credit union?"
+    a: "Juntos Avanzamos is a designation from Inclusiv, a network of community development credit unions, for credit unions committed to serving Hispanic and immigrant members. Many of them accept an ITIN and IDs such as the Matricula Consular, but card policies still vary, so ask the credit union directly."
 published: true
 ---
 
 This is the most comprehensive, issuer-verified reference on the web for ITIN holders navigating U.S. credit card applications in 2026. Every institution listed below was individually researched for its current ITIN policy, application channel, required documents, and product availability.
 
-**How we compiled this:** We cross-referenced each issuer's official application pages, recent third-party reviews (WalletHub, Forbes Advisor, NerdWallet), and community-sourced data to verify which banks and credit unions explicitly accept an ITIN in 2026. **Last verified: July 20, 2026.**
+**How we compiled this:** We cross-referenced each issuer's official application pages, recent third-party reviews (WalletHub, Forbes Advisor, NerdWallet), and community-sourced data to verify which banks and credit unions explicitly accept an ITIN in 2026. **Last verified: July 20, 2026.** **Updated November 16, 2026:** we merged our overlapping bank and credit union guides into this page and corrected the Self, Wells Fargo and credit union entries.
 
 ---
 
@@ -59,7 +68,7 @@ Of the top 10 credit card issuers in the U.S., seven accept an ITIN, including B
 | Capital One | Yes | Yes | Yes | Quicksilver Secured |
 | Chase | Yes | Yes | Yes | Freedom Rise |
 | Citibank | Yes | Partial | Yes (preferred) | Citi Secured Mastercard |
-| Wells Fargo | Yes, all cards | Yes | Yes | Active Cash / Autograph |
+| Wells Fargo | Reported (no secured card) | Yes | Yes | Active Cash / Autograph |
 | U.S. Bank | Yes (secured only) | Yes | Yes | Cash+ Secured Visa |
 | OpenSky | Yes | Yes | No | OpenSky Secured Visa |
 | Discover | **No** | N/A | N/A | SSN required |
@@ -125,11 +134,13 @@ Like Bank of America, Citibank works best when you already have an account there
 
 ### Wells Fargo
 
-Wells Fargo accepts an ITIN in place of an SSN for all of its credit cards, a broader policy than most banks, which typically limit ITIN acceptance to secured products only. The Wells Fargo Secured Credit Card reports to all three credit bureaus and has a pathway to upgrade to an unsecured card after responsible use.
+Wells Fargo is reported to accept an ITIN in place of an SSN on its credit card applications, but it no longer offers a secured card to new applicants. That makes it a realistic route only once you have some U.S. credit history. Our [Wells Fargo with an ITIN guide](/articles/wells-fargo-credit-card-itin) has the details.
 
 ### U.S. Bank
 
-U.S. Bank accepts an ITIN as a replacement for SSN identification, but only for secured cards. Their Cash+ Secured Visa is worth considering if you have an existing U.S. Bank relationship and want a card with category-based rewards.
+U.S. Bank accepts an ITIN as a replacement for SSN identification, but only for secured cards. Their Cash+ Secured Visa is worth considering if you have an existing U.S. Bank relationship and want a card with category-based rewards. One limit to plan around: an ITIN-only cardholder cannot graduate the secured card to an unsecured one, because U.S. Bank requires an SSN for that step.
+
+U.S. Bank is a good example of a wider rule: ITIN acceptance is card by card, not bank-wide. A bank that takes your ITIN for one product may still require an SSN for another, so confirm the exact card before you submit a full application.
 
 ---
 
@@ -148,9 +159,8 @@ The honest answer is that your options depend on the issuer and sometimes your c
 | American Express (all cards) | Yes | No | $0 (unsecured) | Varies |
 | Citi Secured Mastercard | Partial (may need branch) | No | $200 | $0 |
 | Bank of America Secured | Partial (often branch required) | No | $200-$300 | $0 |
-| Self Visa Secured | Yes | No | $100 | $0 yr 1, $25/yr after |
-| Latino Credit Union Visa | Branch only (NC members) | No | Varies | $0 |
-| Self-Help CU Secured | Branch only | No | Varies | $0 |
+| Latino Community CU Visa | Yes (online application; NC membership) | No | Varies | $0 |
+| Self-Help CU Secured [unverified] | Varies | No | Varies | $0 |
 
 For a deeper look at online vs. in-branch application rules and tips for navigating rigid online forms, see our guide on [applying for a credit card with an ITIN online vs. in-branch](/articles/credit-card-itin-apply-online-vs-in-branch).
 
@@ -162,22 +172,24 @@ For a deeper look at online vs. in-branch application rules and tips for navigat
 
 Many local credit unions and community development financial institutions (CDFIs) accept ITIN for credit cards and loans, and they often have more flexible requirements than big banks. The key difference is the relationship model: credit unions evaluate your full financial picture rather than relying solely on automated underwriting.
 
-Here is a verified list of credit unions confirmed to accept ITINs for membership and credit card access:
+Here is what we found. Rows marked [unverified] are not confirmed on the credit union's own pages, so call before you visit:
 
 | Credit Union | Geography | ITIN Card Access | Notable Feature |
 |---|---|---|---|
-| Latino Credit Union (LCCU) | NC (branches) | Yes, after membership | IRS-authorized ITIN Acceptance Agent on site |
-| Self-Help Credit Union | NC, SC | Yes (secured card) | Community-focused, in-branch application |
-| Self-Help Federal CU | CA, IL | Yes (secured card) | Same organization, West Coast branches |
+| Latino Community Credit Union (LCCU) | NC | Yes, after membership (online application) | IRS-authorized ITIN Acceptance Agent on site |
+| Self-Help Credit Union | NC, SC | [unverified] | Community-focused |
+| Self-Help Federal CU | CA, IL | [unverified] | Separate federal charter from Self-Help Credit Union |
 | Bay Federal Credit Union | Santa Cruz, CA | Yes (full product suite) | Spanish-speaking staff, broad ITIN services |
-| La Capitol FCU | Louisiana | Yes | Accepts ITIN holders and non-residents |
+| La Capitol FCU | Louisiana | [unverified] | Confirm ITIN card access directly |
 | Resource One CU (R1CU) | Dallas-area TX | Yes | ITIN accepted as primary ID for all products |
 
 Latino Credit Union is an IRS-authorized ITIN Certified Acceptance Agent and can help you submit an application for a new ITIN or renew an existing one. This is unusually convenient: you can get your ITIN and your credit card from the same institution.
 
 Bay Federal Credit Union welcomes members with an ITIN, offering the same financial services and support it provides to all members.
 
-Your experience may vary across institutions. La Capitol FCU appears the most lenient, accepting ITIN holders and non-residents. Wings Financial will accept ITINs but only for permanent residents with a valid Green Card. First Tech FCU only accepts applications with a valid SSN.
+Your experience may vary across institutions. Wings Financial will accept ITINs but only for permanent residents with a valid Green Card. First Tech FCU only accepts applications with a valid SSN.
+
+If you are not sure where to start, look for a credit union with the Juntos Avanzamos designation. Inclusiv, a network of community development credit unions, gives it to credit unions committed to serving Hispanic and immigrant members. Many of them accept an ITIN and alternative IDs such as the Matricula Consular, and bilingual staff are common. The designation is not a promise about any specific card, though, so ask about the card itself.
 
 The practical takeaway: call the specific branch before visiting. ITIN policies at credit unions can vary by branch staff knowledge and local membership rules.
 
@@ -210,7 +222,7 @@ This depends on whether you want to apply online or in person, and whether you c
 
 **Best unsecured card with limited history:** Chase Freedom Rise. It earns 1.5% cash back on all purchases and has no annual fee. It does not require a deposit, but it does require some credit footprint or a Chase banking relationship to improve approval odds.
 
-**Best fintech option:** The Self Visa Secured Card accepts an ITIN fully online. The card has no annual fee for the first year, then $25 per year, plus a 27.49% variable APR. Self has high approval rates and remains a consistent option for thin-file applicants.
+**Correction (November 16, 2026):** an earlier version of this guide listed the Self Visa Credit Card as an ITIN option. That was wrong. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 For a full side-by-side of secured card deposits and upgrade timelines, see our guide to [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
 
@@ -278,7 +290,7 @@ If you are just starting out and have no U.S. credit file at all, the inquiry ma
 
 **Which banks accept an ITIN instead of an SSN for a credit card?**
 
-Chase, Bank of America, American Express, Capital One, Citi, and Wells Fargo all accept ITINs for credit card applications. Wells Fargo accepts an ITIN for all of its credit cards. U.S. Bank accepts ITIN for secured cards only.
+Chase, Bank of America, American Express, Capital One, Citi, and Wells Fargo all accept ITINs for credit card applications. Wells Fargo no longer offers a secured card to new applicants. U.S. Bank accepts ITIN for secured cards only.
 
 **Can I apply for a credit card with an ITIN online, or do I have to go to a branch?**
 
@@ -290,7 +302,7 @@ Your IRS ITIN confirmation letter, a valid passport or government photo ID, proo
 
 **Do credit unions accept ITIN for credit card applications?**
 
-Many credit unions are welcoming to ITIN holders, and some even help you apply for an ITIN as part of their services. Latino Credit Union, Self-Help Credit Union, Bay Federal Credit Union, and La Capitol FCU are confirmed examples.
+Many credit unions are welcoming to ITIN holders, and some even help you apply for an ITIN as part of their services. Latino Community Credit Union and Bay Federal Credit Union are examples. Confirm card access with the specific credit union before you apply.
 
 **What is the easiest credit card to get with an ITIN and no U.S. credit history?**
 

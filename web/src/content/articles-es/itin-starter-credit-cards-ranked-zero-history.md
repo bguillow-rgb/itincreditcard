@@ -1,6 +1,6 @@
 ---
 title: "Tarjetas de crédito iniciales con ITIN: desde cero (2026)"
-description: "¿Tienes ITIN y ningún historial crediticio en EE. UU.? Estas 7 tarjetas iniciales verificadas se clasifican por facilidad de aprobación, depósito, comisiones y velocidad de graduación. Comparadas y ordenadas para 2026."
+description: "¿Tienes ITIN y ningún historial crediticio en EE. UU.? Estas 6 tarjetas iniciales verificadas se clasifican por facilidad de aprobación, depósito, comisiones y velocidad de graduación. Comparadas y ordenadas para 2026."
 tier: flagship
 targetQuery: "mejores tarjetas de crédito iniciales para construir crédito con ITIN desde cero"
 relatedQueries:
@@ -9,15 +9,16 @@ relatedQueries:
   - "tarjeta de crédito asegurada con ITIN sin SSN 2026"
   - "cómo construir crédito rápido con tarjeta ITIN desde cero"
   - "qué tarjeta asegurada es mejor para titulares de ITIN sin historial"
-quickAnswer: "Los titulares de ITIN que parten desde cero historial crediticio en EE. UU. tienen siete opciones de tarjeta verificadas en 2026. La Capital One Platinum Secured (depósito desde $49, sin cuota anual) y la OpenSky Plus Secured (sin revisión de crédito, sin cuota anual) son los dos puntos de entrada más fáciles. Con pagos puntuales y constantes, obtendrás tu primer puntaje FICO en 6 meses."
+quickAnswer: "Los titulares de ITIN que parten desde cero historial crediticio en EE. UU. tienen seis opciones de tarjeta verificadas en 2026. La Capital One Platinum Secured (depósito desde $49, sin cuota anual) y la OpenSky Plus Secured (sin revisión de crédito, sin cuota anual) son los dos puntos de entrada más fáciles. Con pagos puntuales y constantes, obtendrás tu primer puntaje FICO en 6 meses."
 publishedAt: "2026-08-24"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "itin-credit-cards-ranked-zero-credit-history-2026"
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
-  - "best-starter-credit-cards-itin-zero-credit-history"
   - "credit-card-j1-visa-itin"
+  - "credit-card-opt-visa-holder-itin"
+  - "build-credit-with-itin-credit-card"
+  - "credit-card-f1-visa-holders-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con ITIN y sin ningún historial crediticio en EE. UU.?"
     a: "Sí. Varios emisores, entre ellos Capital One, OpenSky, Citi y Zolve, aceptan ITIN y aprueban solicitantes sin historial crediticio en EE. UU. Las tarjetas aseguradas son el punto de entrada más fácil, porque tu depósito reembolsable elimina la mayor parte del riesgo para el emisor."
@@ -39,6 +40,14 @@ faqs:
     a: "Las mejores sí lo hacen. Capital One Platinum Secured, OpenSky, Citi Secured, Firstcard y Zolve reportan a Experian, Equifax y TransUnion. Siempre confirma que la tarjeta reporte a los tres burós antes de solicitar, ya que algunas tarjetas fintech solo reportan a uno o dos."
   - q: "¿Qué documentos necesito para solicitar una tarjeta de crédito inicial con ITIN?"
     a: "Por lo general necesitas tu número de ITIN (de tu carta del IRS), un pasaporte extranjero o identificación oficial, una dirección postal en EE. UU. y una cuenta bancaria o tarjeta de débito en EE. UU. para financiar el depósito de seguridad. Algunos emisores también requieren un número de teléfono móvil válido de EE. UU."
+  - q: "¿Cuándo me devuelven el depósito de mi tarjeta asegurada?"
+    a: "El depósito se devuelve cuando la cuenta se gradúa a una tarjeta no asegurada o cuando la cierras en buen estado y con saldo cero. Capital One dice que podrías ser considerado para la graduación en tan solo seis meses, pero ningún emisor garantiza una fecha: depende de cómo uses la tarjeta."
+  - q: "¿Debo solicitar varias tarjetas iniciales con ITIN a la vez para construir crédito más rápido?"
+    a: "No. Cada solicitud completa suele generar una consulta dura, y en un expediente delgado eso se acumula. La CFPB aconseja solicitar solo el crédito que realmente necesitas. Abre una tarjeta, úsala bien durante seis meses y luego considera una segunda, dejando de tres a seis meses entre solicitudes."
+  - q: "¿Qué pasa con mi historial de tarjeta de crédito con ITIN si después obtengo un SSN?"
+    a: "No desaparece. Puedes pedir a cada uno de los tres burós que combine tu expediente vinculado al ITIN con tu nuevo expediente de SSN, y las cuentas conservan su antigüedad e historial de pagos. Llama también a cada emisor de tarjeta para que actualice el número en tu cuenta."
+  - q: "¿Puedo usar mi historial crediticio del extranjero en lugar de empezar desde cero?"
+    a: "A veces, pero solo con pocos emisores y para un número limitado de países. American Express es el emisor que con más frecuencia se reporta que considera el historial crediticio internacional de quienes recién llegan. Para la mayoría de los titulares de ITIN, una tarjeta asegurada en EE. UU. sigue siendo el camino más confiable."
 published: true
 ---
 
@@ -50,7 +59,7 @@ Cómo compilamos esta información: cruzamos las páginas de productos de los em
 
 ---
 
-## De un vistazo: las 7 mejores tarjetas iniciales con ITIN, clasificadas
+## De un vistazo: las 6 mejores tarjetas iniciales con ITIN, clasificadas
 
 La siguiente tabla clasifica cada tarjeta según los factores que más importan cuando no tienes ningún historial crediticio en EE. UU.: qué tan fácil es obtener la aprobación, cuánto efectivo necesitas por adelantado, cuánto cuesta mantenerla y qué tan rápido puedes graduarte a un producto no asegurado.
 
@@ -62,7 +71,6 @@ La siguiente tabla clasifica cada tarjeta según los factores que más importan 
 | 4 | Citi Secured Mastercard | Sí | $200 | $0 | No | ~18 meses | Los 3 |
 | 5 | Zolve Credit Card | Sí | $0 | $0 | No | Varía | Los 3 |
 | 6 | Firstcard Secured Credit Builder | Sí | $0 mín. | $0 | No | Varía | Los 3 |
-| 7 | Self Visa Credit Card | Sí | $100 | $0 año 1 / $25 después | No | Varía | Los 3 |
 
 Nuestra postura editorial: la Capital One Platinum Secured es la mejor primera opción integral para la mayoría de los titulares de ITIN. Tiene el depósito más bajo posible, sin cuota anual, una herramienta de preaprobación con consulta suave y una revisión automática a los 6 meses para un aumento de límite. Si no puedes pasar la evaluación de Capital One (que sí hace una revisión de crédito), la OpenSky Plus Secured es la mejor alternativa: sin revisión de crédito, sin cuota anual, completamente en línea.
 
@@ -141,7 +149,6 @@ Más allá de las dos primeras, varias otras tarjetas merecen consideración ser
 | Citi Secured Mastercard | $0 | $200-$2,500 | ~26.74% | A solicitud a los 18 meses | Parcial |
 | Zolve Credit Card | $0 | $0 | Varía | Varía | Sí |
 | Firstcard Secured Builder | $0 | $0 mín. | 0% (sin crédito rotativo) | Varía | Sí |
-| Self Visa Credit Card | $0 año 1 / $25 | $100+ | ~27.49% | Varía | Sí |
 
 ### #3 OpenSky Secured Visa (con comisión, depósito más bajo)
 
@@ -167,11 +174,7 @@ El límite máximo es de $15,000, aunque no todos los solicitantes calificarán.
 
 No requiere SSN para solicitar, reporta a los tres burós de crédito, no requiere historial crediticio y está disponible para titulares de ITIN. Firstcard fue creada específicamente para personas que están comenzando su recorrido crediticio en EE. UU. A diferencia de la mayoría de las tarjetas que rechazan solicitantes sin SSN, Firstcard da la bienvenida a inmigrantes y estudiantes internacionales desde el primer día. Reporta a los tres burós, por lo que tus pagos a tiempo realmente cuentan para construir tu puntaje.
 
-### #7 Self Visa Credit Card
-
-La Self Visa Credit Card te da dos formas de acceso. A partir de enero de 2025, puedes financiar un depósito de seguridad mínimo de $100 directamente con una tarjeta de débito o cuenta bancaria y obtener la tarjeta de inmediato, sin préstamo requerido y sin consulta dura al crédito. Si prefieres el camino tradicional, puedes abrir primero una Self Credit Builder Account, hacer al menos tres pagos a tiempo del préstamo y alcanzar $100 o más en progreso de ahorros, y luego usar ese saldo para asegurar la Visa.
-
-La ruta del préstamo primero agrega un registro de préstamo a plazos junto a la tarjeta, lo que construye tu combinación de crédito más rápido que un enfoque solo con tarjeta. La Self Visa tiene una cuota anual de $25 y acepta solicitantes con ITIN que ya tienen una Self Credit Builder Account. Reporta a los tres burós y es mejor para los solicitantes con ITIN que quieren tanto un préstamo a plazos como una tarjeta de crédito rotativa en un solo lugar.
+**Corrección (16 de noviembre de 2026):** una versión anterior de esta guía incluía la Self Visa Credit Card como opción con ITIN. Era un error. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 ---
 
@@ -221,13 +224,39 @@ Los comportamientos que impulsan el crecimiento del puntaje son constantes sin i
 
 ---
 
+## ¿Cómo sé si mi tarjeta realmente está construyendo mi crédito?
+
+*Los lectores preguntan con frecuencia:*
+
+Dos verificaciones te dicen si tus pagos están quedando registrados en un expediente crediticio real.
+
+Primero, confirma que la cuenta aparezca en los burós después de tus dos primeros estados de cuenta. Puedes solicitar tu reporte directamente a Equifax, Experian y TransUnion. Si la tarjeta aparece, ya existe un expediente con tu ITIN y cada pago a tiempo está contando.
+
+Segundo, busca un puntaje FICO alrededor del sexto mes, ya que FICO necesita al menos seis meses de historial reportado para calcularlo. Si para entonces no aparece nada, las causas habituales son una cuenta que no se está reportando, una tarjeta que reporta a un solo buró o un ITIN en la cuenta que no coincide con tu carta del IRS. Llama al emisor y confirma el número registrado dígito por dígito. Un solo dígito invertido puede crear un expediente dividido, donde tus pagos construyen historial en un registro que ningún prestamista puede encontrar.
+
+---
+
+## ¿Qué errores del primer año frenan a los titulares de ITIN?
+
+Los mismos errores aparecen una y otra vez en los primeros 12 meses.
+
+**Depositar el mínimo cuando puedes permitirte más.** En la mayoría de los emisores tu límite es igual a tu depósito. Con un límite de $200, una compra de supermercado de $60 ya te pone en 30% de uso. Si puedes apartar $300-$500, el límite más alto te da espacio para gastar sin afectar tu puntaje. Nuestra guía sobre el [uso del crédito en una tarjeta con ITIN](/es/articles/credit-utilization-itin-credit-card) explica las marcas de 10% y 30%.
+
+**Atrasarte en un solo pago.** El historial de pagos es el 35% de un puntaje FICO, y un pago atrasado al principio puede deshacer meses de progreso. Activa el pago automático de al menos el mínimo desde el primer día y luego paga tú mismo el saldo completo del estado de cuenta.
+
+**Saltarte la precalificación.** Cuando un emisor ofrece una herramienta de preaprobación con consulta suave, úsala antes de enviar la solicitud completa con consulta dura.
+
+**Cerrar la tarjeta asegurada después de graduarte.** La antigüedad de tu cuenta más vieja sigue ayudando a tu puntaje, así que mantén abierta esa primera tarjeta, sobre todo si no tiene cuota anual.
+
+---
+
 ## ¿Puedo usar dos tarjetas a la vez para construir crédito más rápido?
 
 *Los lectores preguntan con frecuencia:*
 
 Sí, y para algunos titulares de ITIN es una decisión inteligente, pero el momento importa. La estrategia que funciona es abrir primero una tarjeta, hacer 6 meses de pagos a tiempo para generar tu primer puntaje FICO y luego agregar una segunda tarjeta.
 
-Administrar tarjetas de crédito y cuentas de préstamo a plazos al mismo tiempo acelera el proceso. Los usuarios que solo tienen tarjetas de crédito progresan más lentamente que quienes manejan varios tipos de cuenta. Por eso la combinación de préstamo más tarjeta de Self es genuinamente útil: agrega un registro de préstamo a plazos junto a una tarjeta rotativa desde el primer día.
+Administrar tarjetas de crédito y cuentas de préstamo a plazos al mismo tiempo acelera el proceso. Los usuarios que solo tienen tarjetas de crédito progresan más lentamente que quienes manejan varios tipos de cuenta.
 
 Si vas por la ruta de una sola tarjeta primero, aquí tienes una secuencia común que los titulares de ITIN usan con éxito:
 
@@ -267,7 +296,7 @@ Para un desglose completo de por qué se niegan las solicitudes con ITIN y qué 
 | Acepta ITIN | Sí | Sí |
 | Mejor para | Quienes tienen algo de efectivo para inmovilizar | Quienes necesitan cero costo inicial |
 
-Los productos sin depósito son genuinamente útiles para los titulares de ITIN que no pueden inmovilizar $200-$300 inmediatamente después de llegar a EE. UU. La contrapartida es que no siempre enseñan el comportamiento de crédito rotativo (tomar prestada una cantidad fija y pagarla) que practican las tarjetas aseguradas tradicionales. Muchos usuarios pasan a la Self Visa una vez que tienen seis meses de historial registrado.
+Los productos sin depósito son genuinamente útiles para los titulares de ITIN que no pueden inmovilizar $200-$300 inmediatamente después de llegar a EE. UU. La contrapartida es que no siempre enseñan el comportamiento de crédito rotativo (tomar prestada una cantidad fija y pagarla) que practican las tarjetas aseguradas tradicionales.
 
 Nuestra comparación de [tarjetas prepagadas vs. tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/prepaid-card-vs-secured-credit-card-itin) profundiza en esta distinción si no estás seguro de qué camino se adapta a tu situación.
 
@@ -304,3 +333,15 @@ Las mejores sí lo hacen. Capital One Platinum Secured, OpenSky, Citi Secured, F
 
 ¿Qué documentos necesito para solicitar una tarjeta de crédito inicial con ITIN?
 Necesitas un ITIN válido, un pasaporte extranjero, una dirección postal en EE. UU. y una cuenta bancaria en EE. UU. para financiar cualquier depósito de seguridad. La mayoría de los emisores también requieren un número de celular real de EE. UU. para la verificación de identidad. Los números VoIP de servicios como Google Voice generalmente fallarán en este paso.
+
+¿Cuándo me devuelven el depósito de mi tarjeta asegurada?
+El depósito se devuelve cuando la cuenta se gradúa a una tarjeta no asegurada o cuando la cierras en buen estado y con saldo cero. Capital One dice que podrías ser considerado para la graduación en tan solo seis meses, pero ningún emisor garantiza una fecha: depende de cómo uses la tarjeta.
+
+¿Debo solicitar varias tarjetas iniciales con ITIN a la vez para construir crédito más rápido?
+No. Cada solicitud completa suele generar una consulta dura, y en un expediente delgado eso se acumula. La CFPB aconseja solicitar solo el crédito que realmente necesitas. Abre una tarjeta, úsala bien durante seis meses y luego considera una segunda, dejando de tres a seis meses entre solicitudes.
+
+¿Qué pasa con mi historial de tarjeta de crédito con ITIN si después obtengo un SSN?
+No desaparece. Puedes pedir a cada uno de los tres burós que combine tu expediente vinculado al ITIN con tu nuevo expediente de SSN, y las cuentas conservan su antigüedad e historial de pagos. Llama también a cada emisor de tarjeta para que actualice el número en tu cuenta. Nuestra guía para [trasladar tu historial de tarjeta de crédito de un ITIN a un SSN](/es/articles/itin-to-ssn-credit-card-history-transfer) explica cada paso.
+
+¿Puedo usar mi historial crediticio del extranjero en lugar de empezar desde cero?
+A veces, pero solo con pocos emisores y para un número limitado de países. American Express es el emisor que con más frecuencia se reporta que considera el historial crediticio internacional de quienes recién llegan. Para la mayoría de los titulares de ITIN, una tarjeta asegurada en EE. UU. sigue siendo el camino más confiable. Consulta nuestra guía sobre [cómo usar tu historial crediticio del extranjero con ITIN](/es/articles/foreign-credit-history-credit-card-itin).

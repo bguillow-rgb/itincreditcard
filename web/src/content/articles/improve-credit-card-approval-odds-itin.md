@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "credit-card-f1-visa-holders-itin"
   - "discover-credit-card-itin"
+  - "expired-itin-credit-card-what-happens"
 faqs:
   - q: "Does having an ITIN instead of an SSN automatically hurt my approval odds?"
     a: "No. An ITIN does not lower your approval odds at issuers that explicitly accept it. The deciding factors are your income, credit history (if any), and the specific card you apply for. Applying at an ITIN-friendly issuer puts you on equal footing with SSN applicants for the same card."
@@ -44,7 +44,7 @@ Once a credit account is opened using your ITIN, it reports to the credit bureau
 
 This is the single highest-leverage step. Applying to an issuer that does not accept ITINs guarantees a denial, regardless of your income or credit history.
 
-Bank of America, Capital One, Citibank, Wells Fargo, and many credit unions accept ITIN in place of an SSN for credit card applications. Beyond the big banks, several fintech issuers built specifically for immigrants accept ITINs or even alternative documents entirely. Our full breakdown is in the [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) guide, but the short version is: confirm the issuer's ITIN policy before you apply, because published policies and branch-level execution are not always identical. Call the issuer's customer service line directly to confirm their current ITIN policy before applying.
+Bank of America, Capital One, Citibank, Wells Fargo, and many credit unions accept ITIN in place of an SSN for credit card applications. Beyond the big banks, several fintech issuers built specifically for immigrants accept ITINs or even alternative documents entirely. Our full breakdown is in the [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) guide, but the short version is: confirm the issuer's ITIN policy before you apply, because published policies and branch-level execution are not always identical. Call the issuer's customer service line directly to confirm their current ITIN policy before applying.
 
 One important nuance: policies for accepting ITINs differ, and some credit card issuers may accept ITINs only for some of their cards. Capital One accepts ITINs for the Platinum Secured and Quicksilver Secured cards, but that does not mean every Capital One product is automatically available to you.
 

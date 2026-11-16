@@ -11,13 +11,14 @@ relatedQueries:
   - "which banks accept ITIN for credit card OPT visa"
 quickAnswer: "Yes, OPT visa holders can get a U.S. credit card using an ITIN before receiving an SSN. Several issuers, including Capital One, Discover, and OpenSky, accept an ITIN from EAD holders. Secured cards are the most accessible starting point and report to all three bureaus to build your credit file."
 publishedAt: "2026-09-09"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "credit-card-h1b-visa-itin"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
   - "credit-cards-that-accept-itin-verified-issuer-list"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
+  - "credit-card-f1-visa-holders-itin"
+  - "credit-card-j1-visa-itin"
 faqs:
   - q: "Can I apply for a credit card while on OPT if I only have an ITIN, not an SSN?"
     a: "Yes. Several issuers, including Capital One and Discover, accept an ITIN in place of an SSN. Your EAD and ITIN together are enough to start a U.S. credit file. Once you receive an SSN, you can update your account and unlock more card options."
@@ -71,7 +72,8 @@ The table below covers the cards with the strongest track record for ITIN-holdin
 | Capital One Platinum Secured | Secured | Yes | Yes (soft pre-qual) | $0 | Yes |
 | Discover it Secured | Secured | Yes | Yes | $0 | Yes |
 | Citi Secured Mastercard | Secured | Yes | Yes | $0 | Yes |
-| Self Visa Credit Card | Secured (builder) | Yes | Soft only | $25 | Yes |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 The OpenSky Secured Credit Card openly approves applicants without an SSN, accepts an ITIN, and runs no credit check during the application. That makes it accessible when your U.S. credit history is thin or nonexistent.
 

@@ -11,13 +11,14 @@ relatedQueries:
   - "tarjeta de crédito con ITIN sin depósito de seguridad"
 quickAnswer: "Los titulares de ITIN pueden calificar para tarjetas de crédito no aseguradas, es decir, sin depósito de garantía, con emisores como Capital One, Petal y Zolve. La mayoría comienza con una tarjeta asegurada, genera 6 a 12 meses de pagos puntuales y luego hace la transición. Algunas tarjetas fintech eliminan el requisito de depósito desde el primer día."
 publishedAt: "2026-06-09"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
-  - "best-starter-credit-cards-itin-zero-credit-history"
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "capital-one-credit-card-itin"
   - "cash-back-credit-card-itin-holders"
+  - "itin-starter-credit-cards-ranked-zero-history"
+  - "store-credit-card-with-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito no asegurada con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, aunque las opciones son limitadas si estás empezando desde cero. Tarjetas como la Zolve Classic y la Current Build Card usan métodos alternativos de evaluación, como verificación de ingresos o historial de cuenta bancaria, en lugar de un puntaje crediticio tradicional, por lo que no se necesita historial previo en EE. UU."
@@ -103,7 +104,9 @@ Con la Quicksilver Secured de Capital One, puedes recuperar tu depósito eventua
 
 - **Mantén el uso de crédito por debajo del 30%.** Tu historial de pagos representa el 35% de tu puntaje crediticio. Aquí es donde generas el mayor impacto en poco tiempo. Pero el uso del crédito, cuánto de tu límite usas, es muy importante también. Si tu límite es $300, mantén tu saldo por debajo de $90.
 - **No cierres tu tarjeta asegurada inmediatamente después de graduarte.** La antigüedad de tu historial crediticio importa. Mantén abierta tu primera tarjeta aunque califiques para mejores opciones.
-- **Agrega un préstamo de construcción de crédito alrededor del mes 6.** Una vez que hayas tenido una tarjeta asegurada por 6 a 12 meses, solicita un préstamo de construcción de crédito. Self y Ava ofrecen excelentes préstamos de este tipo para titulares de ITIN. Están diseñados específicamente para construir crédito y ayudan a diversificar tu perfil crediticio. La variedad de crédito cuenta en el puntaje FICO, y agregar una cuenta de cuotas acelera tu progreso.
+- **Agrega un préstamo de construcción de crédito alrededor del mes 6.** Una vez que hayas tenido una tarjeta asegurada por 6 a 12 meses, solicita un préstamo de construcción de crédito. Antes de solicitar, pregunta a tu banco o cooperativa de crédito si su préstamo de este tipo acepta un ITIN; la Credit Builder Account de Self no es una opción aquí, porque Self exige un número de Seguro Social. Están diseñados específicamente para construir crédito y ayudan a diversificar tu perfil crediticio. La variedad de crédito cuenta en el puntaje FICO, y agregar una cuenta de cuotas acelera tu progreso.
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo recomendaba el préstamo para construir crédito de Self a titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que lo retiramos.
 
 ---
 

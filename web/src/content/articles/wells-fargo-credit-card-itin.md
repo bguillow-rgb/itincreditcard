@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-itin-apply-online-vs-in-branch"
+  - "discover-credit-card-itin"
 faqs:
   - q: "Can I apply for a Wells Fargo credit card with an ITIN number?"
     a: "Not with any documented confirmation for their own consumer cards. Wells Fargo publishes an ITIN option only on Retail Services applications, the financing cards it runs for stores. For cards like Active Cash, Autograph, or Reflect, the bank does not publish an ITIN policy, and reports from applicants are mixed. Call the issuer and ask about the specific card before you let anyone pull your credit."
@@ -72,7 +72,7 @@ Here is how the realistic alternatives compare for someone holding an ITIN in 20
 | American Express | Yes | Can use credit history from some other countries |
 | Wells Fargo | Only documented on store financing | Existing WF banking customers, store purchases |
 
-The full issuer-by-issuer picture, including the banks that only accept ITINs on certain cards, lives in our [bank-by-bank application guide](/articles/itin-credit-card-bank-by-bank-application-guide/) and the broader answer to [which banks accept an ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards/).
+The full issuer-by-issuer picture, including the banks that only accept ITINs on certain cards, lives in our [bank-by-bank application guide](/articles/itin-credit-card-bank-by-bank-application-guide/) and the broader answer to [which banks accept an ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide/).
 
 ## Does an ITIN work for Wells Fargo bank accounts?
 
@@ -82,4 +82,4 @@ That matters for two reasons. First, you may simply need the account. Second, ba
 
 ## The honest bottom line
 
-Wells Fargo is not the door to knock on first with an ITIN. Their consumer-card policy is undocumented, their secured card is gone, and the one confirmed ITIN path leads to store financing. If your goal is a first card that builds credit, start with an issuer that says yes in writing, [the starter card rankings](/articles/best-starter-credit-cards-itin-zero-credit-history/) are the shortest route, and let a Wells Fargo card be something you pick up later, once you have a file and a banking relationship that make the answer less of a gamble.
+Wells Fargo is not the door to knock on first with an ITIN. Their consumer-card policy is undocumented, their secured card is gone, and the one confirmed ITIN path leads to store financing. If your goal is a first card that builds credit, start with an issuer that says yes in writing, [the starter card rankings](/articles/itin-starter-credit-cards-ranked-zero-history/) are the shortest route, and let a Wells Fargo card be something you pick up later, once you have a file and a banking relationship that make the answer less of a gamble.

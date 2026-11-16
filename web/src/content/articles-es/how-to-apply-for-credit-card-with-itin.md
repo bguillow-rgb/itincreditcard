@@ -15,10 +15,10 @@ updatedAt: "2026-07-07"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
   - "income-requirements-credit-card-itin"
-  - "itin-credit-card-issuer-verified-application-guide-2026"
+  - "virtual-credit-card-itin-holders"
+  - "can-you-get-a-credit-card-with-an-itin"
+  - "chase-credit-card-itin"
 faqs:
   - q: "¿Puedo solicitar una tarjeta de crédito en línea usando mi ITIN?"
     a: "Sí, muchos emisores, incluidos Capital One y Bank of America, aceptan solicitudes con ITIN en línea. Cuando el formulario te pida el SSN, busca una opción para ingresar un número de identificación fiscal alternativo. Algunos formularios solo muestran esa opción después de que seleccionas 'otro' o 'ITIN' como tipo de identificación. Si el formulario en línea rechaza tu ITIN, llama al emisor y solicita la tarjeta por teléfono."
@@ -130,7 +130,7 @@ Si te niegan, el emisor está obligado por ley a enviarte un aviso de acción ad
 - **Espera al menos seis meses antes de volver a solicitar.** Cada solicitud genera una consulta dura que baja temporalmente tu puntaje. Espaciar las solicitudes al menos seis meses le da tiempo a tu expediente de recuperarse y fortalece tu historial de pagos.
 - **Considera convertirte primero en usuario autorizado.** Si un familiar o amigo de confianza con buen crédito en EE. UU. te agrega a su cuenta, su historial positivo puede comenzar a aparecer en tu reporte de crédito, creando un perfil que les resulta más fácil evaluar a los emisores cuando apliques por tu cuenta.
 
-Para ver con más detalle qué tarjetas específicas considerar, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) y nuestro análisis completo de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
+Para ver con más detalle qué tarjetas específicas considerar, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide) y nuestro análisis completo de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
 
 ---
 

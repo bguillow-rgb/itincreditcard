@@ -11,14 +11,14 @@ relatedQueries:
   - "best unsecured credit card after secured card ITIN"
 quickAnswer: "ITIN holders can upgrade from a secured to an unsecured credit card after roughly 6-18 months of on-time payments and low utilization. Issuers like Capital One and Discover review accounts automatically; others require a direct request. Your deposit is typically refunded when the upgrade is approved or the secured account is closed in good standing."
 publishedAt: "2026-06-18"
-updatedAt: "2026-07-07"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
   - "unsecured-credit-card-itin-holders"
+  - "secured-credit-card-deposit-itin-holders"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
 faqs:
   - q: "Can I upgrade from a secured to an unsecured credit card if I only have an ITIN and no SSN?"
     a: "Yes. ITIN acceptance does not change once you are an existing cardholder. If your issuer accepted your ITIN at application, they will review your existing account for an upgrade based on payment history and credit profile, not on whether you have an SSN."
@@ -81,7 +81,8 @@ Here is how the major ITIN-friendly issuers handle upgrades:
 | Bank of America Secured | Manual request or periodic review | 12+ months | Possible | Yes, on close or upgrade |
 | Citi Secured Mastercard | Manual request; separate new account | 18+ months | Yes (new account) | Yes, after balance paid |
 | OpenSky Secured | Limited path; related unsecured card possible | 6 months (eligibility unclear) | Varies | Only if account closed |
-| Self Visa | Paired with Credit Builder Account; no classic upgrade | Ongoing | No | Savings released at term end |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Capital One is worth calling out for ITIN holders because their automatic review process does not require you to initiate anything. According to NerdWallet, Capital One automatically considers the Capital One Quicksilver Secured cardholder for a higher credit limit in as little as six months, and the issuer also monitors accounts for deposit refund eligibility. That means an ITIN holder who pays on time and stays under the utilization threshold can receive an upgrade notice without ever calling in.
 

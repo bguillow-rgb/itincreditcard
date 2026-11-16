@@ -127,7 +127,7 @@ In practice, calling within 48-72 hours of the denial gives you the best shot. T
 
 If you were rejected because of too many hard inquiries, waiting at least four to six months before applying again is the smarter move rather than calling the reconsideration line, since that particular denial reason is hard to argue away on a call. Focus reconsideration calls on identity-verification or "thin file" denial reasons, where the ITIN explanation actually holds weight.
 
-If reconsideration doesn't work and you need to look at a fresh application, our [issuer-by-issuer comparison of ITIN credit cards](/articles/itin-credit-card-issuer-comparison-2026) and our guide on [how to improve approval odds with an ITIN](/articles/improve-credit-card-approval-odds-itin) are good next steps.
+If reconsideration doesn't work and you need to look at a fresh application, our [issuer-by-issuer comparison of ITIN credit cards](/articles/credit-cards-that-accept-itin-verified-issuer-list) and our guide on [how to improve approval odds with an ITIN](/articles/improve-credit-card-approval-odds-itin) are good next steps.
 
 ---
 

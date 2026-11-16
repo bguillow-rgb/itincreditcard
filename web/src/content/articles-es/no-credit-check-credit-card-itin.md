@@ -14,10 +14,10 @@ publishedAt: "2026-06-22"
 author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
   - "prepaid-card-vs-secured-credit-card-itin"
   - "unsecured-credit-card-itin-holders"
-  - "best-starter-credit-cards-itin-zero-credit-history"
+  - "capital-one-credit-card-itin"
+  - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito con un ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Varios emisores, como OpenSky, Firstcard y la Current Build Card, aprueban a titulares de ITIN sin exigir ningún historial crediticio en EE. UU. En lugar de revisar tu expediente de crédito, se basan en un depósito de seguridad o en una cuenta bancaria vinculada."
@@ -109,7 +109,7 @@ La razón más común por la que se rechaza a los titulares de ITIN no es fraude
 
 Una tarjeta asegurada sin verificación de crédito elimina esta barrera específica porque el emisor no consulta tu expediente de crédito para tomar la decisión. La aprobación se basa casi por completo en si puedes fondear el depósito y pasar la verificación de identidad. El depósito reduce drásticamente el riesgo del banco. Cuando el banco se siente seguro, es mucho más probable que apruebe a un solicitante sin un expediente de crédito tradicional.
 
-Si los rechazos anteriores vinieron de emisores que no aceptan ITINs en absoluto, ese es un problema aparte. Nuestra guía sobre [qué bancos aceptan un ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) lista emisores verificados que trabajan con ITIN, para que no desperdicies hard inquiries en solicitudes que fallarán sin importar tu perfil.
+Si los rechazos anteriores vinieron de emisores que no aceptan ITINs en absoluto, ese es un problema aparte. Nuestra guía sobre [qué bancos aceptan un ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide) lista emisores verificados que trabajan con ITIN, para que no desperdicies hard inquiries en solicitudes que fallarán sin importar tu perfil.
 
 ## ¿Qué pasa con mi tarjeta sin verificación de crédito una vez que construyo suficiente crédito para calificar a mejores opciones?
 

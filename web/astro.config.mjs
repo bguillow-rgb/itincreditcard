@@ -108,6 +108,23 @@ function buildArticleLastmodMap() {
 const ARTICLE_LASTMOD = buildArticleLastmodMap();
 const STATIC_LASTMOD = buildStaticLastmodMap();
 
+// Retired articles -> their canonical, EN + ES. Source of truth is
+// src/data/retired-articles.json (also read by scripts/daily-post.mjs so a
+// retired topic is never generated again). GitHub Pages cannot send a real
+// HTTP 301, so Astro emits a meta-refresh stub with rel=canonical to the
+// target (the same pattern itincreditscore.com uses). 2026-11-16: the five
+// duplicate clusters the Monday flagship kept re-publishing were merged.
+function buildRetiredRedirects() {
+  const file = nodePath.join(__dirname, 'src/data/retired-articles.json');
+  const { articles = [] } = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const out = {};
+  for (const { slug, redirectTo } of articles) {
+    out[`/articles/${slug}`] = `/articles/${redirectTo}`;
+    out[`/es/articles/${slug}`] = `/es/articles/${redirectTo}`;
+  }
+  return out;
+}
+
 // In-content affiliate auto-linking runs in production builds only (mirrors the
 // PROD gate on the display ads), so `astro dev` shows clean editorial copy.
 const mode = process.env.NODE_ENV ?? 'development';
@@ -121,6 +138,7 @@ export default defineConfig({
   site: 'https://itincreditcard.com',
   trailingSlash: 'never',
   build: { format: 'file' }, // Generates /about.html, /apply.html, etc.
+  redirects: buildRetiredRedirects(),
   markdown: { rehypePlugins: affiliateRehype },
   integrations: [
     sitemap({

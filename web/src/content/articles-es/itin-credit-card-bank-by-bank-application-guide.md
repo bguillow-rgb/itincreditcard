@@ -11,13 +11,14 @@ relatedQueries:
   - "solicitud de tarjeta de crédito con ITIN en línea vs en sucursal"
 quickAnswer: "Al menos siete de los 10 principales emisores de tarjetas de crédito en EE. UU. aceptan el ITIN, entre ellos Bank of America, Capital One, Chase, American Express, Citibank y Wells Fargo. Discover y USAA no lo aceptan. Necesitarás tu carta del ITIN, un pasaporte válido, comprobante de domicilio en EE. UU. y comprobante de ingresos. Muchos bancos grandes requieren que vayas a la sucursal en persona; las fintechs en línea y algunos emisores aceptan el ITIN completamente por internet."
 publishedAt: "2026-07-20"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
   - "credit-card-itin-apply-online-vs-in-branch"
+  - "credit-card-denied-itin-what-to-do"
+  - "credit-card-opt-visa-holder-itin"
+  - "how-to-apply-for-credit-card-with-itin"
 faqs:
   - q: "¿Qué bancos aceptan el ITIN en lugar del SSN para una tarjeta de crédito?"
     a: "Bank of America, Capital One, Chase, American Express, Citibank y Wells Fargo aceptan el ITIN para solicitudes de tarjetas de crédito. U.S. Bank acepta el ITIN solo para tarjetas aseguradas. Discover y USAA requieren un SSN."
@@ -26,9 +27,9 @@ faqs:
   - q: "¿Qué documentos necesito para solicitar una tarjeta de crédito con ITIN?"
     a: "Por lo general necesitas: la carta de confirmación del ITIN emitida por el IRS, una identificación oficial con foto (el pasaporte es lo ideal), comprobante de domicilio en EE. UU. (recibo de servicios o contrato de arrendamiento) y comprobante de ingresos (talones de pago o declaraciones de impuestos)."
   - q: "¿Las cooperativas de crédito aceptan el ITIN para solicitudes de tarjetas de crédito?"
-    a: "Sí. Muchas cooperativas de crédito aceptan el ITIN y frecuentemente tienen requisitos más flexibles que los bancos grandes. Self-Help Credit Union, Latino Credit Union, Bay Federal Credit Union y La Capitol FCU son algunas de las que atienden a titulares de ITIN. Los requisitos para hacerse miembro varían según la institución."
+    a: "Sí. Muchas cooperativas de crédito aceptan el ITIN y frecuentemente tienen requisitos más flexibles que los bancos grandes. Latino Community Credit Union y Bay Federal Credit Union son algunas de las que atienden a titulares de ITIN. Los requisitos de membresía y el acceso a tarjetas varían según la institución, así que confirma la tarjeta específica antes de solicitarla."
   - q: "¿Cuál es la tarjeta de crédito más fácil de obtener con ITIN y sin historial crediticio en EE. UU.?"
-    a: "La OpenSky Secured Visa es una de las más accesibles porque no requiere verificación de crédito, acepta ITIN y tiene un rango de depósito de $200 a $3,000. La Capital One Platinum Secured (depósito mínimo de $49 a $200) y la Self Visa también son buenas opciones para quienes no tienen historial."
+    a: "La OpenSky Secured Visa es una de las más accesibles porque no requiere verificación de crédito, acepta ITIN y tiene un rango de depósito de $200 a $3,000. La Capital One Platinum Secured (depósito mínimo de $49 a $200) es otra buena opción para quienes no tienen historial."
   - q: "¿Chase acepta el ITIN para solicitudes de tarjetas de crédito?"
     a: "Sí. Chase acepta el ITIN en solicitudes de tarjetas de crédito, incluida la Chase Freedom Rise, que es su tarjeta de nivel básico diseñada para personas con historial de crédito limitado. Chase también puede requerir una cuenta de cheques o de ahorros con al menos $250 para mejorar las probabilidades de aprobación."
   - q: "¿Discover acepta el ITIN para solicitudes de tarjetas de crédito?"
@@ -39,12 +40,20 @@ faqs:
     a: "Sí. Todas las tarjetas de American Express aceptan el ITIN en lugar del SSN. Puedes solicitar en línea o por teléfono. Amex también ofrece el programa Global Transfer si ya tienes una tarjeta Amex fuera de EE. UU., lo que puede facilitar la aprobación incluso sin historial crediticio en el país."
   - q: "¿Cuánto tiempo tarda la aprobación de una tarjeta de crédito con ITIN?"
     a: "Las solicitudes en línea con emisores como Capital One o American Express pueden dar una respuesta casi inmediata. Las solicitudes en sucursal en bancos como Bank of America o Citibank pueden tardar varios días. Algunas solicitudes requieren revisión adicional de documentos, lo que puede extender el plazo."
+  - q: "Si un banco acepta el ITIN, ¿todas sus tarjetas aceptan mi ITIN?"
+    a: "No. La aceptación del ITIN es tarjeta por tarjeta, no de todo el banco. U.S. Bank, por ejemplo, acepta el ITIN solo en su tarjeta asegurada. Confirma con el emisor que la tarjeta que quieres acepta el ITIN antes de enviar una solicitud completa y recibir una consulta dura."
+  - q: "¿Solicitar una tarjeta de crédito con ITIN afecta mi estatus migratorio?"
+    a: "Los emisores reportan tu solicitud y la actividad de tu cuenta a los burós de crédito, no a las autoridades migratorias. Usan tu ITIN para verificar tu identidad y buscar tu historial de crédito. Si tienes una duda migratoria específica, consulta a un abogado de inmigración."
+  - q: "¿Puedo solicitar una tarjeta de crédito si mi ITIN está vencido?"
+    a: "Lo más probable es que rechacen la solicitud o la dejen en revisión. Renueva primero tu ITIN con el Formulario W-7 del IRS. El trámite tarda varias semanas y se alarga en temporada de impuestos, así que planifícalo con tiempo."
+  - q: "¿Qué es una cooperativa de crédito Juntos Avanzamos?"
+    a: "Juntos Avanzamos es una designación de Inclusiv, una red de cooperativas de crédito de desarrollo comunitario, para cooperativas comprometidas con atender a miembros hispanos e inmigrantes. Muchas aceptan el ITIN e identificaciones como la Matrícula Consular, pero las políticas de tarjetas varían, así que pregunta directamente."
 published: true
 ---
 
 Esta es la referencia más completa y verificada por emisores en internet para titulares de ITIN que quieren obtener una tarjeta de crédito en EE. UU. en 2026. Cada institución que aparece a continuación fue investigada de forma individual para conocer su política actual sobre el ITIN, el canal de solicitud, los documentos requeridos y los productos disponibles.
 
-**Cómo elaboramos esta guía:** Comparamos las páginas oficiales de solicitud de cada emisor, reseñas recientes de terceros (WalletHub, Forbes Advisor, NerdWallet) y datos de la comunidad para verificar qué bancos y cooperativas de crédito aceptan explícitamente el ITIN en 2026. **Última verificación: 20 de julio de 2026.**
+**Cómo elaboramos esta guía:** Comparamos las páginas oficiales de solicitud de cada emisor, reseñas recientes de terceros (WalletHub, Forbes Advisor, NerdWallet) y datos de la comunidad para verificar qué bancos y cooperativas de crédito aceptan explícitamente el ITIN en 2026. **Última verificación: 20 de julio de 2026.** **Actualizado el 16 de noviembre de 2026:** unificamos en esta página nuestras guías de bancos y cooperativas que se repetían, y corregimos las entradas de Self, Wells Fargo y las cooperativas de crédito.
 
 ---
 
@@ -59,7 +68,7 @@ De los 10 principales emisores de tarjetas de crédito en EE. UU., siete aceptan
 | Capital One | Sí | Sí | Sí | Quicksilver Secured |
 | Chase | Sí | Sí | Sí | Freedom Rise |
 | Citibank | Sí | Parcial | Sí (preferido) | Citi Secured Mastercard |
-| Wells Fargo | Sí, todas las tarjetas | Sí | Sí | Active Cash / Autograph |
+| Wells Fargo | Reportado (sin tarjeta asegurada) | Sí | Sí | Active Cash / Autograph |
 | U.S. Bank | Sí (solo aseguradas) | Sí | Sí | Cash+ Secured Visa |
 | OpenSky | Sí | Sí | No | OpenSky Secured Visa |
 | Discover | **No** | N/A | N/A | Se requiere SSN |
@@ -125,11 +134,13 @@ Al igual que Bank of America, Citibank funciona mejor cuando ya tienes una cuent
 
 ### Wells Fargo
 
-Wells Fargo acepta el ITIN en lugar del SSN para todas sus tarjetas de crédito, una política más amplia que la de la mayoría de los bancos, que típicamente limitan la aceptación del ITIN a productos asegurados. La Wells Fargo Secured Credit Card reporta a las tres burós de crédito y tiene una ruta para actualizarse a una tarjeta sin garantía después de un uso responsable.
+Se ha reportado que Wells Fargo acepta el ITIN en lugar del SSN en sus solicitudes de tarjetas de crédito, pero ya no ofrece tarjeta asegurada a nuevos solicitantes. Por eso es una opción realista solo cuando ya tienes algo de historial de crédito en EE. UU. Nuestra [guía de Wells Fargo con ITIN](/es/articles/wells-fargo-credit-card-itin) tiene los detalles.
 
 ### U.S. Bank
 
-U.S. Bank acepta el ITIN como reemplazo del SSN, pero solo para tarjetas aseguradas. Su Cash+ Secured Visa vale la pena considerar si ya tienes una relación con U.S. Bank y quieres una tarjeta con recompensas por categorías.
+U.S. Bank acepta el ITIN como reemplazo del SSN, pero solo para tarjetas aseguradas. Su Cash+ Secured Visa vale la pena considerar si ya tienes una relación con U.S. Bank y quieres una tarjeta con recompensas por categorías. Un límite a tener en cuenta: quien solo tiene ITIN no puede pasar la tarjeta asegurada a una sin garantía, porque U.S. Bank exige un SSN para ese paso.
+
+U.S. Bank ilustra una regla más general: la aceptación del ITIN es tarjeta por tarjeta, no de todo el banco. Un banco que acepta tu ITIN para un producto puede exigir un SSN para otro, así que confirma la tarjeta exacta antes de enviar una solicitud completa.
 
 ---
 
@@ -148,9 +159,8 @@ La respuesta honesta es que tus opciones dependen del emisor y a veces de tu pa�
 | American Express (todas las tarjetas) | Sí | No | $0 (sin garantía) | Varía |
 | Citi Secured Mastercard | Parcial (puede requerir sucursal) | No | $200 | $0 |
 | Bank of America Secured | Parcial (frecuentemente requiere sucursal) | No | $200-$300 | $0 |
-| Self Visa Secured | Sí | No | $100 | $0 el año 1, $25/año después |
-| Latino Credit Union Visa | Solo en sucursal (miembros en NC) | No | Varía | $0 |
-| Self-Help CU Secured | Solo en sucursal | No | Varía | $0 |
+| Latino Community CU Visa | Sí (solicitud en línea; membresía en NC) | No | Varía | $0 |
+| Self-Help CU Secured [sin verificar] | Varía | No | Varía | $0 |
 
 Para un análisis más detallado de las reglas de solicitud en línea vs. en sucursal y consejos para navegar formularios en línea poco flexibles, consulta nuestra guía sobre [solicitar una tarjeta de crédito con ITIN en línea vs. en sucursal](/es/articles/credit-card-itin-apply-online-vs-in-branch).
 
@@ -162,22 +172,24 @@ Para un análisis más detallado de las reglas de solicitud en línea vs. en suc
 
 Muchas cooperativas de crédito locales e instituciones financieras de desarrollo comunitario (CDFI, por sus siglas en inglés) aceptan el ITIN para tarjetas de crédito y préstamos, y frecuentemente tienen requisitos más flexibles que los bancos grandes. La diferencia clave está en el modelo de relación: las cooperativas evalúan tu situación financiera completa en lugar de depender únicamente de la evaluación automatizada.
 
-A continuación encontrarás una lista verificada de cooperativas de crédito confirmadas que aceptan el ITIN para membresía y acceso a tarjetas de crédito:
+Esto es lo que encontramos. Las filas marcadas [sin verificar] no están confirmadas en las páginas de la propia cooperativa, así que llama antes de ir:
 
 | Cooperativa de crédito | Área geográfica | ¿Tarjeta con ITIN? | Característica destacada |
 |---|---|---|---|
-| Latino Credit Union (LCCU) | NC (sucursales) | Sí, después de hacerse miembro | Agente de aceptación de ITIN autorizado por el IRS en el lugar |
-| Self-Help Credit Union | NC, SC | Sí (tarjeta asegurada) | Orientada a la comunidad, solicitud en sucursal |
-| Self-Help Federal CU | CA, IL | Sí (tarjeta asegurada) | Misma organización, sucursales en la Costa Oeste |
+| Latino Community Credit Union (LCCU) | NC | Sí, después de hacerse miembro (solicitud en línea) | Agente de aceptación de ITIN autorizado por el IRS en el lugar |
+| Self-Help Credit Union | NC, SC | [sin verificar] | Orientada a la comunidad |
+| Self-Help Federal CU | CA, IL | [sin verificar] | Cooperativa federal distinta de Self-Help Credit Union |
 | Bay Federal Credit Union | Santa Cruz, CA | Sí (gama completa de productos) | Personal hispanohablante, amplia gama de servicios con ITIN |
-| La Capitol FCU | Louisiana | Sí | Acepta titulares de ITIN y no residentes |
+| La Capitol FCU | Louisiana | [sin verificar] | Confirma directamente el acceso a tarjetas con ITIN |
 | Resource One CU (R1CU) | Área de Dallas, TX | Sí | El ITIN es aceptado como identificación principal para todos los productos |
 
 Latino Credit Union es un Agente de Aceptación Certificado de ITIN autorizado por el IRS y puede ayudarte a presentar una solicitud de nuevo ITIN o renovar uno existente. Esto es inusualmente conveniente: puedes obtener tu ITIN y tu tarjeta de crédito en la misma institución.
 
 Bay Federal Credit Union da la bienvenida a miembros con ITIN y ofrece los mismos servicios financieros y apoyo que brinda a todos sus miembros.
 
-Tu experiencia puede variar según la institución. La Capitol FCU parece la más flexible, ya que acepta titulares de ITIN y no residentes. Wings Financial acepta el ITIN pero solo para residentes permanentes con Green Card válida. First Tech FCU solo acepta solicitudes con un SSN válido.
+Tu experiencia puede variar según la institución. Wings Financial acepta el ITIN pero solo para residentes permanentes con Green Card válida. First Tech FCU solo acepta solicitudes con un SSN válido.
+
+Si no sabes por dónde empezar, busca una cooperativa de crédito con la designación Juntos Avanzamos. Inclusiv, una red de cooperativas de crédito de desarrollo comunitario, la otorga a cooperativas comprometidas con atender a miembros hispanos e inmigrantes. Muchas aceptan el ITIN e identificaciones alternativas como la Matrícula Consular, y es común encontrar personal bilingüe. Aun así, la designación no garantiza nada sobre una tarjeta específica, así que pregunta por la tarjeta en sí.
 
 Lo más importante en la práctica: llama a la sucursal específica antes de ir. Las políticas sobre el ITIN en las cooperativas de crédito pueden variar según el conocimiento del personal de la sucursal y las reglas locales de membresía.
 
@@ -210,7 +222,7 @@ Depende de si quieres solicitar en línea o en persona, y de si puedes financiar
 
 **Mejor tarjeta sin garantía con historial limitado:** Chase Freedom Rise. Ofrece 1.5% de reembolso en efectivo en todas las compras y no tiene cuota anual. No requiere depósito, pero sí necesita algún expediente crediticio o una relación bancaria con Chase para mejorar las probabilidades de aprobación.
 
-**Mejor opción fintech:** La Self Visa Secured Card acepta el ITIN completamente en línea. La tarjeta no tiene cuota anual el primer año, luego $25 por año, más una APR variable del 27.49%. Self tiene altas tasas de aprobación y sigue siendo una opción consistente para solicitantes con expediente crediticio escaso.
+**Corrección (16 de noviembre de 2026):** una versión anterior de esta guía incluía la Self Visa Credit Card como opción con ITIN. Era un error. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Para una comparación completa lado a lado de depósitos en tarjetas aseguradas y plazos de actualización, consulta nuestra guía de [tarjetas de crédito aseguradas para titulares de ITIN](/es/articles/secured-credit-card-with-itin).
 
@@ -278,7 +290,7 @@ Si estás comenzando y no tienes ningún expediente crediticio en EE. UU., la co
 
 **¿Qué bancos aceptan el ITIN en lugar del SSN para una tarjeta de crédito?**
 
-Chase, Bank of America, American Express, Capital One, Citi y Wells Fargo aceptan el ITIN para solicitudes de tarjetas de crédito. Wells Fargo acepta el ITIN para todas sus tarjetas de crédito. U.S. Bank acepta el ITIN solo para tarjetas aseguradas.
+Chase, Bank of America, American Express, Capital One, Citi y Wells Fargo aceptan el ITIN para solicitudes de tarjetas de crédito. Wells Fargo ya no ofrece tarjeta asegurada a nuevos solicitantes. U.S. Bank acepta el ITIN solo para tarjetas aseguradas.
 
 **¿Puedo solicitar una tarjeta de crédito con ITIN en línea o tengo que ir a una sucursal?**
 
@@ -290,7 +302,7 @@ Tu carta de confirmación del ITIN del IRS, un pasaporte válido u otra identifi
 
 **¿Las cooperativas de crédito aceptan el ITIN para solicitudes de tarjetas de crédito?**
 
-Muchas cooperativas de crédito dan la bienvenida a titulares de ITIN, y algunas incluso te ayudan a solicitarlo como parte de sus servicios. Latino Credit Union, Self-Help Credit Union, Bay Federal Credit Union y La Capitol FCU son ejemplos confirmados.
+Muchas cooperativas de crédito dan la bienvenida a titulares de ITIN, y algunas incluso te ayudan a solicitarlo como parte de sus servicios. Latino Community Credit Union y Bay Federal Credit Union son ejemplos. Confirma el acceso a tarjetas con la cooperativa específica antes de solicitar.
 
 **¿Cuál es la tarjeta de crédito más fácil de obtener con ITIN y sin historial crediticio en EE. UU.?**
 

@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "credit-utilization-itin-credit-card"
   - "build-credit-with-itin-credit-card"
-  - "how-itin-works-credit-card-application"
   - "low-apr-credit-card-itin-holders"
+  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "How much of my ITIN credit card limit should I use each month?"
     a: "Keep your balance below 30% of your credit limit at statement close. For example, on a $500 limit, that means charging no more than $150 before the statement cuts. Under 10% is even better if you want to maximize scoring impact."
@@ -97,7 +97,7 @@ Some ITIN holders worry that using the card abroad looks unfavorable to issuers.
 
 When the time is right, a second card adds what scoring models call credit mix: multiple accounts demonstrating responsible use. With a full year or two of positive history, many immigrants reach the "good" range (670+), and at that point the options open up considerably: better rewards, lower rates, easier apartment approvals. If you started on a secured card and want to move to an unsecured product, our article on [how to upgrade from a secured to unsecured credit card with an ITIN](/articles/upgrade-secured-to-unsecured-credit-card-itin) covers exactly when and how to make that move.
 
-For a broader look at which cards to target as your credit grows, see our [ITIN credit card issuer comparison](/articles/itin-credit-card-issuer-comparison-2026) and the [best ITIN credit cards](/best-itin-credit-cards) overview.
+For a broader look at which cards to target as your credit grows, see our [ITIN credit card issuer comparison](/articles/credit-cards-that-accept-itin-verified-issuer-list) and the [best ITIN credit cards](/best-itin-credit-cards) overview.
 
 ---
 

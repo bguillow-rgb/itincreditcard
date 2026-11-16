@@ -11,6 +11,7 @@ relatedQueries:
   - "tarjeta de crédito para inmigrantes con I-485 pendiente e ITIN"
 quickAnswer: "Sí. Si estás esperando tu green card y tienes un ITIN, puedes solicitar una tarjeta de crédito ahora mismo. Capital One, OpenSky y varias cooperativas de crédito aceptan ITIN sin exigir un número de Seguro Social. Abrir una tarjeta hoy significa que tu historial crediticio ya estará creciendo cuando te aprueben la green card."
 publishedAt: "2026-11-06"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -58,7 +59,8 @@ El ITIN sigue siendo un número de identificación válido según las reglas del
 | OpenSky Secured Visa | Asegurada | $200 | $35 | Ninguna | Sí |
 | OpenSky Plus Secured Visa | Asegurada | $300 | $0 | Ninguna | Sí |
 | Bank of America Secured (en sucursal) | Asegurada | $200 | $0 | Sí | Sí |
-| Self Visa Credit Card | Asegurada | Sin depósito requerido | $25 (a partir del año 2) | Suave | Sí |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Vale la pena comparar directamente las dos opciones de OpenSky. La OpenSky Secured Visa estándar cobra una cuota anual de $35, tiene una APR variable de aproximadamente 23.89% y requiere un depósito mínimo de $200. La OpenSky Plus Secured Visa elimina la cuota anual, pero tiene una APR variable más alta de aproximadamente 28.24% y requiere un depósito mínimo de $300.
 

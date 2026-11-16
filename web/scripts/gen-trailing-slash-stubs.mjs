@@ -17,7 +17,7 @@
 //
 // Usage: node scripts/gen-trailing-slash-stubs.mjs [dist-dir]   (default: dist)
 
-import { readdir, mkdir, writeFile } from 'node:fs/promises';
+import { readdir, mkdir, writeFile, readFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -50,7 +50,14 @@ for (const file of files) {
   if (/^google[0-9a-f]+\.html$/.test(name)) continue; // GSC verification file
 
   const rel = path.relative(root, file).replace(/\.html$/, '');
-  const urlPath = '/' + rel.split(path.sep).join('/');
+  let urlPath = '/' + rel.split(path.sep).join('/');
+  // If foo.html is itself a redirect (an Astro `redirects` entry, e.g. a
+  // retired article), point the slash form straight at the final target so
+  // /foo/ is one hop, not two.
+  const target = (await readFile(file, 'utf8')).match(
+    /^<!doctype html><title>Redirecting to: [^<]*<\/title><meta http-equiv="refresh" content="0;url=([^"]+)"/i,
+  );
+  if (target && target[1].startsWith('/')) urlPath = target[1];
   const stub = path.join(root, rel, 'index.html');
   if (existsSync(stub)) {
     kept++; // hand-made legacy redirect from public/ — its target wins

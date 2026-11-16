@@ -72,7 +72,7 @@ Así se comparan las alternativas realistas para alguien con ITIN en 2026:
 | American Express | Sí | Puede usar historial de algunos otros países |
 | Wells Fargo | Solo documentado en financiamiento de tiendas | Clientes bancarios de WF, compras en tiendas |
 
-El panorama completo emisor por emisor, incluyendo los bancos que solo aceptan ITIN en ciertas tarjetas, está en nuestra [guía banco por banco](/es/articles/itin-credit-card-bank-by-bank-application-guide/) y en la respuesta general a [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards/).
+El panorama completo emisor por emisor, incluyendo los bancos que solo aceptan ITIN en ciertas tarjetas, está en nuestra [guía banco por banco](/es/articles/itin-credit-card-bank-by-bank-application-guide/) y en la respuesta general a [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide/).
 
 ## ¿El ITIN sirve para cuentas bancarias de Wells Fargo?
 
@@ -82,4 +82,4 @@ Eso importa por dos razones. Primero, quizá simplemente necesitas la cuenta. Se
 
 ## La conclusión honesta
 
-Wells Fargo no es la primera puerta que conviene tocar con un ITIN. Su política de tarjetas de consumo no está documentada, su tarjeta asegurada desapareció, y el único camino confirmado con ITIN lleva a financiamiento de tiendas. Si tu meta es una primera tarjeta que construya crédito, empieza con un emisor que diga que sí por escrito, [el ranking de tarjetas para empezar](/es/articles/best-starter-credit-cards-itin-zero-credit-history/) es la ruta más corta, y deja la tarjeta de Wells Fargo para más adelante, cuando tu historial y tu relación bancaria hagan que la respuesta dependa menos de la suerte.
+Wells Fargo no es la primera puerta que conviene tocar con un ITIN. Su política de tarjetas de consumo no está documentada, su tarjeta asegurada desapareció, y el único camino confirmado con ITIN lleva a financiamiento de tiendas. Si tu meta es una primera tarjeta que construya crédito, empieza con un emisor que diga que sí por escrito, [el ranking de tarjetas para empezar](/es/articles/itin-starter-credit-cards-ranked-zero-history/) es la ruta más corta, y deja la tarjeta de Wells Fargo para más adelante, cuando tu historial y tu relación bancaria hagan que la respuesta dependa menos de la suerte.

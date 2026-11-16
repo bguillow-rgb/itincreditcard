@@ -11,13 +11,14 @@ relatedQueries:
   - "qué hacer después de que rechazan una tarjeta de crédito con itin"
 quickAnswer: "Si te rechazaron una solicitud de tarjeta de crédito con tu ITIN, lee el aviso de acción adversa para conocer el motivo exacto y llama a la línea de reconsideración del emisor dentro de los 30 días siguientes. Las causas más comunes que se pueden resolver incluyen un historial crediticio escaso, un reporte de crédito bloqueado o documentación incompleta. Solicitar una tarjeta asegurada o una tarjeta que no requiere verificación de crédito suele ser la alternativa más rápida."
 publishedAt: "2026-06-17"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "how-itin-works-credit-card-application"
   - "credit-card-reconsideration-line-itin"
   - "how-to-apply-for-credit-card-with-itin"
+  - "itin-credit-card-bank-by-bank-application-guide"
+  - "chase-credit-card-itin"
 faqs:
   - q: "¿Un rechazo de tarjeta de crédito afecta mi puntaje de crédito?"
     a: "El rechazo en sí no baja tu puntaje. La consulta fuerte (hard inquiry) de la solicitud puede reducirlo algunos puntos y permanece en tu reporte de crédito hasta dos años, pero su impacto disminuye después de unos meses de uso responsable del crédito."
@@ -28,7 +29,7 @@ faqs:
   - q: "¿Un reporte de crédito bloqueado puede hacer que rechacen mi solicitud de tarjeta de crédito con ITIN?"
     a: "Sí. Si colocaste un bloqueo de seguridad en Experian, TransUnion o Equifax, el emisor no puede consultar tu reporte y generalmente rechaza la solicitud de forma automática. Levanta el bloqueo en las tres agencias antes de solicitar la tarjeta y vuélvelo a activar después si deseas mantener esa protección."
   - q: "¿Cuál es la tarjeta de crédito más fácil de obtener con un ITIN después de un rechazo previo?"
-    a: "Las tarjetas aseguradas que no requieren verificación de crédito son la alternativa más accesible. Entre las opciones que aceptan abiertamente titulares de ITIN y no exigen un puntaje de crédito estadounidense previo están la OpenSky Secured Visa y la Self Visa Credit Card. Ambas reportan a las tres agencias principales de crédito cada mes."
+    a: "Las tarjetas aseguradas que no requieren verificación de crédito son la alternativa más accesible. Entre las opciones que aceptan abiertamente titulares de ITIN y no exigen un puntaje de crédito estadounidense previo está la OpenSky Secured Visa, que reporta a las tres agencias principales de crédito cada mes. (Corregido el 16 de noviembre de 2026: una versión anterior también incluía la Self Visa Credit Card, pero la página de requisitos de Self exige un número de Seguro Social.)"
 published: true
 ---
 
@@ -120,7 +121,7 @@ Cada nueva solicitud genera una consulta fuerte, que generalmente reduce tu punt
 
 Para limitar consultas innecesarias, usa las herramientas de precalificación antes de solicitar. Muchos emisores ofrecen una precalificación con consulta suave (soft pull) que te muestra si es probable que te aprueben sin afectar tu puntaje en absoluto. Si la herramienta de precalificación en línea no admite el ingreso de un ITIN, llama directamente a la línea de solicitudes del emisor y pide al representante que realice una consulta suave antes de que envíes formalmente tu solicitud.
 
-Si no sabes qué emisores están aceptando solicitudes con ITIN actualmente, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) detalla el panorama actual por emisor para que puedas enfocar tus solicitudes y evitar desperdiciar consultas fuertes en bancos que exigen SSN.
+Si no sabes qué emisores están aceptando solicitudes con ITIN actualmente, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide) detalla el panorama actual por emisor para que puedas enfocar tus solicitudes y evitar desperdiciar consultas fuertes en bancos que exigen SSN.
 
 ---
 

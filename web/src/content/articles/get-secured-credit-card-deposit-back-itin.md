@@ -11,13 +11,14 @@ relatedQueries:
   - "secured card graduation ITIN no social security number"
 quickAnswer: "ITIN holders get their secured card deposit back the same two ways anyone does: graduate to an unsecured card (deposit returned as a statement credit or check) or close the account in good standing with a zero balance. Timelines range from 7 months to 18 months depending on your issuer. One key caveat: Citi requires an SSN on file before it will graduate ITIN-only holders."
 publishedAt: "2026-08-01"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "secured-credit-card-deposit-itin-holders"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
-  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
+  - "unsecured-credit-card-itin-holders"
+  - "upgrade-secured-to-unsecured-credit-card-itin"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
 faqs:
   - q: "Does having an ITIN instead of an SSN delay my secured card deposit refund?"
     a: "No. The refund timeline is governed by your issuer's graduation policy, not by whether you used an ITIN or SSN. Once you meet the issuer's requirements (on-time payments, low utilization, good standing), your deposit is refunded on the same schedule as any other cardholder."
@@ -64,7 +65,8 @@ Timelines differ meaningfully across the issuers that accept ITINs. The table be
 | Bank of America | Periodic reviews, no fixed schedule | Check within 2 billing cycles + 10 days | Yes |
 | Citi Secured Mastercard | Minimum 18 months | Check or statement credit | SSN required to graduate |
 | OpenSky Secured | No automatic graduation path | Close account to recover deposit | Yes (close only) |
-| Self Visa | Deposit freed when credit-builder savings reach threshold | Applied to your credit-builder balance | Yes |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Discover it Secured runs automatic monthly reviews starting at the seventh statement. Most cardholders who pay every statement in full and keep utilization under 30% graduate between months 7 and 13. The account number, opening date, and credit history all carry forward. The deposit comes back by ACH, typically within 7-14 business days.
 
@@ -80,7 +82,7 @@ Citi's Secured Mastercard lists an SSN or ITIN among the identity fields, making
 
 That is a meaningful distinction. If you open the Citi Secured Mastercard with only an ITIN and your visa category does not make you eligible for an SSN, your only route to deposit recovery is closing the account. If you do obtain an SSN later, you can update your Citi profile and then request a graduation review once you hit the 18-month mark.
 
-The practical takeaway: if you want the smoothest deposit-recovery experience as an ITIN-only holder, Capital One and Bank of America are safer choices because neither requires an SSN specifically for the graduation step. See our [issuer-by-issuer comparison](/articles/itin-credit-card-issuer-comparison-2026) for a fuller breakdown of which banks accept ITINs at each stage of the card lifecycle.
+The practical takeaway: if you want the smoothest deposit-recovery experience as an ITIN-only holder, Capital One and Bank of America are safer choices because neither requires an SSN specifically for the graduation step. See our [issuer-by-issuer comparison](/articles/credit-cards-that-accept-itin-verified-issuer-list) for a fuller breakdown of which banks accept ITINs at each stage of the card lifecycle.
 
 ## What behavior actually triggers graduation reviews?
 

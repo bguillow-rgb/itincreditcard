@@ -11,13 +11,14 @@ relatedQueries:
   - "probabilidades de aprobación para solicitud de tarjeta con ITIN"
 quickAnswer: "Al menos siete de los diez principales emisores de tarjetas de crédito en EE. UU. aceptan un ITIN en lugar de un SSN, incluyendo Capital One, Chase, American Express, Bank of America, Wells Fargo y Citi. OpenSky, Petal (ahora en transición a Tilt) y Zolve completan la lista para solicitantes sin historial crediticio en EE. UU. Tu mejor opción de inicio depende de si ya tienes crédito establecido en EE. UU."
 publishedAt: "2026-07-05"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "itin-credit-card-complete-issuer-guide-2026"
-  - "itin-credit-card-issuer-comparison-2026"
   - "cash-back-credit-card-itin-holders"
+  - "store-credit-card-with-itin"
+  - "secured-credit-card-with-itin"
+  - "credit-card-h1b-visa-itin"
 faqs:
   - q: "¿Qué tarjetas de crédito aceptan ITIN en lugar de SSN?"
     a: "Capital One, Chase, American Express, Bank of America, Wells Fargo, Citi, U.S. Bank (solo tarjetas aseguradas), OpenSky, Zolve y la Tilt Motion Visa (la sucesora de Petal) aceptan ITIN. Discover es el emisor principal más grande que aún requiere un número de Seguro Social."
@@ -39,6 +40,12 @@ faqs:
     a: "No. Una vez que se abre una cuenta de crédito con tu ITIN, reporta a las agencias de crédito exactamente de la misma manera que cualquier cuenta vinculada a un SSN. Tu historial de pagos, utilización y antigüedad de la cuenta influyen en tu puntaje de forma idéntica."
   - q: "¿Discover sigue siendo una opción para titulares de ITIN en 2026?"
     a: "No. Discover requiere un número de Seguro Social para solicitudes de tarjetas de crédito y no acepta ITIN a partir de 2026. Si te rechazaron en Discover, considera Capital One, OpenSky o Chase, todos los cuales aceptan ITIN."
+  - q: "¿Solicitar una tarjeta de crédito con ITIN afecta mi puntaje de crédito?"
+    a: "La mayoría de las solicitudes generan una consulta dura, que puede bajar tu puntaje unos cuantos puntos por un tiempo. OpenSky no revisa tu crédito, así que solicitarla no afecta tu puntaje, y la herramienta de precalificación de Capital One usa una consulta suave que tampoco lo afecta."
+  - q: "¿Una tarjeta asegurada con ITIN puede pasar a ser no asegurada sin SSN?"
+    a: "No en todos los emisores. Citi exige un SSN válido en tu cuenta antes de convertir la Secured Mastercard en no asegurada, y U.S. Bank también pide un SSN para pasar de su tarjeta asegurada a una no asegurada. Con solo un ITIN puedes abrir estas tarjetas y construir historial, pero el cambio puede quedar cerrado hasta que obtengas un SSN."
+  - q: "¿Qué hago si rechazan mi solicitud de tarjeta de crédito con ITIN?"
+    a: "Lee el aviso de acción adversa, que explica el motivo exacto. Corrige ese motivo primero (verificación de identidad, poco historial crediticio o una dirección sin verificar son los más comunes) y espera de 30 a 60 días antes de volver a solicitar para no acumular consultas duras."
 published: true
 ---
 
@@ -62,7 +69,7 @@ De los 10 principales emisores de tarjetas de crédito, siete aceptan ITIN, incl
 | **Bank of America** | Sí | Customized Cash Rewards Secured y otras | Varía según ciudadanía | 670+ (no asegurada) | Jul 2026 | Tener cuenta en BofA ayuda mucho a la aprobación |
 | **Wells Fargo** | Sí, todas las tarjetas | Active Cash, Autograph, Reflect | Sí | 670+ (Active Cash) | Jul 2026 | Comisión del 3% por transacciones extranjeras en Active Cash |
 | **Citi** | Sí (tarjetas seleccionadas) | Secured Mastercard; algunas no aseguradas con relación bancaria | Varía | Ninguno (asegurada) | Jul 2026 | Relación en sucursal frecuentemente requerida para solicitudes con ITIN |
-| **U.S. Bank** | Sí (solo aseguradas) | U.S. Bank Secured Visa | Sí | Ninguno | Jul 2026 | Depósito de $300 a $5,000; opción de cambio a no asegurada |
+| **U.S. Bank** | Sí (solo aseguradas) | U.S. Bank Secured Visa | Sí | Ninguno | Jul 2026 | Depósito de $300 a $5,000; pasar a no asegurada requiere SSN |
 | **OpenSky** | Sí | Secured Visa ($35/año), Plus Secured ($0/año), Launch | Sí | Ninguno (sin verificación de crédito) | Jul 2026 | Depósito de $200 a $3,000; tasa de aprobación citada del 89% |
 | **Zolve** | Sí (también acepta pasaporte) | Zolve Classic | Sí | Ninguno | Jul 2026 | Para titulares de visa H1-B, L-1, F-1; límite de hasta $10,000 |
 | **Tilt (antes Petal)** | Sí (SSN o ITIN) | Tilt Motion Visa | Sí | 580+ (crédito regular aceptado) | Jul 2026 | Sin depósito, sin tarifa anual; evaluación por flujo de caja |
@@ -131,7 +138,7 @@ Los emisores suelen ocultar los números más útiles en notas al pie. Aquí est
 | U.S. Bank Secured Visa | $0 | ~28.99% | $300 | $5,000 | Sí |
 | Citi Secured Mastercard | $0 | ~27.74% | $200 | $2,500 | Sí |
 
-Algunos números que vale la pena destacar: el APR variable del 23.89% de la OpenSky Secured Visa la convierte en una mejor opción que la mayoría de las tarjetas aseguradas si no pagas tu saldo completo cada mes. Eso es notablemente menor que el rango del 28%-30% común en las tarjetas aseguradas de Capital One. La U.S. Bank Secured Credit Card requiere un depósito mínimo de al menos $300 y hasta $5,000. Esta tarjeta generalmente permite una mejora a una tarjeta no asegurada de U.S. Bank después de un período de uso responsable, lo que la convierte en una opción sólida a largo plazo para solicitantes que puedan hacer un depósito mayor.
+Algunos números que vale la pena destacar: el APR variable del 23.89% de la OpenSky Secured Visa la convierte en una mejor opción que la mayoría de las tarjetas aseguradas si no pagas tu saldo completo cada mes. Eso es notablemente menor que el rango del 28%-30% común en las tarjetas aseguradas de Capital One. La U.S. Bank Secured Credit Card requiere un depósito mínimo de al menos $300 y hasta $5,000. U.S. Bank exige un SSN para pasar de esta tarjeta asegurada a una no asegurada, así que quien solo tiene ITIN debe verla como una línea asegurada a largo plazo y no como un paso intermedio.
 
 Un dato concreto que vale la pena recordar: en promedio, los titulares de tarjetas OpenSky ven sus puntajes aumentar 47 puntos en seis meses.
 
@@ -176,6 +183,39 @@ Si no tienes historial crediticio en EE. UU., una tarjeta sin garantía es muy p
 Para solicitantes que llevan 12 meses o más construyendo crédito, las opciones sin garantía se amplían considerablemente. La Capital One QuicksilverOne Cash Rewards Credit Card es una buena tarjeta de cashback a considerar si tienes crédito promedio o estás construyendo tu historial, y puedes solicitarla en línea usando tu número ITIN en lugar de un número de Seguro Social, ganando un sencillo 1.5% de cashback en cada compra. La QuicksilverOne tiene una tarifa anual de $39 pero no requiere depósito, lo que la convierte en una tarjeta lógica de transición desde la Capital One Platinum Secured.
 
 La Tilt Motion Visa (la sucesora de Petal) tampoco requiere depósito y acepta ITIN, lo que la convierte en una opción sin garantía viable para solicitantes con historial escaso que puedan demostrar ingresos y un historial positivo de cuenta bancaria mediante su evaluación por flujo de caja.
+
+---
+
+## "¿Mi tarjeta asegurada pasará a ser no asegurada si solo tengo ITIN?"
+
+Este es el paso que la mayoría de las guías pasan por alto, y para los titulares de ITIN es donde más se diferencian los emisores.
+
+Capital One revisa automáticamente las cuentas aseguradas a partir de unos seis meses y puede devolverte el depósito y pasarte a una tarjeta no asegurada; por eso la ponemos primero para quienes empiezan sin historial. Citi es el caso contrario. Su Secured Mastercard acepta ITIN al solicitarla, pero Citi exige un SSN válido en la cuenta antes de convertirla en no asegurada, así que alguien con solo ITIN puede quedarse en el producto asegurado de forma indefinida. U.S. Bank funciona igual: la tarjeta asegurada acepta ITIN, pero pasar a una tarjeta no asegurada de U.S. Bank requiere un SSN.
+
+Nada de esto hace que las tarjetas de Citi o U.S. Bank sean una mala opción. Siguen reportando tus pagos y construyendo un historial real. Solo ten claro que, si quieres recuperar tu depósito con solo un ITIN, la ruta realista suele ser una segunda tarjeta no asegurada de otro emisor cuando tengas 12 meses o más de pagos puntuales.
+
+---
+
+## "¿Qué pasa si rechazan mi solicitud, y cuándo debo volver a intentarlo?"
+
+Un rechazo es información, no un callejón sin salida.
+
+Según la Ley de Igualdad de Oportunidades de Crédito (ECOA), el prestamista debe enviarte un aviso de acción adversa dentro de los 30 días posteriores a una solicitud completa, explicando por qué te rechazó. Para los solicitantes con ITIN, los motivos más comunes son "no se pudo verificar la identidad" (casi siempre se resuelve solicitando en una sucursal con tu pasaporte y la carta del ITIN), "historial crediticio insuficiente" (se resuelve empezando con una tarjeta asegurada sin revisión de crédito y acumulando seis meses de historial) y "no se pudo verificar la dirección" (se resuelve llevando un contrato de arrendamiento o una factura de servicios).
+
+Espera de 30 a 60 días antes de volver a solicitar. Cada solicitud suma una consulta dura, y varias consultas seguidas parecen estrés financiero para quien evalúa tu solicitud. Si crees que la decisión fue un error, llama a la línea de reconsideración del emisor con tus documentos listos; nuestra guía sobre la [línea de reconsideración para titulares de ITIN](/es/articles/credit-card-reconsideration-line-itin) tiene el guion.
+
+---
+
+## "¿Qué errores hacen que rechacen una solicitud con ITIN?"
+
+La mayoría de los rechazos que vemos vienen de unos pocos errores evitables:
+
+1. **Solicitar en el nivel equivocado.** Pedir la Chase Freedom Unlimited sin historial crediticio en EE. UU. casi seguro termina en rechazo y además te cuesta una consulta dura. Empieza con una asegurada y sube desde ahí.
+2. **Usar un número de teléfono VoIP.** Los emisores suelen enviar un código por mensaje de texto durante la solicitud, y los números por internet pueden fallar esa verificación. Usa un número de una compañía telefónica.
+3. **Saltarte la precalificación.** Las herramientas de consulta suave, como la de Capital One, muestran tus probabilidades sin tocar tu puntaje.
+4. **Solicitar sin relación previa en bancos que la valoran.** En Bank of America y Citi, sobre todo, tener una cuenta de cheques mejora notablemente tus probabilidades.
+5. **Cerrar la tarjeta asegurada demasiado pronto.** Cerrarla reduce la antigüedad promedio de tus cuentas. Mantenla abierta o mejórala donde el emisor lo permita.
+6. **Dejar que tu ITIN venza.** Un ITIN que no se usa en una declaración federal de impuestos durante tres años seguidos vence. Consulta [qué pasa con tu tarjeta si tu ITIN vence](/es/articles/expired-itin-credit-card-what-happens).
 
 ---
 
@@ -266,3 +306,12 @@ No. Una vez que se abre una cuenta de crédito con tu ITIN, reporta a las agenci
 
 **P: ¿Discover sigue siendo una opción para titulares de ITIN en 2026?**
 No. Discover requiere un número de Seguro Social y no acepta ITIN a partir de 2026. Si te rechazaron en Discover, considera Capital One, OpenSky o Chase.
+
+**P: ¿Solicitar una tarjeta de crédito con ITIN afecta mi puntaje de crédito?**
+La mayoría de las solicitudes generan una consulta dura que puede bajar tu puntaje unos cuantos puntos por un tiempo. OpenSky no revisa tu crédito y la precalificación de Capital One usa una consulta suave, así que ninguna de las dos afecta tu puntaje.
+
+**P: ¿Una tarjeta asegurada con ITIN puede pasar a ser no asegurada sin SSN?**
+No en todos los emisores. Citi y U.S. Bank exigen un SSN antes de pasarte de su tarjeta asegurada a una no asegurada. Aun así, puedes abrir estas tarjetas con ITIN y construir historial.
+
+**P: ¿Qué hago si rechazan mi solicitud de tarjeta de crédito con ITIN?**
+Lee el aviso de acción adversa para conocer el motivo exacto, corrígelo y espera de 30 a 60 días antes de volver a solicitar para no acumular consultas duras.

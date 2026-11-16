@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "citi-credit-card-itin"
   - "how-to-apply-for-credit-card-with-itin"
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "itin-credit-card-issuer-verified-application-guide-2026"
+  - "capital-one-credit-card-itin"
+  - "chase-credit-card-itin"
 faqs:
   - q: "Is there a minimum income required to get a credit card with an ITIN?"
     a: "No federal law sets a minimum. Issuers set their own internal thresholds. In practice, most ITIN-accepting cards look for roughly $500-$2,000 per month, though no-credit-check secured cards like OpenSky often approve applicants regardless of income amount, as long as you can fund the deposit."
@@ -87,7 +87,7 @@ The table below compares major ITIN-accepting options by income flexibility, dep
 
 Among the top 10 credit card issuers, seven accept an ITIN, including Bank of America and Capital One. That gives ITIN holders real choices rather than a single path.
 
-For a deeper look at which specific issuers accept ITINs and what each card requires beyond income, see our full guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
+For a deeper look at which specific issuers accept ITINs and what each card requires beyond income, see our full guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## Can I qualify if I just started working in the U.S. and only have one or two pay stubs?
 

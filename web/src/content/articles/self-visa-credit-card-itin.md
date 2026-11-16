@@ -1,126 +1,114 @@
 ---
-title: "Self Visa Credit Card With an ITIN (2026 Guide)"
-description: "The Self Visa accepts an ITIN. See how the Credit Builder Account works, deposit requirements, fees, APR, and whether it suits ITIN holders."
+title: "Self Visa With an ITIN? Self Requires an SSN (2026)"
+description: "No. Self's own eligibility rules require a Social Security Number for the Self Visa and the Credit Builder Account. What that means and what to try instead."
 tier: detail
 targetQuery: "can I get the Self Visa credit card with an ITIN"
 relatedQueries:
   - "Self Visa credit card ITIN no SSN"
   - "Self Credit Builder Account ITIN holders"
-  - "how does Self Visa work for immigrants"
-  - "Self Visa secured card deposit requirements ITIN"
-  - "best credit builder card for ITIN holders 2026"
-quickAnswer: "Yes. The Self Visa Credit Card accepts an ITIN in place of an SSN. You must first open a Self Credit Builder Account, make payments for a few months, then unlock the secured card with a minimum $100 deposit drawn from your savings. It reports to all three bureaus and requires no hard credit pull for the card itself."
+  - "does Self accept ITIN"
+  - "Self Visa requirements Social Security Number"
+  - "secured card alternatives to Self for ITIN holders"
+quickAnswer: "No. Self's help center says the Self Visa Credit Card requires permanent U.S. residency or citizenship with a Social Security Number, and joining Self at all requires an SSN. An ITIN alone does not qualify. If you only have an ITIN, look at issuers whose own applications take an ITIN, such as Citi's online form."
 publishedAt: "2026-11-11"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-credit-card-complete-issuer-guide-2026"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "balance-transfer-credit-card-itin"
+  - "credit-card-international-students-itin"
+  - "get-secured-credit-card-deposit-back-itin"
   - "credit-card-f1-visa-holders-itin"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
 faqs:
   - q: "Can I get the Self Visa Credit Card with only an ITIN and no SSN?"
-    a: "Yes. Self explicitly accepts an ITIN on both the Credit Builder Account and the Self Visa Credit Card application. You do not need an SSN at any stage of the process."
-  - q: "Do I have to open a Credit Builder Account before I can get the Self Visa?"
-    a: "Yes. The Self Visa is a secured card linked to an active Self Credit Builder Account. You must open the account first, make qualifying payments, and then unlock the card using accumulated savings as your deposit, a minimum of $100."
-  - q: "Does the Self Visa do a hard credit pull for ITIN applicants?"
-    a: "Self does not perform a hard inquiry when you apply for the Credit Builder Account or when you unlock the Self Visa card. The initial account qualification uses a soft pull, which does not affect your credit score."
-  - q: "What is the annual fee for the Self Visa Credit Card?"
-    a: "The Self Visa carries a $0 annual fee for the first year, then $25 per year after that. The variable APR is approximately 27.49%-27.99%, so carrying a balance erases any credit-building value."
-  - q: "Does the Self Visa report to all three credit bureaus for ITIN holders?"
-    a: "Yes. Both the Credit Builder Account (installment tradeline) and the Self Visa Credit Card (revolving tradeline) report to Experian, TransUnion, and Equifax, regardless of whether you used an ITIN or an SSN to open the account."
+    a: "No. Self's eligibility page for the Self Visa requires permanent U.S. residency or citizenship with a Social Security Number. An ITIN is not listed as an alternative, so an ITIN-only applicant does not meet Self's stated requirements."
+  - q: "Can I open a Self Credit Builder Account with an ITIN?"
+    a: "Not according to Self. Its help center says that to join Self you must be a U.S. citizen or permanent resident, or hold an H1, L1 or student visa, and have a Social Security Number. That rule covers the Credit Builder Account too."
+  - q: "I have a work visa and an SSN. Can I use Self?"
+    a: "Possibly. Self's identity page lists H1, L1 and student visa holders with a Social Security Number as eligible to join. You would apply with your SSN, not your ITIN, and approval is still subject to Self's other checks."
+  - q: "What does the Self Visa cost if I do qualify?"
+    a: "Self's product page lists a $100 minimum security deposit, a $0 annual fee for the first year for new customers, a $25 annual fee after that, and a 27.74% variable APR. Confirm current terms on Self's site before applying."
+  - q: "Does applying for the Self Visa require a hard credit inquiry?"
+    a: "Self says applying for the Self Visa does not require a hard credit inquiry. That only matters if you meet the SSN requirement first."
+  - q: "What should I apply for instead if I only have an ITIN?"
+    a: "Start with issuers whose own applications accept an ITIN. Citi's online application has an SSN-or-ITIN field, and Capital One says ITIN holders may be able to get some of its cards. Our verified issuer list covers the rest, and Self's support line (1-877-883-0999) can confirm its own rules."
 published: true
 ---
 
-The Self Visa Credit Card is one of the few secured cards that openly accepts an ITIN, skips the hard credit pull, and lets you start with a deposit as low as $100. It also pairs with a Credit Builder Account that creates an installment tradeline, so ITIN holders get two types of credit history from one application. This guide covers exactly how the two-step process works, what it costs, and whether it makes sense as your first or second card.
+**Correction (November 16, 2026):** the first version of this article, published November 11, said the Self Visa Credit Card accepts an ITIN in place of an SSN. That was wrong. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number." The original draft repeated a claim that our own issuer checks had already ruled out in August, and we have rewritten the article around what Self's pages actually say.
 
-## "Can I really apply for the Self Visa without an SSN?"
+If you searched for the Self Visa because you only have an ITIN, the short answer is that Self is not built for you yet. Below is what Self requires, who it does work for, and where an ITIN holder can apply instead.
 
-*A question we hear often:* yes, and it is one of the few mainstream secured cards where this is unambiguously confirmed.
+## "Does Self accept an ITIN for the Self Visa?"
 
-Self accepts an ITIN and pairs it with a credit-builder savings account. You enter your ITIN in the tax identification field during the Credit Builder Account sign-up, and that same number carries through to the card application once you become eligible.
+*A question we hear often:* no, not according to Self.
 
-One thing worth knowing: Self is not a bank. It is a legitimate business, and its banking products are FDIC-insured up to $250,000 through bank partners including Sunrise Banks, Lead Bank, and First Century Bank. Your deposit money is protected the same way a traditional bank deposit would be.
+Self's help center article on eligibility for the Self Visa lists three conditions: share your income and expenses, have permanent U.S. residency or citizenship with a Social Security Number, and be able to fund a minimum $100 security deposit. An ITIN does not appear anywhere in that list, and no alternative to the SSN is offered.
 
-## "How does the two-step process actually work for an ITIN holder?"
+The same rule applies one step earlier. Self's [identity verification page](https://support.self.inc/s/article/How-do-I-verify-my-identity) says that to join Self at all, you must be a U.S. citizen or permanent resident, or have an H1, L1 or student visa and a Social Security Number, and be at least 18. That covers the Credit Builder Account, which is the product many people assume is the ITIN-friendly entry point. It is not.
 
-This is the part that trips up most first-timers, so here is a plain walkthrough.
+Self also notes that meeting the minimum requirements does not guarantee an offer. So even applicants with an SSN can be declined.
 
-Step 1 is opening the Credit Builder Account. You pick a monthly payment amount (plans typically run from roughly $25 to $150 per month over 12 or 24 months) and make payments into a savings account. After several months you can unlock the secured card by using those accumulated savings as your deposit. The result is installment loan history and revolving credit card history at the same time, which does real work on your credit mix.
+## "Why do so many sites say Self works with an ITIN?"
 
-Step 2 is unlocking the Self Visa. Once you have made enough qualifying payments and meet Self's eligibility criteria, you redirect a portion of your saved funds into the secured card deposit. The minimum is $100. The Credit Builder Account builds payment history and returns a lump sum at the end of the term, minus interest and fees. Having an active Credit Builder Account is what makes you eligible to apply for the card in the first place.
+Part of the confusion comes from Self itself. Its blog publishes general guides about ITINs, credit reports and building credit as an immigrant, and those posts sometimes mention that other banks and card issuers accept an ITIN. That is advice about the market, not a statement about Self's own products.
 
-Why does this structure matter specifically for ITIN holders? Most people starting with zero U.S. credit history have neither an installment account nor a revolving one. FICO rewards borrowers who carry both, and that combination is genuinely hard to get from a single product anywhere else.
+The other part is copying. Once one comparison article lists Self as "ITIN OK," others repeat it without opening Self's application. Our first draft of this page did the same thing, which is exactly why it was wrong. When an issuer's own help center and a third-party list disagree, trust the issuer.
 
-## "What does the Self Visa cost, and is the fee worth it?"
+## "What does Self actually require, compared with what an ITIN holder has?"
 
-*Readers frequently ask:* here is the full cost picture before you commit.
+| Requirement (from Self's help center) | ITIN-only applicant | Applicant with an SSN |
+|---|---|---|
+| Social Security Number | Does not meet it | Meets it |
+| U.S. citizen or permanent resident (or H1, L1 or student visa holder with an SSN) | Usually not | Often yes |
+| Share income and expenses | Can provide | Can provide |
+| Fund a $100 minimum deposit (debit card, bank account or Credit Builder savings) | Could fund it, but cannot get past the SSN step | Can fund it |
+| Pass identity verification | Blocked by the SSN rule | Possible |
 
-The card carries a $0 annual fee for the first year and $25 after that, plus a 27.49% variable APR as of January 1, 2026. Some sources have reported the variable APR at approximately 27.99%, so check Self's website directly before applying. The Credit Builder Account itself also charges interest, which is the cost of the installment loan embedded in the account.
+The deposit and income pieces are easy for most people. The SSN line is the one that stops ITIN holders, and nothing on Self's pages says it can be swapped for an ITIN.
 
-The rule that matters: pay your statement balance in full every month. Credit building works through payment history, not through carrying balances, and the APR here is high enough that any running balance wipes out whatever you are gaining. Charge a small recurring expense like a streaming subscription, pay it off in full, repeat. Under that pattern, the annual fee is a reasonable price for adding two tradelines to your file.
+## "If I qualify later, what does the Self Visa cost?"
 
-## "How does the Self Visa compare to other ITIN-friendly secured cards?"
+*Readers frequently ask:* this matters if you expect to receive an SSN, for example after a green card or a work permit.
 
-| Card | Min. Deposit | Annual Fee | APR | Credit Check | No SSN Needed | Reports to All 3 Bureaus |
-|---|---|---|---|---|---|---|
-| Self Visa Credit Card | $100 (from savings) | $0 yr 1 / $25 after | ~27.49% var. | No hard pull | Yes (ITIN OK) | Yes |
-| Capital One Platinum Secured | $49-$200 | $0 | Variable | Hard pull | Yes (ITIN OK) | Yes |
-| OpenSky Secured Visa | $200 | $35 | 19.99% fixed | No credit check | Yes (ITIN OK) | Yes |
-| Citi Secured Mastercard | $200 | $0 | Variable | Hard pull | Yes (ITIN OK) | Yes |
-| Kikoff Secured | Lower deposit | $0 | Low/none | No hard pull | Yes (ITIN OK) | Yes |
+According to Self's [Self Visa product page](https://www.self.inc/visa-secured-credit-card), the card has a $100 minimum security deposit, a $0 annual fee in the first year for new customers, a $25 annual fee after that, and a 27.74% variable APR. Self says applying does not require a hard credit inquiry, and that you can fund the deposit with a debit card, a bank account, or savings from an active Self Credit Builder Account. You no longer have to open the Credit Builder Account first.
 
-The Self Visa's clearest advantage is the no-hard-pull pathway combined with the lowest deposit threshold among traditional secured cards. Its clearest disadvantage is the mandatory Credit Builder Account step, which adds time before you hold a physical card. If you need a card now, OpenSky or the [Capital One Platinum Secured](/articles/capital-one-credit-card-itin) will get you there faster, though Capital One runs a hard inquiry.
+The usual secured-card rule applies: pay the statement balance in full every month. At a 27.74% APR, any balance you carry costs more than the card is worth as a credit-building tool.
 
-## "Will the Self Visa help me build a real credit score faster than a regular secured card?"
+## "Where can I apply with only an ITIN instead?"
 
-*This one comes up a lot:* the honest answer is yes, but only because of the installment tradeline, not because of anything special about the card itself.
+Look for issuers whose own application asks for an "SSN or ITIN," not for a list that says so. Our [verified issuer list](/articles/credit-cards-that-accept-itin-verified-issuer-list) tracks this card by card. A few starting points from issuers' own pages:
 
-Self pairs a Credit Builder Account (a small installment loan) with a Visa card secured by the payments you have already made. The benefit is credit mix. FICO rewards borrowers who carry both installment and revolving accounts, and most ITIN holders start with neither. Self gives you both inside a single app.
+- **Citi:** its online application has a field that takes either an SSN or an ITIN. See our [Citi with an ITIN guide](/articles/citi-credit-card-itin).
+- **Capital One:** says ITIN holders may be able to get some of its cards, which is a hedge, not a promise. See our [Capital One with an ITIN guide](/articles/capital-one-credit-card-itin).
+- **Credit unions:** many apply case by case. Our [bank-by-bank application guide](/articles/itin-credit-card-bank-by-bank-application-guide) covers which ones to call.
 
-A single secured card from OpenSky or Citi builds a revolving tradeline. The Self setup builds a revolving tradeline plus an installment tradeline. According to FICO, credit mix accounts for roughly 10% of your score, but the bigger gain is that your payment history (35% of FICO) is being recorded across two separate account types from day one. With on-time payments on a secured card, most people reach a 650+ credit score in 12-18 months. Adding the installment tradeline can shorten that timeline for some applicants.
+If you are starting from zero U.S. history, our [starter card rankings](/articles/itin-starter-credit-cards-ranked-zero-history) walk through the order to apply in, and the [secured vs unsecured comparison](/articles/secured-vs-unsecured-credit-card-itin-comparison) explains deposits and graduation.
 
-For a broader look at how secured and unsecured cards stack up for ITIN holders, see our [secured vs. unsecured ITIN credit card guide](/articles/itin-secured-vs-unsecured-credit-card-complete-guide).
+## "What if I get an SSN later?"
 
-## "What documents does Self actually ask for when I apply with an ITIN?"
+Then Self becomes a real option, and the card history you built under your ITIN is worth carrying over rather than starting again. Our guide on [moving your credit card history from an ITIN to an SSN](/articles/itin-to-ssn-credit-card-history-transfer) covers how that works.
 
-The Self application is fully online, which is a real advantage over issuers like Bank of America that require ITIN holders to visit a branch.
-
-You should have these ready before you start:
-
-- Your ITIN (the nine-digit number from your IRS CP565 notice or W-7 approval letter)
-- A government-issued photo ID, typically a foreign passport
-- A U.S. mailing address
-- A U.S. bank account or debit card to fund the monthly Credit Builder Account payments
-- Proof of income (pay stubs, bank statements, or an offer letter are all commonly accepted)
-
-Most ITIN-accepting issuers ask about income but accept self-employment, cash, or household income. Self is no exception. If you are self-employed or paid in cash, documenting a consistent monthly income level, even informally, strengthens your application.
-
-## "Is the Self Visa actually worth it, or should I just get a different card first?"
-
-The Self Visa makes the most sense in two situations. First, if you have zero U.S. credit history and cannot get approved elsewhere because even soft-pull issuers want some activity on file. Second, if you want to build credit mix as fast as possible without filing two separate applications in your first month.
-
-It makes less sense if you can get approved for the [Capital One Platinum Secured](/articles/capital-one-credit-card-itin) or a [credit union secured card](/articles/credit-union-credit-card-itin) right away. Those cards skip the Credit Builder Account waiting period and still report to all three bureaus. The tradeoff is that they add only a revolving tradeline, not an installment one.
-
-A sequencing approach that works for a lot of ITIN holders: start with OpenSky or Capital One Secured for immediate card access, then add the Self Credit Builder Account three to six months later to pick up the installment tradeline. That gets you a physical card immediately and the credit mix benefit shortly after, without the delay that comes from starting with Self first. Many users bring in the Self Visa once six months of history is on the books.
-
-For more options at the zero-history stage, see our [guide to starter ITIN credit cards](/articles/best-itin-starter-credit-cards-ranked-zero-to-score).
+Until then, apply where your ITIN is accepted on the application itself, and confirm Self's rules with Self directly (its support line is 1-877-883-0999) before you spend time on its sign-up flow.
 
 ---
 
 ## Frequently asked questions
 
 Can I get the Self Visa Credit Card with only an ITIN and no SSN?
-Yes. Self explicitly accepts an ITIN on both the Credit Builder Account and the Self Visa Credit Card application. You do not need an SSN at any stage of the process.
+No. Self's eligibility page for the Self Visa requires permanent U.S. residency or citizenship with a Social Security Number. An ITIN is not listed as an alternative, so an ITIN-only applicant does not meet Self's stated requirements.
 
-Do I have to open a Credit Builder Account before I can get the Self Visa?
-Yes. The Self Visa is a secured card linked to an active Self Credit Builder Account. You must open the account first, make qualifying payments, and then unlock the card using accumulated savings as your deposit, with a minimum of $100.
+Can I open a Self Credit Builder Account with an ITIN?
+Not according to Self. Its help center says that to join Self you must be a U.S. citizen or permanent resident, or hold an H1, L1 or student visa, and have a Social Security Number. That rule covers the Credit Builder Account too.
 
-Does the Self Visa do a hard credit pull for ITIN applicants?
-Self does not perform a hard inquiry when you apply for the Credit Builder Account or when you unlock the Self Visa card. The initial account qualification uses a soft pull, which does not affect your credit score.
+I have a work visa and an SSN. Can I use Self?
+Possibly. Self's identity page lists H1, L1 and student visa holders with a Social Security Number as eligible to join. You would apply with your SSN, not your ITIN, and approval is still subject to Self's other checks.
 
-What is the annual fee for the Self Visa Credit Card?
-The Self Visa carries a $0 annual fee for the first year, then $25 per year after that. The variable APR is approximately 27.49%-27.99%, so carrying a balance erases any credit-building value.
+What does the Self Visa cost if I do qualify?
+Self's product page lists a $100 minimum security deposit, a $0 annual fee for the first year for new customers, a $25 annual fee after that, and a 27.74% variable APR. Confirm current terms on Self's site before applying.
 
-Does the Self Visa report to all three credit bureaus for ITIN holders?
-Yes. Both the Credit Builder Account (installment tradeline) and the Self Visa Credit Card (revolving tradeline) report to Experian, TransUnion, and Equifax, regardless of whether you used an ITIN or an SSN to open the account.
+Does applying for the Self Visa require a hard credit inquiry?
+Self says applying for the Self Visa does not require a hard credit inquiry. That only matters if you meet the SSN requirement first.
+
+What should I apply for instead if I only have an ITIN?
+Start with issuers whose own applications accept an ITIN. Citi's online application has an SSN-or-ITIN field, and Capital One says ITIN holders may be able to get some of its cards. Our verified issuer list covers the rest, and Self's support line (1-877-883-0999) can confirm its own rules.

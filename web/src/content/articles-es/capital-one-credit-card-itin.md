@@ -15,9 +15,9 @@ author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "discover-credit-card-itin"
-  - "itin-credit-card-complete-issuer-guide-2026"
   - "secured-vs-unsecured-credit-card-itin-comparison"
   - "foreign-credit-history-credit-card-itin"
+  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "¿Capital One acepta un ITIN en lugar de un SSN para tarjetas de crédito?"
     a: "Sí. Capital One acepta expresamente un ITIN en lugar de un SSN en todos sus productos de tarjeta de crédito para consumidores, incluyendo tarjetas aseguradas y no aseguradas. Que acepten el ITIN no garantiza la aprobación: los requisitos de ingresos y solvencia crediticia siguen aplicando."
@@ -89,7 +89,7 @@ La Capital One QuicksilverOne Cash Rewards Credit Card es una buena opción de r
 
 En el nivel más alto, la Capital One Venture Rewards Credit Card también acepta solicitudes con ITIN y ofrece $300 en crédito para reservas de hoteles y alquileres vacacionales a través de Capital One Travel durante el primer año. Sin embargo, la Venture está dirigida a solicitantes con crédito bueno o excelente. Por lo general requiere uno o más años de historial crediticio en EE. UU. y un puntaje FICO de 720 o más. La mayoría de los titulares de ITIN no pueden obtenerla como primera tarjeta. El camino es: empieza con la asegurada o la Platinum, construye historial y luego solicita la Venture después de 12 a 18 meses.
 
-Para una comparación detallada de Capital One frente a otros emisores, nuestra [comparación de tarjetas de crédito ITIN por emisor](/es/articles/itin-credit-card-issuer-comparison-2026) cubre el panorama completo.
+Para una comparación detallada de Capital One frente a otros emisores, nuestra [comparación de tarjetas de crédito ITIN por emisor](/es/articles/credit-cards-that-accept-itin-verified-issuer-list) cubre el panorama completo.
 
 ## ¿Capital One reporta la actividad de mi tarjeta a los tres burós de crédito?
 

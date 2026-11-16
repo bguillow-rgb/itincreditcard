@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
-  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "capital-one-credit-card-itin"
-  - "itin-credit-card-complete-issuer-guide-2026"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
+  - "upgrade-secured-to-unsecured-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada solo con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. Emisores como Capital One, Bank of America, Citi, Wells Fargo y OpenSky aceptan un ITIN en lugar de un SSN. Como tu depósito funciona como garantía, la mayoría de estas tarjetas no requieren ningún historial crediticio previo en EE. UU. para aprobarte."
@@ -124,4 +124,4 @@ Tres errores afectan a los titulares de ITIN más que otros:
 
 **Solicitar a emisores que ya no aceptan ITIN.** Las políticas de los emisores cambian. [Llama directamente a la línea de servicio al cliente del emisor para confirmar su política actual con respecto al ITIN antes de solicitar, porque las políticas publicadas y la ejecución a nivel de sucursal no siempre coinciden](4-6). Una solicitud rechazada deja una consulta dura en tu expediente hasta por dos años, según Experian. Usa herramientas de precalificación cuando estén disponibles para verificar la elegibilidad con una consulta suave antes de comprometerte con una solicitud completa.
 
-Para una visión más amplia de qué emisores actualmente son compatibles con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
+Para una visión más amplia de qué emisores actualmente son compatibles con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide).

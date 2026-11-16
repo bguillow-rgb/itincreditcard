@@ -30,7 +30,7 @@ faqs:
     a: "In May 2026, a federal executive order told the Treasury Department to issue guidance that may treat ITIN use as a factor requiring enhanced due diligence at some financial institutions. That guidance was still pending as of this writing. Current accounts aren't affected, and the order doesn't stop ITIN holders from applying for credit. If you're applying soon, confirm an issuer's current ITIN policy directly instead of trusting older articles. Policies shift without any public announcement."
 relatedSlugs:
   - "secured-credit-card-with-itin"
-  - "which-banks-accept-itin-for-credit-cards"
+  - "itin-credit-card-bank-by-bank-application-guide"
   - "build-credit-with-itin-credit-card"
 published: true
 ---

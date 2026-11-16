@@ -114,4 +114,4 @@ Call the issuer's reconsideration or customer service line rather than accepting
 
 If the issuer truly won't accept an ITIN, the authorized user account may still be issued, but without credit-bureau reporting. In that case, the account is spending access only, not a credit-building tool. Your better path is to ask the primary cardholder to open a new card at an ITIN-friendly issuer like American Express (which explicitly accepts ITINs for authorized users) or to proceed directly to a [secured card in your own name](/articles/secured-credit-card-with-itin) that accepts ITIN applicants.
 
-For a broader picture of which issuers are most welcoming to ITIN holders across all product types, see our full guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
+For a broader picture of which issuers are most welcoming to ITIN holders across all product types, see our full guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide).

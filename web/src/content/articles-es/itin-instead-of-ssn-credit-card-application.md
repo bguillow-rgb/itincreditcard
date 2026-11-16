@@ -9,26 +9,39 @@ relatedQueries:
   - "el ITIN funciona igual que el SSN para tarjetas de crédito"
   - "campo de SSN en solicitud de tarjeta puedo poner ITIN"
   - "qué pasa si uso ITIN en una solicitud de crédito"
-quickAnswer: "Sí. Puedes ingresar tu ITIN en el campo de SSN en la mayoría de las solicitudes de tarjeta de crédito. Muchos emisores importantes, como Capital One, American Express y Bank of America, aceptan un ITIN en lugar del SSN. La aprobación depende de tus ingresos, tu historial crediticio y si esa tarjeta específica acepta ITIN."
+quickAnswer: "Sí. En los emisores que lo aceptan, escribes tu ITIN en el campo de SSN de la solicitud de tarjeta de crédito. Capital One dice que los titulares de ITIN pueden llegar a calificar, y se reporta que otros emisores grandes también lo aceptan. La aprobación depende de tus ingresos, tu historial crediticio y si esa tarjeta específica acepta ITIN."
 publishedAt: "2026-10-28"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "how-itin-works-credit-card-application"
-  - "what-is-itin-number-credit-card"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
+  - "itin-credit-card-credit-bureau-reporting"
+  - "credit-card-itin-non-residents"
+  - "how-to-apply-for-credit-card-with-itin"
+  - "itin-credit-card-bank-by-bank-application-guide"
 faqs:
   - q: "¿Puedo escribir mi ITIN en el campo de SSN de una solicitud de tarjeta de crédito?"
     a: "Sí. Cuando un emisor acepta ITIN, simplemente escribes tu ITIN de 9 dígitos en el campo de SSN del formulario. Algunos emisores etiquetan ese campo como 'SSN/ITIN' para dejarlo claro. Confirma siempre que la tarjeta específica acepta ITIN antes de aplicar, porque un rechazo igual genera una consulta dura en tu historial."
   - q: "¿El ITIN es lo mismo que el SSN para efectos de tarjetas de crédito?"
     a: "No exactamente. Ambos son identificadores de 9 dígitos, pero el SSN lo emite la Administración del Seguro Social y el ITIN lo emite el IRS. Los emisores que aceptan ambos los tratan igual durante la verificación de identidad e historial crediticio. La diferencia está en que no todos los emisores aceptan ITIN, y el ITIN no tiene el mismo valor de autorización de trabajo que el SSN."
   - q: "¿Qué emisores principales de tarjetas de crédito aceptan ITIN en lugar de SSN?"
-    a: "Capital One, American Express, Bank of America, Discover y muchas cooperativas de crédito aceptan ITIN abiertamente. Las políticas de Chase y Citi varían según la tarjeta. Revisa la página de la tarjeta o llama al emisor antes de enviar tu solicitud."
+    a: "Capital One dice que los titulares de ITIN pueden llegar a calificar, el formulario en línea de Citi tiene un campo de SSN o ITIN, y se reporta que American Express y Bank of America lo aceptan. La postura de Discover no está verificada y la de Chase varía según la tarjeta. Revisa la página de la tarjeta o llama al emisor antes de enviar tu solicitud."
   - q: "¿Usar un ITIN reduce mis probabilidades de que me aprueben la tarjeta?"
     a: "Usar un ITIN no reduce tus probabilidades automáticamente, pero tener un historial crediticio escaso o inexistente en Estados Unidos sí puede hacerlo. Muchos titulares de ITIN comienzan con una tarjeta asegurada para construir historial y luego pasan a tarjetas sin garantía después de 12 a 24 meses. El ITIN en sí es un identificador neutral, no una señal de alarma."
   - q: "¿Qué le pasa a mi tarjeta de crédito si mi ITIN vence?"
     a: "Tus tarjetas actuales y tu historial crediticio se mantienen intactos. Un ITIN vencido no cancela cuentas abiertas. Sin embargo, solicitar una nueva tarjeta con un ITIN vencido puede causar problemas de verificación, así que renuévalo con el Formulario W-7 antes de enviar cualquier nueva solicitud."
+  - q: "¿Mi ITIN aparece impreso en mi tarjeta de crédito?"
+    a: "No. La tarjeta muestra tu nombre, el número de tarjeta de 15 o 16 dígitos, la fecha de vencimiento y el código de seguridad. El número de tarjeta lo asigna el emisor después de aprobarte y no tiene relación con tu ITIN, que queda guardado en los registros internos del emisor."
+  - q: "¿Cómo se ve un número ITIN?"
+    a: "Son nueve dígitos con el formato 9XX-XX-XXXX, igual que un Número de Seguro Social. Siempre empieza con 9, y la Administración del Seguro Social nunca ha emitido un SSN que empiece con 9, así es como el sistema del emisor distingue uno del otro."
+  - q: "¿Qué documento prueba mi ITIN si el número no viene en una tarjeta?"
+    a: "El IRS no emite una tarjeta plástica de ITIN. Tu comprobante es el aviso CP565 que el IRS envía por correo cuando te asigna el número. Guarda el original en un lugar seguro y lleva una copia si una sucursal pide verificar tu ITIN."
+  - q: "¿Solicitar una tarjeta con ITIN genera una consulta dura?"
+    a: "Por lo general, sí. Si el emisor hace una revisión completa de crédito, la consulta aparece en tu historial igual que para un solicitante con SSN. Por eso conviene confirmar que la tarjeta acepta ITIN antes de aplicar."
+  - q: "¿Cómo se vincula la actividad de mi tarjeta con mi ITIN en los burós de crédito?"
+    a: "El emisor reporta tu cuenta con tu ITIN, nombre, dirección e historial de pagos a Equifax, Experian y TransUnion. Según la CFPB, los burós asignan las cuentas reportadas usando varios datos de identificación, no solo el número."
+  - q: "¿Qué pasa con mi historial de crédito con ITIN si después obtengo un SSN?"
+    a: "Se va contigo. Cuando tengas un SSN, pides a los burós que unan el expediente del ITIN con el de tu SSN, y las cuentas conservan sus fechas de apertura y su historial de pagos originales."
 published: true
 ---
 
@@ -52,6 +65,36 @@ Los bancos y las cooperativas de crédito reconocen ampliamente el ITIN como un 
 
 ---
 
+## ¿Mi ITIN aparece impreso en la tarjeta, o el número largo es otra cosa?
+
+*Este tema surge mucho,* casi siempre justo después de que llega la tarjeta nueva por correo.
+
+Tu ITIN nunca aparece en la tarjeta. El número largo del frente es el número de cuenta de la tarjeta, que el emisor genera después de aprobarte. Tiene 15 dígitos en la mayoría de las tarjetas American Express y 16 en la mayoría de las Visa y Mastercard, y no tiene ninguna relación con tu identificación fiscal. Esto es lo que lleva la tarjeta y lo que no:
+
+| En tu tarjeta | No está en tu tarjeta |
+|---|---|
+| Tu nombre | Tu ITIN |
+| Número de tarjeta de 15 o 16 dígitos | Ninguna identificación fiscal ni SSN |
+| Fecha de vencimiento (MM/AA) | Tu fecha de nacimiento |
+| Código de seguridad (CVV) | Tu dirección o tus ingresos |
+| Logotipos del emisor y de la red | Tu estatus migratorio |
+
+El ITIN se pide una sola vez, durante la solicitud, para confirmar quién eres y encontrar o abrir tu expediente de crédito. Después queda en los registros internos del emisor. Nada en la tarjeta ni en la aplicación indica que eres titular de ITIN, así que la tarjeta se ve y funciona igual que la de cualquier otra persona. Si alguien te pide que le leas "el ITIN de tu tarjeta", trátalo como un intento de fraude.
+
+El ITIN tampoco viene en una tarjeta. El IRS envía por correo un aviso CP565 cuando asigna el número, y esa carta es tu comprobante. Guarda el original en un lugar seguro y lleva una copia a cualquier solicitud en sucursal.
+
+---
+
+## ¿Cómo se ve un ITIN, para ingresarlo correctamente?
+
+Un ITIN tiene la misma estructura que un Número de Seguro Social: nueve dígitos con el formato 9XX-XX-XXXX. Según el IRS, siempre empieza con 9, y el cuarto y quinto dígito están en rangos definidos (50 a 65, 70 a 88, 90 a 92 o 94 a 99). La Administración del Seguro Social nunca ha emitido un SSN que empiece con 9, y así es como el sistema del emisor reconoce el número como ITIN.
+
+Escríbelo exactamente como aparece en tu aviso CP565. No pongas ceros en lugar de dígitos que falten, no agregues letras y no uses un número viejo de una solicitud anterior. Si el formulario tiene casillas separadas para los tres grupos, divídelo 3-2-4, igual que un SSN.
+
+Los dígitos del medio también indican si el número está vigente. Los ITIN que no se usan en una declaración de impuestos federal durante tres años seguidos vencen, y el IRS retira rangos de dígitos centrales más antiguos según un calendario (más detalles en la sección de vencimiento). Un ITIN vencido es la razón más común por la que un número válido no pasa la verificación de identidad.
+
+---
+
 ## ¿Dónde exactamente pongo mi ITIN en el formulario de solicitud?
 
 *Una pregunta que escuchamos con frecuencia:* algunos lectores asumen que hay un campo separado para el ITIN oculto en algún lugar del formulario.
@@ -68,22 +111,34 @@ Si estás aplicando en línea y el formulario rechaza tu ITIN porque comienza co
 
 *Este tema surge mucho.* Conocer la política antes de aplicar te evita consultas duras innecesarias en tu historial crediticio.
 
-Aquí hay un resumen actualizado de las políticas de los principales emisores:
+Aquí hay un resumen actualizado de las políticas de los principales emisores. "Reportado" significa que solicitantes y fuentes externas dicen que funciona, pero las páginas del propio emisor no lo explican:
 
 | Emisor | ¿Acepta ITIN? | Notas |
 |---|---|---|
-| American Express | Sí | También acepta número de pasaporte |
-| Bank of America | Sí | Puede requerir visita a una sucursal |
-| Capital One | Sí | Ingresa el ITIN en el campo de SSN |
-| Discover | Sí | Solicitudes en línea aceptadas |
+| American Express | Reportado | El texto de ayuda de la solicitud indica poner el ITIN en el campo de SSN |
+| Bank of America | Reportado | Puede requerir visita a una sucursal |
+| Capital One | Puede aceptarlo | Capital One dice que los titulares de ITIN "pueden llegar a" calificar; ingrésalo en el campo de SSN |
+| Citi | Sí, en línea | El campo de identidad dice "Social Security Number or ITIN" |
 | Chase | Varía según la tarjeta | Verifica la página de cada tarjeta |
-| Citi | Varía según la tarjeta | Algunas tarjetas requieren SSN |
-| Wells Fargo | Sí (tarjetas seleccionadas) | Generalmente se necesita visita a sucursal |
-| La mayoría de cooperativas de crédito | Sí | Las políticas varían por institución |
+| Discover | Sin verificar | Las fuentes se contradicen; confirma con Discover antes de aplicar |
+| Wells Fargo | Reportado (algunas tarjetas de marca) | No ofrece tarjeta asegurada a nuevos solicitantes |
+| Cooperativas de crédito | Varía | Las políticas varían por institución |
 
 Muchos emisores aceptan un ITIN en lugar de un SSN, pero no todos siguen los mismos criterios, por lo que los requisitos de elegibilidad varían de un emisor a otro.
 
 Confirma que la solicitud de una tarjeta acepta ITIN antes de aplicar, ya que algunos emisores lo aceptan solo en ciertas tarjetas. Para un análisis más detallado emisor por emisor, consulta nuestra [lista verificada de emisores para tarjetas de crédito con ITIN](/es/articles/credit-cards-that-accept-itin-verified-issuer-list).
+
+---
+
+## ¿Qué pasa con mi ITIN después de enviar la solicitud?
+
+*Los lectores preguntan con frecuencia* si el emisor revisa el número contra una base de datos del IRS o simplemente acepta lo que escribas.
+
+Pasa por la misma verificación de identidad que cualquier solicitante. Las reglas federales de "Conozca a su cliente" obligan al emisor a confirmar quién eres antes de abrir una cuenta, así que compara tu nombre, dirección y fecha de nacimiento con sus fuentes de datos. Si ya tienes un expediente de crédito en Estados Unidos, consulta tu reporte con el ITIN, y una revisión completa aparece como consulta dura igual que para un solicitante con SSN. Si todavía no tienes expediente, espera que te pidan documentos de respaldo (tu CP565, pasaporte, comprobante de domicilio y de ingresos) y quizás una revisión manual.
+
+Cuando se abre la cuenta, el emisor la reporta a Equifax, Experian y TransUnion con tu ITIN. Los burós crean o amplían un expediente vinculado a ese número, y tu puntaje se calcula con los mismos modelos que se usan para quienes tienen SSN. La CFPB explica que los burós asignan las cuentas reportadas a una persona usando varios datos, como nombre, dirección y fecha de nacimiento, no solo el número de identificación, así que una mudanza no deja tu historial huérfano.
+
+Si más adelante recibes un SSN, ese historial se va contigo: pides a los burós que unan el expediente del ITIN con el de tu SSN, y las cuentas conservan sus fechas de apertura originales. Nuestra guía sobre [cómo pasar tu historial de crédito del ITIN al SSN](/es/articles/itin-to-ssn-credit-card-history-transfer) explica ese paso.
 
 ---
 
@@ -136,7 +191,7 @@ Tener estos documentos listos te permite completar una solicitud en sucursal en 
 
 ---
 
-## 5 preguntas frecuentes sobre usar un ITIN en lugar de un SSN en solicitudes de tarjeta de crédito
+## Preguntas frecuentes sobre usar un ITIN en lugar de un SSN en solicitudes de tarjeta de crédito
 
 **¿Puedo escribir mi ITIN en el campo de SSN de una solicitud de tarjeta de crédito?**
 Sí. Cuando un emisor acepta ITIN, escribes tu ITIN de 9 dígitos directamente en el campo de SSN. Algunos emisores etiquetan el campo como "SSN/ITIN" para dejarlo claro. Confirma siempre que la tarjeta específica acepta ITIN antes de aplicar, porque un rechazo igual genera una consulta dura en tu historial.
@@ -145,10 +200,28 @@ Sí. Cuando un emisor acepta ITIN, escribes tu ITIN de 9 dígitos directamente e
 No exactamente. Ambos son identificadores de 9 dígitos, pero el SSN proviene de la Administración del Seguro Social y el ITIN del IRS. Los emisores que aceptan ambos los tratan igual durante la verificación de identidad e historial crediticio. La diferencia está en que no todos los emisores aceptan ITIN, y el ITIN no tiene la misma señal de autorización de trabajo que el SSN.
 
 **¿Qué emisores principales de tarjetas de crédito aceptan ITIN en lugar de SSN?**
-Capital One, American Express, Bank of America, Discover y muchas cooperativas de crédito aceptan ITIN abiertamente. Las políticas de Chase y Citi varían según la tarjeta. Revisa la página de la tarjeta específica o llama al emisor antes de enviar tu solicitud.
+Capital One dice que los titulares de ITIN pueden llegar a calificar, el formulario en línea de Citi tiene un campo de SSN o ITIN, y se reporta que American Express y Bank of America lo aceptan. La postura de Discover no está verificada y la de Chase varía según la tarjeta. Revisa la página de la tarjeta específica o llama al emisor antes de enviar tu solicitud.
 
 **¿Usar un ITIN reduce mis probabilidades de aprobación?**
 Usar un ITIN no reduce tus probabilidades automáticamente, pero tener un historial crediticio escaso o inexistente en Estados Unidos sí puede hacerlo. Muchos titulares de ITIN comienzan con una tarjeta asegurada para construir historial y luego pasan a tarjetas sin garantía después de 12 a 24 meses. El ITIN en sí es un identificador neutral, no una señal de alarma.
 
 **¿Qué le pasa a mi tarjeta de crédito si mi ITIN vence?**
 Tus tarjetas actuales y tu historial crediticio se mantienen intactos. Un ITIN vencido no cancela cuentas abiertas. Solicitar una nueva tarjeta con un ITIN vencido puede causar fallas en la verificación, así que renuévalo con el Formulario W-7 antes de enviar cualquier nueva solicitud.
+
+**¿Mi ITIN aparece impreso en mi tarjeta de crédito?**
+No. La tarjeta muestra tu nombre, el número de tarjeta de 15 o 16 dígitos, la fecha de vencimiento y el código de seguridad. El número de tarjeta lo asigna el emisor después de aprobarte y no tiene relación con tu ITIN, que queda guardado en los registros internos del emisor.
+
+**¿Cómo se ve un número ITIN?**
+Son nueve dígitos con el formato 9XX-XX-XXXX, igual que un Número de Seguro Social. Siempre empieza con 9, y la Administración del Seguro Social nunca ha emitido un SSN que empiece con 9, así es como el sistema del emisor distingue uno del otro.
+
+**¿Qué documento prueba mi ITIN si el número no viene en una tarjeta?**
+El IRS no emite una tarjeta plástica de ITIN. Tu comprobante es el aviso CP565 que el IRS envía por correo cuando te asigna el número. Guarda el original en un lugar seguro y lleva una copia si una sucursal pide verificar tu ITIN.
+
+**¿Solicitar una tarjeta con ITIN genera una consulta dura?**
+Por lo general, sí. Si el emisor hace una revisión completa de crédito, la consulta aparece en tu historial igual que para un solicitante con SSN. Por eso conviene confirmar que la tarjeta acepta ITIN antes de aplicar.
+
+**¿Cómo se vincula la actividad de mi tarjeta con mi ITIN en los burós de crédito?**
+El emisor reporta tu cuenta con tu ITIN, nombre, dirección e historial de pagos a Equifax, Experian y TransUnion. Según la CFPB, los burós asignan las cuentas reportadas usando varios datos de identificación, no solo el número.
+
+**¿Qué pasa con mi historial de crédito con ITIN si después obtengo un SSN?**
+Se va contigo. Cuando tengas un SSN, pides a los burós que unan el expediente del ITIN con el de tu SSN, y las cuentas conservan sus fechas de apertura y su historial de pagos originales.

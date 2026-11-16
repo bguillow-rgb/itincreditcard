@@ -11,6 +11,7 @@ relatedQueries:
   - "credit card J-1 intern no US credit history"
 quickAnswer: "Yes, J-1 visa holders can get a U.S. credit card with an ITIN. Cards like the Capital One Platinum Secured, Discover it Secured, OpenSky Secured, and the Current Build Card all accept ITIN applications. You'll need your ITIN, passport, a U.S. address, and proof of income or a refundable deposit."
 publishedAt: "2026-09-16"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
@@ -68,7 +69,8 @@ One thing worth knowing upfront: the Credit CARD Act of 2009 requires applicants
 | OpenSky Secured | Secured | Yes | No credit check | $200 | Yes |
 | Capital One Platinum Secured | Secured | Yes | Soft pre-qual | $49-$200 | Yes |
 | Discover it Secured | Secured | Yes | Hard pull | $200 | Yes |
-| Self Visa (with Self account) | Secured | Yes | Soft pull | Via Self account | Yes |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 The Current Build Card is a strong pick for ITIN holders: no credit check, no minimum security deposit, and 0% APR, so approval doesn't hinge on a U.S. credit history you don't have yet.
 

@@ -15,6 +15,7 @@ import { loadSite, generateArticle } from './lib/generate.mjs';
 import { readArticleMeta } from './lib/articles.mjs';
 import { loadRoutes } from './lib/links.mjs';
 import { publishArticle, relinkDir } from './lib/publish.mjs';
+import { hintIsCovered, duplicateReason, staticPageTargets } from './lib/dedup.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const WEB_DIR = resolve(__dirname, '..');
@@ -23,7 +24,13 @@ const ARTICLES_ES_DIR = join(WEB_DIR, 'src/content/articles-es');
 
 const MODEL = process.env.DAILY_POST_MODEL || 'claude-sonnet-4-6';
 const API_KEY = process.env.ANTHROPIC_API_KEY;
-if (!API_KEY) {
+// --dry-run (or DAILY_POST_DRY_RUN=1): print the tier, the hint the run would
+// use and every hint's coverage, then exit before any API call or file write.
+// `--date YYYY-MM-DD` simulates the weekday/week rotation for that day.
+const DRY_RUN = process.argv.includes('--dry-run') || process.env.DAILY_POST_DRY_RUN === '1';
+const dateArg = process.argv.indexOf('--date');
+const NOW = dateArg >= 0 ? new Date(`${process.argv[dateArg + 1]}T13:00:00Z`) : new Date();
+if (!API_KEY && !DRY_RUN) {
   console.error('daily-post: ANTHROPIC_API_KEY is not set. Aborting.');
   process.exit(1);
 }
@@ -49,60 +56,99 @@ const staticPages = [...loadRoutes(WEB_DIR)]
   .map((p) => `- ${p}`)
   .join('\n');
 
-const today = new Date().toISOString().slice(0, 10);
+const today = NOW.toISOString().slice(0, 10);
+
+// Topic dedup corpus (see scripts/lib/dedup.mjs for why). Live articles, plus
+// articles retired into a canonical (src/data/retired-articles.json: their
+// URLs now redirect, but the topic is still covered), plus the static money
+// pages. Hints and generated articles are both checked against this.
+const retiredPath = join(WEB_DIR, 'src/data/retired-articles.json');
+const retired = existsSync(retiredPath) ? JSON.parse(readFileSync(retiredPath, 'utf8')).articles || [] : [];
+const dedupCorpus = [...existing, ...retired, ...staticPageTargets(loadRoutes(WEB_DIR))];
+// Retired topics are told to the model too, so it does not aim at them.
+const retiredTopics = retired.map((r) => `${r.targetQuery} (covered by /articles/${r.redirectTo})`);
+// A retired slug is a live redirect URL: never publish a new page on it.
+for (const r of retired) existingSlugs.add(r.slug);
 
 // Cadence: this workflow runs Mon/Wed/Fri (see .github/workflows/daily-content.yml).
 // Monday = the weekly FLAGSHIP (deep, original-data, link-worthy cluster owner);
 // Wed/Fri = cluster detail posts. Topic hints come from scripts/topic-backlog.json
 // (seeded from GSC buried-but-real-demand queries), rotated weekly so hints vary
 // without any "used" state; the existingList dedup prevents rewriting a covered topic.
-const dow = new Date().getUTCDay(); // 0=Sun .. 6=Sat
+const dow = NOW.getUTCDay(); // 0=Sun .. 6=Sat
 // DAILY_POST_TIER (a workflow_dispatch input) forces a tier for manual/test runs;
 // otherwise Monday = flagship, other scheduled days (Wed/Fri) = cluster detail.
 const tier = process.env.DAILY_POST_TIER || (dow === 1 ? 'flagship' : 'detail');
 
 let topicHint;
+let pool = [];
 const backlogPath = join(WEB_DIR, 'scripts/topic-backlog.json');
 if (existsSync(backlogPath)) {
   try {
     const backlog = JSON.parse(readFileSync(backlogPath, 'utf8'));
     // 'cluster' is the legacy key for the detail tier; keep reading it.
-    const pool = backlog[tier] || (tier === 'detail' ? backlog.cluster : null) || [];
-    if (pool.length && tier === 'detail') {
-      // Ordered queue: first entry not already covered by an existing article.
-      // A hint is covered when an article slug contains all its significant words.
-      const slugs = readdirSync(ARTICLES_DIR).join(' ');
-      const stop = new Set(['the', 'a', 'an', 'with', 'for', 'that', 'and', 'or', 'on', 'of', 'is', 'itin', 'credit', 'card', 'cards']);
-      topicHint = pool.find((t) => {
-        const words = t.toLowerCase().split('(')[0].match(/[a-z]+/g).filter((w) => !stop.has(w));
-        return !(words.length && words.every((w) => slugs.includes(w)));
-      }) || pool[0];
-    } else if (pool.length) {
-      const weekIdx = Math.floor(Date.now() / (7 * 864e5));
-      topicHint = pool[weekIdx % pool.length];
-    }
+    pool = backlog[tier] || (tier === 'detail' ? backlog.cluster : null) || [];
   } catch (e) {
     console.error(`daily-post: could not read topic-backlog.json: ${e.message}`);
   }
 }
-console.log(`daily-post: tier=${tier}${topicHint ? ` hint="${topicHint}"` : ''}`);
+// Both tiers skip hints an existing (or retired) page already covers. Before
+// 2026-11-16 the flagship rotated `weekIdx % pool.length` with no check at all
+// and the detail tier used a slug-substring test; between them they produced
+// 20+ near-duplicates. Detail = ordered queue (first uncovered hint wins);
+// flagship = weekly rotation starting point, then the next uncovered hint. When
+// every hint is covered there is NO hint: the model picks a new topic and the
+// post-generation gate below still applies.
+if (pool.length) {
+  const start = tier === 'detail' ? 0 : Math.floor(NOW.getTime() / (7 * 864e5)) % pool.length;
+  for (let i = 0; i < pool.length; i++) {
+    const h = pool[(start + i) % pool.length];
+    if (!hintIsCovered(h, dedupCorpus)) {
+      topicHint = h;
+      break;
+    }
+  }
+}
+console.log(`daily-post: tier=${tier}${topicHint ? ` hint="${topicHint}"` : ' hint=(none: every backlog hint is covered, model picks)'}`);
 
+if (DRY_RUN) {
+  for (const h of pool) console.log(`  ${hintIsCovered(h, dedupCorpus) ? 'covered' : 'OPEN   '}  ${h}`);
+  console.log('daily-post: dry run, no API call, nothing written.');
+  process.exit(0);
+}
+
+// Generate, then gate on near-duplicates. One retry with the rejected topic
+// named and the hint dropped; a second duplicate means no article today
+// (exit 0, nothing written) rather than a duplicate on the live site.
 let article;
-try {
-  article = await generateArticle({
-    apiKey: API_KEY,
-    model: MODEL,
-    site: SITE,
-    tier,
-    topicHint,
-    existingList,
-    staticPages,
-    existingSlugs,
-    today,
-  });
-} catch (e) {
-  console.error(`daily-post: generation failed: ${e.message}`);
-  process.exit(1);
+const rejected = [];
+for (let attempt = 1; attempt <= 2; attempt++) {
+  try {
+    article = await generateArticle({
+      apiKey: API_KEY,
+      model: MODEL,
+      site: SITE,
+      tier,
+      topicHint: attempt === 1 ? topicHint : undefined,
+      existingList,
+      staticPages,
+      existingSlugs,
+      today,
+      avoidTopics: [...retiredTopics, ...rejected],
+    });
+  } catch (e) {
+    console.error(`daily-post: generation failed: ${e.message}`);
+    process.exit(1);
+  }
+  const why = duplicateReason(article, dedupCorpus);
+  if (!why) break;
+  console.log(`daily-post: REJECTED near-duplicate "${article.slug}" (target: ${article.targetQuery}): ${why}`);
+  rejected.push(`${article.targetQuery} (rejected as a duplicate: ${why})`);
+  article = null;
+}
+if (!article) {
+  console.log('::warning::daily-post: both drafts were near-duplicates of existing pages; nothing published today.');
+  process.exit(0);
 }
 
 if (existingSlugs.has(article.slug)) {

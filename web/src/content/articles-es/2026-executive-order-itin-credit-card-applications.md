@@ -11,6 +11,7 @@ relatedQueries:
   - "qué pasa con mi tarjeta de crédito ITIN con las nuevas reglas bancarias 2026"
 quickAnswer: "Todavía puedes solicitar una tarjeta de crédito con ITIN en 2026. La Orden Ejecutiva 14406 (firmada el 19 de mayo de 2026) instruye a los bancos a tratar el uso del ITIN como un posible detonante de diligencia debida, no como un rechazo automático. La guía regulatoria formal del Tesoro debía publicarse el 18 de julio de 2026. Los titulares de ITIN con estatus migratorio legal corren el menor riesgo; contar con documentación sólida es lo que más ayuda."
 publishedAt: "2026-07-08"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Tarjetas de Crédito"
 relatedSlugs:
@@ -93,8 +94,9 @@ Basándonos en políticas disponibles públicamente y en lo que reportan los def
 | Bank of America (Customized Cash Secured) | Sí | Tener una relación bancaria existente mejora significativamente las probabilidades |
 | Citi (Secured Mastercard) | Sí | Mejores probabilidades con una relación previa con Citi |
 | OpenSky Secured Visa | Sí | Sin verificación de crédito; acepta ITIN; buena opción si el estatus legal es incierto |
-| Self Visa (Credit Builder) | Sí | Sin consulta fuerte al aplicar; ideal para solicitantes con historial crediticio limitado |
 | Cooperativas de crédito / CDFIs | Varía | Pueden implementar la nueva guía federal más lentamente que los grandes bancos |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Las cooperativas de crédito y los bancos comunitarios que atienden a comunidades inmigrantes pueden ser más lentos en implementar guías restrictivas, aunque los defensores recomiendan monitorear sus comunicaciones con atención.
 
@@ -144,4 +146,4 @@ Si has estado considerando solicitar una nueva tarjeta de crédito con tu ITIN y
 
 Después del 18 de julio, las solicitudes seguirán siendo legales y muchas seguirán siendo aprobadas. Pero los flujos de trabajo de cumplimiento de los bancos pueden tomar más tiempo mientras los equipos integran las nuevas tipologías del Tesoro en sus procesos de revisión. Aplicar con documentación sólida y con un emisor que históricamente ha sido amigable con el ITIN te da las mejores probabilidades de aprobación sin importar el momento.
 
-Para una comparación actual lado a lado de qué emisores aceptan solicitudes con ITIN y cuáles son los términos de cada tarjeta, visita nuestra [comparación de emisores de tarjetas de crédito con ITIN 2026](/es/articles/itin-credit-card-issuer-comparison-2026).
+Para una comparación actual lado a lado de qué emisores aceptan solicitudes con ITIN y cuáles son los términos de cada tarjeta, visita nuestra [comparación de emisores de tarjetas de crédito con ITIN 2026](/es/articles/credit-cards-that-accept-itin-verified-issuer-list).

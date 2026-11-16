@@ -42,7 +42,7 @@ Según la revisión 2026 de CNBC Select sobre tarjetas disponibles sin SSN, emis
 
 Lo importante es que tus probabilidades de aprobación y la tasa de cash back que puedes alcanzar dependen de en qué punto de tu trayectoria crediticia en EE. UU. te encuentras. Alguien sin historial crediticio en EE. UU. comenzará con una tarjeta asegurada que gana un 1.5% fijo. Alguien con 12 a 18 meses de historial de pagos limpio puede calificar para una tarjeta no asegurada con cash back por categorías o escalonado. Ambas son opciones válidas. Lo clave es elegir la tarjeta que corresponda a tu perfil actual, en lugar de apuntar demasiado alto y arriesgarte a un rechazo que dañe temporalmente tu crédito.
 
-Para un panorama más amplio de qué emisores abren sus puertas a los solicitantes con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
+Para un panorama más amplio de qué emisores abren sus puertas a los solicitantes con ITIN, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## ¿Qué tarjetas con cash back aceptan realmente un ITIN en 2026?
 

@@ -81,7 +81,7 @@ FLAGSHIP MANDATE (this piece must have "legs": be the reference others link to a
 - Write it evergreen, so it can be re-verified and re-dated quarterly instead of going stale.` : ''}`;
 }
 
-function userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint }) {
+function userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint, avoidTopics = [] }) {
   const pillar = tier === 'pillar';
   const flagship = tier === 'flagship';
   const scope = scopeOf(site);
@@ -96,6 +96,9 @@ ${existingList}
 ${staticPages ? `
 Static pages you may also link to (exact paths, these are the only ones that exist):
 ${staticPages}
+` : ''}${avoidTopics.length ? `
+Topics that are ALREADY covered or were REJECTED as duplicates. Do NOT target any of these, or a reworded version of them (a different slug, year, or "verified/complete/ranked" framing is still a duplicate):
+${avoidTopics.map((t) => `- ${t}`).join('\n')}
 ` : ''}
 STEP 2, ${
     pillar
@@ -210,7 +213,7 @@ export function validateArticle(a) {
 
 // Generate one article. Returns the parsed+validated article object (no files
 // written, callers handle relatedSlugs, ES translation, and disk writes).
-async function callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint }) {
+async function callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint, avoidTopics }) {
   const res = await fetch('https://api.anthropic.com/v1/messages', {
     method: 'POST',
     headers: {
@@ -224,7 +227,7 @@ async function callOnce({ apiKey, model, site, tier, existingList, staticPages, 
       system: systemPrompt(site, tier),
       tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: tier === 'flagship' || tier === 'pillar' ? 12 : 6 }],
       messages: [
-        { role: 'user', content: userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint }) },
+        { role: 'user', content: userPrompt(site, { tier, existingList, staticPages, existingSlugs, today, topicHint, avoidTopics }) },
       ],
     }),
   });
@@ -270,12 +273,13 @@ export async function generateArticle({
   existingSlugs,
   today,
   topicHint,
+  avoidTopics = [],
   attempts = 3,
 }) {
   let lastErr;
   for (let i = 1; i <= attempts; i++) {
     try {
-      const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint });
+      const draft = await callOnce({ apiKey, model, site, tier, existingList, staticPages, existingSlugs, today, topicHint, avoidTopics });
       const article = await humanizeArticle({ apiKey, model, article: draft });
       // The prompt asks for <=60-char titles; this enforces it (and the 160-char
       // description cap) after humanize, which can rewrite both. Without it the

@@ -11,13 +11,14 @@ relatedQueries:
   - "tarjeta asegurada de Capital One con ITIN"
 quickAnswer: "Sí, puedes obtener una tarjeta de crédito asegurada usando tu ITIN en lugar de un SSN. Varios emisores importantes, entre ellos Capital One, Bank of America, Citi y OpenSky, aceptan el ITIN en las solicitudes de tarjetas aseguradas. Necesitarás un depósito reembolsable (generalmente entre $200 y $500), una identificación con foto vigente y comprobante de domicilio en EE. UU."
 publishedAt: "2026-06-07"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de Crédito"
 relatedSlugs:
   - "cash-back-credit-card-itin-holders"
   - "credit-cards-that-accept-itin-verified-issuer-list"
   - "first-credit-card-itin-no-us-credit-history"
-  - "itin-credit-card-complete-issuer-guide-2026"
+  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada solo con ITIN y sin SSN?"
     a: "Sí. Capital One, Bank of America, Citi, Wells Fargo, OpenSky y varios emisores fintech aceptan el ITIN en lugar del SSN para solicitudes de tarjetas de crédito aseguradas. Tus mejores probabilidades de aprobación son con un banco donde ya tengas una cuenta de cheques o de ahorros."
@@ -59,8 +60,9 @@ No todas las listas de "tarjetas aseguradas" en línea te dicen cuáles permiten
 | Citi Secured Mastercard | Citi | $200 | $0 | Sí | Sí |
 | Bank of America Customized Cash Secured | Bank of America | $300 | $0 | Sí | Sí |
 | OpenSky Secured Visa | Capital Bank | $200 | $35/año | Sí | Sí |
-| Self Visa® Credit Card | Self | ~$100+ | $25/año | Sí | Sí |
 | Wells Fargo Secured Card | Wells Fargo | $300 | $0 | Sí | Solo en sucursal |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 > **Verifica siempre directamente con el emisor antes de aplicar**, las políticas de aceptación de ITIN pueden cambiar a nivel de producto, y el personal de sucursal no siempre sigue el mismo proceso que las solicitudes en línea.
 
@@ -142,7 +144,6 @@ Para la mayoría de los titulares de ITIN, sin embargo, el camino práctico es m
 Algunas opciones difuminan la línea entre los productos "asegurados" y los de "construcción de crédito" de maneras que pueden funcionar para titulares de ITIN que no quieren inmovilizar $200 o más en un depósito:
 
 - **Current Build Card**, Acepta ITIN, no cobra cuota anual, no requiere depósito mínimo y tiene una TAE del 0%. Tus gastos se financian desde tu cuenta de Current vinculada, y la actividad se reporta a las tres agencias. Funciona más como una tarjeta de cargo que como una tarjeta de crédito tradicional, pero el reporte a las agencias es real.
-- **Self Visa® Credit Card**, Combina un préstamo para construir crédito respaldado por ahorros con una tarjeta asegurada. A medida que realizas los pagos mensuales del préstamo, esos ahorros desbloquean el límite de crédito de tu tarjeta. Tu "depósito" efectivo son los ahorros que estás acumulando. Se acepta el ITIN.
 - **Kikoff**, Una cuenta para construir crédito sin verificación de crédito estricta ni intereses. No funciona como una tarjeta tradicional, pero reporta a las principales agencias, lo que la convierte en un primer paso de bajo riesgo para los titulares de ITIN que aún no están listos para hacer un depósito, por pequeño que sea.
 
 Ninguna de estas opciones es idéntica a una tarjeta asegurada tradicional, y algunas tienen más limitaciones en cuanto a dónde se pueden usar. Pero para los titulares de ITIN que necesitan empezar a construir su historial con el mínimo de efectivo por adelantado, vale la pena conocerlas.

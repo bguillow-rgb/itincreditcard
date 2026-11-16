@@ -11,13 +11,14 @@ relatedQueries:
   - "solicitar aumento de línea de crédito siendo titular de ITIN"
 quickAnswer: "Los titulares de ITIN pueden obtener aumentos de límite de crédito de la misma forma que quienes tienen SSN: paga a tiempo durante 6 a 12 meses, mantén tu utilización por debajo del 30% y luego solicita el aumento en línea o por teléfono. Algunos emisores como Capital One y OpenSky también otorgan aumentos automáticos sin una nueva consulta dura al crédito."
 publishedAt: "2026-06-16"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
   - "upgrade-secured-to-unsecured-credit-card-itin"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "build-credit-with-itin-credit-card"
+  - "capital-one-credit-card-itin"
 faqs:
   - q: "¿Solicitar un aumento de límite de crédito afecta mi puntaje si tengo un ITIN?"
     a: "Depende del emisor. Una consulta suave (soft pull) no afecta tu puntaje para nada. Una consulta dura (hard pull) puede bajar tu puntaje temporalmente unos 5 a 15 puntos. Antes de enviar una solicitud formal, pregúntale a tu emisor qué tipo de consulta utiliza."
@@ -50,7 +51,7 @@ El momento en que haces la solicitud también importa. Si recientemente cambiast
 
 El proceso es idéntico al de cualquier titular de tarjeta. Aquí está el paso a paso según el tipo de emisor:
 
-**Paso 1: Inicia sesión en tu cuenta en línea.** La forma más fácil de solicitar una línea de crédito más alta con Capital One, por ejemplo, es a través de tu cuenta en línea: inicia sesión y haz clic en "Solicitar aumento de línea de crédito" en la sección de configuración. La mayoría de los otros emisores que aceptan ITIN (Petal, Self, Mission Lane) ofrecen la misma opción de autoservicio.
+**Paso 1: Inicia sesión en tu cuenta en línea.** La forma más fácil de solicitar una línea de crédito más alta con Capital One, por ejemplo, es a través de tu cuenta en línea: inicia sesión y haz clic en "Solicitar aumento de línea de crédito" en la sección de configuración. La mayoría de los otros emisores que aceptan ITIN (Petal, Mission Lane) ofrecen la misma opción de autoservicio.
 
 **Paso 2: Actualiza tus ingresos.** Al enviar la solicitud, se te pedirá que confirmes tu ingreso anual actual. Reporta el total de todas las fuentes. Los titulares de ITIN pueden incluir ingresos de empleo en EE. UU., trabajo por cuenta propia, ingresos por alquiler y, en muchos casos, ingresos del hogar a los que tengan acceso razonable.
 
@@ -104,7 +105,7 @@ Las soluciones son directas:
 - **Agrega un depósito (tarjetas aseguradas).** Si tienes una tarjeta asegurada, depositar fondos adicionales es una forma garantizada de aumentar el límite sin ninguna decisión de suscripción.
 - **Actualiza tus ingresos.** Si has ganado más desde que solicitaste originalmente, asegúrate de que tu perfil refleje eso antes de volver a pedir el aumento.
 
-Para titulares de tarjetas que han acumulado 12 a 24 meses de historial con una tarjeta asegurada y están listos para pasar a una tarjeta con un límite base más alto, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards) explica todos los emisores principales y sus políticas actuales.
+Para titulares de tarjetas que han acumulado 12 a 24 meses de historial con una tarjeta asegurada y están listos para pasar a una tarjeta con un límite base más alto, nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide) explica todos los emisores principales y sus políticas actuales.
 
 ## Comparación rápida: cómo manejan los aumentos de límite los principales emisores que aceptan ITIN
 
@@ -113,8 +114,9 @@ Para titulares de tarjetas que han acumulado 12 a 24 meses de historial con una 
 | Capital One Platinum | 6 meses | Solicitud en línea o automático | Suave (automático) / puede variar (solicitud) | Capital One puede aumentar tu límite automáticamente; algunas tarjetas orientadas a la construcción de crédito ofrecen un aumento después de seis meses de pagos a tiempo |
 | OpenSky Secured Visa | 6 meses | Solicitud en línea o agregar depósito | Suave para revisión sin depósito | OpenSky puede revisar tu cuenta después de 6 meses de pagos a tiempo; el aumento automático no requiere agregar al depósito |
 | Petal 2 Visa | 6 meses a tiempo | Automático (nivel de cashback) | Sin consulta dura | Petal evalúa oportunidades de aumento de límite como parte de sus características de accesibilidad para construir crédito |
-| Self Visa | Después de que crezca la cuenta Credit Builder | Vinculado al progreso de ahorros | Sin consulta dura | El límite está ligado a los fondos en la cuenta Credit Builder |
 | Mission Lane Visa | Varía (generalmente 12 meses) | Solicitud en línea | Puede variar | Orientada a prestatarios con historial crediticio escaso |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 *Siempre confirma los términos actuales directamente con el emisor antes de solicitar, ya que las políticas cambian.*
 

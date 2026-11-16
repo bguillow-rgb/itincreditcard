@@ -11,13 +11,14 @@ relatedQueries:
   - "ITIN credit card deposit requirements 2026"
 quickAnswer: "With an ITIN and no U.S. credit history, start with a secured card: Capital One Platinum Secured (deposit as low as $49), OpenSky Plus ($300, no credit check), or Citi Secured ($200-$2,500). After 6-18 months of on-time payments, you can graduate to an unsecured card. Unsecured ITIN cards exist but require some established credit history."
 publishedAt: "2026-07-13"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
-  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
-  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "unsecured-credit-card-itin-holders"
+  - "get-secured-credit-card-deposit-back-itin"
+  - "itin-starter-credit-cards-ranked-zero-history"
+  - "prepaid-card-vs-secured-credit-card-itin"
 faqs:
   - q: "Can I get a secured credit card in the U.S. with only an ITIN?"
     a: "Yes. Multiple major issuers accept an ITIN for secured cards, including Capital One, Citi, Bank of America, and OpenSky. No SSN is required. You will need a valid photo ID, proof of address, and a funded U.S. bank account to cover the security deposit."
@@ -26,7 +27,7 @@ faqs:
   - q: "How much security deposit do I need for an ITIN secured credit card?"
     a: "Deposits vary by issuer. Capital One Platinum Secured starts at $49. OpenSky Secured starts at $200 and goes up to $3,000. Citi Secured requires $200-$2,500. Bank of America secured cards accept $200-$5,000. The deposit almost always equals your starting credit limit."
   - q: "How long does it take to graduate from a secured to an unsecured card with an ITIN?"
-    a: "Typically 6-18 months of responsible use. Capital One reviews accounts after 6 months. Citi typically takes about 18 months. OpenSky advertises graduation to the OpenSky Gold unsecured card in as little as 6 months. Timelines vary and depend on consistent on-time payments and low utilization."
+    a: "Typically 6-18 months of responsible use. Capital One reviews accounts after 6 months. Citi reviews starting at 9 months and then every 12 months, but its own card page says you need a valid SSN on file to graduate. OpenSky advertises graduation to the OpenSky Gold unsecured card in as little as 6 months. Timelines vary and depend on consistent on-time payments and low utilization."
   - q: "Does a secured credit card with an ITIN report to the credit bureaus?"
     a: "Yes, virtually all secured cards from major issuers report to all three credit bureaus: Equifax, Experian, and TransUnion. This monthly reporting is the primary mechanism for building a U.S. credit file with your ITIN."
   - q: "Do I get my security deposit back when I graduate to an unsecured card?"
@@ -39,12 +40,20 @@ faqs:
     a: "OpenSky Secured Visa and OpenSky Plus Secured Visa both skip the credit check entirely, accept ITIN, and report to all three bureaus. The Plus version has no annual fee but requires a $300 deposit. The original OpenSky charges a $35 annual fee but starts at $200 and has a lower APR."
   - q: "Can Bank of America ITIN applicants only apply in person?"
     a: "According to Bank of America's own requirements page, ITIN applicants must apply in person at a branch, while SSN holders can apply online or in person. This is an important logistical consideration when comparing issuers."
+  - q: "Can I graduate the Citi Secured Mastercard with only an ITIN?"
+    a: "Not according to Citi. You can open the card with an ITIN, but Citi's card page says customers must have a valid SSN on file to graduate. Reviews start at 9 months and repeat every 12 months. An ITIN-only cardholder can still build payment history, and the deposit is generally refundable when the account is closed in good standing."
+  - q: "What happens to my secured card deposit if I never graduate?"
+    a: "Nothing bad. The deposit stays in a collateral account while the card is open and is returned when you close the account with the balance paid in full and the account in good standing. You do not lose it by keeping a secured card open for years."
+  - q: "Will graduating from a secured to an unsecured card hurt my credit score?"
+    a: "Usually not. When the upgrade happens on the same account, your account history and age stay intact and your deposit comes back. Closing a secured card to open a new card elsewhere is different: the new application can mean a hard inquiry, and closing your oldest account can shorten your credit history."
 published: true
 ---
 
 If you have an ITIN and are trying to figure out whether to start with a secured or unsecured credit card, here is the short answer: your U.S. credit history (or lack of it) decides for you. Most ITIN holders with no U.S. credit file need to start with a secured card, build a track record over 6-18 months, and then either graduate to an unsecured product at the same issuer or apply for one elsewhere. This guide pulls together the real numbers, the real issuers, and the real timelines in one place.
 
 **How we compiled this:** We cross-referenced issuer product pages, third-party card databases (WalletHub, Bankrate, Credit Karma), and ITIN-specific guides to verify deposit ranges, APRs, annual fees, ITIN acceptance status, and graduation policies for each card listed. **Last verified:** July 13, 2026.
+
+**Updated November 16, 2026:** we merged our other secured vs. unsecured guides into this page. This update adds Citi's SSN requirement for graduation, taken from [Citi's own Secured Mastercard page](https://www.citi.com/credit-cards/citi-secured-credit-card), and corrects the OpenSky Launch minimum deposit from $100 to $150.
 
 ---
 
@@ -93,7 +102,7 @@ The table below reflects current data from issuer websites and verified third-pa
 | Card | Min. Deposit | Max. Deposit | Annual Fee | Purchase APR | Credit Check? | ITIN Accepted | Typical Time to Graduation | Graduation Path |
 |---|---|---|---|---|---|---|---|---|
 | Capital One Platinum Secured | $49, $99, or $200 | $1,000 | $0 | ~29.99% variable | Yes (soft pre-qualify available) | Yes | 6+ months | Auto-review after 6 months |
-| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Yes | Yes | 12-18 months | Periodic review, ~18 months typical |
+| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Yes | Yes (to open) | Reviews from 9 months, then every 12 | Valid SSN required to graduate |
 | OpenSky Secured Visa | $200 | $3,000 | $35 | ~23.89% variable | No | Yes | 6+ months | Graduation to OpenSky Gold in 6+ months |
 | OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Yes | 6+ months | Graduation to OpenSky Gold in 6+ months |
 | BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Yes | Yes (in-branch only for ITIN) | ~12 months | Auto-review at ~12 months |
@@ -121,7 +130,7 @@ The OpenSky Secured Credit Card is one of the few secured cards that openly appr
 
 OpenSky now offers a small family of three secured cards at different price points. The original card is still available, but two newer options flank it: a lower-deposit entry tier (Launch) and a no-annual-fee tier (Plus). All three skip the hard pull, all three report to Experian, Equifax, and TransUnion, and all three are issued by Capital Bank, N.A.
 
-Which OpenSky tier makes sense for an ITIN holder? For first-time credit builders who can fund $300 up front, the Plus card is the best long-run value. For people who can only spare $100, the Launch card opens the door. The original card, with its $35 annual fee, now sits in the middle and carries the lowest APR of the three.
+Which OpenSky tier makes sense for an ITIN holder? For first-time credit builders who can fund $300 up front, the Plus card is the best long-run value. For people who can spare about $150, the Launch card opens the door (OpenSky lists a $150 minimum deposit for it). The original card, with its $35 annual fee, now sits in the middle and carries the lowest APR of the three.
 
 According to OpenSky's own data, users improve their credit scores by an average of 47 points in six months. OpenSky also advertises graduation to the OpenSky Gold unsecured card in as little as six months, one of the shortest advertised graduation timelines among ITIN-friendly secured cards.
 
@@ -143,7 +152,7 @@ These two cards occupy specific niches worth understanding.
 
 **Amazon Secured Card (Synchrony Bank):** The Amazon.com Secured Card is accessible to ITIN holders even if you rarely shop on Amazon. It is designed for people with no credit history or a limited U.S. credit profile, and it reports payment activity to all three major bureaus. The refundable deposit runs from $100 to $1,000 and acts as your credit limit. The standout feature is a fixed 10% APR, which is well below most starter cards. After 12 months of responsible use, Synchrony may graduate you to an unsecured store card and return your deposit. The catch: it is a closed-loop card, accepted only at Amazon.com and Amazon Fresh. It works best as a secondary card paired with a general-purpose secured card.
 
-**Citi Secured Mastercard:** The Citi Secured requires a deposit between $200 and $2,500, which sets your credit limit. That gives you control over how much credit you want to access based on what you can afford to set aside. You will need to provide your name, address, and SSN or ITIN to apply. There is no annual fee. Citi's requirements pages list ITIN as an acceptable identifier alongside SSN, making this a viable route when your documentation and address validation clear their checks. The card offers no rewards, but its wide deposit ceiling and clean graduation track make it a solid pick for ITIN holders who can meet the documentation requirements.
+**Citi Secured Mastercard:** The Citi Secured requires a deposit between $200 and $2,500, which sets your credit limit. That gives you control over how much credit you want to access based on what you can afford to set aside. You will need to provide your name, address, and SSN or ITIN to apply. There is no annual fee. Citi's requirements pages list ITIN as an acceptable identifier alongside SSN, making this a viable route when your documentation and address validation clear their checks. The card offers no rewards, and there is one catch most roundups skip: [Citi's own card page](https://www.citi.com/credit-cards/citi-secured-credit-card) says customers must have a valid SSN on file to graduate. Citi reviews accounts for early graduation starting at 9 months and then every 12 months; if you do not qualify, you stay on the secured card for another 12 months. An ITIN-only holder can still build payment history with it, but should not count on converting it to an unsecured card or getting the deposit back through graduation. If a predictable path to unsecured matters to you, Capital One or OpenSky is the cleaner choice.
 
 ---
 
@@ -173,13 +182,23 @@ The timelines differ meaningfully by issuer:
 
 - **Capital One Platinum Secured:** Capital One reviews your account after 6 months for a possible unsecured upgrade.
 - **OpenSky (original and Plus):** Graduation to the OpenSky Gold unsecured card in as little as 6 months.
-- **Citi Secured Mastercard:** Citi does not publish a fixed review timeline. Most independent sources cite 12-18 months as typical.
+- **Citi Secured Mastercard:** Citi reviews accounts for early graduation starting at 9 months, then every 12 months. Its card page also says you need a valid SSN on file to graduate, so an ITIN-only holder may not graduate at all until they get an SSN.
 - **Bank of America Secured:** The graduation period is typically one year, assuming on-time payments and low utilization. Bank of America generally handles this automatically, via a soft pull, at the one-year mark.
 - **Amazon Secured (Synchrony):** After 12 months of responsible use, Synchrony may graduate you to an unsecured store card and return your deposit.
 
 Two graduation pathways exist: automatic review and manual request. Some issuers will review your account after 6-12 months of responsible use and offer to convert it to unsecured without you doing anything. Others require you to apply separately for an unsecured card.
 
 Not all secured cards are on a graduation path at all. Before opening any secured card, confirm whether the issuer offers a graduation track, or whether you would eventually need to close the account and apply fresh elsewhere.
+
+---
+
+## What if I can't fund a $200 deposit right now?
+
+Your options narrow, but they do not disappear. The Capital One Platinum Secured is the only major-bank secured card here that may open a $200 credit line with a $49 or $99 deposit, depending on your creditworthiness. Not everyone gets the lower tiers.
+
+Next up is the Amazon Secured Card, with a $100 minimum, though it only works at Amazon. OpenSky's Launch card lists a $150 minimum deposit and skips the credit check.
+
+Before you open any low-deposit card, check the fee schedule. Skip offers that charge application fees, monthly maintenance fees, or setup fees that eat into your credit line, and skip any card that does not report to the credit bureaus. Reporting is the whole reason to have the card.
 
 ---
 
@@ -261,7 +280,7 @@ It is very difficult with zero credit history. A few issuers like Capital One of
 Deposits vary by issuer. Capital One Platinum Secured starts at $49. OpenSky Secured starts at $200 and goes up to $3,000. Citi Secured requires $200-$2,500. Bank of America secured cards accept $200-$5,000. The deposit almost always equals your starting credit limit.
 
 **How long does it take to graduate from a secured to an unsecured card with an ITIN?**
-Typically 6-18 months of responsible use. Capital One reviews accounts after 6 months. Citi typically takes about 18 months. OpenSky advertises graduation to the OpenSky Gold unsecured card in as little as 6 months. Timelines vary and depend on consistent on-time payments and low utilization.
+Typically 6-18 months of responsible use. Capital One reviews accounts after 6 months. Citi reviews starting at 9 months and then every 12 months, but its own card page says you need a valid SSN on file to graduate. OpenSky advertises graduation to the OpenSky Gold unsecured card in as little as 6 months. Timelines vary and depend on consistent on-time payments and low utilization.
 
 **Does a secured credit card with an ITIN report to the credit bureaus?**
 Yes, virtually all secured cards from major issuers report to all three credit bureaus: Equifax, Experian, and TransUnion. This monthly reporting is the primary mechanism for building a U.S. credit file with your ITIN.
@@ -280,3 +299,12 @@ OpenSky Secured Visa and OpenSky Plus Secured Visa both skip the credit check en
 
 **Can Bank of America ITIN applicants only apply in person?**
 According to Bank of America's own requirements page, ITIN applicants must apply in person at a branch, while SSN holders can apply online or in person. This is an important logistical consideration when comparing issuers.
+
+**Can I graduate the Citi Secured Mastercard with only an ITIN?**
+Not according to Citi. You can open the card with an ITIN, but Citi's card page says customers must have a valid SSN on file to graduate. Reviews start at 9 months and repeat every 12 months. An ITIN-only cardholder can still build payment history, and the deposit is generally refundable when the account is closed in good standing.
+
+**What happens to my secured card deposit if I never graduate?**
+Nothing bad. The deposit stays in a collateral account while the card is open and is returned when you close the account with the balance paid in full and the account in good standing. You do not lose it by keeping a secured card open for years.
+
+**Will graduating from a secured to an unsecured card hurt my credit score?**
+Usually not. When the upgrade happens on the same account, your account history and age stay intact and your deposit comes back. Closing a secured card to open a new card elsewhere is different: the new application can mean a hard inquiry, and closing your oldest account can shorten your credit history.

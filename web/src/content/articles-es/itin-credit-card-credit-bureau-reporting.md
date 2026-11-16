@@ -11,13 +11,14 @@ relatedQueries:
   - "burós de crédito para titulares de ITIN 2026"
 quickAnswer: "Sí. Cuando un emisor de tarjetas acepta tu ITIN, reporta tu historial de pagos a los burós de crédito exactamente igual que con los titulares de SSN. La mayoría de las tarjetas populares que aceptan ITIN, incluidas las tarjetas aseguradas de Capital One, Citi y Bank of America, reportan a los tres burós: Experian, Equifax y TransUnion. Siempre confírmalo antes de aplicar."
 publishedAt: "2026-06-21"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
   - "itin-instead-of-ssn-credit-card-application"
   - "travel-credit-card-itin-holders"
   - "virtual-credit-card-itin-holders"
+  - "authorized-user-credit-card-itin"
 faqs:
   - q: "¿Usar un ITIN en lugar de un SSN cambia la manera en que se reporta mi actividad de tarjeta de crédito?"
     a: "No. Una vez que tu cuenta está abierta, el emisor reporta tu historial de pagos, saldo, límite de crédito y antigüedad de la cuenta a los burós de crédito exactamente igual que con los titulares de SSN. El ITIN simplemente identifica tu expediente; no afecta qué se reporta ni cómo lo evalúan los modelos de puntuación."
@@ -56,8 +57,9 @@ Aquí tienes un resumen de las tarjetas populares que aceptan ITIN y su reporte 
 | Wells Fargo Secured Credit Card | Sí | Sí | $0 | Sí |
 | OpenSky Secured Visa | Sí (sin revisión de crédito) | Sí | $35/año | Sí |
 | Current Build Card | Sí (sin revisión de crédito) | Sí | $0 | Estilo débito |
-| Self Visa Credit Card | Sí | Sí | $25/año | Sí (vinculada a ahorros) |
 | Chase Freedom Rise | Sí | Sí | $0 | No |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Cinco de las tarjetas aseguradas más populares, las de Discover, Capital One, Citi, Wells Fargo y Bank of America, reportan a los tres burós de crédito, según el sitio web de Discover. Para los titulares de ITIN que eligen entre estos emisores, puedes tener la tranquilidad de que tus pagos puntuales quedarán registrados en los tres expedientes.
 

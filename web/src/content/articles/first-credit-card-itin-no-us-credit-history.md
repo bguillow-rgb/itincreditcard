@@ -11,13 +11,14 @@ relatedQueries:
   - "itin credit card zero credit history approval"
 quickAnswer: "You can get a first U.S. credit card with an ITIN and no American credit history by applying for a secured card or a no-credit-check credit-builder card from ITIN-friendly issuers like Capital One, OpenSky, or Citi. Expect a $200-$500 deposit requirement and approval within days. Your U.S. credit file opens the moment your card is reported to the bureaus."
 publishedAt: "2026-06-18"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
-  - "best-starter-credit-cards-itin-zero-credit-history"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
-  - "itin-credit-card-complete-issuer-guide-2026"
+  - "itin-starter-credit-cards-ranked-zero-history"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-undocumented-immigrants-itin"
+  - "credit-cards-that-accept-itin-verified-issuer-list"
 faqs:
   - q: "Can I get a credit card with an ITIN and absolutely no U.S. credit history?"
     a: "Yes. Secured credit cards and no-credit-check credit-builder cards are designed for people with no U.S. credit file. Issuers like Capital One, OpenSky, and Citi accept ITINs and do not require existing U.S. credit history to approve you."
@@ -61,7 +62,8 @@ Not every issuer that accepts an ITIN will approve a completely fresh file. The 
 | Citi Secured Mastercard | $200-$2,500 (refundable) | Hard inquiry | $0 | None | Yes |
 | OpenSky Secured Visa | $200+ (refundable) | None | $35/year | None | Yes |
 | Petal 2 Visa | None | Soft (cash flow review) | $0 | 1%-1.5% cash back | Yes |
-| Self Visa Credit Card | Deposit via savings account | Soft | $25/year | None | Yes |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 The Capital One Platinum Credit Card is one of the best starter credit cards without an SSN requirement because applicants can use an ITIN instead of an SSN and may qualify despite limited or no credit history.
 
@@ -69,7 +71,7 @@ The OpenSky Secured Credit Card is one of the few secured credit cards that open
 
 The Petal 2 Visa Credit Card is one of the best options without an SSN requirement because cardholders earn 1% cash back on all eligible purchases, up to 1.25% back after 6 months of on-time payments, and 1.5% cash back after 12 consecutive months of paying on time. Applicants with limited credit and an ITIN can get approved, and there's no annual fee.
 
-For a deeper look at the full landscape of ITIN-friendly issuers, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
+For a deeper look at the full landscape of ITIN-friendly issuers, see our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ---
 

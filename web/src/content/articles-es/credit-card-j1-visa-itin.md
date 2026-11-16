@@ -11,6 +11,7 @@ relatedQueries:
   - "tarjeta de crédito J-1 pasante sin historial crediticio en EE. UU."
 quickAnswer: "Sí, los titulares de visa J-1 pueden obtener una tarjeta de crédito en EE. UU. con un ITIN. Tarjetas como la Capital One Platinum Secured, Discover it Secured, OpenSky Secured y la Current Build Card aceptan solicitudes con ITIN. Necesitarás tu ITIN, pasaporte, una dirección en EE. UU. y comprobante de ingresos o un depósito reembolsable."
 publishedAt: "2026-09-16"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -68,7 +69,8 @@ Algo importante que debes saber desde el principio: la Ley CARD de 2009 exige qu
 | OpenSky Secured | Asegurada | Sí | Sin verificación crediticia | $200 | Sí |
 | Capital One Platinum Secured | Asegurada | Sí | Precalificación suave | $49-$200 | Sí |
 | Discover it Secured | Asegurada | Sí | Consulta dura | $200 | Sí |
-| Self Visa (con cuenta Self) | Asegurada | Sí | Consulta suave | A través de cuenta Self | Sí |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 La Current Build Card es una excelente opción para titulares de ITIN: sin verificación crediticia, sin depósito mínimo de seguridad y con 0% APR, por lo que la aprobación no depende de un historial crediticio en EE. UU. que aún no tienes.
 

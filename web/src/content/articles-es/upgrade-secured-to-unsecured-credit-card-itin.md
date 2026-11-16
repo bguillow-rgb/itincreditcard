@@ -11,14 +11,14 @@ relatedQueries:
   - "mejor tarjeta de crédito no asegurada después de tarjeta asegurada con ITIN"
 quickAnswer: "Los titulares de ITIN pueden pasar de una tarjeta asegurada a una no asegurada después de aproximadamente 6-18 meses de pagos puntuales y un uso bajo del crédito. Emisores como Capital One y Discover revisan las cuentas automáticamente; otros requieren que tú lo solicites directamente. Por lo general, el depósito se devuelve cuando se aprueba el cambio o cuando la cuenta asegurada se cierra al día."
 publishedAt: "2026-06-18"
-updatedAt: "2026-07-07"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "get-secured-credit-card-deposit-back-itin"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
-  - "itin-credit-card-complete-issuer-guide-2026"
-  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
+  - "secured-credit-card-deposit-itin-holders"
+  - "secured-vs-unsecured-credit-card-itin-comparison"
+  - "credit-limit-increase-itin-credit-card"
 faqs:
   - q: "¿Puedo pasar de una tarjeta asegurada a una no asegurada si solo tengo ITIN y no tengo SSN?"
     a: "Sí. La aceptación del ITIN no cambia una vez que ya eres titular de la tarjeta. Si el emisor aceptó tu ITIN al momento de solicitar la tarjeta, evaluará tu cuenta existente para el cambio con base en tu historial de pagos y tu perfil crediticio, no en si tienes o no un SSN."
@@ -81,7 +81,8 @@ Así es como los principales emisores compatibles con ITIN manejan los cambios:
 | Bank of America Secured | Solicitud manual o revisión periódica | 12+ meses | Posible | Sí, al cierre o al hacer el cambio |
 | Citi Secured Mastercard | Solicitud manual; cuenta nueva separada | 18+ meses | Sí (cuenta nueva) | Sí, después de pagar el saldo |
 | OpenSky Secured | Opciones limitadas; posible tarjeta no asegurada relacionada | 6 meses (elegibilidad no definida) | Varía | Solo si se cierra la cuenta |
-| Self Visa | Vinculada a una cuenta Credit Builder; sin cambio clásico | Continuo | No | Ahorros liberados al final del plazo |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Capital One merece una mención especial para los titulares de ITIN porque su proceso de revisión automática no requiere que tú hagas nada. Según NerdWallet, Capital One considera automáticamente a los titulares de la Capital One Quicksilver Secured para un límite de crédito más alto en tan solo seis meses, y el emisor también monitorea las cuentas para determinar si son elegibles para la devolución del depósito. Eso significa que un titular de ITIN que paga a tiempo y mantiene el uso del crédito por debajo del umbral puede recibir una notificación de cambio sin necesidad de llamar.
 

@@ -14,10 +14,10 @@ publishedAt: "2026-06-22"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
   - "capital-one-credit-card-itin"
+  - "credit-card-f1-visa-holders-itin"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-prequalification-itin"
 faqs:
   - q: "Can I get a credit card with an ITIN and no U.S. credit history?"
     a: "Yes. Several issuers, including OpenSky, Firstcard, and the Current Build Card, approve ITIN holders without requiring any U.S. credit history. They rely on a security deposit or a linked bank account instead of a credit file review."
@@ -109,7 +109,7 @@ The most common reason ITIN holders get denied is not fraud or bad credit. It is
 
 A no-credit-check secured card removes this specific barrier because the issuer is not looking at your credit file to make the decision. Approval is based almost entirely on whether you can fund the deposit and pass identity verification. The deposit dramatically lowers the bank's risk. When the bank feels secure, they are far more likely to approve an applicant without a traditional credit file.
 
-If previous denials came from issuers that do not accept ITINs at all, that is a separate problem. Our guide on [which banks accept an ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists verified ITIN-friendly issuers so you can avoid wasting hard inquiries on applications that will fail regardless of your profile.
+If previous denials came from issuers that do not accept ITINs at all, that is a separate problem. Our guide on [which banks accept an ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) lists verified ITIN-friendly issuers so you can avoid wasting hard inquiries on applications that will fail regardless of your profile.
 
 ## What happens to my no-credit-check card once I build enough credit to qualify for better options?
 

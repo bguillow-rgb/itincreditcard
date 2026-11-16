@@ -52,7 +52,7 @@ This is where most guides fall short, they list premium cards without flagging t
 
 **Current Build Card**, There's no credit check, no minimum security deposit, and 0% APR. You spend from your Current account, and the activity gets reported as on-time credit usage to Experian, TransUnion, and Equifax. You also earn 1 point per dollar on dining and groceries while you build credit.
 
-For a broader look at which institutions will actually approve your application, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards).
+For a broader look at which institutions will actually approve your application, see our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## I've had my secured card for about a year. What rewards cards can I graduate to?
 

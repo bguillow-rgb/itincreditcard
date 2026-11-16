@@ -14,10 +14,10 @@ publishedAt: "2026-06-11"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
-  - "itin-credit-card-issuer-comparison-2026"
   - "cash-back-credit-card-itin-holders"
+  - "credit-card-f1-visa-holders-itin"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-international-students-itin"
 faqs:
   - q: "Can I join a credit union with only an ITIN and no SSN?"
     a: "Yes. Many credit unions explicitly accept an ITIN as a primary identifier for membership. You will also need a government-issued photo ID (such as a passport or consular ID), proof of a U.S. address, and an opening deposit, typically $5-$25. Policies vary by institution, so confirm before applying."
@@ -32,7 +32,7 @@ faqs:
 published: true
 ---
 
-If you've already read our guide on [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) and walked away feeling like the big banks set a high bar, you're not imagining it. Credit unions are a different category entirely, and for ITIN holders, they're often the path of least resistance to a first U.S. credit card.
+If you've already read our guide on [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) and walked away feeling like the big banks set a high bar, you're not imagining it. Credit unions are a different category entirely, and for ITIN holders, they're often the path of least resistance to a first U.S. credit card.
 
 ## Why would a credit union be easier than a bank for ITIN holders?
 

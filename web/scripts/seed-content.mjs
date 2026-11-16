@@ -9,12 +9,14 @@
 // seed-content workflow) — NOT on the daily cron.
 //
 // Usage:  ANTHROPIC_API_KEY=... node scripts/seed-content.mjs --count 12 --pillar --topic "ITIN home loans"
-import { existsSync } from 'node:fs';
+import { existsSync, readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, resolve, join } from 'node:path';
 import { loadSite, generateArticle } from './lib/generate.mjs';
 import { readArticleMeta } from './lib/articles.mjs';
 import { publishArticle, relinkDir } from './lib/publish.mjs';
+import { duplicateReason, staticPageTargets } from './lib/dedup.mjs';
+import { loadRoutes } from './lib/links.mjs';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const WEB_DIR = resolve(__dirname, '..');
@@ -71,6 +73,14 @@ async function seedOne(tier) {
   }
   if (slugSet.has(article.slug) || existsSync(join(ARTICLES_DIR, `${article.slug}.md`))) {
     console.log(`seed-content: duplicate slug "${article.slug}" — skipping.`);
+    return;
+  }
+  // Same near-duplicate gate as daily-post.mjs (scripts/lib/dedup.mjs).
+  const retiredPath = join(WEB_DIR, 'src/data/retired-articles.json');
+  const retired = existsSync(retiredPath) ? JSON.parse(readFileSync(retiredPath, 'utf8')).articles || [] : [];
+  const why = duplicateReason(article, [...meta, ...retired, ...staticPageTargets(loadRoutes(WEB_DIR))]);
+  if (why || retired.some((r) => r.slug === article.slug)) {
+    console.log(`seed-content: near-duplicate "${article.slug}" — skipping (${why || 'retired slug'}).`);
     return;
   }
   article.fallbackAuthor = SITE.author;

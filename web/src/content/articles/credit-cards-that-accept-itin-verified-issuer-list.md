@@ -11,13 +11,14 @@ relatedQueries:
   - "credit card application ITIN approval odds"
 quickAnswer: "At least seven of the top ten U.S. credit card issuers accept an ITIN in place of an SSN, including Capital One, Chase, American Express, Bank of America, Wells Fargo, and Citi. OpenSky, Petal (now transitioning to Tilt), and Zolve round out the list for applicants with no U.S. credit history. Your best starting option depends on whether you have existing U.S. credit."
 publishedAt: "2026-07-05"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-credit-card-issuer-comparison-2026"
-  - "itin-credit-cards-issuer-by-issuer-verified-list-2026"
-  - "itin-credit-card-complete-issuer-guide-2026"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-opt-visa-holder-itin"
+  - "store-credit-card-with-itin"
+  - "cash-back-credit-card-itin-holders"
 faqs:
   - q: "Which credit cards accept an ITIN instead of an SSN?"
     a: "Capital One, Chase, American Express, Bank of America, Wells Fargo, Citi, U.S. Bank (secured cards only), OpenSky, Zolve, and the Tilt Motion Visa (the successor to Petal) all accept an ITIN. Discover is the largest major issuer that still requires a Social Security number."
@@ -39,6 +40,12 @@ faqs:
     a: "No. Once a credit account is opened with your ITIN, it reports to the credit bureaus exactly the same way as any SSN-linked account. Your payment history, utilization, and account age all factor into your score identically."
   - q: "Is Discover still an option for ITIN holders in 2026?"
     a: "No. Discover requires a Social Security number for credit card applications and does not accept ITINs as of 2026. If you were denied by Discover, pivot to Capital One, OpenSky, or Chase, all of which accept ITINs."
+  - q: "Will applying for a credit card with an ITIN affect my credit score?"
+    a: "Most applications trigger a hard inquiry, which can lower your score by a few points for a while. OpenSky runs no credit check, so applying there has no score impact, and Capital One's pre-qualification tool uses a soft pull that does not affect your score."
+  - q: "Can a secured ITIN card graduate to an unsecured card without an SSN?"
+    a: "Not at every issuer. Citi requires a valid SSN on file before it graduates the Secured Mastercard, and U.S. Bank also requires an SSN to move from its secured card to an unsecured one. An ITIN-only holder can still open these cards and build history, but the upgrade path may stay closed until you get an SSN."
+  - q: "What should I do if my ITIN credit card application is denied?"
+    a: "Read the adverse action notice, which tells you the specific reason. Fix that reason first (identity verification, thin credit history, or an unverified address are the common ones), then wait 30-60 days before applying again so you do not stack hard inquiries."
 published: true
 ---
 
@@ -62,7 +69,7 @@ Of the top 10 credit card issuers, seven accept an ITIN, including Bank of Ameri
 | **Bank of America** | Yes | Customized Cash Rewards Secured, others | Varies by citizenship | 670+ (unsecured) | Jul 2026 | Existing BofA account strongly helps approval |
 | **Wells Fargo** | Yes, all cards | Active Cash, Autograph, Reflect | Yes | 670+ (Active Cash) | Jul 2026 | 3% foreign transaction fee on Active Cash |
 | **Citi** | Yes (select cards) | Secured Mastercard; some unsecured with banking relationship | Varies | None (secured) | Jul 2026 | Branch relationship often required for ITIN applications |
-| **U.S. Bank** | Yes (secured only) | U.S. Bank Secured Visa | Yes | None | Jul 2026 | $300-$5,000 deposit; upgrade path to unsecured |
+| **U.S. Bank** | Yes (secured only) | U.S. Bank Secured Visa | Yes | None | Jul 2026 | $300-$5,000 deposit; upgrading to unsecured requires an SSN |
 | **OpenSky** | Yes | Secured Visa ($35/yr), Plus Secured ($0/yr), Launch | Yes | None (no credit check at all) | Jul 2026 | $200-$3,000 deposit; 89% approval rate cited |
 | **Zolve** | Yes (passport also accepted) | Zolve Classic | Yes | None | Jul 2026 | For H1-B, L-1, F-1 visa holders; up to $10,000 limit |
 | **Tilt (fka Petal)** | Yes (SSN or ITIN) | Tilt Motion Visa | Yes | 580+ (fair credit ok) | Jul 2026 | No deposit, no annual fee; cash-flow underwriting |
@@ -131,7 +138,7 @@ Issuers often bury the most useful numbers in footnotes. Here is the consolidate
 | U.S. Bank Secured Visa | $0 | ~28.99% | $300 | $5,000 | Yes |
 | Citi Secured Mastercard | $0 | ~27.74% | $200 | $2,500 | Yes |
 
-A few numbers worth flagging: the OpenSky Secured Visa's 23.89% variable APR makes it a better choice than most secured cards if you do not pay your balance in full each month. That is meaningfully lower than the 28%-30% range common across Capital One's secured lineup. The U.S. Bank Secured Credit Card requires a minimum deposit of at least $300, up to $5,000. This card typically allows an upgrade to an unsecured U.S. Bank card after a period of responsible use, which makes it a strong long-term option for applicants who can fund a larger deposit.
+A few numbers worth flagging: the OpenSky Secured Visa's 23.89% variable APR makes it a better choice than most secured cards if you do not pay your balance in full each month. That is meaningfully lower than the 28%-30% range common across Capital One's secured lineup. The U.S. Bank Secured Credit Card requires a minimum deposit of at least $300, up to $5,000. U.S. Bank requires an SSN to upgrade from this secured card to an unsecured one, so an ITIN-only holder should treat it as a long-term secured tradeline rather than a stepping stone.
 
 One concrete data point worth remembering: on average, OpenSky cardmembers see their scores jump 47 points in six months.
 
@@ -176,6 +183,39 @@ If you have no U.S. credit history, an unsecured card is very unlikely from any 
 For applicants who have been building credit for 12 or more months, the unsecured options expand significantly. The Capital One QuicksilverOne Cash Rewards Credit Card is a solid cash-back card to consider if you have average credit or are building your credit history, and you can apply for this card online using your ITIN number instead of a Social Security number, earning a straightforward 1.5% cash back on every purchase. The QuicksilverOne carries a $39 annual fee but no deposit requirement, making it a logical graduation card from the Capital One Platinum Secured.
 
 The Tilt Motion Visa (the Petal successor) also requires no deposit and accepts ITINs, making it a viable unsecured option for thin-file applicants who can demonstrate income and positive bank account history through its cash-flow underwriting.
+
+---
+
+## "Will my secured card graduate to unsecured if I only have an ITIN?"
+
+Graduation is the step most guides gloss over, and for ITIN holders it is where the issuers differ most.
+
+Capital One reviews secured accounts automatically starting around six months and may return your deposit and move you to an unsecured card, which is why we rank it first for zero-history applicants. Citi is the opposite case. Its Secured Mastercard accepts an ITIN at application, but Citi requires a valid SSN on file before it will graduate the account, so an ITIN-only cardholder can stay on the secured product indefinitely. U.S. Bank works the same way: the secured card accepts an ITIN, but moving to an unsecured U.S. Bank card requires an SSN.
+
+None of this makes the Citi or U.S. Bank cards a bad choice. They still report your payments and build a real credit file. Just go in knowing that if you want your deposit back on an ITIN alone, the realistic route is usually a second, unsecured card from another issuer once you have 12 or more months of on-time history.
+
+---
+
+## "What happens if my application is denied, and when should I try again?"
+
+A denial is information, not a dead end.
+
+Under the Equal Credit Opportunity Act, a lender has to send you an adverse action notice within 30 days of a completed application that explains why you were turned down. For ITIN applicants the common reasons are "unable to verify identity" (usually fixed by applying in a branch with your passport and ITIN letter), "insufficient credit history" (fixed by starting with a no-credit-check secured card and building six months of history), and "address could not be verified" (fixed by bringing a lease or utility bill).
+
+Wait 30-60 days before reapplying. Every application adds a hard inquiry, and several inquiries close together look like financial stress to an underwriter. If you think the decision was wrong, call the issuer's reconsideration line with your documents ready; our guide to the [credit card reconsideration line for ITIN holders](/articles/credit-card-reconsideration-line-itin) has the script.
+
+---
+
+## "What mistakes get ITIN applications denied?"
+
+Most denials we see trace back to a handful of avoidable errors:
+
+1. **Applying at the wrong tier.** A Chase Freedom Unlimited application with no U.S. credit history will almost certainly be declined and still costs you a hard inquiry. Start secured and work up.
+2. **Using a VoIP phone number.** Issuers often text a one-time code during the application, and internet-based numbers can fail that check. Use a carrier phone number.
+3. **Skipping pre-qualification.** Soft-pull tools such as Capital One's show your odds without touching your score.
+4. **Applying with no relationship at relationship-driven banks.** At Bank of America and Citi especially, an existing checking account noticeably improves your odds.
+5. **Closing the secured card too early.** Closing it shortens your average account age. Keep it open, or upgrade it where the issuer allows.
+6. **Letting your ITIN expire.** An ITIN not used on a federal tax return for three consecutive years expires. See [what happens to your credit card if your ITIN expires](/articles/expired-itin-credit-card-what-happens).
 
 ---
 
@@ -266,3 +306,12 @@ No. Once a credit account is opened with your ITIN, it reports to the credit bur
 
 **Q: Is Discover still an option for ITIN holders in 2026?**
 No. Discover requires a Social Security number and does not accept ITINs as of 2026. If you were denied by Discover, pivot to Capital One, OpenSky, or Chase.
+
+**Q: Will applying for a credit card with an ITIN affect my credit score?**
+Most applications trigger a hard inquiry that can lower your score by a few points for a while. OpenSky runs no credit check, and Capital One's pre-qualification tool uses a soft pull, so neither affects your score.
+
+**Q: Can a secured ITIN card graduate to an unsecured card without an SSN?**
+Not at every issuer. Citi and U.S. Bank both require an SSN before moving you from their secured card to an unsecured one. You can still open these cards with an ITIN and build history.
+
+**Q: What should I do if my ITIN credit card application is denied?**
+Read the adverse action notice for the specific reason, fix it, and wait 30-60 days before applying again so you do not stack hard inquiries.

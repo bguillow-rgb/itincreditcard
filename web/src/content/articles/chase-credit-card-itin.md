@@ -14,10 +14,10 @@ publishedAt: "2026-10-02"
 author: "Editorial Team"
 category: "Credit Cards"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "credit-card-denied-itin-what-to-do"
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-j1-visa-itin"
+  - "credit-card-prequalification-itin"
 faqs:
   - q: "Can I apply for a Chase credit card with an ITIN instead of an SSN?"
     a: "Yes. Chase's online application includes a 'Tax ID type' field where you select 'Individual Tax ID Number' and enter your ITIN. All Chase personal credit cards accept an ITIN in place of an SSN."

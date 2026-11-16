@@ -11,6 +11,7 @@ relatedQueries:
   - "credit line increase request itin holder"
 quickAnswer: "ITIN holders can get credit limit increases the same way SSN holders do: pay on time for 6-12 months, keep utilization below 30%, then request an increase online or by phone. Some issuers like Capital One and OpenSky also grant automatic increases without a new hard inquiry."
 publishedAt: "2026-06-16"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
@@ -50,7 +51,7 @@ Timing your request around a real income change also matters. If you recently ch
 
 The mechanics are identical to what any cardholder would do. Here is the process broken down by issuer type:
 
-**Step 1: Log into your account online.** The easiest way to request a higher credit line with Capital One, for example, is through your online account: log in and click "Request Credit Line Increase" in the settings section. Most other ITIN-friendly issuers (Petal, Self, Mission Lane) offer the same self-service option.
+**Step 1: Log into your account online.** The easiest way to request a higher credit line with Capital One, for example, is through your online account: log in and click "Request Credit Line Increase" in the settings section. Most other ITIN-friendly issuers (Petal, Mission Lane) offer the same self-service option.
 
 **Step 2: Update your income.** When you submit the request, you will be asked to confirm your current annual income. Report total income from all sources. ITIN holders may include U.S. employment income, self-employment income, rental income, and in many cases household income they have reasonable access to.
 
@@ -104,7 +105,7 @@ The straightforward remedies:
 - **Add a deposit (secured cards).** If you hold a secured card, depositing additional funds is a guaranteed way to increase the limit without any underwriting decision.
 - **Update your income.** If you have earned more since you originally applied, make sure your profile reflects that before you ask again.
 
-For cardholders who have built 12-24 months of history on a secured card and are ready to move to a card with a higher baseline limit, our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) walks through all the major issuers and their current policies.
+For cardholders who have built 12-24 months of history on a secured card and are ready to move to a card with a higher baseline limit, our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) walks through all the major issuers and their current policies.
 
 ## A quick comparison: how major ITIN-friendly issuers handle limit increases
 
@@ -113,8 +114,9 @@ For cardholders who have built 12-24 months of history on a secured card and are
 | Capital One Platinum | 6 months | Online request or auto | Soft (auto) / may vary (request) | Capital One may automatically increase your credit limit; some cards geared toward credit-building offer an increase after six months of on-time payments. |
 | OpenSky Secured Visa | 6 months | Request online or add deposit | Soft for non-deposit review | OpenSky may review your account after 6 months of on-time payments; automatic increase does not require adding to your deposit. |
 | Petal 2 Visa | 6 months on-time | Automatic (cash-back tier) | No hard pull | Petal evaluates credit limit increase opportunities as part of its credit-building accessibility features. |
-| Self Visa | After Credit Builder Account grows | Linked to savings progress | No hard pull | Limit tied to funds in Credit Builder Account |
 | Mission Lane Visa | Varies (typically 12 months) | Online request | May vary | Positioned for thin-file borrowers |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 *Always confirm current terms directly with the issuer before applying, as policies change.*
 

@@ -11,6 +11,7 @@ relatedQueries:
   - "TN visa credit card no US credit history"
 quickAnswer: "TN visa holders can apply for a credit card using an ITIN at issuers like Capital One, Discover, and OpenSky. TD visa dependents, who cannot get an SSN, rely exclusively on an ITIN. Secured cards are the most accessible starting point, and several issuers approve applicants with no U.S. credit history."
 publishedAt: "2026-08-26"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
@@ -54,7 +55,8 @@ TD visa dependents (typically the spouse or minor children of a TN holder) face 
 | Citi (select cards) | Yes | Both | Yes | In-branch application often smoother |
 | Bank of America (select cards) | Yes | Both | Yes | Existing banking relationship helps |
 | Zolve | Yes (passport also accepted) | Unsecured | Alternative data | No deposit; good for pre-arrival applicants |
-| Self Visa | Yes | Secured (credit-builder) | No hard pull initially | Savings-linked model |
+
+**Correction (November 16, 2026):** an earlier version of this article listed the Self Visa Credit Card as an option for ITIN holders. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 Major U.S. issuers including Capital One, Citi, and Synchrony let you verify your identity with an ITIN instead of an SSN. That said, branch-level execution does not always match published policy. Acceptance is issuer-by-issuer and not guaranteed by any law, so call the issuer's customer service line directly to confirm their current ITIN policy before applying.
 

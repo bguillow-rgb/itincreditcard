@@ -11,6 +11,7 @@ relatedQueries:
   - "tarjeta de crédito con visa TN sin historial crediticio en EE. UU."
 quickAnswer: "Los titulares de visa TN pueden solicitar una tarjeta de crédito usando un ITIN con emisores como Capital One, Discover y OpenSky. Los dependientes con visa TD, que no pueden obtener un SSN, dependen exclusivamente del ITIN. Las tarjetas aseguradas son el punto de partida más accesible, y varios emisores aprueban solicitantes sin historial crediticio en EE. UU."
 publishedAt: "2026-08-26"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
@@ -54,7 +55,8 @@ Los dependientes con visa TD (generalmente el cónyuge o los hijos menores del t
 | Citi (tarjetas seleccionadas) | Sí | Ambas | Sí | Solicitar en sucursal suele ser más fácil |
 | Bank of America (tarjetas seleccionadas) | Sí | Ambas | Sí | Tener una relación bancaria previa ayuda |
 | Zolve | Sí (también acepta pasaporte) | No asegurada | Datos alternativos | Sin depósito; útil para solicitantes antes de llegar |
-| Self Visa | Sí | Asegurada (generadora de crédito) | Sin consulta formal inicial | Modelo vinculado a ahorros |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Grandes emisores estadounidenses como Capital One, Citi y Synchrony te permiten verificar tu identidad con un ITIN en lugar de un SSN. Dicho esto, la aplicación a nivel de sucursal no siempre coincide con la política publicada. La aceptación es decisión de cada emisor y ninguna ley la garantiza, así que llama directamente a la línea de servicio al cliente del emisor para confirmar su política actual de ITIN antes de solicitar.
 

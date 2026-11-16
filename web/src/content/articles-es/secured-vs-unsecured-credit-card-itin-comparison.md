@@ -11,13 +11,14 @@ relatedQueries:
   - "requisitos de depósito para tarjeta de crédito con ITIN 2026"
 quickAnswer: "Si tienes ITIN y no tienes historial crediticio en EE.UU., empieza con una tarjeta asegurada: Capital One Platinum Secured (depósito desde $49), OpenSky Plus ($300, sin verificación de crédito) o Citi Secured ($200-$2,500). Después de 6-18 meses pagando a tiempo, puedes graduarte a una tarjeta no asegurada. Las tarjetas no aseguradas con ITIN existen, pero requieren algún historial crediticio establecido."
 publishedAt: "2026-07-13"
+updatedAt: "2026-11-16"
 author: "Editorial Team"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
-  - "secured-vs-unsecured-itin-credit-card-deposits-aprs-graduation"
   - "capital-one-credit-card-itin"
-  - "itin-credit-card-complete-issuer-guide-2026"
+  - "build-credit-with-itin-credit-card"
+  - "get-secured-credit-card-deposit-back-itin"
+  - "credit-utilization-itin-credit-card"
 faqs:
   - q: "¿Puedo obtener una tarjeta de crédito asegurada en EE.UU. solo con ITIN?"
     a: "Sí. Varios emisores importantes aceptan el ITIN para tarjetas aseguradas, entre ellos Capital One, Citi, Bank of America y OpenSky. No se necesita SSN. Necesitarás una identificación con foto vigente, comprobante de domicilio y una cuenta bancaria en EE.UU. con fondos suficientes para cubrir el depósito de seguridad."
@@ -26,7 +27,7 @@ faqs:
   - q: "¿Cuánto depósito de seguridad necesito para una tarjeta asegurada con ITIN?"
     a: "El depósito varía según el emisor. Capital One Platinum Secured comienza en $49. OpenSky Secured comienza en $200 y llega hasta $3,000. Citi Secured requiere entre $200 y $2,500. Las tarjetas aseguradas de Bank of America aceptan entre $200 y $5,000. El depósito casi siempre equivale a tu límite de crédito inicial."
   - q: "¿Cuánto tiempo tarda graduarse de una tarjeta asegurada a una no asegurada con ITIN?"
-    a: "Por lo general, de 6 a 18 meses de uso responsable. Capital One revisa las cuentas después de 6 meses. Citi suele tardar alrededor de 18 meses. OpenSky anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo 6 meses. Los plazos varían y dependen de pagos puntuales constantes y un uso bajo del crédito disponible."
+    a: "Por lo general, de 6 a 18 meses de uso responsable. Capital One revisa las cuentas después de 6 meses. Citi revisa a partir de los 9 meses y luego cada 12 meses, pero su propia página indica que necesitas un SSN válido registrado para graduarte. OpenSky anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo 6 meses. Los plazos varían y dependen de pagos puntuales constantes y un uso bajo del crédito disponible."
   - q: "¿Una tarjeta de crédito asegurada con ITIN reporta a los burós de crédito?"
     a: "Sí, prácticamente todas las tarjetas aseguradas de los emisores principales reportan a los tres burós de crédito: Equifax, Experian y TransUnion. Este reporte mensual es el mecanismo principal para construir un historial crediticio en EE.UU. con tu ITIN."
   - q: "¿Me devuelven el depósito de seguridad cuando me gradúo a una tarjeta no asegurada?"
@@ -39,12 +40,20 @@ faqs:
     a: "La OpenSky Secured Visa y la OpenSky Plus Secured Visa no realizan verificación de crédito, aceptan ITIN y reportan a los tres burós. La versión Plus no tiene cuota anual, pero requiere un depósito de $300. La OpenSky original cobra una cuota anual de $35, pero comienza en $200 y tiene un APR más bajo."
   - q: "¿Los solicitantes con ITIN en Bank of America solo pueden aplicar en persona?"
     a: "Según la propia página de requisitos de Bank of America, los solicitantes con ITIN deben aplicar en persona en una sucursal, mientras que los titulares de SSN pueden hacerlo en línea o en persona. Este es un factor logístico importante a tener en cuenta al comparar emisores."
+  - q: "¿Puedo graduar la Citi Secured Mastercard solo con ITIN?"
+    a: "Según Citi, no. Puedes abrir la tarjeta con ITIN, pero la página de la tarjeta de Citi indica que debes tener un SSN válido registrado para graduarte. Las revisiones comienzan a los 9 meses y se repiten cada 12 meses. Un titular que solo tiene ITIN igual puede construir historial de pagos, y el depósito generalmente se reembolsa al cerrar la cuenta en buen estado."
+  - q: "¿Qué pasa con mi depósito si nunca me gradúo?"
+    a: "Nada malo. El depósito permanece en una cuenta de garantía mientras la tarjeta está abierta y se te devuelve cuando cierras la cuenta con el saldo pagado por completo y la cuenta en buen estado. No lo pierdes por mantener una tarjeta asegurada abierta durante años."
+  - q: "¿Graduarme de una tarjeta asegurada a una no asegurada afecta mi puntaje de crédito?"
+    a: "Por lo general, no. Cuando la mejora ocurre en la misma cuenta, tu historial y la antigüedad de la cuenta se mantienen, y recuperas tu depósito. Cerrar una tarjeta asegurada para abrir otra en un emisor distinto es diferente: la nueva solicitud puede implicar una consulta dura, y cerrar tu cuenta más antigua puede acortar tu historial crediticio."
 published: true
 ---
 
 Si tienes ITIN y estás tratando de decidir si comenzar con una tarjeta de crédito asegurada o no asegurada, aquí va la respuesta corta: tu historial crediticio en EE.UU. (o la falta de él) toma esa decisión por ti. La mayoría de los titulares de ITIN sin historial crediticio en EE.UU. necesitan comenzar con una tarjeta asegurada, construir un historial durante 6-18 meses y luego graduarse a un producto no asegurado con el mismo emisor o solicitarlo en otro lugar. Esta guía reúne los números reales, los emisores reales y los plazos reales en un solo lugar.
 
 **Cómo elaboramos esta guía:** Cruzamos información de las páginas de productos de los emisores, bases de datos de tarjetas de terceros (WalletHub, Bankrate, Credit Karma) y guías específicas para ITIN para verificar los rangos de depósito, APRs, cuotas anuales, aceptación de ITIN y políticas de graduación de cada tarjeta listada. **Última verificación:** 13 de julio de 2026.
+
+**Actualizado el 16 de noviembre de 2026:** unificamos en esta página nuestras otras guías sobre tarjetas aseguradas vs. no aseguradas. Esta actualización agrega el requisito de SSN de Citi para graduarse, tomado de [la propia página de la Citi Secured Mastercard](https://www.citi.com/credit-cards/citi-secured-credit-card), y corrige el depósito mínimo de OpenSky Launch de $100 a $150.
 
 ---
 
@@ -93,7 +102,7 @@ La tabla a continuación refleja datos actuales de los sitios web de los emisore
 | Tarjeta | Depósito mínimo | Depósito máximo | Cuota anual | APR de compras | ¿Verificación de crédito? | ¿Acepta ITIN? | Tiempo típico hasta la graduación | Camino hacia la graduación |
 |---|---|---|---|---|---|---|---|---|
 | Capital One Platinum Secured | $49, $99 o $200 | $1,000 | $0 | ~29.99% variable | Sí (pre-calificación suave disponible) | Sí | 6+ meses | Revisión automática a los 6 meses |
-| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Sí | Sí | 12-18 meses | Revisión periódica, típicamente ~18 meses |
+| Citi Secured Mastercard | $200 | $2,500 | $0 | Variable | Sí | Sí (para abrirla) | Revisiones desde los 9 meses, luego cada 12 | Requiere SSN válido para graduarse |
 | OpenSky Secured Visa | $200 | $3,000 | $35 | ~23.89% variable | No | Sí | 6+ meses | Graduación a OpenSky Gold en 6+ meses |
 | OpenSky Plus Secured Visa | $300 | $3,000 | $0 | ~28.24% variable | No | Sí | 6+ meses | Graduación a OpenSky Gold en 6+ meses |
 | BankAmericard Secured | $200 | $5,000 | $0 | ~25.99% variable | Sí | Sí (solo en sucursal para ITIN) | ~12 meses | Revisión automática a los ~12 meses |
@@ -121,7 +130,7 @@ La OpenSky Secured Credit Card es una de las pocas tarjetas aseguradas que aprue
 
 OpenSky ofrece ahora una pequeña familia de tres tarjetas aseguradas a diferentes precios. La tarjeta original sigue disponible, pero dos opciones más recientes la flanquean: un nivel de entrada con depósito más bajo (Launch) y un nivel sin cuota anual (Plus). Los tres niveles omiten la verificación de crédito dura, los tres reportan a Experian, Equifax y TransUnion, y los tres son emitidos por Capital Bank, N.A.
 
-¿Qué nivel de OpenSky tiene más sentido para un titular de ITIN? Para quienes construyen crédito por primera vez y pueden depositar $300 por adelantado, la tarjeta Plus es la mejor opción a largo plazo. Para quienes solo pueden destinar $100, la tarjeta Launch abre la puerta. La tarjeta original, con su cuota anual de $35, queda en el medio y tiene el APR más bajo de las tres.
+¿Qué nivel de OpenSky tiene más sentido para un titular de ITIN? Para quienes construyen crédito por primera vez y pueden depositar $300 por adelantado, la tarjeta Plus es la mejor opción a largo plazo. Para quienes pueden destinar unos $150, la tarjeta Launch abre la puerta (OpenSky indica un depósito mínimo de $150 para ella). La tarjeta original, con su cuota anual de $35, queda en el medio y tiene el APR más bajo de las tres.
 
 Según los propios datos de OpenSky, los usuarios mejoran su puntaje de crédito un promedio de 47 puntos en seis meses. OpenSky también anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo seis meses, uno de los plazos de graduación más cortos anunciados entre las tarjetas aseguradas accesibles con ITIN.
 
@@ -143,7 +152,7 @@ Estas dos tarjetas ocupan nichos específicos que vale la pena entender.
 
 **Amazon Secured Card (Synchrony Bank):** La Amazon.com Secured Card es accesible para titulares de ITIN incluso si rara vez compras en Amazon. Está diseñada para personas sin historial crediticio o con un perfil crediticio limitado en EE.UU., y reporta la actividad de pagos a los tres burós principales. El depósito reembolsable va de $100 a $1,000 y funciona como tu límite de crédito. Su característica destacada es un APR fijo del 10%, muy por debajo de la mayoría de las tarjetas para principiantes. Después de 12 meses de uso responsable, Synchrony puede graduarte a una tarjeta de tienda no asegurada y devolverte el depósito. La desventaja: es una tarjeta de circuito cerrado, aceptada únicamente en Amazon.com y Amazon Fresh. Funciona mejor como tarjeta secundaria combinada con una tarjeta asegurada de uso general.
 
-**Citi Secured Mastercard:** La Citi Secured requiere un depósito entre $200 y $2,500, que establece tu límite de crédito. Eso te da control sobre cuánto crédito quieres acceder según lo que puedas reservar. Deberás proporcionar tu nombre, dirección y SSN o ITIN para aplicar. No tiene cuota anual. Las páginas de requisitos de Citi listan el ITIN como identificador aceptable junto al SSN, lo que la convierte en una opción viable cuando tu documentación y validación de domicilio pasan sus verificaciones. La tarjeta no ofrece recompensas, pero su amplio techo de depósito y su camino de graduación claro la convierten en una buena opción para titulares de ITIN que pueden cumplir con los requisitos de documentación.
+**Citi Secured Mastercard:** La Citi Secured requiere un depósito entre $200 y $2,500, que establece tu límite de crédito. Eso te da control sobre cuánto crédito quieres acceder según lo que puedas reservar. Deberás proporcionar tu nombre, dirección y SSN o ITIN para aplicar. No tiene cuota anual. Las páginas de requisitos de Citi listan el ITIN como identificador aceptable junto al SSN, lo que la convierte en una opción viable cuando tu documentación y validación de domicilio pasan sus verificaciones. La tarjeta no ofrece recompensas, y tiene una trampa que la mayoría de las comparativas omite: [la propia página de la tarjeta de Citi](https://www.citi.com/credit-cards/citi-secured-credit-card) indica que debes tener un SSN válido registrado para graduarte. Citi revisa las cuentas para una graduación anticipada a partir de los 9 meses y luego cada 12 meses; si no calificas, sigues con la tarjeta asegurada otros 12 meses. Un titular que solo tiene ITIN igual puede construir historial de pagos con ella, pero no debería contar con convertirla en una tarjeta no asegurada ni con recuperar el depósito mediante la graduación. Si te importa tener un camino predecible hacia una tarjeta no asegurada, Capital One u OpenSky son opciones más claras.
 
 ---
 
@@ -173,13 +182,23 @@ Los plazos difieren significativamente según el emisor:
 
 - **Capital One Platinum Secured:** Capital One revisa tu cuenta después de 6 meses para una posible conversión a no asegurada.
 - **OpenSky (original y Plus):** Graduación a la tarjeta no asegurada OpenSky Gold en tan solo 6 meses.
-- **Citi Secured Mastercard:** Citi no publica un plazo de revisión fijo. La mayoría de fuentes independientes citan 12-18 meses como plazo típico.
+- **Citi Secured Mastercard:** Citi revisa las cuentas para una graduación anticipada a partir de los 9 meses y luego cada 12 meses. Su página también indica que necesitas un SSN válido registrado para graduarte, así que un titular que solo tiene ITIN quizá no pueda graduarse hasta obtener un SSN.
 - **Bank of America Secured:** El período de graduación es típicamente de un año, con pagos puntuales y uso bajo del crédito. Bank of America generalmente lo hace de forma automática, mediante una verificación suave, al cumplirse el año.
 - **Amazon Secured (Synchrony):** Después de 12 meses de uso responsable, Synchrony puede graduarte a una tarjeta de tienda no asegurada y devolverte el depósito.
 
 Existen dos tipos de graduación: revisión automática y solicitud manual. Algunos emisores revisarán tu cuenta después de 6-12 meses de uso responsable y ofrecerán convertirla a no asegurada sin que tengas que hacer nada. Otros requieren que apliques por separado para una tarjeta no asegurada.
 
 No todas las tarjetas aseguradas tienen un camino de graduación. Antes de abrir cualquier tarjeta asegurada, confirma si el emisor ofrece ese camino, o si eventualmente tendrías que cerrar la cuenta y aplicar desde cero en otro lugar.
+
+---
+
+## ¿Qué hago si ahora no puedo depositar $200?
+
+Tus opciones se reducen, pero no desaparecen. La Capital One Platinum Secured es la única tarjeta asegurada de un banco grande en esta lista que puede abrir una línea de $200 con un depósito de $49 o $99, según tu perfil crediticio. No todos califican para los niveles más bajos.
+
+Después viene la Amazon Secured Card, con un mínimo de $100, aunque solo funciona en Amazon. La tarjeta Launch de OpenSky indica un depósito mínimo de $150 y no hace verificación de crédito.
+
+Antes de abrir cualquier tarjeta con depósito bajo, revisa la tabla de cargos. Evita ofertas que cobren cargos por solicitud, cuotas mensuales de mantenimiento o cargos de apertura que se coman tu línea de crédito, y evita cualquier tarjeta que no reporte a los burós de crédito. El reporte es la razón principal para tener la tarjeta.
 
 ---
 
@@ -261,7 +280,7 @@ Es muy difícil sin ningún historial crediticio. Algunos emisores como Capital 
 El depósito varía según el emisor. Capital One Platinum Secured comienza en $49. OpenSky Secured comienza en $200 y llega hasta $3,000. Citi Secured requiere entre $200 y $2,500. Las tarjetas aseguradas de Bank of America aceptan entre $200 y $5,000. El depósito casi siempre equivale a tu límite de crédito inicial.
 
 **¿Cuánto tiempo tarda graduarse de una tarjeta asegurada a una no asegurada con ITIN?**
-Por lo general, de 6 a 18 meses de uso responsable. Capital One revisa las cuentas después de 6 meses. Citi suele tardar alrededor de 18 meses. OpenSky anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo 6 meses. Los plazos varían y dependen de pagos puntuales constantes y un uso bajo del crédito disponible.
+Por lo general, de 6 a 18 meses de uso responsable. Capital One revisa las cuentas después de 6 meses. Citi revisa a partir de los 9 meses y luego cada 12 meses, pero su propia página indica que necesitas un SSN válido registrado para graduarte. OpenSky anuncia la graduación a la tarjeta no asegurada OpenSky Gold en tan solo 6 meses. Los plazos varían y dependen de pagos puntuales constantes y un uso bajo del crédito disponible.
 
 **¿Una tarjeta de crédito asegurada con ITIN reporta a los burós de crédito?**
 Sí, prácticamente todas las tarjetas aseguradas de los emisores principales reportan a los tres burós de crédito: Equifax, Experian y TransUnion. Este reporte mensual es el mecanismo principal para construir un historial crediticio en EE.UU. con tu ITIN.
@@ -280,3 +299,12 @@ La OpenSky Secured Visa y la OpenSky Plus Secured Visa no realizan verificación
 
 **¿Los solicitantes con ITIN en Bank of America solo pueden aplicar en persona?**
 Según la propia página de requisitos de Bank of America, los solicitantes con ITIN deben aplicar en persona en una sucursal, mientras que los titulares de SSN pueden hacerlo en línea o en persona. Este es un factor logístico importante a tener en cuenta al comparar emisores.
+
+**¿Puedo graduar la Citi Secured Mastercard solo con ITIN?**
+Según Citi, no. Puedes abrir la tarjeta con ITIN, pero la página de la tarjeta de Citi indica que debes tener un SSN válido registrado para graduarte. Las revisiones comienzan a los 9 meses y se repiten cada 12 meses. Un titular que solo tiene ITIN igual puede construir historial de pagos, y el depósito generalmente se reembolsa al cerrar la cuenta en buen estado.
+
+**¿Qué pasa con mi depósito si nunca me gradúo?**
+Nada malo. El depósito permanece en una cuenta de garantía mientras la tarjeta está abierta y se te devuelve cuando cierras la cuenta con el saldo pagado por completo y la cuenta en buen estado. No lo pierdes por mantener una tarjeta asegurada abierta durante años.
+
+**¿Graduarme de una tarjeta asegurada a una no asegurada afecta mi puntaje de crédito?**
+Por lo general, no. Cuando la mejora ocurre en la misma cuenta, tu historial y la antigüedad de la cuenta se mantienen, y recuperas tu depósito. Cerrar una tarjeta asegurada para abrir otra en un emisor distinto es diferente: la nueva solicitud puede implicar una consulta dura, y cerrar tu cuenta más antigua puede acortar tu historial crediticio.

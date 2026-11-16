@@ -11,6 +11,7 @@ relatedQueries:
   - "credit card rejection itin holder next steps"
 quickAnswer: "If your credit card application was denied with an ITIN, read the adverse action notice to find the exact reason, then call the issuer's reconsideration line within 30 days. Common fixable causes include a thin credit file, a frozen credit report, or missing documentation. Switching to a secured card or a no-credit-check issuer is often the fastest fallback."
 publishedAt: "2026-06-17"
+updatedAt: "2026-11-16"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
@@ -28,7 +29,7 @@ faqs:
   - q: "Will a frozen credit report cause my ITIN credit card application to be denied?"
     a: "Yes. If you placed a security freeze with Experian, TransUnion, or Equifax, the issuer cannot pull your report and will typically deny the application. Temporarily lift the freeze at all three bureaus before you apply, then reinstate it afterward if you want the protection back."
   - q: "What is the easiest credit card to get with an ITIN after a previous denial?"
-    a: "Secured cards with no credit check requirements are the most accessible fallback. Options that openly accept ITIN holders and do not require an existing U.S. credit score include the OpenSky Secured Visa and the Self Visa Credit Card. Both report to all three major bureaus monthly."
+    a: "Secured cards with no credit check requirements are the most accessible fallback. Options that openly accept ITIN holders and do not require an existing U.S. credit score include the OpenSky Secured Visa, which reports to all three major bureaus monthly. (Corrected November 16, 2026: an earlier version also listed the Self Visa Credit Card, but Self's own eligibility page requires a Social Security Number.)"
 published: true
 ---
 
@@ -120,7 +121,7 @@ Each new application triggers one hard inquiry, which typically shaves 3-5 point
 
 To limit unnecessary inquiries, use pre-qualification tools before you apply. Many issuers offer a soft-pull pre-qualification that shows you whether you are likely to be approved without affecting your score at all. If a pre-qualification tool does not support ITIN entry online, call the issuer's application line directly and ask a representative to run a soft pull before you formally submit.
 
-If you are unsure which issuers are currently accepting ITIN applications, our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) lists the current landscape by issuer so you can target your applications and avoid wasting hard inquiries on banks that require an SSN.
+If you are unsure which issuers are currently accepting ITIN applications, our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) lists the current landscape by issuer so you can target your applications and avoid wasting hard inquiries on banks that require an SSN.
 
 ---
 

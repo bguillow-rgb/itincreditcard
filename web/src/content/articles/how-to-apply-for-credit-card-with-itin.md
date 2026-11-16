@@ -15,10 +15,10 @@ updatedAt: "2026-07-07"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-credit-card-bank-credit-union-verified-guide-2026"
-  - "itin-credit-card-issuer-verified-application-guide-2026"
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
   - "credit-card-f1-visa-holders-itin"
+  - "credit-card-itin-apply-online-vs-in-branch"
+  - "income-requirements-credit-card-itin"
+  - "chase-credit-card-itin"
 faqs:
   - q: "Can I apply for a credit card online using my ITIN?"
     a: "Yes, many issuers, including Capital One and Bank of America, accept ITIN applications online. When the form asks for an SSN, look for an option to enter an alternate tax ID. Some forms only display this after you select 'other' or 'ITIN' as your ID type. If an online form rejects your ITIN, call the issuer and apply by phone instead."
@@ -130,7 +130,7 @@ If you're denied, the issuer is required by law to send you an adverse action no
 - **Wait at least six months before reapplying.** Each application triggers a hard inquiry that temporarily dips your score. Spacing applications out by at least six months gives your file time to recover and strengthens your payment history.
 - **Consider becoming an authorized user first.** If a trusted family member or friend with good U.S. credit adds you to their account, their positive history can begin appearing on your credit report, creating a thin-file profile that's easier for issuers to evaluate when you apply on your own.
 
-For a deeper look at which specific cards to target, see our guide to [which banks accept ITIN for credit cards](/articles/which-banks-accept-itin-for-credit-cards) and our full breakdown of [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
+For a deeper look at which specific cards to target, see our guide to [which banks accept ITIN for credit cards](/articles/itin-credit-card-bank-by-bank-application-guide) and our full breakdown of [secured credit cards for ITIN holders](/articles/secured-credit-card-with-itin).
 
 ---
 

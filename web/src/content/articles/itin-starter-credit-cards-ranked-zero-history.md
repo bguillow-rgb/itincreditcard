@@ -1,6 +1,6 @@
 ---
 title: "Best ITIN Starter Credit Cards (2026): Ranked From Zero"
-description: "ITIN holder with zero U.S. credit? These 7 verified starter cards rank by approval ease, deposit, fees, and upgrade speed. Ranked and compared for 2026."
+description: "ITIN holder with zero U.S. credit? These 6 verified starter cards rank by approval ease, deposit, fees, and upgrade speed. Ranked and compared for 2026."
 tier: flagship
 targetQuery: "best starter credit cards for building credit with an ITIN from zero"
 relatedQueries:
@@ -9,15 +9,16 @@ relatedQueries:
   - "secured credit card ITIN no SSN 2026"
   - "how to build credit fast with ITIN card from scratch"
   - "which secured card is best for ITIN holders zero history"
-quickAnswer: "ITIN holders starting from zero U.S. credit history have seven verified card options in 2026. The Capital One Platinum Secured (deposit from $49, no annual fee) and OpenSky Plus Secured (no credit check, no annual fee) are the two easiest entry points. Consistent on-time payments generate a first FICO score within 6 months."
+quickAnswer: "ITIN holders starting from zero U.S. credit history have six verified card options in 2026. The Capital One Platinum Secured (deposit from $49, no annual fee) and OpenSky Plus Secured (no credit check, no annual fee) are the two easiest entry points. Consistent on-time payments generate a first FICO score within 6 months."
 publishedAt: "2026-08-24"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
-  - "itin-credit-cards-ranked-zero-credit-history-2026"
-  - "best-itin-starter-credit-cards-ranked-zero-to-score"
-  - "best-starter-credit-cards-itin-zero-credit-history"
-  - "secured-vs-unsecured-itin-credit-card-issuer-comparison"
+  - "prepaid-card-vs-secured-credit-card-itin"
+  - "build-credit-with-itin-credit-card"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-j1-visa-itin"
 faqs:
   - q: "Can I get a credit card with an ITIN and no U.S. credit history at all?"
     a: "Yes. Several issuers, including Capital One, OpenSky, Citi, and Zolve, accept ITINs and approve applicants with no U.S. credit file. Secured cards are the easiest entry point because your refundable deposit removes most of the issuer's risk."
@@ -39,6 +40,14 @@ faqs:
     a: "The best ones do. Capital One Platinum Secured, OpenSky, Citi Secured, Firstcard, and Zolve all report to Experian, Equifax, and TransUnion. Always confirm three-bureau reporting before applying, since some fintech cards report to only one or two bureaus."
   - q: "What documents do I need to apply for a starter credit card with an ITIN?"
     a: "You typically need your ITIN number (from your IRS ITIN letter), a foreign passport or government-issued ID, a U.S. mailing address, and a U.S. bank account or debit card to fund the security deposit. Some issuers also require a valid U.S. phone number."
+  - q: "When will I get my secured card deposit back?"
+    a: "Your deposit comes back when the account graduates to an unsecured card or when you close it in good standing with a zero balance. Capital One says you may be considered for an upgrade in as little as six months, but no issuer guarantees a date: graduation depends on how you use the card."
+  - q: "Should I apply for several ITIN starter cards at once to build credit faster?"
+    a: "No. Each full application usually triggers a hard inquiry, and on a thin file those add up. The CFPB advises applying only for credit you actually need. Open one card, use it well for six months, then consider a second, spacing applications three to six months apart."
+  - q: "What happens to my ITIN credit card history if I later get an SSN?"
+    a: "It does not disappear. You can ask each of the three bureaus to merge your ITIN-linked file into your new SSN file, and the accounts keep their age and payment history. Call each card issuer too, so they update the number on your account."
+  - q: "Can I use my foreign credit history instead of starting from zero?"
+    a: "Sometimes, but only with a few issuers and for a limited set of countries. American Express is the issuer most often reported to consider international credit history for new arrivals. For most ITIN holders, a U.S. secured card is still the most reliable path."
 published: true
 ---
 
@@ -50,7 +59,7 @@ How we compiled this: We cross-checked issuer product pages, recent ITIN-holder 
 
 ---
 
-## At a glance: the 7 best ITIN starter cards, ranked
+## At a glance: the 6 best ITIN starter cards, ranked
 
 The table below ranks each card on the factors that matter most when you have zero U.S. credit history: how easy it is to get approved, how much cash you need upfront, what it costs to hold, and how quickly you can graduate to an unsecured product.
 
@@ -62,7 +71,6 @@ The table below ranks each card on the factors that matter most when you have ze
 | 4 | Citi Secured Mastercard | Yes | $200 | $0 | No | ~18 months | All 3 |
 | 5 | Zolve Credit Card | Yes | $0 | $0 | No | Varies | All 3 |
 | 6 | Firstcard Secured Credit Builder | Yes | $0 min. | $0 | No | Varies | All 3 |
-| 7 | Self Visa Credit Card | Yes | $100 | $0 yr 1 / $25 after | No | Varies | All 3 |
 
 Editorial stance: Capital One Platinum Secured is the best all-around first move for most ITIN holders. It has the lowest possible deposit, no annual fee, a soft-check pre-approval tool, and an automatic 6-month review for a limit increase. If you cannot pass Capital One's underwriting (which does run a credit check), OpenSky Plus Secured is the cleanest fallback: no credit check, no annual fee, fully online.
 
@@ -141,7 +149,6 @@ Beyond the top two, several other cards deserve serious consideration depending 
 | Citi Secured Mastercard | $0 | $200-$2,500 | ~26.74% | Request at 18 months | Partial |
 | Zolve Credit Card | $0 | $0 | Varies | Varies | Yes |
 | Firstcard Secured Builder | $0 | $0 min. | 0% (no revolving credit) | Varies | Yes |
-| Self Visa Credit Card | $0 yr 1 / $25 | $100+ | ~27.49% | Varies | Yes |
 
 ### #3 OpenSky Secured Visa (fee card, lower deposit)
 
@@ -167,11 +174,7 @@ The maximum limit is $15,000, though not all applicants will qualify. Zolve work
 
 No SSN required to apply, reports to all three credit bureaus, no credit history needed, available to ITIN holders. Firstcard was built specifically for people starting their U.S. credit journey. Unlike most cards that reject applicants without an SSN, Firstcard welcomes immigrants and international students from day one. It reports to all three bureaus, so your on-time payments actually count toward building your score.
 
-### #7 Self Visa Credit Card
-
-The Self Visa Credit Card gives you two ways in. As of January 2025, you can fund a $100 minimum security deposit directly with a debit card or bank account and get the card right away, with no loan required and no hard credit check. If you prefer the traditional path, you can open a Self Credit Builder Account first, make at least three on-time payments toward the loan and reach $100 or more in savings progress, then use that balance to secure the Visa.
-
-The loan-first route adds an installment tradeline alongside the card, which builds your credit mix faster than a card-only approach. The Self Visa carries a $25 annual fee and accepts ITIN applicants who already have a Self Credit Builder Account. It reports to all three bureaus and works best for ITIN applicants who want both an installment tradeline and a revolving card in one place.
+**Correction (November 16, 2026):** an earlier version of this guide listed the Self Visa Credit Card as an ITIN option. That was wrong. Self's own [eligibility page](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) requires "a permanent US residency or citizenship with a Social Security Number," so we removed it.
 
 ---
 
@@ -221,13 +224,39 @@ The behaviors that drive score growth are consistent regardless of which card yo
 
 ---
 
+## How do I know my card is actually building my credit?
+
+*Readers frequently ask:*
+
+Two checks tell you whether your payments are landing on a real credit file.
+
+First, confirm the account shows up with the bureaus after your first two statements. You can request your report directly from Equifax, Experian, and TransUnion. If the card appears, a file exists under your ITIN and every on-time payment is counting.
+
+Second, look for a FICO score around the six-month mark, since FICO needs at least six months of reported history to score you. If nothing appears by then, the usual causes are an account that is not being reported, a card that reports to only one bureau, or an ITIN on the account that does not match your IRS letter. Call the issuer and confirm the number on file digit by digit. A single transposed digit can create a split file, where your payments build history on a record no lender can find.
+
+---
+
+## What first-year mistakes slow ITIN holders down?
+
+The same handful of mistakes shows up again and again in the first 12 months.
+
+**Depositing the bare minimum when you can afford more.** At most issuers your limit equals your deposit. On a $200 limit, a $60 grocery run already puts you at 30% utilization. If you can spare $300-$500, the larger limit gives you room to spend without hurting your score. Our guide to [credit utilization on an ITIN card](/articles/credit-utilization-itin-credit-card) explains the 10% and 30% marks.
+
+**Missing a single payment.** Payment history is 35% of a FICO score, and one late payment early on can undo months of progress. Turn on autopay for at least the minimum on day one, then pay the full statement balance yourself.
+
+**Skipping pre-qualification.** Where an issuer offers a soft-check pre-approval tool, use it before you submit the full hard-pull application.
+
+**Closing the secured card after you graduate.** The age of your oldest account keeps helping your score, so keep that first card open, especially when it has no annual fee.
+
+---
+
 ## Can I use two cards at once to build credit faster?
 
 *Readers frequently ask:*
 
 Yes, and for some ITIN holders it is a smart move, but timing matters. The strategy that works is opening one card first, making 6 months of on-time payments to generate your first FICO score, and then adding a second card.
 
-Managing credit cards and installment accounts at the same time accelerates the timeline. Pure credit-card-only users progress more slowly than those handling multiple account types. This is why Self's loan-plus-card setup is genuinely useful: it adds an installment tradeline alongside a revolving card from day one.
+Managing credit cards and installment accounts at the same time accelerates the timeline. Pure credit-card-only users progress more slowly than those handling multiple account types.
 
 If you go the single-card route first, here is a common sequence that ITIN holders use successfully:
 
@@ -267,7 +296,7 @@ For a full breakdown of why ITIN applications get denied and what to do, see our
 | ITIN accepted | Yes | Yes |
 | Best for | Those with any cash to lock | Those who need zero upfront cost |
 
-The no-deposit products are genuinely useful for ITIN holders who cannot lock up $200-$300 immediately after arriving in the U.S. The tradeoff is that they do not always teach the revolving credit behavior (borrowing a set amount and paying it down) that traditional secured cards practice. Many users move to the Self Visa once six months of history is on the books.
+The no-deposit products are genuinely useful for ITIN holders who cannot lock up $200-$300 immediately after arriving in the U.S. The tradeoff is that they do not always teach the revolving credit behavior (borrowing a set amount and paying it down) that traditional secured cards practice.
 
 Our comparison of [prepaid cards vs. secured credit cards for ITIN holders](/articles/prepaid-card-vs-secured-credit-card-itin) goes deeper on this distinction if you are unsure which path fits your situation.
 
@@ -304,3 +333,15 @@ The best ones do. Capital One Platinum Secured, OpenSky, Citi Secured, Firstcard
 
 What documents do I need to apply for a starter credit card with an ITIN?
 You need a valid ITIN, a foreign passport, a U.S. mailing address, and a U.S. bank account to fund any security deposit. Most issuers also require a real U.S. mobile phone number for identity verification. VoIP numbers from services like Google Voice will typically fail this step.
+
+When will I get my secured card deposit back?
+Your deposit comes back when the account graduates to an unsecured card or when you close it in good standing with a zero balance. Capital One says you may be considered for an upgrade in as little as six months, but no issuer guarantees a date: graduation depends on how you use the card.
+
+Should I apply for several ITIN starter cards at once to build credit faster?
+No. Each full application usually triggers a hard inquiry, and on a thin file those add up. The CFPB advises applying only for credit you actually need. Open one card, use it well for six months, then consider a second, spacing applications three to six months apart.
+
+What happens to my ITIN credit card history if I later get an SSN?
+It does not disappear. You can ask each of the three bureaus to merge your ITIN-linked file into your new SSN file, and the accounts keep their age and payment history. Call each card issuer too, so they update the number on your account. Our guide to [moving your credit card history from an ITIN to an SSN](/articles/itin-to-ssn-credit-card-history-transfer) walks through each step.
+
+Can I use my foreign credit history instead of starting from zero?
+Sometimes, but only with a few issuers and for a limited set of countries. American Express is the issuer most often reported to consider international credit history for new arrivals. For most ITIN holders, a U.S. secured card is still the most reliable path. See our guide to [using foreign credit history with an ITIN](/articles/foreign-credit-history-credit-card-itin).

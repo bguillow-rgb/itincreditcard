@@ -13,10 +13,10 @@ publishedAt: "2026-10-19"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "banks-credit-unions-accept-itin-credit-card-application-guide"
-  - "itin-credit-card-application-bank-credit-union-verified-guide"
-  - "itin-credit-card-issuer-comparison-2026"
-  - "credit-cards-accept-itin-2026-issuer-by-issuer-guide"
+  - "itin-credit-card-bank-by-bank-application-guide"
+  - "travel-credit-card-itin-holders"
+  - "credit-card-h1b-visa-itin"
+  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Qué banco es más fácil para obtener una tarjeta con ITIN?"
     a: "Capital One. Permite completar toda la solicitud en línea con un ITIN, y su tarjeta Platinum Secured acepta solicitantes sin historial de crédito con depósitos desde $49. OpenSky ni siquiera revisa tu historial: aprueba con un depósito desde $200."
@@ -58,7 +58,7 @@ Después de unos 12 meses de pagos puntuales con cualquiera de estas, las tarjet
 
 ## ¿Las cooperativas de crédito son mejor opción que los bancos?
 
-Muchas veces sí. Las cooperativas de crédito (credit unions) suelen ser más flexibles con solicitantes de ITIN que los bancos nacionales, especialmente las que atienden comunidades latinas. La contra es que primero debes hacerte miembro, y cada cooperativa tiene sus propias reglas. Tenemos la lista completa en nuestra [guía de bancos y cooperativas que aceptan ITIN](/es/articles/banks-credit-unions-accept-itin-credit-card-application-guide).
+Muchas veces sí. Las cooperativas de crédito (credit unions) suelen ser más flexibles con solicitantes de ITIN que los bancos nacionales, especialmente las que atienden comunidades latinas. La contra es que primero debes hacerte miembro, y cada cooperativa tiene sus propias reglas. Tenemos la lista completa en nuestra [guía de bancos y cooperativas que aceptan ITIN](/es/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## ¿Cómo elijo por dónde empezar?
 
@@ -68,4 +68,4 @@ Tres preguntas lo resuelven:
 2. **¿Cuánto puedes depositar?** Desde $49 con Capital One hasta $5,000 con Bank of America; el depósito suele ser tu límite inicial.
 3. **¿Quieres todo en línea?** Capital One y Amex procesan la solicitud completa en línea con ITIN; Bank of America y Citi a veces te mandan a la sucursal.
 
-Para comparar emisor por emisor, con depósitos, requisitos y qué tan realista es cada aprobación, mira la [lista verificada de tarjetas de crédito con ITIN](/es/articles/itin-credit-cards-issuer-by-issuer-verified-list-2026).
+Para comparar emisor por emisor, con depósitos, requisitos y qué tan realista es cada aprobación, mira la [lista verificada de tarjetas de crédito con ITIN](/es/articles/credit-cards-that-accept-itin-verified-issuer-list).

@@ -52,7 +52,7 @@ Aquí es donde la mayoría de las guías se quedan cortas, mencionan tarjetas pr
 
 **Current Build Card**, No requiere verificación de crédito, ni depósito mínimo de seguridad, y tiene 0% de APR. Gastas desde tu cuenta de Current, y la actividad se reporta como uso de crédito al día a Experian, TransUnion y Equifax. Además, ganas 1 punto por dólar en restaurantes y supermercados mientras construyes crédito.
 
-Para conocer más instituciones que aprobarán tu solicitud, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/which-banks-accept-itin-for-credit-cards).
+Para conocer más instituciones que aprobarán tu solicitud, consulta nuestra guía sobre [qué bancos aceptan ITIN para tarjetas de crédito](/es/articles/itin-credit-card-bank-by-bank-application-guide).
 
 ## Llevo alrededor de un año con mi tarjeta asegurada. ¿A qué tarjetas de recompensas puedo graduarme?
 

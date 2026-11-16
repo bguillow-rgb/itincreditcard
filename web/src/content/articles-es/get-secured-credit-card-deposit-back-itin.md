@@ -11,13 +11,14 @@ relatedQueries:
   - "graduación de tarjeta asegurada con ITIN sin número de seguro social"
 quickAnswer: "Los titulares de ITIN recuperan su depósito de la misma manera que cualquier otra persona: al graduarse a una tarjeta no asegurada (el depósito se devuelve como crédito en el estado de cuenta o cheque) o al cerrar la cuenta con buen historial y saldo en cero. Los plazos van de 7 a 18 meses según el emisor. Un punto importante: Citi exige un SSN registrado antes de graduar a titulares que solo tienen ITIN."
 publishedAt: "2026-08-01"
+updatedAt: "2026-11-16"
 author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
-  - "itin-secured-vs-unsecured-credit-card-complete-guide"
-  - "itin-secured-vs-unsecured-credit-card-issuer-data-2026"
   - "secured-credit-card-deposit-itin-holders"
   - "secured-vs-unsecured-credit-card-itin-comparison"
+  - "build-credit-with-itin-credit-card"
+  - "credit-card-undocumented-immigrants-itin"
 faqs:
   - q: "¿Tener un ITIN en lugar de un SSN retrasa el reembolso de mi depósito?"
     a: "No. El plazo del reembolso depende de la política de graduación del emisor, no de si usaste un ITIN o un SSN. Una vez que cumples los requisitos del emisor (pagos a tiempo, utilización baja, cuenta al día), recibes tu depósito en el mismo plazo que cualquier otro tarjetahabiente."
@@ -64,7 +65,8 @@ Los plazos varían considerablemente entre los emisores que aceptan ITINs. La ta
 | Bank of America | Revisiones periódicas, sin calendario fijo | Cheque dentro de 2 ciclos de facturación + 10 días | Sí |
 | Citi Secured Mastercard | Mínimo 18 meses | Cheque o crédito en estado de cuenta | Se requiere SSN para graduarse |
 | OpenSky Secured | Sin camino de graduación automática | Cerrar la cuenta para recuperar el depósito | Sí (solo cierre) |
-| Self Visa | Depósito liberado cuando los ahorros del programa de crédito alcanzan el umbral | Se aplica a tu saldo del programa de crédito | Sí |
+
+**Corrección (16 de noviembre de 2026):** una versión anterior de este artículo incluía la Self Visa Credit Card como opción para titulares de ITIN. La [página de requisitos de Self](https://support.self.inc/s/article/How-Do-I-Become-Eligible-For-The-Self-Visa-Credit-Card) exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social, así que la retiramos.
 
 Discover it Secured realiza revisiones mensuales automáticas a partir del séptimo estado de cuenta. La mayoría de los tarjetahabientes que pagan cada estado de cuenta en su totalidad y mantienen la utilización por debajo del 30% se gradúan entre los meses 7 y 13. El número de cuenta, la fecha de apertura y el historial crediticio se conservan. El depósito se devuelve por ACH, generalmente en 7-14 días hábiles.
 
@@ -80,7 +82,7 @@ La Secured Mastercard de Citi incluye un SSN o ITIN entre los campos de identida
 
 Esa es una distinción importante. Si abres la Citi Secured Mastercard solo con tu ITIN y tu categoría de visa no te hace elegible para un SSN, tu única ruta para recuperar el depósito es cerrar la cuenta. Si obtienes un SSN más adelante, puedes actualizar tu perfil en Citi y luego solicitar una revisión de graduación cuando llegues a los 18 meses.
 
-La conclusión práctica: si quieres la experiencia más sencilla para recuperar tu depósito siendo titular solo de ITIN, Capital One y Bank of America son opciones más seguras porque ninguno exige un SSN específicamente para el paso de graduación. Consulta nuestra [comparación emisor por emisor](/es/articles/itin-credit-card-issuer-comparison-2026) para un análisis más completo de qué bancos aceptan ITINs en cada etapa del ciclo de vida de la tarjeta.
+La conclusión práctica: si quieres la experiencia más sencilla para recuperar tu depósito siendo titular solo de ITIN, Capital One y Bank of America son opciones más seguras porque ninguno exige un SSN específicamente para el paso de graduación. Consulta nuestra [comparación emisor por emisor](/es/articles/credit-cards-that-accept-itin-verified-issuer-list) para un análisis más completo de qué bancos aceptan ITINs en cada etapa del ciclo de vida de la tarjeta.
 
 ## ¿Qué comportamiento activa las revisiones de graduación?
 
