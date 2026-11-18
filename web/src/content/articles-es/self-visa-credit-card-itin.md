@@ -16,9 +16,9 @@ author: "Editorial Staff"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
+  - "bank-of-america-credit-card-itin"
   - "credit-card-international-students-itin"
   - "abrir-tarjeta-de-credito-con-numero-itin"
-  - "credit-card-opt-visa-holder-itin"
 faqs:
   - q: "¿Puedo obtener la Self Visa Credit Card solo con un ITIN y sin SSN?"
     a: "No. La página de requisitos de la Self Visa exige residencia permanente o ciudadanía en EE. UU. con número de Seguro Social. El ITIN no aparece como alternativa, así que quien solo tiene ITIN no cumple los requisitos que publica Self."

@@ -14,9 +14,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "can-you-get-a-credit-card-with-an-itin"
+  - "bank-of-america-credit-card-itin"
   - "credit-card-international-students-itin"
   - "credit-card-prequalification-itin"
-  - "credit-card-undocumented-immigrants-itin"
 faqs:
   - q: "¿Dónde pongo el ITIN si la solicitud pide Seguro Social?"
     a: "En ese mismo campo. Las solicitudes de los emisores que aceptan ITIN están hechas para recibir los nueve dígitos del ITIN donde normalmente va el SSN. No dejes el campo vacío ni inventes un número: escribe tu ITIN tal cual."

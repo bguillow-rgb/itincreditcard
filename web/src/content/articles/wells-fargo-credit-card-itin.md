@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
   - "secured-credit-card-with-itin"
+  - "bank-of-america-credit-card-itin"
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-itin-apply-online-vs-in-branch"
-  - "discover-credit-card-itin"
 faqs:
   - q: "Can I apply for a Wells Fargo credit card with an ITIN number?"
     a: "Not with any documented confirmation for their own consumer cards. Wells Fargo publishes an ITIN option only on Retail Services applications, the financing cards it runs for stores. For cards like Active Cash, Autograph, or Reflect, the bank does not publish an ITIN policy, and reports from applicants are mixed. Call the issuer and ask about the specific card before you let anyone pull your credit."

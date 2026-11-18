@@ -13,10 +13,10 @@ publishedAt: "2026-10-19"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "bank-of-america-credit-card-itin"
   - "abrir-tarjeta-de-credito-con-numero-itin"
   - "american-express-credit-card-itin"
   - "can-you-get-a-credit-card-with-an-itin"
-  - "credit-card-international-students-itin"
 faqs:
   - q: "¿Amex tiene una casilla especial para el ITIN?"
     a: "No hace falta. El campo del SSN en toda solicitud de tarjeta de consumo de Amex en EE. UU. indica expresamente que puedes escribir un ITIN si no tienes Seguro Social. El sistema está hecho para procesarlo."
