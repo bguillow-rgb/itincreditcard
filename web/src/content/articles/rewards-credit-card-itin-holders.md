@@ -14,10 +14,10 @@ publishedAt: "2026-06-15"
 author: "Editorial Staff"
 category: "Credit Cards"
 relatedSlugs:
+  - "grocery-credit-card-itin-holders"
   - "travel-credit-card-itin-holders"
   - "cash-back-credit-card-itin-holders"
   - "credit-card-international-students-itin"
-  - "balance-transfer-credit-card-itin"
 faqs:
   - q: "Can I earn cash back on a credit card if I only have an ITIN?"
     a: "Yes. Several major issuers, including Capital One and Chase, offer cash-back cards that accept an ITIN. You earn and redeem rewards the same way as any other cardholder. Your ITIN is simply the tax ID used to open the account."
