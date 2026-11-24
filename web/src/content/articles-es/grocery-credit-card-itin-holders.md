@@ -14,10 +14,10 @@ publishedAt: "2026-11-20"
 author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
+  - "gas-credit-card-itin-holders"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "credit-card-h1b-visa-itin"
   - "credit-card-j1-visa-itin"
-  - "build-credit-with-itin-credit-card"
 faqs:
   - q: "¿Puedo obtener una tarjeta de recompensas en supermercados con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí, aunque las opciones son más limitadas. La Capital One Quicksilver Secured y la Discover it Secured aceptan ITIN y dan reembolso en supermercados y restaurantes. Construye entre 6 y 12 meses de historial con una de estas antes de solicitar una tarjeta de mayor nivel."

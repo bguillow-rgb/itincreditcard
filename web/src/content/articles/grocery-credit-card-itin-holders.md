@@ -16,8 +16,8 @@ category: "Credit Cards"
 relatedSlugs:
   - "rewards-credit-card-itin-holders"
   - "cash-back-credit-card-itin-holders"
+  - "gas-credit-card-itin-holders"
   - "credit-card-h1b-visa-itin"
-  - "itin-starter-credit-cards-ranked-zero-history"
 faqs:
   - q: "Can I get a grocery rewards credit card with an ITIN and no U.S. credit history?"
     a: "Yes, but your options are narrower. The Capital One Quicksilver Secured and the Discover it Secured both accept an ITIN and earn cash back at grocery stores and restaurants. Build 6-12 months of history with one of these before applying for a higher-tier grocery card."
