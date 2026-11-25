@@ -16,8 +16,8 @@ category: "Tarjetas de crédito"
 relatedSlugs:
   - "credit-card-daca-recipients-itin"
   - "credit-card-undocumented-immigrants-itin"
+  - "credit-card-welcome-bonus-itin-holders"
   - "get-secured-credit-card-deposit-back-itin"
-  - "low-apr-credit-card-itin-holders"
 faqs:
   - q: "¿Los titulares de ITIN tienen los mismos derechos de disputa que los titulares de SSN?"
     a: "Sí. La Fair Credit Billing Act protege a todos los tarjetahabientes sin importar su estatus migratorio ni el tipo de identificación fiscal. Tener un ITIN en lugar de un SSN no reduce tus derechos de contracargo de ninguna manera."

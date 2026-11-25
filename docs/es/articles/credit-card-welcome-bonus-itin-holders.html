@@ -1,0 +1,227 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Bonos de bienvenida en tarjetas de crédito con ITIN</title><meta name="description" content="Los titulares de ITIN pueden ganar bonos de bienvenida en tarjetas de crédito. Mira qué tarjetas los ofrecen, cómo cumplir el gasto mínimo y qué considerar."><link rel="canonical" href="https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders"><link rel="alternate" hreflang="en" href="https://itincreditcard.com/articles/credit-card-welcome-bonus-itin-holders"><link rel="alternate" hreflang="es" href="https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders"><link rel="alternate" hreflang="x-default" href="https://itincreditcard.com/articles/credit-card-welcome-bonus-itin-holders"><meta property="og:type" content="website"><meta property="og:title" content="Bonos de bienvenida en tarjetas de crédito con ITIN"><meta property="og:description" content="Los titulares de ITIN pueden ganar bonos de bienvenida en tarjetas de crédito. Mira qué tarjetas los ofrecen, cómo cumplir el gasto mínimo y qué considerar."><meta property="og:url" content="https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders"><meta property="og:site_name" content="ITIN Credit Card"><meta property="og:image" content="https://itincreditcard.com/og/credit-card-welcome-bonus-itin-holders.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Bonos de bienvenida en tarjetas de crédito con ITIN"><meta name="twitter:description" content="Los titulares de ITIN pueden ganar bonos de bienvenida en tarjetas de crédito. Mira qué tarjetas los ofrecen, cómo cumplir el gasto mínimo y qué considerar."><meta name="twitter:image" content="https://itincreditcard.com/og/credit-card-welcome-bonus-itin-holders.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#22505A"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Card | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditcard.com/#organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":"https://itincreditcard.com/icon-512.png","description":"ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.","sameAs":["https://www.wikidata.org/wiki/Q140083128","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Card","url":"https://itincreditcard.com","description":"ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditcard.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><meta name="google-site-verification" content="pxWBVK2JLcqCm9SiLFhVnJzHIWa1ifynMkxnbY0V8hA"><script async src="https://www.googletagmanager.com/gtag/js?id=G-TFJMHQLHMX"></script><script>(function(){const ga4Id = "G-TFJMHQLHMX";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      // Astro wraps a `define:vars` inline script in an IIFE, so the function
+      // declaration above is scoped, not global. gtag('config') still worked
+      // (it only pushes to dataLayer, which gtag.js reads), so page_view and
+      // session_start looked healthy while `window.gtag` stayed undefined and
+      // itrack() below silently dropped EVERY custom event. affiliate_click,
+      // cta_click and cross_site_click recorded zero from launch until
+      // 2026-09-01. Publish it explicitly.
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Bonos de bienvenida en tarjetas de crédito con ITIN","description":"Los titulares de ITIN pueden ganar bonos de bienvenida en tarjetas de crédito. Mira qué tarjetas los ofrecen, cómo cumplir el gasto mínimo y qué considerar.","url":"https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders","inLanguage":"es-419","datePublished":"2026-11-25T00:00:00.000Z","dateModified":"2026-11-25T00:00:00.000Z","author":{"@type":"Organization","name":"Research Desk","url":"https://itincreditcard.com/about","parentOrganization":{"@id":"https://itincreditcard.com/#organization"}},"publisher":{"@type":"Organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":{"@type":"ImageObject","url":"https://itincreditcard.com/icon-512.png"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":["#quick-answer"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders"}}</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itincreditcard.com"},{"@type":"ListItem","position":2,"name":"Guías","item":"https://itincreditcard.com/es/articles"},{"@type":"ListItem","position":3,"name":"Bonos de bienvenida en tarjetas de crédito con ITIN","item":"https://itincreditcard.com/es/articles/credit-card-welcome-bonus-itin-holders"}]}</script> <link rel="stylesheet" href="/_astro/_slug_.D8mdHOEz.css">
+<style>.related-links[data-astro-cid-xmiqtmid]{margin:36px 0 8px}.related-links[data-astro-cid-xmiqtmid] h2[data-astro-cid-xmiqtmid]{margin:0 0 14px;font-size:1.25rem}.related-links[data-astro-cid-xmiqtmid] ul[data-astro-cid-xmiqtmid]{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-weight:600;text-decoration:none;line-height:1.3;transition:border-color .15s ease,background .15s ease}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]:hover{border-color:var(--primary);background:var(--surface-alt)}.sources-note[data-astro-cid-6jinirix]{margin:26px 0;padding:16px 18px;border:1px solid var(--border, #E7E2F2);border-left:4px solid var(--primary, #5B21B6);border-radius:var(--radius);background:var(--surface, #F7F5FC)}.sources-note-h[data-astro-cid-6jinirix]{margin:0 0 6px;font-weight:700;font-size:.95rem;color:var(--primary-dark, #4C1D95)}.sources-note-b[data-astro-cid-6jinirix]{margin:0;font-size:.92rem;line-height:1.55;color:var(--muted, #5C5470)}
+.author-bio[data-astro-cid-zm77yjld]{margin:28px 0;padding:18px 20px;border:1px solid var(--border, #e2e6ee);border-radius:var(--radius);background:var(--surface-2, #f7f9fc)}.author-bio-name[data-astro-cid-zm77yjld]{margin:0 0 6px;font-weight:700}.author-bio-role[data-astro-cid-zm77yjld]{font-weight:400;color:var(--muted, #5a6473)}.author-bio-text[data-astro-cid-zm77yjld]{margin:0 0 8px;font-size:.95rem;line-height:1.55}.author-bio-link[data-astro-cid-zm77yjld]{margin:0;font-size:.9rem}
+</style></head> <body> <div class="announce-bar"> Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a> </div> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Card<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/articles/credit-card-welcome-bonus-itin-holders.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>   <article class="container narrow" style="padding-top:18px;padding-bottom:24px" data-astro-cid-zm77yjld> <p class="crumbs" data-astro-cid-zm77yjld> <a href="/" data-astro-cid-zm77yjld>Home</a> &rsaquo;
+<a href="https://itincreditcard.com/es/articles" data-astro-cid-zm77yjld>Guías</a> &rsaquo;  <span data-astro-cid-zm77yjld>Bonos de bienvenida en tarjetas de crédito con ITIN</span> </p> <span class="tag" data-astro-cid-zm77yjld>Tarjetas de crédito</span> <h1 style="margin-top:10px" data-astro-cid-zm77yjld>Bonos de bienvenida en tarjetas de crédito con ITIN</h1> <p class="byline" data-astro-cid-zm77yjld>
+By <a href="/about" data-astro-cid-zm77yjld>Research Desk</a> &middot; Issuers &amp; Approval &middot;
+Published November 25, 2026 </p> <p class="disclosure"><strong>Aviso para anunciantes:</strong>ITIN Credit Card es un recurso
+    independiente. Algunos enlaces en esta página son de socios que nos
+    compensan, lo cual puede influir en qué productos mostramos y dónde. Esto no
+    cambia nuestra guía editorial y nunca tiene costo para ti. Consulta nuestro
+<a href="/es/disclosure">aviso completo</a>.
+</p> <section class="quick-answer" id="quick-answer"> <span class="label">Respuesta rápida</span> <p>Sí, los titulares de ITIN pueden ganar bonos de bienvenida en las mismas condiciones que cualquier otro tarjetahabiente. El bono depende de cuánto gastes después de la aprobación, no del número de identificación fiscal que usaste. Tarjetas de Capital One, Chase, American Express y otros emisores ofrecen bonos de bienvenida a solicitantes que usan un ITIN.</p> <p class="qa-sources"> <span class="qa-check" aria-hidden="true">&#10003;</span> <span>Verificado con:</span> <span>IRS ·</span><span>CFPB ·</span><span>Issuer disclosures</span> </p> </section> <!-- Highest-visibility article slot: above the fold, after the Quick Answer.
+         Credit Karma creative auto-matched to the article topic via its path. --> <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="article-body" data-astro-cid-zm77yjld>  <p>Los titulares de ITIN que han sido aprobados para una tarjeta de crédito a menudo se preguntan si el bono de bienvenida que aparece en la página de la oferta realmente les aplica. Sí aplica, y esta guía explica cómo funcionan esos bonos, qué tarjetas ofrecen los más valiosos y qué hacer si no recibes un bono que ya ganaste.</p>
+<h2 id="mi-itin-afecta-si-puedo-ganar-el-bono-de-bienvenida">¿Mi ITIN afecta si puedo ganar el bono de bienvenida?</h2>
+<p>No. El bono de bienvenida de una tarjeta de crédito está vinculado a tu comportamiento de gasto después de la aprobación, no al número de identificación fiscal que usaste para solicitar.
+El ITIN puede usarse como sustituto del número de Seguro Social (SSN) con muchos emisores de tarjetas de crédito,
+y una vez aprobada tu solicitud, eres tratado como un tarjetahabiente completo en todos los sentidos, incluyendo la elegibilidad para el bono.</p>
+<p>El umbral de gasto y el plazo (casi siempre 90 días desde la apertura de la cuenta) son los mismos para todos los nuevos tarjetahabientes. Cumple esas condiciones y el bono se aplica automáticamente a tu cuenta. Sin pasos adicionales, sin formularios aparte, sin ninguna diferencia por tener un ITIN.</p>
+<h2 id="qué-tarjetas-amigables-con-itin-ofrecen-un-bono-de-bienvenida-que-valga-la-pena">¿Qué tarjetas amigables con ITIN ofrecen un bono de bienvenida que valga la pena?</h2>
+<p><em>Una pregunta que recibimos frecuentemente:</em> muchos lectores son aprobados para una tarjeta y luego descubren que el bono apenas vale el esfuerzo. Aquí hay un desglose realista por nivel de tarjeta.</p>
+<p>Tarjetas de nivel básico sin cuota anual: La Chase Freedom Rise genera 1.5% de cashback en todas las compras elegibles, y los nuevos tarjetahabientes pueden ganar un crédito en estado de cuenta de $25 al inscribirse en pagos automáticos dentro de los primeros tres meses. Es una oferta modesta, pero es el bono amigable con ITIN más fácil de alcanzar.
+Puedes usar un ITIN para completar una solicitud de tarjeta de crédito Chase en línea.</p>
+<p>Tarjetas de nivel intermedio:
+Muchos de los principales emisores de tarjetas de crédito tienen tarjetas de recompensas a las que puedes aplicar usando un ITIN, incluyendo Chase, American Express y Capital One.
+La Chase Freedom Unlimited, por ejemplo,
+es una tarjeta sin cuota anual que genera cashback en compras del día a día y un bono de bienvenida.</p>
+<p>Tarjetas premium:
+Si no vives en uno de los países compatibles con American Express, aún puedes solicitar tarjetas Amex con un SSN o ITIN.
+Tarjetas como la Amex Gold y Platinum ofrecen grandes bonos de bienvenida en puntos, pero también requieren un gasto mínimo significativamente mayor, generalmente entre $3,000 y $6,000 en los primeros tres meses.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tarjeta</th><th>Acepta ITIN</th><th>Tipo de bono de bienvenida</th><th>Requisito de gasto</th><th>Cuota anual</th></tr></thead><tbody><tr><td>Chase Freedom Rise</td><td>Sí</td><td>Crédito en estado de cuenta de $25</td><td>Inscripción en pago automático</td><td>$0</td></tr><tr><td>Chase Freedom Unlimited</td><td>Sí</td><td>Bono en cashback</td><td>~$500 en 3 meses</td><td>$0</td></tr><tr><td>Capital One SavorOne</td><td>Sí</td><td>Bono en cashback</td><td>~$500 en 3 meses</td><td>$0</td></tr><tr><td>Capital One Venture X</td><td>Sí</td><td>Bono en millas</td><td>~$4,000 en 3 meses</td><td>$395</td></tr><tr><td>Amex Blue Cash Everyday</td><td>Sí (ITIN o SSN)</td><td>Crédito en estado de cuenta</td><td>~$2,000 en 6 meses</td><td>$0</td></tr><tr><td>Amex Gold</td><td>Sí (ITIN o SSN)</td><td>Bono en puntos</td><td>~$6,000 en 6 meses</td><td>$325</td></tr><tr><td>Discover it Secured</td><td>Sí</td><td>Igualación de cashback del primer año</td><td>Gasto continuo</td><td>$0</td></tr></tbody></table>
+<h2 id="las-tarjetas-aseguradas-incluyen-un-bono-de-bienvenida">¿Las tarjetas aseguradas incluyen un bono de bienvenida?</h2>
+<p><em>Este tema surge mucho:</em> los titulares de ITIN que empiezan con una tarjeta asegurada suelen llevarse la sorpresa de que la mayoría de estos productos no tienen un bono de bienvenida tradicional. El intercambio es sencillo: una tarjeta asegurada es más fácil de obtener porque la respaldas con un depósito, y los emisores compensan ese menor riesgo ofreciendo menos beneficios.</p>
+<p>La excepción notable es la Discover it Secured. En lugar de un bono único,
+la Discover it <a href="https://www.awin1.com/cread.php?s=3641203&#x26;v=66532&#x26;q=475588&#x26;r=2931103&#x26;clickref=iccweb_body_cards&#x26;clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" class="aff-link" data-aff="ck-body" data-aff-topic="cards">Secured Credit Card</a> establece historial crediticio en EE. UU. bajo tu ITIN,
+y Discover iguala automáticamente todo el cashback que acumules en tus primeros 12 meses. Esa igualación funciona como un bono de bienvenida diferido y puede valer entre $50 y $150 según cuánto gastes.
+Para los titulares de ITIN con crédito establecido, la Discover it Cash Back suele ser el siguiente objetivo.</p>
+<p>La Capital One Quicksilver Secured genera 1.5% de cashback en todas las compras elegibles y 5% en hoteles, alquileres vacacionales y autos rentados reservados a través de Capital One Travel, no tiene cuota anual, pero requiere un depósito de seguridad mínimo de $200
+y no ofrece un bono de bienvenida tradicional.</p>
+<h2 id="cómo-cumplo-el-requisito-de-gasto">¿Cómo cumplo el requisito de gasto?</h2>
+<p><em>Los lectores preguntan con frecuencia:</em> ¿qué cuenta para el umbral del bono y qué no?</p>
+<p>Las compras cotidianas normales cuentan: supermercado, gasolina, suscripciones, facturas de servicios pagadas con la tarjeta y compras en línea. Las categorías que típicamente no cuentan incluyen transferencias de saldo, adelantos de efectivo, cargos del emisor y compras que luego se devuelven o se reembolsan.</p>
+<p>El plazo de 90 días empieza en la fecha de apertura de la cuenta, no en la fecha en que recibes la tarjeta. Si tu tarjeta llega una semana después de la aprobación, en la práctica tienes unas 11 semanas de tiempo útil. Planifica tu presupuesto para que el gasto caiga de forma natural dentro de ese plazo en lugar de forzar compras. Según la Oficina de Protección Financiera del Consumidor (CFPB), acumular un saldo alto para alcanzar el gasto mínimo puede costar más en intereses de lo que vale el bono, así que procura pagar el estado de cuenta completo cada mes.</p>
+<p>También vale la pena saber:
+excepto en casos raros, no obtienes un bono solo por abrir una cuenta de tarjeta de crédito. Es un bono que ganas después de registrarte, usando la tarjeta para hacer compras.</p>
+<h2 id="puedo-ganar-un-bono-en-una-tarjeta-de-crédito-empresarial-con-mi-itin">¿Puedo ganar un bono en una tarjeta de crédito empresarial con mi ITIN?</h2>
+<p>Las tarjetas empresariales son más complicadas para los titulares de ITIN.
+La mayoría de las principales tarjetas empresariales de EE. UU. con bonos de bienvenida importantes se aprueban bajo el supuesto de que el solicitante tiene un historial crediticio en EE. UU. vinculado a un SSN. Los no residentes generalmente no tienen SSN, y aunque tengan un ITIN, es posible que no tengan ningún archivo crediticio en EE. UU.</p>
+<p>Dicho esto, algunas tarjetas empresariales sí funcionan.
+Las tarjetas de cargo empresariales de American Express, como la Gold y la Platinum, suelen tener bonos de bienvenida basados en puntos y requieren un EIN, actividad bancaria en EE. UU. y a veces un ITIN o SSN.
+Si tienes un negocio existente con una cuenta corriente en EE. UU. y un EIN, estás en la mejor posición para calificar. Consulta nuestra guía completa en <a href="/es/articles/business-credit-card-with-itin">tarjeta de crédito empresarial con ITIN</a> para ver detalles tarjeta por tarjeta.</p>
+<h2 id="qué-hago-si-el-bono-no-aparece-en-mi-cuenta">¿Qué hago si el bono no aparece en mi cuenta?</h2>
+<p>La mayoría de los bonos de bienvenida se aplican automáticamente dentro de uno o dos ciclos de facturación después de cumplir el requisito de gasto. Si el tuyo no aparece, sigue estos pasos:</p>
+<ol>
+<li>Revisa el portal de tu cuenta o la aplicación móvil en la sección de “resumen de recompensas” u “historial de oferta”.</li>
+<li>Confirma que el total de tus compras netas (después de devoluciones) cumplió el umbral mínimo.</li>
+<li>Llama al número que aparece al reverso de tu tarjeta y pide a un representante que revise manualmente tu elegibilidad para el bono.</li>
+<li>Si el representante confirma que cumpliste el requisito pero el bono no aparece,
+la ley federal exige que los emisores de tarjetas resuelvan errores de facturación dentro de 90 días de recibir un aviso por escrito, y deben reconocer la disputa dentro de los 30 días de recibirla.
+Un bono faltante puede escalarse a través de este proceso.</li>
+</ol>
+<p>Tu estatus de ITIN no es una razón válida para que un emisor te retenga un bono que ya ganaste. Si recibes esa explicación, pide la política específica por escrito y escala el caso al equipo de relaciones con clientes del emisor.</p>
+<h2 id="ganar-un-bono-de-bienvenida-me-ayuda-a-construir-mi-historial-crediticio">¿Ganar un bono de bienvenida me ayuda a construir mi historial crediticio?</h2>
+<p>El bono en sí no afecta tu <a href="https://www.awin1.com/cread.php?s=3597059&#x26;v=66532&#x26;q=475588&#x26;r=2931103&#x26;clickref=iccweb_body_score&#x26;clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" class="aff-link" data-aff="ck-body" data-aff-topic="score">puntaje de crédito</a> ni tu archivo crediticio. Lo que sí beneficia tu historial es usar la tarjeta para ganar ese bono: compras regulares reportadas como pagos a tiempo y un uso bajo del crédito cada mes.
+Entre 3 y 6 meses de uso regular, es posible que un archivo FICO delgado se convierta en un puntaje utilizable en los 600 bajos o más alto, aunque los resultados varían.</p>
+<p>Para una visión más amplia sobre la selección de tarjetas antes de decidir qué bono perseguir, la guía <a href="/es/articles/itin-starter-credit-cards-ranked-zero-history">tarjetas de crédito iniciales con ITIN clasificadas desde cero</a> es un buen punto de partida. Si ya tienes una tarjeta y quieres sacarle más provecho a las recompensas más allá del bono inicial, consulta <a href="/es/articles/cash-back-credit-card-itin-holders">tarjetas de cashback para titulares de ITIN</a> y <a href="/es/articles/rewards-credit-card-itin-holders">tarjetas de recompensas para titulares de ITIN</a>.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<p><strong>¿Puedo ganar un bono de bienvenida si solicité la tarjeta con un ITIN en lugar de un SSN?</strong>
+Sí. Una vez aprobada la tarjeta, tu elegibilidad para el bono es exactamente igual a la de cualquier otro tarjetahabiente. El bono depende de cuánto gastes dentro del plazo requerido, no de si usaste un ITIN o un SSN para solicitar.</p>
+<p><strong>¿Qué tarjetas de crédito con bonos de bienvenida aceptan ITIN?</strong></p>
+<p>Muchos de los principales emisores de tarjetas de crédito tienen tarjetas de recompensas a las que puedes aplicar usando un ITIN, incluyendo Chase, American Express y Capital One.
+Los tres ofrecen algún tipo de bono de bienvenida u oferta introductoria en sus tarjetas elegibles.</p>
+<p><strong>¿Las tarjetas aseguradas para titulares de ITIN incluyen bonos de bienvenida?</strong>
+Rara vez. La mayoría de las tarjetas aseguradas no tienen un bono de bienvenida tradicional. La excepción principal es la Discover it Secured, que iguala dólar por dólar el cashback que acumules en el primer año, funcionando como un bono diferido.</p>
+<p><strong>¿Ganar un bono de bienvenida afecta mi puntaje de crédito?</strong>
+No. Cumplir el requisito de gasto y recibir el bono no aparece en tu reporte crediticio ni cambia tu puntaje. Los pagos a tiempo y el uso bajo del crédito son los que construyen tu historial.</p>
+<p><strong>¿Cuál es el gasto mínimo requerido para la mayoría de los bonos en tarjetas amigables con ITIN?</strong>
+Las tarjetas de nivel básico amigables con ITIN suelen requerir entre $500 y $1,500 en compras dentro de los primeros tres meses. Las tarjetas premium como la Amex Gold o la Capital One Venture X requieren entre $3,000 y $6,000 en el mismo plazo.</p> <section> <h2>Guías relacionadas</h2> <ul class="lead-list"> <li><a href="/es/articles/virtual-credit-card-itin-holders">virtual credit card itin holders</a></li><li><a href="/es/articles/low-apr-credit-card-itin-holders">low apr credit card itin holders</a></li><li><a href="/es/articles/travel-credit-card-itin-holders">travel credit card itin holders</a></li><li><a href="/es/articles/credit-card-undocumented-immigrants-itin">credit card undocumented immigrants itin</a></li> </ul> </section> </div> <aside class="sources-note" data-astro-cid-6jinirix> <p class="sources-note-h" data-astro-cid-6jinirix>Cómo investigamos esta página</p> <p class="sources-note-b" data-astro-cid-6jinirix>
+Esta guía la escribió y revisó nuestro equipo editorial a partir de fuentes
+      primarias, el IRS, la CFPB, la FTC, FICO, Experian, Equifax y TransUnion, los materiales publicados por los emisores de tarjetas, en lugar de otros blogs. Las cifras, tarifas y
+      requisitos se cotejan con esa documentación antes de publicar; los términos
+      específicos de cada tarjeta cambian, así que verifícalos con el emisor. No
+      inventamos estadísticas, probabilidades de aprobación ni términos de
+      producto. Lee nuestra <a href="/es/editorial-policy" data-astro-cid-6jinirix>política editorial</a> completa.
+</p> </aside>  <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fcredit-card-welcome-bonus-itin-holders" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="inline-cta"> <h3>¿Listo para explorar tus opciones?</h3> <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">Conéctate con emisores de tarjetas que aceptan ITIN. Sin Seguro Social y revisar no afecta tu crédito.</p> <a class="btn btn-primary btn-lg" href="/es/apply">Encuentra tu tarjeta</a> </div> <aside class="author-bio" data-astro-cid-zm77yjld> <p class="author-bio-name" data-astro-cid-zm77yjld>Research Desk<span class="author-bio-role" data-astro-cid-zm77yjld> &middot; Issuers &amp; Approval</span></p> <p class="author-bio-text" data-astro-cid-zm77yjld>El equipo de investigación de ITIN Credit Card cubre tarjetas sin garantía y de negocio, recompensas y probabilidades de aprobación para personas con ITIN. Investigamos las señales de evaluación de los emisores, las ventajas y desventajas de las cuotas anuales y cómo el uso de la tarjeta llega a los burós de crédito. Publicamos en inglés y español.</p> <p class="author-bio-link" data-astro-cid-zm77yjld><a href="/es/about" data-astro-cid-zm77yjld>Sobre nuestro equipo editorial</a></p> </aside> <nav class="related-links" aria-label="Related guides" data-astro-cid-xmiqtmid> <h2 data-astro-cid-xmiqtmid>Related guides</h2> <ul data-astro-cid-xmiqtmid> <li data-astro-cid-xmiqtmid><a href="/es/itin-credit-cards-guide" data-astro-cid-xmiqtmid>Guía de Tarjetas de Crédito ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/secured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas con Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/best-itin-credit-cards" data-astro-cid-xmiqtmid>Mejores Tarjetas ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/credit-cards-that-accept-itin" data-astro-cid-xmiqtmid>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/unsecured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas sin Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/build-credit-with-itin" data-astro-cid-xmiqtmid>Construir Crédito</a></li><li data-astro-cid-xmiqtmid><a href="/es/business-credit-cards" data-astro-cid-xmiqtmid>Tarjetas de Negocio</a></li><li data-astro-cid-xmiqtmid><a href="/es/how-to-get-an-itin" data-astro-cid-xmiqtmid>Cómo Obtener un ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/articles" data-astro-cid-xmiqtmid>Todas las Guías</a></li> </ul> </nav>  <section class="faq"><h2>Preguntas frecuentes</h2><details class="faq-item"><summary>¿Puedo ganar un bono de bienvenida si solicité la tarjeta con un ITIN en lugar de un SSN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí. Una vez aprobada la tarjeta, tu elegibilidad para el bono de bienvenida es exactamente igual a la de cualquier otro tarjetahabiente. El bono depende de cuánto gastes dentro del plazo requerido, no de si usaste un ITIN o un SSN para solicitar.</p></details><details class="faq-item"><summary>¿Qué tarjetas de crédito con bonos de bienvenida aceptan ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Capital One (Quicksilver, SavorOne, Venture X), Chase (Freedom Rise, Freedom Unlimited) y American Express (Blue Cash Everyday, Gold, Platinum) aceptan ITIN y ofrecen algún tipo de bono de bienvenida u oferta introductoria.</p></details><details class="faq-item"><summary>¿Las tarjetas de crédito aseguradas para titulares de ITIN incluyen bonos de bienvenida?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Rara vez. La mayoría de las tarjetas aseguradas no tienen un bono de bienvenida tradicional. Las excepciones principales son la Capital One Quicksilver Secured (que genera recompensas continuas pero no tiene bono de bienvenida) y la Discover it Secured, que iguala el cashback que acumules durante el primer año, funcionando como un bono equivalente.</p></details><details class="faq-item"><summary>¿Ganar un bono de bienvenida afecta mi puntaje de crédito?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">No. Cumplir el requisito de gasto y recibir el bono no afecta tu puntaje de crédito. Lo que sí ayuda a construir tu historial crediticio es pagar a tiempo y mantener un uso bajo de tu crédito disponible.</p></details><details class="faq-item"><summary>¿Cuál es el gasto mínimo requerido para la mayoría de los bonos de bienvenida en tarjetas amigables con ITIN?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">La mayoría de las tarjetas de nivel básico amigables con ITIN requieren entre $500 y $1,500 en compras dentro de los primeros tres meses para ganar el bono. Las tarjetas premium como la Chase Sapphire Preferred y la Amex Gold requieren entre $3,000 y $6,000 en el mismo período.</p></details><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Puedo ganar un bono de bienvenida si solicité la tarjeta con un ITIN en lugar de un SSN?","acceptedAnswer":{"@type":"Answer","text":"Sí. Una vez aprobada la tarjeta, tu elegibilidad para el bono de bienvenida es exactamente igual a la de cualquier otro tarjetahabiente. El bono depende de cuánto gastes dentro del plazo requerido, no de si usaste un ITIN o un SSN para solicitar."}},{"@type":"Question","name":"¿Qué tarjetas de crédito con bonos de bienvenida aceptan ITIN?","acceptedAnswer":{"@type":"Answer","text":"Capital One (Quicksilver, SavorOne, Venture X), Chase (Freedom Rise, Freedom Unlimited) y American Express (Blue Cash Everyday, Gold, Platinum) aceptan ITIN y ofrecen algún tipo de bono de bienvenida u oferta introductoria."}},{"@type":"Question","name":"¿Las tarjetas de crédito aseguradas para titulares de ITIN incluyen bonos de bienvenida?","acceptedAnswer":{"@type":"Answer","text":"Rara vez. La mayoría de las tarjetas aseguradas no tienen un bono de bienvenida tradicional. Las excepciones principales son la Capital One Quicksilver Secured (que genera recompensas continuas pero no tiene bono de bienvenida) y la Discover it Secured, que iguala el cashback que acumules durante el primer año, funcionando como un bono equivalente."}},{"@type":"Question","name":"¿Ganar un bono de bienvenida afecta mi puntaje de crédito?","acceptedAnswer":{"@type":"Answer","text":"No. Cumplir el requisito de gasto y recibir el bono no afecta tu puntaje de crédito. Lo que sí ayuda a construir tu historial crediticio es pagar a tiempo y mantener un uso bajo de tu crédito disponible."}},{"@type":"Question","name":"¿Cuál es el gasto mínimo requerido para la mayoría de los bonos de bienvenida en tarjetas amigables con ITIN?","acceptedAnswer":{"@type":"Answer","text":"La mayoría de las tarjetas de nivel básico amigables con ITIN requieren entre $500 y $1,500 en compras dentro de los primeros tres meses para ganar el bono. Las tarjetas premium como la Chase Sapphire Preferred y la Amex Gold requieren entre $3,000 y $6,000 en el mismo período."}}]}</script></section> </article>  </main> <footer class="site-footer" data-astro-cid-sz7xmlte> <div class="container" data-astro-cid-sz7xmlte> <div class="footer-grid" data-astro-cid-sz7xmlte> <div data-astro-cid-sz7xmlte> <div class="footer-brand" data-astro-cid-sz7xmlte>ITIN Credit Card<span style="color:var(--accent)" data-astro-cid-sz7xmlte>.</span></div> <p data-astro-cid-sz7xmlte>Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4 data-astro-cid-sz7xmlte>Por qué confiar en nosotros</h4> <ul class="footer-trust" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Independientes, no somos emisor de tarjetas ni banco</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Siempre gratis</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Tu información se mantiene privada</li> </ul>  <p class="footer-operator" data-astro-cid-sz7xmlte> Operado por <strong data-astro-cid-sz7xmlte>Timberline Ventures LLC</strong><br data-astro-cid-sz7xmlte> <a href="mailto:info@timberlineventuresllc.com" data-astro-cid-sz7xmlte>info@timberlineventuresllc.com</a> </p> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Tarjetas</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/secured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas con Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/best-itin-credit-cards" data-astro-cid-sz7xmlte>Mejores Tarjetas ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/credit-cards-that-accept-itin" data-astro-cid-sz7xmlte>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/unsecured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas sin Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/build-credit-with-itin" data-astro-cid-sz7xmlte>Construir Crédito</a></li><li data-astro-cid-sz7xmlte><a href="/es/business-credit-cards" data-astro-cid-sz7xmlte>Tarjetas de Negocio</a></li><li data-astro-cid-sz7xmlte><a href="/es/how-to-get-an-itin" data-astro-cid-sz7xmlte>Cómo Obtener un ITIN</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Recursos</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/itin-credit-cards-guide" data-astro-cid-sz7xmlte>Guía de Tarjetas</a></li><li data-astro-cid-sz7xmlte><a href="/es/articles" data-astro-cid-sz7xmlte>Todas las Guías</a></li><li data-astro-cid-sz7xmlte><a href="/es/apply" data-astro-cid-sz7xmlte>Encuentra tu tarjeta</a></li><li data-astro-cid-sz7xmlte><a href="/es/about" data-astro-cid-sz7xmlte>Nosotros</a></li><li data-astro-cid-sz7xmlte><a href="/es/contact" data-astro-cid-sz7xmlte>Contacto</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Legal</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/editorial-policy" data-astro-cid-sz7xmlte>Política Editorial</a></li><li data-astro-cid-sz7xmlte><a href="/es/privacy" data-astro-cid-sz7xmlte>Política de Privacidad</a></li><li data-astro-cid-sz7xmlte><a href="/es/terms" data-astro-cid-sz7xmlte>Términos de Uso</a></li><li data-astro-cid-sz7xmlte><a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-network" data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Más Recursos para Personas con ITIN</h4> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="https://itinlending.net" data-astro-cid-sz7xmlte>Préstamos e Hipotecas ITIN</a> <span data-astro-cid-sz7xmlte>Préstamos de auto, personales y de negocio e hipotecas con ITIN</span> </li><li data-astro-cid-sz7xmlte> <a href="https://itincreditscore.com" data-astro-cid-sz7xmlte>Puntaje de Crédito con ITIN</a> <span data-astro-cid-sz7xmlte>Consulta, construye y mejora tu crédito con un ITIN</span> </li> </ul> </div> <div class="footer-disclaimer" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+&copy; 2026 ITINCreditCard.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Card es un recurso independiente de información y referencia. No
+          somos un banco, emisor de tarjetas ni organización de reparación de
+          crédito, y no tomamos decisiones de crédito ni emitimos tarjetas. La
+          información de este sitio tiene fines educativos generales y no
+          constituye asesoría financiera, legal ni fiscal. Los productos de
+          tarjetas de crédito y los términos de aprobación los establecen emisores
+          externos y están sujetos a su aprobación y a la ley aplicable. Podemos
+          recibir compensación cuando haces clic en ciertos enlaces o te
+          conectamos con un emisor, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a>.
+</p> <p class="fha-legal" data-astro-cid-sz7xmlte>
+* El programa de préstamo FHA con 3.5% de enganche es ofrecido por un
+          socio prestamista externo, no por ITIN Credit Card. No es una garantía de
+          aprobación, tasa ni condiciones. Todo financiamiento está sujeto a
+          suscripción del prestamista, aprobación crediticia, verificación de
+          ingresos y requisitos de elegibilidad del programa, los cuales varían
+          según el estado y pueden cambiar sin previo aviso.
+</p> </div> </div> </footer>  </body></html> 

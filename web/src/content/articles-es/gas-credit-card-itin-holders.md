@@ -15,9 +15,9 @@ author: "Research Desk"
 category: "Tarjetas de crédito"
 relatedSlugs:
   - "grocery-credit-card-itin-holders"
+  - "credit-card-welcome-bonus-itin-holders"
   - "itin-starter-credit-cards-ranked-zero-history"
   - "low-apr-credit-card-itin-holders"
-  - "travel-credit-card-itin-holders"
 faqs:
   - q: "¿Puedo obtener una tarjeta de recompensas en gasolina con ITIN y sin historial crediticio en EE. UU.?"
     a: "Sí. La Capital One Quicksilver Secured acepta ITIN y solo requiere un depósito reembolsable de $200. Gana 1.5% de cashback en cada compra, incluida la gasolina, sin cuota anual. No necesitas historial crediticio previo en EE. UU. para calificar."

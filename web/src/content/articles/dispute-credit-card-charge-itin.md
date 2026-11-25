@@ -14,10 +14,10 @@ publishedAt: "2026-09-30"
 author: "Research Desk"
 category: "Credit Cards"
 relatedSlugs:
+  - "credit-card-welcome-bonus-itin-holders"
   - "gas-credit-card-itin-holders"
   - "low-apr-credit-card-itin-holders"
   - "no-annual-fee-credit-card-itin"
-  - "no-foreign-transaction-fee-credit-card-itin"
 faqs:
   - q: "Do ITIN holders have the same dispute rights as SSN holders?"
     a: "Yes. The Fair Credit Billing Act protects all cardholders regardless of immigration status or tax ID type. Having an ITIN instead of an SSN does not reduce your chargeback rights in any way."
