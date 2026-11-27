@@ -18,7 +18,7 @@ relatedSlugs:
   - "credit-card-f1-visa-holders-itin"
   - "credit-card-itin-apply-online-vs-in-branch"
   - "income-requirements-credit-card-itin"
-  - "chase-credit-card-itin"
+  - "apply-itin-credit-card-before-moving-to-us"
 faqs:
   - q: "Can I apply for a credit card online using my ITIN?"
     a: "Yes, many issuers, including Capital One and Bank of America, accept ITIN applications online. When the form asks for an SSN, look for an option to enter an alternate tax ID. Some forms only display this after you select 'other' or 'ITIN' as your ID type. If an online form rejects your ITIN, call the issuer and apply by phone instead."

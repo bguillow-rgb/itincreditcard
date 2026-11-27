@@ -1,0 +1,238 @@
+<!DOCTYPE html><html lang="es"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Tarjeta de crédito con ITIN antes de llegar a EE. UU.</title><meta name="description" content="Algunos emisores aceptan solicitudes con ITIN o pasaporte desde tu país. Conoce cuáles funcionan y qué documentos necesitas."><link rel="canonical" href="https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us"><link rel="alternate" hreflang="en" href="https://itincreditcard.com/articles/apply-itin-credit-card-before-moving-to-us"><link rel="alternate" hreflang="es" href="https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us"><link rel="alternate" hreflang="x-default" href="https://itincreditcard.com/articles/apply-itin-credit-card-before-moving-to-us"><meta property="og:type" content="website"><meta property="og:title" content="Tarjeta de crédito con ITIN antes de llegar a EE. UU."><meta property="og:description" content="Algunos emisores aceptan solicitudes con ITIN o pasaporte desde tu país. Conoce cuáles funcionan y qué documentos necesitas."><meta property="og:url" content="https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us"><meta property="og:site_name" content="ITIN Credit Card"><meta property="og:image" content="https://itincreditcard.com/og/apply-itin-credit-card-before-moving-to-us.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Tarjeta de crédito con ITIN antes de llegar a EE. UU."><meta name="twitter:description" content="Algunos emisores aceptan solicitudes con ITIN o pasaporte desde tu país. Conoce cuáles funcionan y qué documentos necesitas."><meta name="twitter:image" content="https://itincreditcard.com/og/apply-itin-credit-card-before-moving-to-us.png"><link rel="icon" href="/favicon.ico" sizes="any"><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="icon" href="/favicon.png" sizes="32x32" type="image/png"><link rel="apple-touch-icon" href="/icon-180.png"><meta name="theme-color" content="#22505A"><link rel="alternate" type="application/rss+xml" title="ITIN Credit Card | Guides" href="/rss.xml"><script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://itincreditcard.com/#organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":"https://itincreditcard.com/icon-512.png","description":"ITINCreditCard.com helps ITIN holders get approved for credit cards without an SSN and build U.S. credit history, secured cards, unsecured cards, which issuers accept an ITIN, and how to raise your score. Independent guides and card matching.","sameAs":["https://www.wikidata.org/wiki/Q140083128","https://www.wikidata.org/wiki/Q140082434"],"publisher":{"@type":"Organization","name":"Timberline Ventures LLC","url":"https://timberlineventuresllc.com","sameAs":["https://www.wikidata.org/wiki/Q140082434"]}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"ITIN Credit Card","url":"https://itincreditcard.com","description":"ITINCreditCard.com ayuda a personas con ITIN a ser aprobadas para tarjetas de crédito sin Seguro Social y a construir historial crediticio en EE. UU., tarjetas con garantía, tarjetas sin garantía, qué emisores aceptan un ITIN y cómo subir tu puntaje. Guías independientes y conexión con tarjetas.","inLanguage":"es-419","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://itincreditcard.com/articles?q={search_term_string}"},"query-input":"required name=search_term_string"}}</script><meta name="google-site-verification" content="pxWBVK2JLcqCm9SiLFhVnJzHIWa1ifynMkxnbY0V8hA"><script async src="https://www.googletagmanager.com/gtag/js?id=G-TFJMHQLHMX"></script><script>(function(){const ga4Id = "G-TFJMHQLHMX";
+
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      // Astro wraps a `define:vars` inline script in an IIFE, so the function
+      // declaration above is scoped, not global. gtag('config') still worked
+      // (it only pushes to dataLayer, which gtag.js reads), so page_view and
+      // session_start looked healthy while `window.gtag` stayed undefined and
+      // itrack() below silently dropped EVERY custom event. affiliate_click,
+      // cta_click and cross_site_click recorded zero from launch until
+      // 2026-09-01. Publish it explicitly.
+      window.gtag = gtag;
+      gtag('js', new Date());
+      gtag('config', ga4Id, { anonymize_ip: true, send_page_view: true });
+    })();</script><meta name="google-adsense-account" content="ca-pub-1426577294682977"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1426577294682977" crossorigin="anonymous"></script><script>
+  (function () {
+    function itrack(name, params) {
+      if (window.gtag) window.gtag('event', name, params || {});
+    }
+    window.itrack = itrack;
+
+    // Outbound affiliate clicks (deep links carry rel="sponsored") and the
+    // primary apply CTA. page_path gives per-product attribution on money pages.
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('a[href]');
+      if (!a) return;
+      var rel = a.getAttribute('rel') || '';
+      var href = a.getAttribute('href') || '';
+      if (rel.indexOf('sponsored') > -1) {
+        itrack('affiliate_click', { link_url: href, page_path: location.pathname });
+      } else if (a.hasAttribute('data-cross-site')) {
+        // Cross-site router clicks (CrossSiteCallout). Added 2026-08-17 so a
+        // cross-property handoff is measurable on the SENDING side too, not just
+        // as a UTM'd referral landing on the sister site. Checked before
+        // btn-primary because a router CTA may carry both.
+        itrack('cross_site_click', {
+          link_url: href,
+          page_path: location.pathname,
+          campaign: a.getAttribute('data-cross-site') || '',
+        });
+      } else if (a.classList.contains('btn-primary') && href.indexOf('apply') > -1) {
+        itrack('cta_click', { link_url: href, page_path: location.pathname });
+      }
+    });
+  })();
+</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Tarjeta de crédito con ITIN antes de llegar a EE. UU.","description":"Algunos emisores aceptan solicitudes con ITIN o pasaporte desde tu país. Conoce cuáles funcionan y qué documentos necesitas.","url":"https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us","inLanguage":"es-419","datePublished":"2026-11-27T00:00:00.000Z","dateModified":"2026-11-27T00:00:00.000Z","author":{"@type":"Organization","name":"Editorial Team","url":"https://itincreditcard.com/about","parentOrganization":{"@id":"https://itincreditcard.com/#organization"}},"publisher":{"@type":"Organization","name":"ITIN Credit Card","legalName":"Timberline Ventures LLC","url":"https://itincreditcard.com","logo":{"@type":"ImageObject","url":"https://itincreditcard.com/icon-512.png"}},"speakable":{"@type":"SpeakableSpecification","cssSelector":["#quick-answer"]},"mainEntityOfPage":{"@type":"WebPage","@id":"https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us"}}</script> <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://itincreditcard.com"},{"@type":"ListItem","position":2,"name":"Guías","item":"https://itincreditcard.com/es/articles"},{"@type":"ListItem","position":3,"name":"Tarjeta de crédito con ITIN antes de llegar a EE. UU.","item":"https://itincreditcard.com/es/articles/apply-itin-credit-card-before-moving-to-us"}]}</script> <link rel="stylesheet" href="/_astro/_slug_.D8mdHOEz.css">
+<style>.related-links[data-astro-cid-xmiqtmid]{margin:36px 0 8px}.related-links[data-astro-cid-xmiqtmid] h2[data-astro-cid-xmiqtmid]{margin:0 0 14px;font-size:1.25rem}.related-links[data-astro-cid-xmiqtmid] ul[data-astro-cid-xmiqtmid]{list-style:none;margin:0;padding:0;display:grid;gap:10px;grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]{display:block;padding:12px 14px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--surface);color:var(--text);font-weight:600;text-decoration:none;line-height:1.3;transition:border-color .15s ease,background .15s ease}.related-links[data-astro-cid-xmiqtmid] a[data-astro-cid-xmiqtmid]:hover{border-color:var(--primary);background:var(--surface-alt)}.sources-note[data-astro-cid-6jinirix]{margin:26px 0;padding:16px 18px;border:1px solid var(--border, #E7E2F2);border-left:4px solid var(--primary, #5B21B6);border-radius:var(--radius);background:var(--surface, #F7F5FC)}.sources-note-h[data-astro-cid-6jinirix]{margin:0 0 6px;font-weight:700;font-size:.95rem;color:var(--primary-dark, #4C1D95)}.sources-note-b[data-astro-cid-6jinirix]{margin:0;font-size:.92rem;line-height:1.55;color:var(--muted, #5C5470)}
+.author-bio[data-astro-cid-zm77yjld]{margin:28px 0;padding:18px 20px;border:1px solid var(--border, #e2e6ee);border-radius:var(--radius);background:var(--surface-2, #f7f9fc)}.author-bio-name[data-astro-cid-zm77yjld]{margin:0 0 6px;font-weight:700}.author-bio-role[data-astro-cid-zm77yjld]{font-weight:400;color:var(--muted, #5a6473)}.author-bio-text[data-astro-cid-zm77yjld]{margin:0 0 8px;font-size:.95rem;line-height:1.55}.author-bio-link[data-astro-cid-zm77yjld]{margin:0;font-size:.9rem}
+</style></head> <body> <div class="announce-bar"> Préstamos FHA para compradores con ITIN, con 3.5% de enganche.* <a href="/es/apply">Verifica si calificas</a> </div> <header class="site-header" id="site-header"> <div class="container nav-inner"> <a href="/es" class="brand">ITIN Credit Card<span class="dot">.</span></a> <nav class="nav-right" aria-label="Primary"> <ul class="nav-links"> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> </ul> <a href="/articles/apply-itin-credit-card-before-moving-to-us.html" class="lang-toggle" aria-label="Ver en English" hreflang="en"> <svg class="globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><path d="M3 12h18M12 3a14 14 0 0 1 0 18M12 3a14 14 0 0 0 0 18"></path></svg> English </a> <a href="/es/apply" class="btn btn-primary">Aplica aquí</a> <button class="nav-toggle" id="nav-toggle" aria-label="Menu" aria-expanded="false" aria-controls="nav-drawer"> <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg> </button> </nav> </div> <div class="nav-drawer" id="nav-drawer"> <ul> <li><a href="/es">Inicio</a></li><li><a href="/es/itin-credit-cards-guide">Guía de Tarjetas</a></li><li><a href="/es/build-credit-with-itin">Construir Crédito</a></li><li><a href="/es/articles">Guías</a></li><li><a href="/es/about">Nosotros</a></li> <li><a class="btn btn-primary btn-block" href="/es/apply">Aplica aquí</a></li> </ul> </div> </header> <script>
+  (function () {
+    var header = document.getElementById('site-header');
+    var toggle = document.getElementById('nav-toggle');
+    var drawer = document.getElementById('nav-drawer');
+    if (toggle && drawer) {
+      toggle.addEventListener('click', function () {
+        var open = drawer.classList.toggle('open');
+        toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
+    function onScroll() {
+      if (!header) return;
+      header.classList.toggle('scrolled', window.scrollY > 4);
+    }
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  })();
+</script> <main>   <article class="container narrow" style="padding-top:18px;padding-bottom:24px" data-astro-cid-zm77yjld> <p class="crumbs" data-astro-cid-zm77yjld> <a href="/" data-astro-cid-zm77yjld>Home</a> &rsaquo;
+<a href="https://itincreditcard.com/es/articles" data-astro-cid-zm77yjld>Guías</a> &rsaquo;  <span data-astro-cid-zm77yjld>Tarjeta de crédito con ITIN antes de llegar a EE. UU.</span> </p> <span class="tag" data-astro-cid-zm77yjld>Tarjetas de crédito</span> <h1 style="margin-top:10px" data-astro-cid-zm77yjld>Tarjeta de crédito con ITIN antes de llegar a EE. UU.</h1> <p class="byline" data-astro-cid-zm77yjld>
+By <a href="/about" data-astro-cid-zm77yjld>Editorial Team</a> &middot; Cards &amp; Credit Building &middot;
+Published November 27, 2026 </p> <p class="disclosure"><strong>Aviso para anunciantes:</strong>ITIN Credit Card es un recurso
+    independiente. Algunos enlaces en esta página son de socios que nos
+    compensan, lo cual puede influir en qué productos mostramos y dónde. Esto no
+    cambia nuestra guía editorial y nunca tiene costo para ti. Consulta nuestro
+<a href="/es/disclosure">aviso completo</a>.
+</p> <section class="quick-answer" id="quick-answer"> <span class="label">Respuesta rápida</span> <p>Sí. Un grupo reducido de emisores, entre ellos Zolve y Firstcard, te permiten solicitar una tarjeta de crédito de EE. UU. desde el extranjero usando tu ITIN o tu pasaporte con visa vigente, sin necesitar SSN ni historial crediticio en EE. UU. Puedes recibir una tarjeta virtual y empezar a construir crédito antes de tu primer día en el país.</p> <p class="qa-sources"> <span class="qa-check" aria-hidden="true">&#10003;</span> <span>Verificado con:</span> <span>IRS ·</span><span>CFPB ·</span><span>Issuer disclosures</span> </p> </section> <!-- Highest-visibility article slot: above the fold, after the Quick Answer.
+         Credit Karma creative auto-matched to the article topic via its path. --> <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fapply-itin-credit-card-before-moving-to-us" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fapply-itin-credit-card-before-moving-to-us" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="article-body" data-astro-cid-zm77yjld>  <p>La mayoría de las guías para construir crédito asumen que ya estás en suelo estadounidense. Pero cada vez más personas con ITIN o visa quieren llevar ventaja: abrir una tarjeta, establecer un archivo de crédito y llegar a EE. UU. con un puntaje ya en marcha. Un puñado de emisores hace exactamente eso posible.</p>
+<h2 id="de-verdad-puedes-solicitar-una-tarjeta-de-crédito-de-ee-uu-antes-de-mudarte">¿De verdad puedes solicitar una tarjeta de crédito de EE. UU. antes de mudarte?</h2>
+<p>Sí, con el emisor correcto. La mayoría de los emisores de tarjetas en EE. UU. requieren una dirección física en el país, una visita a una sucursal o un SSN para completar la solicitud. Eso descarta a casi todos los bancos tradicionales para quienes aplican antes de llegar. Sin embargo, un grupo pequeño de emisores ha diseñado su proceso de aprobación específicamente para recién llegados que no tienen SSN ni historial crediticio en EE. UU., y sus solicitudes en línea funcionan desde cualquier parte del mundo.</p>
+<p>Las dos opciones más accesibles antes de llegar en 2026 son Zolve Classic y Firstcard. Zolve está diseñado para personas sin número de Seguro Social: puedes solicitar con SSN, ITIN o pasaporte más visa vigente, y te evalúan con base en tu historial crediticio en tu país de origen. Firstcard tiene un enfoque similar: no necesitas SSN para obtener aprobación, solo tu pasaporte junto con tu visa o ITIN, y quedas preaprobado siempre que presentes los documentos correctos.</p>
+<p>Ninguna tarjeta requiere historial crediticio en EE. UU. para abrirse. Ambas están disponibles para solicitantes que aún están en el extranjero al momento de aplicar.</p>
+<h2 id="qué-documentos-necesito-para-solicitar-desde-el-extranjero">¿Qué documentos necesito para solicitar desde el extranjero?</h2>
+<p><em>Una pregunta que escuchamos seguido:</em> ¿qué se incluye exactamente en la solicitud cuando no tienes identificación de EE. UU., ni SSN, ni una dirección en ese país?</p>
+<p>Los requisitos de documentos varían según el emisor, pero el conjunto básico es consistente entre las principales opciones antes de llegar:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Documento</th><th>Zolve Classic</th><th>Firstcard</th><th>Capital One (tras la llegada)</th></tr></thead><tbody><tr><td>Pasaporte</td><td>Requerido</td><td>Requerido</td><td>Aceptado</td></tr><tr><td>Visa de EE. UU. vigente</td><td>Requerido</td><td>Requerido</td><td>Aceptada</td></tr><tr><td>ITIN</td><td>Opcional (no requerido)</td><td>Opcional (no requerido)</td><td>Requerido</td></tr><tr><td>Dirección postal en EE. UU.</td><td>Requerida al activar</td><td>Requerida</td><td>Requerida</td></tr><tr><td>Cuenta bancaria en EE. UU.</td><td>Cuenta Zolve checking</td><td>Cuenta Firstcard</td><td>Útil pero no requerida</td></tr><tr><td>SSN</td><td>No requerido</td><td>No requerido</td><td>No requerido</td></tr><tr><td>Historial crediticio en EE. UU.</td><td>No requerido</td><td>No requerido</td><td>No requerido</td></tr></tbody></table>
+<p>Una nota práctica que vale la pena mencionar: incluso los emisores que permiten una solicitud completamente en línea desde el extranjero generalmente necesitan una dirección postal en EE. UU. antes de poder enviar tu tarjeta física. Si aún no tienes una dirección en el país, la dirección de un familiar o de tu empleador suele funcionar. La tarjeta virtual, en cambio, generalmente está disponible de inmediato tras la aprobación, así que puedes hacer compras en línea sin esperar a que llegue nada por correo.</p>
+<p>Zolve ofrece una tarjeta sin comisión anual que no requiere SSN. Puedes solicitar con tu pasaporte o ITIN y recibir una tarjeta virtual antes de poner un pie en EE. UU.</p>
+<h2 id="una-tarjeta-obtenida-antes-de-llegar-realmente-reporta-a-los-burós-de-crédito">¿Una tarjeta obtenida antes de llegar realmente reporta a los burós de crédito?</h2>
+<p><em>Esto surge con frecuencia:</em> algunos solicitantes temen que una tarjeta de fintech o enfocada en recién llegados no tenga el mismo peso en los burós que una tarjeta de banco tradicional. Esa preocupación es válida para algunos productos, pero no para las principales opciones antes de llegar.</p>
+<p>El historial de cuenta se reporta a los mismos tres burós (Experian, Equifax, TransUnion) y construye el mismo archivo de crédito. Zolve reporta a los tres. Firstcard también.</p>
+<p>Eso importa porque los modelos de puntaje crediticio de EE. UU., como FICO, requieren al menos una cuenta con seis meses de historial reportado antes de generar un puntaje. Abrir una tarjeta el mes antes de mudarte, en lugar del mes en que llegas, puede reducir de tres a seis meses el tiempo que tarda en generarse un puntaje. Para alguien que planea rentar un apartamento o financiar un auto en su primer año, esa ventaja vale algo real.</p>
+<h2 id="cuáles-son-las-comisiones-y-límites-de-crédito-de-las-tarjetas-antes-de-llegar">¿Cuáles son las comisiones y límites de crédito de las tarjetas antes de llegar?</h2>
+<p><em>Los lectores preguntan con frecuencia:</em> “Si estas tarjetas son tan fáciles de obtener, ¿cuál es la trampa en cuanto a comisiones o límites?”</p>
+<p>La respuesta corta: las principales tarjetas antes de llegar son genuinamente económicas, pero los límites de crédito iniciales son modestos.</p>
+<p>La Zolve Classic Credit Card no cobra comisión anual, no requiere depósito de seguridad ni historial crediticio en EE. UU., y genera 1% de cashback en compras elegibles. Está disponible para estudiantes internacionales y titulares de visa H-1B y L-1.</p>
+<p>Hay un detalle estructural que vale la pena entender. A diferencia de una tarjeta de crédito sin garantía tradicional, el límite de gasto inicialmente está vinculado al saldo de tu cuenta Zolve checking, así que al principio funciona más como una tarjeta de cargo contra tus propios fondos. Aun así, se reporta como una cuenta de crédito ante los burós. En la práctica, tu límite de crédito efectivo comienza de forma conservadora, pero crece a medida que tu perfil crediticio en EE. UU. se fortalece.</p>
+<p>Firstcard opera de manera similar, con comisión anual de $0 y sin verificación de crédito estricta al momento de la aprobación. La APR de ambas tarjetas puede ser alta (la APR variable de Zolve oscila entre aproximadamente 19.50% y 39.50% según tu perfil), así que aplica el consejo de siempre: paga el saldo completo cada mes y nunca pagarás intereses.</p>
+<p>Una nota sobre la línea de productos de Zolve: la tarjeta asegurada Zolve Azpire fue descontinuada, dejando la tarjeta no asegurada de Zolve para recién llegados como la opción principal sin SSN. Consulta la página de producto actual antes de solicitar.</p>
+<h2 id="qué-pasa-con-los-bancos-grandes-puedo-solicitar-con-chase-o-capital-one-desde-el-extranjero">¿Qué pasa con los bancos grandes? ¿Puedo solicitar con Chase o Capital One desde el extranjero?</h2>
+<p>La respuesta honesta: no fácilmente, y por lo general no de forma completamente remota. A partir de abril de 2026, Capital One, American Express, Chase y Deserve son los cuatro emisores que aprueban de manera más confiable a solicitantes sin SSN, cada uno con un mecanismo diferente. Pero sus flujos de solicitud están diseñados para personas que ya están en el país.</p>
+<p>Capital One acepta un ITIN en solicitudes de tarjeta de crédito, pero generalmente necesitas una dirección en EE. UU. y el ITIN en mano para que la solicitud se procese correctamente. La tarjeta Freedom Rise de Chase acepta ITIN, pero las probabilidades de aprobación mejoran significativamente si tienes al menos $250 en una cuenta Chase checking, lo que implica abrir esa cuenta primero, algo que generalmente no puedes hacer hasta que llegues.</p>
+<p>Bank of America es aún más explícito al respecto: los solicitantes con ITIN son dirigidos a un centro financiero en lugar del flujo estándar de solicitud en línea para consumidores, así que una visita a una sucursal es prácticamente obligatoria.</p>
+<p>Si tu plan es obtener una tarjeta en un banco tradicional importante, la secuencia práctica es: llega a EE. UU., abre una cuenta de cheques y luego solicita la tarjeta asegurada en sucursal o en línea una vez que tengas una dirección y un ITIN. Para el período antes de llegar, Zolve o Firstcard siguen siendo el camino más directo.</p>
+<h2 id="obtener-una-tarjeta-antes-de-llegar-afecta-mi-solicitud-de-visa-o-mi-estatus-migratorio">¿Obtener una tarjeta antes de llegar afecta mi solicitud de visa o mi estatus migratorio?</h2>
+<p>No. Según el IRS, un ITIN no te autoriza a trabajar en EE. UU., no cambia tu estatus migratorio y no te da derecho a beneficios del Seguro Social ni al Crédito Tributario por Ingreso del Trabajo. Abrir una tarjeta de crédito usando un ITIN tiene el mismo efecto nulo sobre tu estatus.</p>
+<p>Abrir una tarjeta asegurada o cualquier cuenta bancaria en EE. UU. no tiene ningún efecto sobre tu estatus migratorio. Los burós de crédito rastrean el comportamiento de pago, no la ciudadanía ni el tipo de visa. Los prestamistas son otro tema: una declaración del CFPB de junio de 2026 indicó que los acreedores pueden considerar el estatus migratorio y la autorización de trabajo al revisar solicitudes. Eso significa que un emisor podría en teoría incluir el tipo de visa en su decisión de aprobación, pero eso no tiene ningún efecto sobre la visa en sí.</p>
+<h2 id="cuál-es-el-cronograma-real-desde-la-solicitud-hasta-el-primer-estado-de-cuenta">¿Cuál es el cronograma real desde la solicitud hasta el primer estado de cuenta?</h2>
+<p>Aquí tienes un cronograma práctico para una solicitud antes de llegar, desde el inicio hasta el primer reporte al buró:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Paso</th><th>Tiempo típico</th></tr></thead><tbody><tr><td>Enviar solicitud en línea (Zolve o Firstcard)</td><td>Día 1</td></tr><tr><td>Recibir decisión de aprobación</td><td>El mismo día a 48 horas</td></tr><tr><td>Tarjeta virtual disponible para uso en línea</td><td>De inmediato tras la aprobación</td></tr><tr><td>Tarjeta física enviada a dirección en EE. UU.</td><td>7-14 días después de confirmar la dirección</td></tr><tr><td>Primer estado de cuenta generado</td><td>30 días después de abrir la cuenta</td></tr><tr><td>Primer reporte al buró aparece</td><td>30-45 días después de abrir la cuenta</td></tr><tr><td>Puntaje FICO generado (requiere 6 meses de historial)</td><td>Aproximadamente al mes 6</td></tr></tbody></table>
+<p>Si te mudas en tres meses, solicitar ahora significa que podrías llegar con aproximadamente tres meses de historial de pagos puntuales ya en tu archivo. Eso no alcanza todavía para generar un puntaje FICO, pero llegarás al umbral de seis meses antes, y demuestra un uso responsable a futuros emisores cuando solicites una <a href="/es/articles/secured-credit-card-with-itin">tarjeta asegurada</a> o una <a href="/es/articles/unsecured-credit-card-itin-holders">tarjeta no asegurada</a> después de establecerte.</p>
+<p>Para saber qué hacer una vez que estés en el país, nuestra guía sobre <a href="/es/articles/build-credit-with-itin-credit-card">cómo construir crédito rápido con una tarjeta de crédito ITIN</a> cubre la estrategia completa de 12 a 24 meses, y nuestra <a href="/es/articles/itin-credit-card-bank-by-bank-application-guide">guía de solicitud banco por banco</a> explica exactamente cómo maneja cada emisor importante las solicitudes con ITIN una vez que tienes una dirección en EE. UU.</p>
+<hr>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<p><strong>¿Puedo solicitar una tarjeta de crédito de EE. UU. desde fuera del país?</strong>
+Sí, pero solo con un grupo pequeño de emisores. Zolve y Firstcard permiten solicitudes completamente en línea desde el extranjero, aceptando pasaporte con visa vigente o un ITIN en lugar de SSN. La mayoría de los bancos grandes, como Chase o Bank of America, requieren una dirección en EE. UU. y una visita a una sucursal, lo que hace muy difícil una solicitud antes de llegar.</p>
+<p><strong>¿Necesito un ITIN para solicitar una tarjeta de crédito de EE. UU. antes de llegar?</strong>
+No siempre. Zolve acepta un pasaporte extranjero con visa de EE. UU. vigente sin exigir ITIN. Firstcard también acepta pasaporte con documentación de visa. Sin embargo, tener un ITIN amplía tus opciones una vez que estés en el país, y algunos emisores como Capital One sí lo requieren.</p>
+<p><strong>¿Una tarjeta de crédito obtenida antes de llegar reporta a los burós de crédito de EE. UU.?</strong>
+Sí, siempre que elijas un emisor que reporte a los tres burós. Zolve reporta a Experian, Equifax y TransUnion. Tu historial de pagos empieza a acumularse desde tu primer estado de cuenta, incluso si todavía estás en el extranjero cuando se abre la cuenta.</p>
+<p><strong>¿Puedo usar una tarjeta de crédito de EE. UU. para compras en el extranjero antes de mudarme?</strong>
+Sí, pero revisa la comisión por transacción extranjera antes de usarla. Zolve no cobra esa comisión en su tarjeta Classic, lo que la hace práctica para gastar en tu país mientras esperas mudarte. Confirma siempre el esquema de comisiones vigente directamente con el emisor antes de solicitar.</p>
+<p><strong>¿Cuál es la mejor tarjeta de crédito antes de llegar para alguien con visa H-1B o F-1?</strong>
+Zolve Classic es ampliamente reconocida como la mejor opción para titulares de visa H-1B, L-1 y F-1 antes de llegar, porque acepta pasaporte con documentación de visa, no requiere depósito de seguridad, no cobra comisión anual y reporta a los tres burós de crédito de EE. UU. Firstcard es una buena alternativa si Zolve no cubre tu país de origen.</p> <section> <h2>Guías relacionadas</h2> <ul class="lead-list"> <li><a href="/es/articles/credit-card-itin-non-residents">credit card itin non residents</a></li><li><a href="/es/articles/chase-credit-card-itin">chase credit card itin</a></li><li><a href="/es/articles/credit-card-opt-visa-holder-itin">credit card opt visa holder itin</a></li><li><a href="/es/articles/how-to-apply-for-credit-card-with-itin">how to apply for credit card with itin</a></li> </ul> </section> </div> <aside class="sources-note" data-astro-cid-6jinirix> <p class="sources-note-h" data-astro-cid-6jinirix>Cómo investigamos esta página</p> <p class="sources-note-b" data-astro-cid-6jinirix>
+Esta guía la escribió y revisó nuestro equipo editorial a partir de fuentes
+      primarias, el IRS, la CFPB, la FTC, FICO, Experian, Equifax y TransUnion, los materiales publicados por los emisores de tarjetas, en lugar de otros blogs. Las cifras, tarifas y
+      requisitos se cotejan con esa documentación antes de publicar; los términos
+      específicos de cada tarjeta cambian, así que verifícalos con el emisor. No
+      inventamos estadísticas, probabilidades de aprobación ni términos de
+      producto. Lee nuestra <a href="/es/editorial-policy" data-astro-cid-6jinirix>política editorial</a> completa.
+</p> </aside>  <div class="ck-ad ck-ad--inline"> <div class="ck-head"> <span class="ck-kicker">Una herramienta gratis que recomendamos</span> <span class="ck-disclosure">Advertisement</span> </div> <a class="ck-cta" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fapply-itin-credit-card-before-moving-to-us" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-cta" data-aff-topic="cards"> Compara las mejores tarjetas aquí <span aria-hidden="true">&rarr;</span> </a> <a class="ck-banner" href="https://www.awin1.com/cread.php?s=3641203&v=66532&q=475588&r=2931103&clickref=iccweb_ad_cards&clickref2=%2Fes%2Farticles%2Fapply-itin-credit-card-before-moving-to-us" rel="sponsored nofollow" target="_blank" data-aff="ck-ad-banner" data-aff-topic="cards"> <img src="https://www.awin1.com/cshow.php?s=3641203&v=66532&q=475588&r=2931103" width="300" height="250" alt="Credit Karma, encuentra una tarjeta de crédito" loading="lazy"> </a> </div> <div class="inline-cta"> <h3>¿Listo para explorar tus opciones?</h3> <p style="color:var(--muted);max-width:34em;margin:0 auto 18px">Conéctate con emisores de tarjetas que aceptan ITIN. Sin Seguro Social y revisar no afecta tu crédito.</p> <a class="btn btn-primary btn-lg" href="/es/apply">Encuentra tu tarjeta</a> </div> <aside class="author-bio" data-astro-cid-zm77yjld> <p class="author-bio-name" data-astro-cid-zm77yjld>Editorial Team<span class="author-bio-role" data-astro-cid-zm77yjld> &middot; Cards &amp; Credit Building</span></p> <p class="author-bio-text" data-astro-cid-zm77yjld>El equipo editorial de ITIN Credit Card escribe y edita nuestras guías en lenguaje sencillo sobre tarjetas de crédito y la construcción de crédito para personas con ITIN y extranjeros en EE. UU. Cada guía se construye a partir de fuentes primarias, el IRS, el CFPB, los principales burós de crédito y los materiales publicados por los propios emisores, y se revisa antes de publicarse. Publicamos en inglés y español.</p> <p class="author-bio-link" data-astro-cid-zm77yjld><a href="/es/about" data-astro-cid-zm77yjld>Sobre nuestro equipo editorial</a></p> </aside> <nav class="related-links" aria-label="Related guides" data-astro-cid-xmiqtmid> <h2 data-astro-cid-xmiqtmid>Related guides</h2> <ul data-astro-cid-xmiqtmid> <li data-astro-cid-xmiqtmid><a href="/es/itin-credit-cards-guide" data-astro-cid-xmiqtmid>Guía de Tarjetas de Crédito ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/secured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas con Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/best-itin-credit-cards" data-astro-cid-xmiqtmid>Mejores Tarjetas ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/credit-cards-that-accept-itin" data-astro-cid-xmiqtmid>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/unsecured-credit-cards" data-astro-cid-xmiqtmid>Tarjetas sin Garantía</a></li><li data-astro-cid-xmiqtmid><a href="/es/build-credit-with-itin" data-astro-cid-xmiqtmid>Construir Crédito</a></li><li data-astro-cid-xmiqtmid><a href="/es/business-credit-cards" data-astro-cid-xmiqtmid>Tarjetas de Negocio</a></li><li data-astro-cid-xmiqtmid><a href="/es/how-to-get-an-itin" data-astro-cid-xmiqtmid>Cómo Obtener un ITIN</a></li><li data-astro-cid-xmiqtmid><a href="/es/articles" data-astro-cid-xmiqtmid>Todas las Guías</a></li> </ul> </nav>  <section class="faq"><h2>Preguntas frecuentes</h2><details class="faq-item"><summary>¿Puedo solicitar una tarjeta de crédito de EE. UU. desde fuera del país?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí, pero solo con un grupo pequeño de emisores. Zolve y Firstcard permiten solicitudes completamente en línea desde el extranjero, aceptando pasaporte con visa vigente o un ITIN en lugar de SSN. La mayoría de los bancos grandes, como Chase o Bank of America, requieren una dirección en EE. UU. y una visita a una sucursal, lo que hace muy difícil una solicitud antes de llegar.</p></details><details class="faq-item"><summary>¿Necesito un ITIN para solicitar una tarjeta de crédito de EE. UU. antes de llegar?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">No siempre. Zolve acepta un pasaporte extranjero con visa de EE. UU. vigente sin exigir ITIN. Firstcard también acepta pasaporte con documentación de visa. Sin embargo, tener un ITIN amplía tus opciones una vez que estés en el país, y algunos emisores como Capital One sí lo requieren.</p></details><details class="faq-item"><summary>¿Una tarjeta de crédito obtenida antes de llegar reporta a los burós de crédito de EE. UU.?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí, siempre que elijas un emisor que reporte a los tres burós. Zolve reporta a Experian, Equifax y TransUnion. Tu historial de pagos empieza a acumularse desde tu primer estado de cuenta, incluso si todavía estás en el extranjero cuando se abre la cuenta.</p></details><details class="faq-item"><summary>¿Puedo usar una tarjeta de crédito de EE. UU. para compras en el extranjero antes de mudarme?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Sí, pero revisa la comisión por transacción extranjera antes de usarla. Zolve no cobra esa comisión en su tarjeta Classic, lo que la hace práctica para gastar en tu país mientras esperas mudarte. Confirma siempre el esquema de comisiones vigente directamente con el emisor antes de solicitar.</p></details><details class="faq-item"><summary>¿Cuál es la mejor tarjeta de crédito antes de llegar para alguien con visa H-1B o F-1?<svg class="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"></path></svg></summary><p class="faq-a">Zolve Classic es ampliamente reconocida como la mejor opción para titulares de visa H-1B, L-1 y F-1 antes de llegar, porque acepta pasaporte con documentación de visa, no requiere depósito de seguridad, no cobra comisión anual y reporta a los tres burós de crédito de EE. UU. Firstcard es una buena alternativa si Zolve no cubre tu país de origen.</p></details><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Puedo solicitar una tarjeta de crédito de EE. UU. desde fuera del país?","acceptedAnswer":{"@type":"Answer","text":"Sí, pero solo con un grupo pequeño de emisores. Zolve y Firstcard permiten solicitudes completamente en línea desde el extranjero, aceptando pasaporte con visa vigente o un ITIN en lugar de SSN. La mayoría de los bancos grandes, como Chase o Bank of America, requieren una dirección en EE. UU. y una visita a una sucursal, lo que hace muy difícil una solicitud antes de llegar."}},{"@type":"Question","name":"¿Necesito un ITIN para solicitar una tarjeta de crédito de EE. UU. antes de llegar?","acceptedAnswer":{"@type":"Answer","text":"No siempre. Zolve acepta un pasaporte extranjero con visa de EE. UU. vigente sin exigir ITIN. Firstcard también acepta pasaporte con documentación de visa. Sin embargo, tener un ITIN amplía tus opciones una vez que estés en el país, y algunos emisores como Capital One sí lo requieren."}},{"@type":"Question","name":"¿Una tarjeta de crédito obtenida antes de llegar reporta a los burós de crédito de EE. UU.?","acceptedAnswer":{"@type":"Answer","text":"Sí, siempre que elijas un emisor que reporte a los tres burós. Zolve reporta a Experian, Equifax y TransUnion. Tu historial de pagos empieza a acumularse desde tu primer estado de cuenta, incluso si todavía estás en el extranjero cuando se abre la cuenta."}},{"@type":"Question","name":"¿Puedo usar una tarjeta de crédito de EE. UU. para compras en el extranjero antes de mudarme?","acceptedAnswer":{"@type":"Answer","text":"Sí, pero revisa la comisión por transacción extranjera antes de usarla. Zolve no cobra esa comisión en su tarjeta Classic, lo que la hace práctica para gastar en tu país mientras esperas mudarte. Confirma siempre el esquema de comisiones vigente directamente con el emisor antes de solicitar."}},{"@type":"Question","name":"¿Cuál es la mejor tarjeta de crédito antes de llegar para alguien con visa H-1B o F-1?","acceptedAnswer":{"@type":"Answer","text":"Zolve Classic es ampliamente reconocida como la mejor opción para titulares de visa H-1B, L-1 y F-1 antes de llegar, porque acepta pasaporte con documentación de visa, no requiere depósito de seguridad, no cobra comisión anual y reporta a los tres burós de crédito de EE. UU. Firstcard es una buena alternativa si Zolve no cubre tu país de origen."}}]}</script></section> </article>  </main> <footer class="site-footer" data-astro-cid-sz7xmlte> <div class="container" data-astro-cid-sz7xmlte> <div class="footer-grid" data-astro-cid-sz7xmlte> <div data-astro-cid-sz7xmlte> <div class="footer-brand" data-astro-cid-sz7xmlte>ITIN Credit Card<span style="color:var(--accent)" data-astro-cid-sz7xmlte>.</span></div> <p data-astro-cid-sz7xmlte>Tarjetas de Crédito y Construcción de Crédito para Personas con ITIN.</p> <h4 data-astro-cid-sz7xmlte>Por qué confiar en nosotros</h4> <ul class="footer-trust" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Independientes, no somos emisor de tarjetas ni banco</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Siempre gratis</li> <li data-astro-cid-sz7xmlte><span class="tick" data-astro-cid-sz7xmlte>&#10003;</span> Tu información se mantiene privada</li> </ul>  <p class="footer-operator" data-astro-cid-sz7xmlte> Operado por <strong data-astro-cid-sz7xmlte>Timberline Ventures LLC</strong><br data-astro-cid-sz7xmlte> <a href="mailto:info@timberlineventuresllc.com" data-astro-cid-sz7xmlte>info@timberlineventuresllc.com</a> </p> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Tarjetas</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/secured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas con Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/best-itin-credit-cards" data-astro-cid-sz7xmlte>Mejores Tarjetas ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/credit-cards-that-accept-itin" data-astro-cid-sz7xmlte>Tarjetas que Aceptan ITIN</a></li><li data-astro-cid-sz7xmlte><a href="/es/unsecured-credit-cards" data-astro-cid-sz7xmlte>Tarjetas sin Garantía</a></li><li data-astro-cid-sz7xmlte><a href="/es/build-credit-with-itin" data-astro-cid-sz7xmlte>Construir Crédito</a></li><li data-astro-cid-sz7xmlte><a href="/es/business-credit-cards" data-astro-cid-sz7xmlte>Tarjetas de Negocio</a></li><li data-astro-cid-sz7xmlte><a href="/es/how-to-get-an-itin" data-astro-cid-sz7xmlte>Cómo Obtener un ITIN</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Recursos</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/itin-credit-cards-guide" data-astro-cid-sz7xmlte>Guía de Tarjetas</a></li><li data-astro-cid-sz7xmlte><a href="/es/articles" data-astro-cid-sz7xmlte>Todas las Guías</a></li><li data-astro-cid-sz7xmlte><a href="/es/apply" data-astro-cid-sz7xmlte>Encuentra tu tarjeta</a></li><li data-astro-cid-sz7xmlte><a href="/es/about" data-astro-cid-sz7xmlte>Nosotros</a></li><li data-astro-cid-sz7xmlte><a href="/es/contact" data-astro-cid-sz7xmlte>Contacto</a></li> </ul> </div> <div data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Legal</h4> <ul class="footer-links" data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte><a href="/es/editorial-policy" data-astro-cid-sz7xmlte>Política Editorial</a></li><li data-astro-cid-sz7xmlte><a href="/es/privacy" data-astro-cid-sz7xmlte>Política de Privacidad</a></li><li data-astro-cid-sz7xmlte><a href="/es/terms" data-astro-cid-sz7xmlte>Términos de Uso</a></li><li data-astro-cid-sz7xmlte><a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a></li> </ul> </div> </div> <div class="footer-network" data-astro-cid-sz7xmlte> <h4 data-astro-cid-sz7xmlte>Más Recursos para Personas con ITIN</h4> <ul data-astro-cid-sz7xmlte> <li data-astro-cid-sz7xmlte> <a href="https://itinlending.net" data-astro-cid-sz7xmlte>Préstamos e Hipotecas ITIN</a> <span data-astro-cid-sz7xmlte>Préstamos de auto, personales y de negocio e hipotecas con ITIN</span> </li><li data-astro-cid-sz7xmlte> <a href="https://itincreditscore.com" data-astro-cid-sz7xmlte>Puntaje de Crédito con ITIN</a> <span data-astro-cid-sz7xmlte>Consulta, construye y mejora tu crédito con un ITIN</span> </li> </ul> </div> <div class="footer-disclaimer" data-astro-cid-sz7xmlte> <p data-astro-cid-sz7xmlte>
+&copy; 2026 ITINCreditCard.com, operado por Timberline Ventures LLC. Todos los derechos reservados.
+ITIN Credit Card es un recurso independiente de información y referencia. No
+          somos un banco, emisor de tarjetas ni organización de reparación de
+          crédito, y no tomamos decisiones de crédito ni emitimos tarjetas. La
+          información de este sitio tiene fines educativos generales y no
+          constituye asesoría financiera, legal ni fiscal. Los productos de
+          tarjetas de crédito y los términos de aprobación los establecen emisores
+          externos y están sujetos a su aprobación y a la ley aplicable. Podemos
+          recibir compensación cuando haces clic en ciertos enlaces o te
+          conectamos con un emisor, consulta nuestro
+<a href="/es/disclosure" data-astro-cid-sz7xmlte>Aviso para Anunciantes</a>.
+</p> <p class="fha-legal" data-astro-cid-sz7xmlte>
+* El programa de préstamo FHA con 3.5% de enganche es ofrecido por un
+          socio prestamista externo, no por ITIN Credit Card. No es una garantía de
+          aprobación, tasa ni condiciones. Todo financiamiento está sujeto a
+          suscripción del prestamista, aprobación crediticia, verificación de
+          ingresos y requisitos de elegibilidad del programa, los cuales varían
+          según el estado y pueden cambiar sin previo aviso.
+</p> </div> </div> </footer>  </body></html> 

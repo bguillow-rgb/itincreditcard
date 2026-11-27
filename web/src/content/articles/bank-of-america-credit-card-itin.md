@@ -17,7 +17,7 @@ relatedSlugs:
   - "credit-card-itin-apply-online-vs-in-branch"
   - "discover-credit-card-itin"
   - "itin-credit-card-bank-by-bank-application-guide"
-  - "citi-credit-card-itin"
+  - "apply-itin-credit-card-before-moving-to-us"
 faqs:
   - q: "Can I apply for a Bank of America credit card online with an ITIN?"
     a: "No. Bank of America's online application only accepts a Social Security number. ITIN holders must visit a local branch financial center in person to complete their application."
